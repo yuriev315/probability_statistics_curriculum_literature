@@ -1,0 +1,32 @@
+Status:
+EXCLUDED_OVER_100MIB_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Original download URL:
+https://huggingface.co/lerobot/smolvla_base/resolve/5e8d12a6e2975b0e5e5fce7c8caf47c371d257b6/policy_postprocessor_step_0_unnormalizer_processor.safetensors
+
+Repository:
+https://huggingface.co/lerobot/smolvla_base
+
+Filename:
+policy_postprocessor_step_0_unnormalizer_processor.safetensors
+
+Expected size:
+0.00 GB (640 bytes)
+
+SHA256:
+490ab239d96e263687c0b2e386a0afbc235a2eceb9857c36ed32f2f162a3e7c8
+
+Revision:
+5e8d12a6e2975b0e5e5fce7c8caf47c371d257b6
+
+License:
+apache-2.0
+
+Purpose:
+Smallest referenced model for projects: P-04
+
+URL validation:
+HTTP 302, size confirmed by server: 640, sha256 confirmed by server: yes, checked 2026-11-06T13:10:10Z
+
+Download instructions:
+hf download lerobot/smolvla_base policy_postprocessor_step_0_unnormalizer_processor.safetensors --revision 5e8d12a6e2975b0e5e5fce7c8caf47c371d257b6  # or: curl -L -C - -O 'https://huggingface.co/lerobot/smolvla_base/resolve/5e8d12a6e2975b0e5e5fce7c8caf47c371d257b6/policy_postprocessor_step_0_unnormalizer_processor.safetensors'

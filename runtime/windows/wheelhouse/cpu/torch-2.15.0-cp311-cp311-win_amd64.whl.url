@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_OVER_100MIB_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Original download URL:
+https://files.pythonhosted.org/packages/d1/7e/7f1252812e8048bc24f203fc0757a251f26af797b4ff986e19046e2b5f73/torch-2.15.0-cp311-cp311-win_amd64.whl
+
+Repository:
+https://pypi.org/project/torch
+
+Filename:
+torch-2.15.0-cp311-cp311-win_amd64.whl
+
+Expected size:
+0.13 GB (126720349 bytes)
+
+SHA256:
+d2c5938f593a47cf6d151a16d130a3cc3f0c105df1b905a571efc00b01e38c1f
+
+Revision:
+2.15.0
+
+License:
+Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND BSD-2-Clause AND BSD-3-Clause 
+
+URL validation:
+HTTP 206, size confirmed by server: 126720349, sha256 confirmed by server: no, checked 2026-11-06T13:09:32Z
+
+Download instructions:
+curl -L -C - -o "torch-2.15.0-cp311-cp311-win_amd64.whl" "https://files.pythonhosted.org/packages/d1/7e/7f1252812e8048bc24f203fc0757a251f26af797b4ff986e19046e2b5f73/torch-2.15.0-cp311-cp311-win_amd64.whl"  # then verify with: sha256sum

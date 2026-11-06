@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_OVER_100MIB_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Original download URL:
+https://download-r2.pytorch.org/whl/cpu/torch-2.4.1%2Bcpu-cp310-cp310-linux_x86_64.whl
+
+Repository:
+https://pypi.org/project/torch
+
+Filename:
+torch-2.4.1+cpu-cp310-cp310-linux_x86_64.whl
+
+Expected size:
+0.19 GB (194895169 bytes)
+
+SHA256:
+833490a28ac156762ed6adaa7c695879564fa2fd0dc51bcf3fdb2c7b47dc55e6
+
+Revision:
+2.4.1+cpu
+
+License:
+UNKNOWN
+
+URL validation:
+HTTP 206, size confirmed by server: 194895169, sha256 confirmed by server: no, checked 2026-11-06T13:09:28Z
+
+Download instructions:
+curl -L -C - -o "torch-2.4.1+cpu-cp310-cp310-linux_x86_64.whl" "https://download-r2.pytorch.org/whl/cpu/torch-2.4.1%2Bcpu-cp310-cp310-linux_x86_64.whl"  # then verify with: sha256sum

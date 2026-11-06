@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_LICENSE_RESTRICTED_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Reason:
+third-party file referenced by a project; licence not stated
+
+Original download URL:
+https://opencompass.oss-cn-shanghai.aliyuncs.com/datasets/data/aime.zip
+
+Repository:
+https://opencompass.oss-cn-shanghai.aliyuncs.com/datasets/data/aime.zip
+
+Filename:
+aime.zip
+
+Expected size:
+0.00 GB (4687 bytes)
+
+SHA256:
+9c728f959fd1d7f9167a1366dfdf54fad6e4845fc5e46b5be67cadbd97d71a81
+
+Revision:
+
+
+License:
+not stated
+
+Download instructions:
+curl -L -C - -o "aime.zip" "https://opencompass.oss-cn-shanghai.aliyuncs.com/datasets/data/aime.zip"  # then verify with: sha256sum

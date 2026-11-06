@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_OVER_100MIB_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Original download URL:
+https://files.pythonhosted.org/packages/82/d5/d345c030772d3493a51a8beb3e7f71b6f5e41742072db0cdbcd1461ea94e/warp_lang-1.19.0-py3-none-win_amd64.whl
+
+Repository:
+https://pypi.org/project/warp-lang
+
+Filename:
+warp_lang-1.19.0-py3-none-win_amd64.whl
+
+Expected size:
+0.13 GB (134934525 bytes)
+
+SHA256:
+bb4865dde4c2ae916d3d2a4e20ed1cd406e1d0a76ae722c3c574a9d43385c4d9
+
+Revision:
+1.19.0
+
+License:
+Apache-2.0
+
+URL validation:
+HTTP 206, size confirmed by server: 134934525, sha256 confirmed by server: no, checked 2026-11-06T13:09:57Z
+
+Download instructions:
+curl -L -C - -o "warp_lang-1.19.0-py3-none-win_amd64.whl" "https://files.pythonhosted.org/packages/82/d5/d345c030772d3493a51a8beb3e7f71b6f5e41742072db0cdbcd1461ea94e/warp_lang-1.19.0-py3-none-win_amd64.whl"  # then verify with: sha256sum

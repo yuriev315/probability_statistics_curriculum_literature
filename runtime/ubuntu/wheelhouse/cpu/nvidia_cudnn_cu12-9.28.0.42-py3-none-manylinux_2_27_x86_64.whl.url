@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_OVER_100MIB_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Original download URL:
+https://files.pythonhosted.org/packages/ce/64/56ce3cad192cc75b50da3be44e36741ba963c84d3d2ca10aaa5ec16c49c3/nvidia_cudnn_cu12-9.28.0.42-py3-none-manylinux_2_27_x86_64.whl
+
+Repository:
+https://pypi.org/project/nvidia-cudnn-cu12
+
+Filename:
+nvidia_cudnn_cu12-9.28.0.42-py3-none-manylinux_2_27_x86_64.whl
+
+Expected size:
+0.72 GB (716538495 bytes)
+
+SHA256:
+9ff58b7f36dacd0a93e89f8f2957b52466889217963701daa15e577317cfa375
+
+Revision:
+9.28.0.42
+
+License:
+UNKNOWN
+
+URL validation:
+HTTP 206, size confirmed by server: 716538495, sha256 confirmed by server: no, checked 2026-11-06T13:09:40Z
+
+Download instructions:
+curl -L -C - -o "nvidia_cudnn_cu12-9.28.0.42-py3-none-manylinux_2_27_x86_64.whl" "https://files.pythonhosted.org/packages/ce/64/56ce3cad192cc75b50da3be44e36741ba963c84d3d2ca10aaa5ec16c49c3/nvidia_cudnn_cu12-9.28.0.42-py3-none-manylinux_2_27_x86_64.whl"  # then verify with: sha256sum

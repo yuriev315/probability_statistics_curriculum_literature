@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_OVER_100MIB_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Original download URL:
+https://files.pythonhosted.org/packages/12/46/b0fd4b04f86577921feb97d8e2cf028afe04f614d17fb5013de9282c9216/nvidia_cusparse_cu12-12.5.10.65-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+
+Repository:
+https://pypi.org/project/nvidia-cusparse-cu12
+
+Filename:
+nvidia_cusparse_cu12-12.5.10.65-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+
+Expected size:
+0.37 GB (366465088 bytes)
+
+SHA256:
+73060ce019ac064a057267c585bf1fd5a353734151f87472ff02b2c5c9984e78
+
+Revision:
+12.5.10.65
+
+License:
+LicenseRef-NVIDIA-Proprietary
+
+URL validation:
+HTTP 206, size confirmed by server: 366465088, sha256 confirmed by server: no, checked 2026-11-06T13:09:40Z
+
+Download instructions:
+curl -L -C - -o "nvidia_cusparse_cu12-12.5.10.65-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl" "https://files.pythonhosted.org/packages/12/46/b0fd4b04f86577921feb97d8e2cf028afe04f614d17fb5013de9282c9216/nvidia_cusparse_cu12-12.5.10.65-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl"  # then verify with: sha256sum

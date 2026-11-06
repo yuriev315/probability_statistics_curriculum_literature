@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_LICENSE_RESTRICTED_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Reason:
+licence terms do not allow public redistribution (proprietary, or all rights reserved)
+
+Original download URL:
+https://files.pythonhosted.org/packages/20/1a/a418b8c1adc58abd87fd69414c19883af5c1b10514e3dbfcc27cde831b13/nvidia_mathdx-25.6.0-py3-none-any.whl
+
+Repository:
+https://pypi.org/project/nvidia-mathdx
+
+Filename:
+nvidia_mathdx-25.6.0-py3-none-any.whl
+
+Expected size:
+0.02 GB (23013087 bytes)
+
+SHA256:
+22e6ad5d0d005f836be5cbd14e836cf2e9ea42c82deb602707246ce8198eaa96
+
+Revision:
+25.6.0
+
+License:
+LICENSE AGREEMENT FOR NVIDIA MATH LIBRARIES SOFTWARE DEVELOPMENT KITS  This lice
+
+Download instructions:
+curl -L -C - -o "nvidia_mathdx-25.6.0-py3-none-any.whl" "https://files.pythonhosted.org/packages/20/1a/a418b8c1adc58abd87fd69414c19883af5c1b10514e3dbfcc27cde831b13/nvidia_mathdx-25.6.0-py3-none-any.whl"  # then verify with: sha256sum

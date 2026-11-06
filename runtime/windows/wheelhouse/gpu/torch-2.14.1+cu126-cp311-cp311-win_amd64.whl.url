@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_OVER_100MIB_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Original download URL:
+https://download-r2.pytorch.org/whl/cu126/torch-2.14.1%2Bcu126-cp311-cp311-win_amd64.whl
+
+Repository:
+https://pypi.org/project/torch
+
+Filename:
+torch-2.14.1+cu126-cp311-cp311-win_amd64.whl
+
+Expected size:
+2.60 GB (2602753280 bytes)
+
+SHA256:
+4cff57ddd28c8bdf8bf2fc473f149c1b5f0063b1a6bd57593288e0bf18459adb
+
+Revision:
+2.14.1+cu126
+
+License:
+UNKNOWN
+
+URL validation:
+HTTP 206, size confirmed by server: 2602753280, sha256 confirmed by server: no, checked 2026-11-06T13:09:32Z
+
+Download instructions:
+curl -L -C - -o "torch-2.14.1+cu126-cp311-cp311-win_amd64.whl" "https://download-r2.pytorch.org/whl/cu126/torch-2.14.1%2Bcu126-cp311-cp311-win_amd64.whl"  # then verify with: sha256sum

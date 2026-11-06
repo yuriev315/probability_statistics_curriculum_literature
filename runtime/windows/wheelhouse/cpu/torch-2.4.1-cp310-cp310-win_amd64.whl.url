@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_OVER_100MIB_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Original download URL:
+https://files.pythonhosted.org/packages/5d/4c/b2a59ff0e265f5ee154f0d81e948b1518b94f545357731e1a3245ee5d45b/torch-2.4.1-cp310-cp310-win_amd64.whl
+
+Repository:
+https://pypi.org/project/torch
+
+Filename:
+torch-2.4.1-cp310-cp310-win_amd64.whl
+
+Expected size:
+0.20 GB (199433813 bytes)
+
+SHA256:
+91e326e2ccfb1496e3bee58f70ef605aeb27bd26be07ba64f37dcaac3d070ada
+
+Revision:
+2.4.1
+
+License:
+BSD-3
+
+URL validation:
+HTTP 206, size confirmed by server: 199433813, sha256 confirmed by server: no, checked 2026-11-06T13:09:26Z
+
+Download instructions:
+curl -L -C - -o "torch-2.4.1-cp310-cp310-win_amd64.whl" "https://files.pythonhosted.org/packages/5d/4c/b2a59ff0e265f5ee154f0d81e948b1518b94f545357731e1a3245ee5d45b/torch-2.4.1-cp310-cp310-win_amd64.whl"  # then verify with: sha256sum

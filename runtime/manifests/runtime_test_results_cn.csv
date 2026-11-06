@@ -1,0 +1,6 @@
+﻿编号,平台,Python,测试,结果,说明
+P-01,Ubuntu x86_64,3.11,离线安装基础依赖 + pip check,通过,离线安装（--no-index）成功，pip check 无冲突；未导入、未运行项目代码
+P-05,Ubuntu x86_64,3.11,离线安装基础依赖 + pip check,通过,离线安装（--no-index）成功，pip check 无冲突；未导入、未运行项目代码
+P-06,Ubuntu x86_64,3.11,离线安装基础依赖 + pip check,通过,离线安装（--no-index）成功，pip check 无冲突；未导入、未运行项目代码
+P-07,Ubuntu x86_64,3.11,离线安装基础依赖 + pip check,通过,离线安装（--no-index）成功，pip check 无冲突；未导入、未运行项目代码
+P-20,Ubuntu x86_64,3.11,离线安装基础依赖 + pip check,通过,离线安装（--no-index）成功，pip check 无冲突；未导入、未运行项目代码

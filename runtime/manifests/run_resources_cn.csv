@@ -1,0 +1,9 @@
+﻿类型,仓库,许可,可再分发,已下载文件,.url 文件
+model,Qwen/Qwen2-0.5B-Instruct,apache-2.0,是,8,1
+model,Qwen/Qwen3-0.6B,apache-2.0,是,8,1
+model,lerobot/smolvla_base,apache-2.0,是,6,3
+dataset,HuggingFaceH4/Multilingual-Thinking,apache-2.0,是,2,0
+dataset,openai/gsm8k,mit,是,5,0
+dataset,Anthropic/hh-rlhf,mit,是,10,0
+dataset,cleanrl/benchmark,UNKNOWN,否,0,0
+model,Qwen/Qwen2.5-VL-7B-Instruct,apache-2.0,是,10,5

@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_OVER_100MIB_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Original download URL:
+https://files.pythonhosted.org/packages/95/f4/61e6996dd20481ee834f57a8e9dca28b1869366a135e0d42e2aa8493bdd4/nvidia_cufft_cu12-11.4.1.4-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+
+Repository:
+https://pypi.org/project/nvidia-cufft-cu12
+
+Filename:
+nvidia_cufft_cu12-11.4.1.4-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+
+Expected size:
+0.20 GB (200877592 bytes)
+
+SHA256:
+c67884f2a7d276b4b80eb56a79322a95df592ae5e765cf1243693365ccab4e28
+
+Revision:
+11.4.1.4
+
+License:
+LicenseRef-NVIDIA-Proprietary
+
+URL validation:
+HTTP 206, size confirmed by server: 200877592, sha256 confirmed by server: no, checked 2026-11-06T13:09:40Z
+
+Download instructions:
+curl -L -C - -o "nvidia_cufft_cu12-11.4.1.4-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl" "https://files.pythonhosted.org/packages/95/f4/61e6996dd20481ee834f57a8e9dca28b1869366a135e0d42e2aa8493bdd4/nvidia_cufft_cu12-11.4.1.4-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl"  # then verify with: sha256sum

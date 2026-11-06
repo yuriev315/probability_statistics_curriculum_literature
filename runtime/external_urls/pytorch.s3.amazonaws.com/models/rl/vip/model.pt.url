@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_LICENSE_RESTRICTED_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Reason:
+third-party file referenced by a project; licence not stated
+
+Original download URL:
+https://pytorch.s3.amazonaws.com/models/rl/vip/model.pt
+
+Repository:
+https://pytorch.s3.amazonaws.com/models/rl/vip/model.pt
+
+Filename:
+model.pt
+
+Expected size:
+0.10 GB (102748929 bytes)
+
+SHA256:
+e84b1ff024a4e9d9925833cf71f866d1e8d888926c757136ab65ead75edc342b
+
+Revision:
+
+
+License:
+not stated
+
+Download instructions:
+curl -L -C - -o "model.pt" "https://pytorch.s3.amazonaws.com/models/rl/vip/model.pt"  # then verify with: sha256sum

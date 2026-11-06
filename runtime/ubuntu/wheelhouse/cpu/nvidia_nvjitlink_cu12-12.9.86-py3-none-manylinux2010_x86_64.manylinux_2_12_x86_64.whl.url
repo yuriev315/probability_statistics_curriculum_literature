@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_LICENSE_RESTRICTED_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Reason:
+licence terms do not allow public redistribution (proprietary, or all rights reserved)
+
+Original download URL:
+https://files.pythonhosted.org/packages/46/0c/c75bbfb967457a0b7670b8ad267bfc4fffdf341c074e0a80db06c24ccfd4/nvidia_nvjitlink_cu12-12.9.86-py3-none-manylinux2010_x86_64.manylinux_2_12_x86_64.whl
+
+Repository:
+https://pypi.org/project/nvidia-nvjitlink-cu12
+
+Filename:
+nvidia_nvjitlink_cu12-12.9.86-py3-none-manylinux2010_x86_64.manylinux_2_12_x86_64.whl
+
+Expected size:
+0.04 GB (39748338 bytes)
+
+SHA256:
+e3f1171dbdc83c5932a45f0f4c99180a70de9bd2718c1ab77d14104f6d7147f9
+
+Revision:
+12.9.86
+
+License:
+LicenseRef-NVIDIA-Proprietary
+
+Download instructions:
+curl -L -C - -o "nvidia_nvjitlink_cu12-12.9.86-py3-none-manylinux2010_x86_64.manylinux_2_12_x86_64.whl" "https://files.pythonhosted.org/packages/46/0c/c75bbfb967457a0b7670b8ad267bfc4fffdf341c074e0a80db06c24ccfd4/nvidia_nvjitlink_cu12-12.9.86-py3-none-manylinux2010_x86_64.manylinux_2_12_x86_64.whl"  # then verify with: sha256sum

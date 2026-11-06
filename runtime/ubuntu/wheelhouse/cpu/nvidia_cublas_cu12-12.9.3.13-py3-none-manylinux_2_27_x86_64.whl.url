@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_OVER_100MIB_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Original download URL:
+https://files.pythonhosted.org/packages/7b/ea/9b6c36aef90766eebb4763aded157039e797ae9789c9c216e960d1d3cd47/nvidia_cublas_cu12-12.9.3.13-py3-none-manylinux_2_27_x86_64.whl
+
+Repository:
+https://pypi.org/project/nvidia-cublas-cu12
+
+Filename:
+nvidia_cublas_cu12-12.9.3.13-py3-none-manylinux_2_27_x86_64.whl
+
+Expected size:
+0.58 GB (581217458 bytes)
+
+SHA256:
+d7d51055f161b317c7105ddaae90e71eda059026074ffef93cf7cde2886bfe72
+
+Revision:
+12.9.3.13
+
+License:
+LicenseRef-NVIDIA-Proprietary
+
+URL validation:
+HTTP 206, size confirmed by server: 581217458, sha256 confirmed by server: no, checked 2026-11-06T13:09:40Z
+
+Download instructions:
+curl -L -C - -o "nvidia_cublas_cu12-12.9.3.13-py3-none-manylinux_2_27_x86_64.whl" "https://files.pythonhosted.org/packages/7b/ea/9b6c36aef90766eebb4763aded157039e797ae9789c9c216e960d1d3cd47/nvidia_cublas_cu12-12.9.3.13-py3-none-manylinux_2_27_x86_64.whl"  # then verify with: sha256sum

@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_LICENSE_RESTRICTED_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Reason:
+licence terms do not allow public redistribution (proprietary, or all rights reserved)
+
+Original download URL:
+https://files.pythonhosted.org/packages/b8/85/e4af82cc9202023862090bfca4ea827d533329e925c758f0cde964cb54b7/nvidia_cuda_nvrtc_cu12-12.9.86-py3-none-manylinux2010_x86_64.manylinux_2_12_x86_64.whl
+
+Repository:
+https://pypi.org/project/nvidia-cuda-nvrtc-cu12
+
+Filename:
+nvidia_cuda_nvrtc_cu12-12.9.86-py3-none-manylinux2010_x86_64.manylinux_2_12_x86_64.whl
+
+Expected size:
+0.09 GB (89568129 bytes)
+
+SHA256:
+210cf05005a447e29214e9ce50851e83fc5f4358df8b453155d5e1918094dcb4
+
+Revision:
+12.9.86
+
+License:
+LicenseRef-NVIDIA-Proprietary
+
+Download instructions:
+curl -L -C - -o "nvidia_cuda_nvrtc_cu12-12.9.86-py3-none-manylinux2010_x86_64.manylinux_2_12_x86_64.whl" "https://files.pythonhosted.org/packages/b8/85/e4af82cc9202023862090bfca4ea827d533329e925c758f0cde964cb54b7/nvidia_cuda_nvrtc_cu12-12.9.86-py3-none-manylinux2010_x86_64.manylinux_2_12_x86_64.whl"  # then verify with: sha256sum

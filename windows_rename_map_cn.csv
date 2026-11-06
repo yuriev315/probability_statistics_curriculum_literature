@@ -1,0 +1,14 @@
+﻿变更类型,原相对路径,发布包内相对路径,说明
+Windows 改名,"projects/google_deepmind_open_spiel_en/open_spiel/integration_tests/playthroughs/repeated_poker(max_num_hands=10,reset_stacks=True,rotate_dealer=True,universal_poker_game_string=universal_poker(betting=nolimit,bettingAbstraction=fullgame,blind=100","projects/google_deepmind_open_spiel_en/open_spiel/integration_tests/playthroughs/repeated_poker(max_num_hands=10,reset_st_33f7156e96",文件名含 Windows 不允许的字符或路径过长，已改名；内容不变
+离线化新增,,_offline_libs/mathjax-3.2.2/,MathJax 3.2.2（Apache-2.0）本地副本，供说明文档的 HTML 版本离线显示公式
+离线化新增,,README_cn.html,README_cn.md 的 HTML 版本（浏览器直接打开，链接可离线跳转）
+离线化新增,,search_log_cn.html,search_log_cn.md 的 HTML 版本（浏览器直接打开，链接可离线跳转）
+离线化新增,,guides/algorithms_map_cn.html,guides/algorithms_map_cn.md 的 HTML 版本（浏览器直接打开，链接可离线跳转）
+离线化新增,,guides/applications_deployment_cn.html,guides/applications_deployment_cn.md 的 HTML 版本（浏览器直接打开，链接可离线跳转）
+离线化新增,,guides/core_reading_list_cn.html,guides/core_reading_list_cn.md 的 HTML 版本（浏览器直接打开，链接可离线跳转）
+离线化新增,,guides/foundations_path_cn.html,guides/foundations_path_cn.md 的 HTML 版本（浏览器直接打开，链接可离线跳转）
+离线化新增,,guides/implementation_path_cn.html,guides/implementation_path_cn.md 的 HTML 版本（浏览器直接打开，链接可离线跳转）
+离线化新增,,guides/llm_rl_path_cn.html,guides/llm_rl_path_cn.md 的 HTML 版本（浏览器直接打开，链接可离线跳转）
+离线化新增,,guides/offline_and_evaluation_cn.html,guides/offline_and_evaluation_cn.md 的 HTML 版本（浏览器直接打开，链接可离线跳转）
+离线化新增,,guides/theory_path_cn.html,guides/theory_path_cn.md 的 HTML 版本（浏览器直接打开，链接可离线跳转）
+离线化新增,,index_cn.html,离线首页：指南、登记文件和 206 条目录条目的本地链接

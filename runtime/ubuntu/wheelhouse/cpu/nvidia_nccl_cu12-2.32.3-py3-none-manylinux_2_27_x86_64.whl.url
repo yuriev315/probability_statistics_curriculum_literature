@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_OVER_100MIB_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Original download URL:
+https://files.pythonhosted.org/packages/f3/f8/9dce3698eed6fae28078eb38f748feb1665767693d8017c099de9fbf0b08/nvidia_nccl_cu12-2.32.3-py3-none-manylinux_2_27_x86_64.whl
+
+Repository:
+https://pypi.org/project/nvidia-nccl-cu12
+
+Filename:
+nvidia_nccl_cu12-2.32.3-py3-none-manylinux_2_27_x86_64.whl
+
+Expected size:
+0.35 GB (351526311 bytes)
+
+SHA256:
+bb94b2348e4861d5e8aa00b36c3d12d9bdf9c6369b82cbb723de0b582280a21c
+
+Revision:
+2.32.3
+
+License:
+UNKNOWN
+
+URL validation:
+HTTP 206, size confirmed by server: 351526311, sha256 confirmed by server: no, checked 2026-11-06T13:09:41Z
+
+Download instructions:
+curl -L -C - -o "nvidia_nccl_cu12-2.32.3-py3-none-manylinux_2_27_x86_64.whl" "https://files.pythonhosted.org/packages/f3/f8/9dce3698eed6fae28078eb38f748feb1665767693d8017c099de9fbf0b08/nvidia_nccl_cu12-2.32.3-py3-none-manylinux_2_27_x86_64.whl"  # then verify with: sha256sum

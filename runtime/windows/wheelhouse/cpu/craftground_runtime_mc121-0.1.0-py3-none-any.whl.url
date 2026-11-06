@@ -1,0 +1,31 @@
+Status:
+EXCLUDED_LICENSE_RESTRICTED_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Reason:
+licence terms do not allow public redistribution (proprietary, or all rights reserved)
+
+Original download URL:
+https://files.pythonhosted.org/packages/4b/2f/d1fb60a2c882807140a0bc24b1f39fb709b1a33e8fa87e94e07752ccca8f/craftground_runtime_mc121-0.1.0-py3-none-any.whl
+
+Repository:
+https://pypi.org/project/craftground-runtime-mc121
+
+Filename:
+craftground_runtime_mc121-0.1.0-py3-none-any.whl
+
+Expected size:
+0.00 GB (474298 bytes)
+
+SHA256:
+5255fbfc5eff1cdbf80e68b834e5ecaebd69c7953d756a2148485f6392c46d5d
+
+Revision:
+0.1.0
+
+License:
+Copyright (c) 2023 
+        All rights reserved.
+        
+
+Download instructions:
+curl -L -C - -o "craftground_runtime_mc121-0.1.0-py3-none-any.whl" "https://files.pythonhosted.org/packages/4b/2f/d1fb60a2c882807140a0bc24b1f39fb709b1a33e8fa87e94e07752ccca8f/craftground_runtime_mc121-0.1.0-py3-none-any.whl"  # then verify with: sha256sum

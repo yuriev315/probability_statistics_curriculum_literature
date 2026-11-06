@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_OVER_100MIB_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Original download URL:
+https://files.pythonhosted.org/packages/65/65/18d0871f353eb170b0b9c562cd65f6ab9619b6e7b8aaecea9709e9ad16a6/triton-3.8.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl
+
+Repository:
+https://pypi.org/project/triton
+
+Filename:
+triton-3.8.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl
+
+Expected size:
+0.25 GB (247838081 bytes)
+
+SHA256:
+6d914c52f89dc942b1819db959e7c07a5999f678ec760f677625c706b7e0d743
+
+Revision:
+3.8.0
+
+License:
+MIT
+
+URL validation:
+HTTP 206, size confirmed by server: 247838081, sha256 confirmed by server: no, checked 2026-11-06T13:09:35Z
+
+Download instructions:
+curl -L -C - -o "triton-3.8.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl" "https://files.pythonhosted.org/packages/65/65/18d0871f353eb170b0b9c562cd65f6ab9619b6e7b8aaecea9709e9ad16a6/triton-3.8.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl"  # then verify with: sha256sum

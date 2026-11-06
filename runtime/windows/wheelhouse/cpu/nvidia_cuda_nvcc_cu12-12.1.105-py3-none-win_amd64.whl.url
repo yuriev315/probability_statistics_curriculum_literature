@@ -1,0 +1,29 @@
+Status:
+EXCLUDED_LICENSE_RESTRICTED_URL_PLACEHOLDER (placeholder only - the file itself is NOT in this archive)
+
+Reason:
+licence terms do not allow public redistribution (proprietary, or all rights reserved)
+
+Original download URL:
+https://files.pythonhosted.org/packages/fc/d8/c32d44063f58a38643392a737b281f22d04543410147d2c9bcd6a68f236c/nvidia_cuda_nvcc_cu12-12.1.105-py3-none-win_amd64.whl
+
+Repository:
+https://pypi.org/project/nvidia-cuda-nvcc-cu12
+
+Filename:
+nvidia_cuda_nvcc_cu12-12.1.105-py3-none-win_amd64.whl
+
+Expected size:
+0.02 GB (15992470 bytes)
+
+SHA256:
+87079d62e4507c7f60d355752edaceeaa2de762f69d8c914634655b6115f20af
+
+Revision:
+12.1.105
+
+License:
+NVIDIA Proprietary Software
+
+Download instructions:
+curl -L -C - -o "nvidia_cuda_nvcc_cu12-12.1.105-py3-none-win_amd64.whl" "https://files.pythonhosted.org/packages/fc/d8/c32d44063f58a38643392a737b281f22d04543410147d2c9bcd6a68f236c/nvidia_cuda_nvcc_cu12-12.1.105-py3-none-win_amd64.whl"  # then verify with: sha256sum
