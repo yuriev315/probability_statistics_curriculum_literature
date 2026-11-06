@@ -1,0 +1,16 @@
+{
+ "id": "2601.14199",
+ "title": "Factor Analysis of Multivariate Stochastic Volatility Model",
+ "authors": [
+  "Taehee Lee",
+  "Jun S. Liu"
+ ],
+ "v1_date": "2026-01-20",
+ "latest_version": 1,
+ "latest_date": "2026-01-20",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "Submitted to Journal of the American Statistical Association (JASA)",
+ "abstract": "Modeling the time-varying covariance structures of high-dimensional variables is critical across diverse scientific and industrial applications; however, existing approaches exhibit notable limitations in either modeling flexibility or inferential efficiency. For instance, change-point modeling fails to account for the continuous time-varying nature of covariance structures, while GARCH and stochastic volatility models suffer from over-parameterization and the risk of overfitting. To address these challenges, we propose a Bayesian factor modeling framework designed to enable simultaneous inference of both the covariance structure of a high-dimensional time series and its time-varying dynamics. The associated Expectation-Maximization (EM) algorithm not only features an exact, closed-form update for the M-step but also is easily generalizable to more complex settings, such as spatiotemporal multivariate factor analysis. We validate our method through simulation studies and real-data experiments using climate and financial datasets.",
+ "primary": "stat.ME"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "2402.12710",
+ "title": "Integrating Active Learning in Causal Inference with Interference: A Novel Approach in Online Experiments",
+ "authors": [
+  "Hongtao Zhu",
+  "Sizhe Zhang",
+  "Yang Su",
+  "Zhenyu Zhao",
+  "Nan Chen"
+ ],
+ "v1_date": "2024-02-20",
+ "latest_version": 1,
+ "latest_date": "2024-02-20",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "conference paper",
+ "abstract": "In the domain of causal inference research, the prevalent potential outcomes framework, notably the Rubin Causal Model (RCM), often overlooks individual interference and assumes independent treatment effects. This assumption, however, is frequently misaligned with the intricate realities of real-world scenarios, where interference is not merely a possibility but a common occurrence. Our research endeavors to address this discrepancy by focusing on the estimation of direct and spillover treatment effects under two assumptions: (1) network-based interference, where treatments on neighbors within connected networks affect one's outcomes, and (2) non-random treatment assignments influenced by confounders. To improve the efficiency of estimating potentially complex effects functions, we introduce an novel active learning approach: Active Learning in Causal Inference with Interference (ACI). This approach uses Gaussian process to flexibly model the direct and spillover treatment effects as a function of a continuous measure of neighbors' treatment assignment. The ACI framework sequentially identifies the experimental settings that demand further data. It further optimizes the treatment assignments under the network interference structure using genetic algorithms to achieve efficient learning outcome. By applying our method to simulation data and a Tencent game dataset, we demonstrate its feasibility in achieving accurate effects estimations with reduced data requirements. This ACI approach marks a significant advancement in the realm of data efficiency for causal inference, offering a robust and efficient alternative to traditional methodologies, particularly in scenarios characterized by complex interference patterns.",
+ "primary": "stat.ME"
+}

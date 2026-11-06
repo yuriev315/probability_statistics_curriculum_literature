@@ -1,0 +1,20 @@
+{
+ "id": "2605.03693",
+ "title": "A new framework for non-stationary spatio-temporal data fusion of multi-fidelity models",
+ "authors": [
+  "Pietro Colombo",
+  "Fabio Sigrist",
+  "Claire Miller",
+  "Ruth O'Donnell",
+  "Xiaochen Yang",
+  "Paolo Maranzano"
+ ],
+ "v1_date": "2026-05-05",
+ "latest_version": 1,
+ "latest_date": "2026-05-05",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We propose a new scalable framework for spatio-temporal data fusion with multi-fidelity Gaussian processes (MFGPs) that enables fully likelihood-based inference for both stationary and non-stationary fidelity integration. The framework is designed for environmental applications, where abundant but noisy low-fidelity data (e.g., satellite or reanalysis products) must be fused with sparse yet accurate high-fidelity in-situ observations to obtain high-resolution reconstructions. Our key methodological contribution is a decomposed multi-fidelity covariance formulation that allows the Vecchia approximation to be applied directly to the latent low-fidelity and discrepancy processes. Combined with a Woodbury-based reconstruction, this yields a numerically stable and computationally efficient evaluation of the joint marginal likelihood without ever forming the full multi-fidelity covariance matrix. In addition, we introduce a generalized least squares (GLS) mean-removal strategy with fidelity-specific offsets, preventing systematic biases from being absorbed into cross-fidelity dependence. We validate the proposed approach through extensive experiments on synthetic data and a large-scale real-world application to wind speed reconstruction in the Lombardy region of Italy. The results show that the proposed Vecchia-based MFGP closely matches exact multi-fidelity inference in controlled settings, while substantially outperforming standard single-fidelity spatio-temporal Gaussian processes in terms of predictive accuracy, correlation, and representation of local variability in realistic large-data scenarios.",
+ "primary": "stat.CO"
+}

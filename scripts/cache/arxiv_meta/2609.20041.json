@@ -1,0 +1,19 @@
+{
+ "id": "2609.20041",
+ "title": "Parameter Estimation for the Mixed Fractional Merton Jump Diffusion Model with EM Algorithm",
+ "authors": [
+  "Chidiogo Joy Agboeke",
+  "Hamidreza Maleki Almani",
+  "Dario Gasbarra",
+  "Foad Shokrollahi",
+  "Tommi Sottinen"
+ ],
+ "v1_date": "2026-09-17",
+ "latest_version": 1,
+ "latest_date": "2026-09-17",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "22 pages, six figures",
+ "abstract": "This paper proposes an Expectation--Maximization algorithm with Metropolis--Hastings sampling for parameter estimation in a Mixed Fractional Merton Jump Diffusion model. The model combines fractional Brownian motion to capture long-range dependence with a compound Poisson jump process to describe abrupt movements in financial returns. The latent jump process is inferred during the E-step using Markov Chain Monte Carlo sampling, while the M-step updates the model parameters by maximizing the expected complete-data likelihood. The consistency and asymptotic normality of the proposed estimator are established under suitable regularity conditions. The methodology is applied to the Helsinki Stock Index (OMXH25). The proposed estimation framework provides a reliable and computationally efficient approach for modeling financial time series exhibiting both long-memory dependence and jump behavior.",
+ "primary": "stat.ME"
+}

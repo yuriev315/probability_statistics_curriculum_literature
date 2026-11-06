@@ -1,0 +1,17 @@
+{
+ "id": "2605.07300",
+ "title": "A Beta-GAM Hidden Markov Model for Proportion Time Series",
+ "authors": [
+  "Andrea Nigri",
+  "Han Lin Shang",
+  "Marco Bonetti"
+ ],
+ "v1_date": "2026-05-08",
+ "latest_version": 1,
+ "latest_date": "2026-05-08",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We propose a hidden Markov model for univariate proportion time series taking values in (0,1), where regime switching captures latent structural changes and the emission distribution belongs to the Beta family. In each latent state, the Beta mean is linked to covariates through a generalized additive model (GAM) with spline-based smooth functions, while the Beta precision is state-specific, enabling flexible modeling of both nonlinear covariate effects and regime-dependent variability. Estimation is carried out via a penalized expectation--maximization algorithm, combining smoothing with numerical maximization of the penalized emission likelihood. To select the number of latent states and the smoothing penalty, we implement a grid search guided by standard information criteria (Akaike Information Criterion/Bayesian Information Criterion/Integrated Completed Likelihood) with a diagnostic filter that removes degenerate solutions characterized by explosive precision estimates. Uncertainty is quantified through a parametric bootstrap procedure for transition probabilities and state-dependent parameters. Simulation results demonstrate accurate recovery of transition dynamics, state precisions, and latent-state decoding. A motivating application to Russian age-specific mortality data (1960--2014, ages 0--40) illustrates how the proposed model summarizes smooth age patterns in female-to-total mortality ratios while identifying two persistent latent regimes that admit a substantive demographic interpretation in light of the country's well-documented mortality shocks that occurred over the second half of the twentieth century.",
+ "primary": "stat.ME"
+}

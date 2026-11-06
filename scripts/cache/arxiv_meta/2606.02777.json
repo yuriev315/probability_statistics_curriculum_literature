@@ -1,0 +1,17 @@
+{
+ "id": "2606.02777",
+ "title": "Emulators for Large-scale Computer Experiments with Quantitative and Qualitative Inputs",
+ "authors": [
+  "Anita Shahrokhian",
+  "Youngdeok Hwang",
+  "C. Devon Lin"
+ ],
+ "v1_date": "2026-06-01",
+ "latest_version": 1,
+ "latest_date": "2026-06-01",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Computer experiments with both quantitative and qualitative inputs have become common across various areas. However, constructing accurate and computationally efficient emulators for such experiments at large scales remains a significant challenge. We propose a novel, scalable framework for emulating computer experiments with mixed inputs. Our approach is based on a new covariance function integrating additive Gaussian Processes (GPs) to handle the mixed inputs, with Vecchia approximation for scalability. We demonstrate that methods for large-scale computer experiments can be effectively extended when paired with our proposed modeling framework.",
+ "primary": "stat.CO"
+}

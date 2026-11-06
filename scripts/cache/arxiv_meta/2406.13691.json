@@ -1,0 +1,17 @@
+{
+ "id": "2406.13691",
+ "title": "Computationally efficient multi-level Gaussian process regression for functional data observed under completely or partially regular sampling designs",
+ "authors": [
+  "Adam Gorm Hoffmann",
+  "Claus Thorn Ekstrøm",
+  "Andreas Kryger Jensen"
+ ],
+ "v1_date": "2024-06-19",
+ "latest_version": 2,
+ "latest_date": "2024-08-07",
+ "journal_ref": "TEST 35 (2026) 211-231",
+ "doi": "10.1007/s11749-025-00996-4",
+ "comment": "48 pages, 3 figures; Figure 1 corrected",
+ "abstract": "Gaussian process regression is a frequently used statistical method for flexible yet fully probabilistic non-linear regression modeling. A common obstacle is its computational complexity which scales poorly with the number of observations. This is especially an issue when applying Gaussian process models to multiple functions simultaneously in various applications of functional data analysis. We consider a multi-level Gaussian process regression model where a common mean function and individual subject-specific deviations are modeled simultaneously as latent Gaussian processes. We derive exact analytic and computationally efficient expressions for the log-likelihood function and the posterior distributions in the case where the observations are sampled on either a completely or partially regular grid. This enables us to fit the model to large data sets that are currently computationally inaccessible using a standard implementation. We show through a simulation study that our analytic expressions are several orders of magnitude faster compared to a standard implementation, and we provide an implementation in the probabilistic programming language Stan.",
+ "primary": "stat.ME"
+}

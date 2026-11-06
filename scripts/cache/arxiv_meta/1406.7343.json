@@ -1,0 +1,18 @@
+{
+ "id": "1406.7343",
+ "title": "Hierarchical Nearest-Neighbor Gaussian Process Models for Large Geostatistical Datasets",
+ "authors": [
+  "Abhirup Datta",
+  "Sudipto Banerjee",
+  "Andrew O. Finley",
+  "Alan E. Gelfand"
+ ],
+ "v1_date": "2014-06-28",
+ "latest_version": 2,
+ "latest_date": "2016-01-01",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Spatial process models for analyzing geostatistical data entail computations that become prohibitive as the number of spatial locations become large. This manuscript develops a class of highly scalable Nearest Neighbor Gaussian Process (NNGP) models to provide fully model-based inference for large geostatistical datasets. We establish that the NNGP is a well-defined spatial process providing legitimate finite-dimensional Gaussian densities with sparse precision matrices. We embed the NNGP as a sparsity-inducing prior within a rich hierarchical modeling framework and outline how computationally efficient Markov chain Monte Carlo (MCMC) algorithms can be executed without storing or decomposing large matrices. The floating point operations (flops) per iteration of this algorithm is linear in the number of spatial locations, thereby rendering substantial scalability. We illustrate the computational and inferential benefits of the NNGP over competing methods using simulation studies and also analyze forest biomass from a massive United States Forest Inventory dataset at a scale that precludes alternative dimension-reducing methods.",
+ "primary": "stat.ME"
+}

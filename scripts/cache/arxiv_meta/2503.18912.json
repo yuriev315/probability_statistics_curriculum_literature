@@ -1,0 +1,18 @@
+{
+ "id": "2503.18912",
+ "title": "Causal Links Between Anthropogenic Emissions and Air Pollution Dynamics in Delhi",
+ "authors": [
+  "Sourish Das",
+  "Sudeep Shukla",
+  "Alka Yadav",
+  "Anirban Chakraborti"
+ ],
+ "v1_date": "2025-03-24",
+ "latest_version": 1,
+ "latest_date": "2025-03-24",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "16 pages, 10 figures",
+ "abstract": "Air pollution poses significant health and environmental challenges, particularly in rapidly urbanizing regions. Delhi-National Capital Region experiences air pollution episodes due to complex interactions between anthropogenic emissions and meteorological conditions. Understanding the causal drivers of key pollutants such as $PM_{2.5}$ and ground $O_3$ is crucial for developing effective mitigation strategies. This study investigates the causal links of anthropogenic emissions on $PM_{2.5}$ and $O_3$ concentrations using predictive modeling and causal inference techniques. Integrating high-resolution air quality data from Jan 2018 to Aug 2023 across 32 monitoring stations, we develop predictive regression models that incorporate meteorological variables (temperature and relative humidity), pollutant concentrations ($NO_2, SO_2, CO$), and seasonal harmonic components to capture both diurnal and annual cycles. Here, we show that reductions in anthropogenic emissions lead to significant decreases in $PM_{2.5}$ levels, whereas their effect on $O_3$ remains marginal and statistically insignificant. To address spatial heterogeneity, we employ Gaussian Process modeling. Further, we use Granger causality analysis and counterfactual simulation to establish direct causal links. Validation using real-world data from the COVID-19 lockdown confirms that reduced emissions led to a substantial drop in $PM_{2.5}$ but only a slight, insignificant change in $O_3$. The findings highlight the necessity of targeted emission reduction policies while emphasizing the need for integrated strategies addressing both particulate and ozone pollution. These insights are crucial for policymakers designing air pollution interventions in other megacities, and offer a scalable methodology for tackling complex urban air pollution through data-driven decision-making.",
+ "primary": "stat.AP"
+}

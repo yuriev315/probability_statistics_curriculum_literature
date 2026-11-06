@@ -1,0 +1,19 @@
+{
+ "id": "2606.22601",
+ "title": "Scalable Bayesian Additive Models for Stellar Flare Detection via Amortized Gaussian Process Inference and Hidden Markov Models",
+ "authors": [
+  "Rodrigo Herrera",
+  "Vianey Leos-Barajas",
+  "Gwendolyn Eadie",
+  "Elizaveta Semenova",
+  "James Davenport"
+ ],
+ "v1_date": "2026-06-21",
+ "latest_version": 1,
+ "latest_date": "2026-06-21",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "Main paper: 19 pages, full paper: 34 pages. 4 appendices. 9 main figures, 21 figures in total. 4 tables. Poster Presenter, SSC 2026 (Statistical Society of Canada Annual Meeting) and ISBA 2026 (International Society for Bayesian Analysis World Meeting)",
+ "abstract": "Gaussian Processes (GPs) are a powerful tool for Bayesian time-series modeling, yet their cubic computational cost remains a severe barrier for application to long, high-cadence datasets in astronomy. While specialized scalable solvers like Celerite elegantly reduce this scaling to linear time, repeatedly evaluating the exact likelihood during iterative Bayesian sampling is a bottleneck for developing more complex models, like hierarchical or additive models in which Celerite is only one component. To make this inference computationally tractable, we introduce a generative surrogate framework. By utilizing a Variational Autoencoder (VAE) to learn a compressed representation of the Celerite prior, we map highly correlated stochastic dependencies into a low-dimensional, isotropic manifold. This transition completely bypasses exact covariance operations, shifting the computational burden to a rapid neural network forward pass. Through an extensive simulation study, we show that the generative surrogate accurately reproduces the structural fidelity of exact physical kernels like Celerite. Finally, we demonstrate embedding our VAE approximation into an additive model that combines Celerite and a hidden Markov model (HMM) for stellar flare detection in time series data of stars. We evaluate the joint VAE+HMM architecture against the exact Celerite+HMM framework on empirical astrophysical time series and demonstrate that the proposed methodology achieves significant reductions in computational time, enabling the rigorous, large-scale characterization of stellar flares across massive data archives.",
+ "primary": "stat.ML"
+}

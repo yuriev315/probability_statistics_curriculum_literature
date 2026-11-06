@@ -1,0 +1,16 @@
+{
+ "id": "2602.09219",
+ "title": "Goodness-of-fit testing for nonlinear inverse problems with random observations",
+ "authors": [
+  "Remo Kretschmann",
+  "Han Cheng Lie"
+ ],
+ "v1_date": "2026-02-09",
+ "latest_version": 1,
+ "latest_date": "2026-02-09",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "44 pages",
+ "abstract": "This work is concerned with nonparametric goodness-of-fit testing in the context of nonlinear inverse problems with random observations. Bayesian posterior distributions based upon a Gaussian process prior distribution are proven to contract at a certain rate uniformly over a set of true parameters. The corresponding posterior mean is shown to converge uniformly at the posterior contraction rate in the sense of satisfying a concentration inequality. Distinguishability for bounded alternatives separated from a composite null hypothesis at the posterior contraction rate is established using infimum plug-in tests based on the posterior mean and also on maximum a posteriori estimators. The results are applied to a class of inverse problems governed by ordinary differential equation initial value problems that is widely used in pharmacokinetics. For this class, uniform posterior contraction rates are proven and then used to establish distinguishability.",
+ "primary": "math.ST"
+}

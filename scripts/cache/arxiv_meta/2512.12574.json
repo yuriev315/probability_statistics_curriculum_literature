@@ -1,0 +1,16 @@
+{
+ "id": "2512.12574",
+ "title": "Mind the Jumps: A Scalable Robust Local Gaussian Process for Multidimensional Response Surfaces with Discontinuities",
+ "authors": [
+  "Isaac Adjetey",
+  "Yiyuan She"
+ ],
+ "v1_date": "2025-12-14",
+ "latest_version": 1,
+ "latest_date": "2025-12-14",
+ "journal_ref": "Neurocomputing 132317 (2025)",
+ "doi": "10.1016/j.neucom.2025.132317",
+ "comment": "25 pages, 4 figures",
+ "abstract": "Modeling response surfaces with abrupt jumps and discontinuities remains a major challenge across scientific and engineering domains. Although Gaussian process models excel at capturing smooth nonlinear relationships, their stationarity assumptions limit their ability to adapt to sudden input-output variations. Existing nonstationary extensions, particularly those based on domain partitioning, often struggle with boundary inconsistencies, sensitivity to outliers, and scalability issues in higher-dimensional settings, leading to reduced predictive accuracy and unreliable parameter estimation. To address these challenges, this paper proposes the Robust Local Gaussian Process (RLGP) model, a framework that integrates adaptive nearest-neighbor selection with a sparsity-driven robustification mechanism. Unlike existing methods, RLGP leverages an optimization-based mean-shift adjustment after a multivariate perspective transformation combined with local neighborhood modeling to mitigate the influence of outliers. This approach improves predictive accuracy near discontinuities while enhancing robustness to data heterogeneity. Comprehensive evaluations on real-world datasets show that RLGP consistently delivers high predictive accuracy and maintains competitive computational efficiency, especially in scenarios with sharp transitions and complex response structures. Scalability tests further confirm RLGP's stability and reliability in higher-dimensional settings, where other methods struggle. These results establish RLGP as an effective and practical solution for modeling nonstationary and discontinuous response surfaces across a wide range of applications.",
+ "primary": "stat.ML"
+}

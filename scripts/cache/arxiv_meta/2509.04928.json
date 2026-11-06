@@ -1,0 +1,18 @@
+{
+ "id": "2509.04928",
+ "title": "A Bayesian Gaussian Process Dynamic Factor Model",
+ "authors": [
+  "Tony Chernis",
+  "Niko Hauzenberger",
+  "Haroon Mumtaz",
+  "Michael Pfarrhofer"
+ ],
+ "v1_date": "2025-09-05",
+ "latest_version": 1,
+ "latest_date": "2025-09-05",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "JEL: C11; C32; C55; E17; E31 Keywords: Nonlinear state space models; Big data; Machine learning; Macroeconomic forecasting; Inflation dynamics",
+ "abstract": "We propose a dynamic factor model (DFM) where the latent factors are linked to observed variables with unknown and potentially nonlinear functions. The key novelty and source of flexibility of our approach is a nonparametric observation equation, specified via Gaussian Process (GP) priors for each series. Factor dynamics are modeled with a standard vector autoregression (VAR), which facilitates computation and interpretation. We discuss a computationally efficient estimation algorithm and consider two empirical applications. First, we forecast key series from the FRED-QD dataset and show that the model yields improvements in predictive accuracy relative to linear benchmarks. Second, we extract driving factors of global inflation dynamics with the GP-DFM, which allows for capturing international asymmetries.",
+ "primary": "econ.EM"
+}

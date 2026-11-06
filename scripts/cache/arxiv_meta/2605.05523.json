@@ -1,0 +1,17 @@
+{
+ "id": "2605.05523",
+ "title": "Permutation-preserving Functions and Neural Vecchia Covariance Kernels",
+ "authors": [
+  "Jian Cao",
+  "Nian Liu",
+  "Ying Lin"
+ ],
+ "v1_date": "2026-05-06",
+ "latest_version": 1,
+ "latest_date": "2026-05-06",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We introduce a novel framework for constructing scalable and flexible covariance kernels for Gaussian processes (GPs) by directly learning the covariance structure under a regression-type parameterization induced by Vecchia approximations, using deep neural architectures. Specifically, we model kriging coefficients and conditional standard deviations, deterministic quantities that uniquely characterize the covariance, providing stable and informative learning targets. Exploiting the permutation-equivariant structure of conditioning sets in the Vecchia factorization, we derive a universal representation for permutation-preserving functions and design neural architectures that respect this symmetry, leading to improved training stability and data efficiency. The proposed approach enables expressive, non-stationary kernel learning while maintaining computational scalability, thereby bridging classical GP methodology with modern deep learning.",
+ "primary": "stat.ML"
+}

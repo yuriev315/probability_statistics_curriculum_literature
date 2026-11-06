@@ -1,0 +1,16 @@
+{
+ "id": "2610.27687",
+ "title": "Local Maxima of Discrete Gaussian Processes: Exact Distributions and Infill Limits",
+ "authors": [
+  "Dan Cheng",
+  "John Ginos"
+ ],
+ "v1_date": "2026-10-20",
+ "latest_version": 1,
+ "latest_date": "2026-10-20",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We study local maxima of centered, unit-variance Gaussian processes observed on one-dimensional grids. For general nonstationary covariance, we give exact sitewise peak probabilities, conditional height densities, and expected peak counts using the covariance of a site and its two neighbors. The height limits established here are unified by a continuous family indexed by the magnitude of the conditional height-curvature correlation parameter $η\\in[0,1]$, with a Gaussian endpoint at $η=0$, and smooth peak laws for $0<η\\le 1$ with a Rayleigh endpoint at $η=1$. Under continuous covariance derivatives through total order four, we prove convergence to the smooth family and obtain corresponding intensity and expected count limits. Additional sample path and Kac--Rice regularity assumptions identify these limits with the intensity and Palm height law of continuous local maxima. For general nonstationary covariance, a necessary and sufficient increment criterion characterizes convergence to the Gaussian endpoint, including when peak probabilities vanish. Explicit finite-grid bounds control density and tail errors and yield uniform approximations across sites. For each fixed nonconstant, mean-square continuous stationary process, the fourth spectral moment gives a complete classification: finiteness yields a smooth family member, whereas an infinite moment yields the Gaussian endpoint and divergent expected peak counts on every interval of positive length. The height laws converge in total variation in both regimes. Nonstationary examples, Matérn covariance models, and numerical comparisons illustrate the results, including logarithmic boundary behavior and the distinction between distributional convergence and relative tail accuracy.",
+ "primary": "math.PR"
+}

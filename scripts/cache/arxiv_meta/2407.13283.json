@@ -1,0 +1,16 @@
+{
+ "id": "2407.13283",
+ "title": "Heterogeneous Clinical Trial Outcomes via Multi-Output Gaussian Processes",
+ "authors": [
+  "Owen Thomas",
+  "Leiv Rønneberg"
+ ],
+ "v1_date": "2024-07-18",
+ "latest_version": 2,
+ "latest_date": "2024-08-28",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We make use of Kronecker structure for scaling Gaussian Process models to large-scale, heterogeneous, clinical data sets. Repeated measures, commonly performed in clinical research, facilitate computational acceleration for nonlinear Bayesian nonparametric models and enable exact sampling for non-conjugate inference, when combinations of continuous and discrete endpoints are observed. Model inference is performed in Stan, and comparisons are made with brms on simulated data and two real clinical data sets, following a radiological image quality theme. Scalable Gaussian Process models compare favourably with parametric models on real data sets with 17,460 observations. Different GP model specifications are explored, with components analogous to random effects, and their theoretical properties are described.",
+ "primary": "stat.ME"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "2502.19086",
+ "title": "Forecasting intermittent time series with Gaussian Processes and Tweedie likelihood",
+ "authors": [
+  "Stefano Damato",
+  "Dario Azzimonti",
+  "Giorgio Corani"
+ ],
+ "v1_date": "2025-02-26",
+ "latest_version": 5,
+ "latest_date": "2025-11-10",
+ "journal_ref": "International Journal of Forecasting (2025)",
+ "doi": "10.1016/j.ijforecast.2025.10.001",
+ "comment": "Published in International Journal of Forecasting",
+ "abstract": "We adopt Gaussian Processes (GPs) as latent functions for probabilistic forecasting of intermittent time series. The model is trained in a Bayesian framework that accounts for the uncertainty about the latent function. We couple the latent GP variable with two types of forecast distributions: the negative binomial (NegBinGP) and the Tweedie distribution (TweedieGP). While the negative binomial has already been used in forecasting intermittent time series, this is the first time in which a fully parameterized Tweedie density is used for intermittent time series. We properly evaluate the Tweedie density, which has both a point mass at zero and heavy tails, avoiding simplifying assumptions made in existing models. We test our models on thousands of intermittent count time series. Results show that our models provide consistently better probabilistic forecasts than the competitors. In particular, TweedieGP obtains the best estimates of the highest quantiles, thus showing that it is more flexible than NegBinGP.",
+ "primary": "stat.ML"
+}

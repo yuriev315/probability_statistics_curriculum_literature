@@ -1,0 +1,16 @@
+{
+ "id": "2507.04629",
+ "title": "Incremental Seeded EM Algorithm for Clusterwise Linear Regression",
+ "authors": [
+  "Ye Chow Kuang",
+  "Melanie Ooi"
+ ],
+ "v1_date": "2025-07-07",
+ "latest_version": 1,
+ "latest_date": "2025-07-07",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "40 pages, 8 figures",
+ "abstract": "This paper proposes Incremental Seeded Expectation Maximization, an algorithm that improves upon the traditional Expectation Maximization computational flow for clusterwise or finite mixture linear regression tasks. The proposed method shows significantly better performance, particularly in scenarios involving high-dimensional input, noisy data, or a large number of clusters. Alongside the new algorithm, this paper introduces the concepts of $\\textit{Resolvability}$ and $\\textit{X-predictability}$, which enable more rigorous discussions of clusterwise regression problems. The resolvability index is quantified using parameters derived from the model, and results demonstrate its strong connection to model quality without requiring knowledge of the ground truth. This makes the $\\textit{Resolvability}$ especially useful for assessing the quality of clusterwise regression models, and by extension, the conclusions drawn from them.",
+ "primary": "stat.CO"
+}

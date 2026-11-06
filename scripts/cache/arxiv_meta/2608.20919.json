@@ -1,0 +1,17 @@
+{
+ "id": "2608.20919",
+ "title": "Spatial function-on-function quantile regression",
+ "authors": [
+  "Eylul Fidan",
+  "Ufuk Beyaztas",
+  "Soutir Bandyopadhyay"
+ ],
+ "v1_date": "2026-08-21",
+ "latest_version": 1,
+ "latest_date": "2026-08-21",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "56 pages, 7 figures",
+ "abstract": "This paper introduces a novel penalized spatial function-on-function quantile regression framework for analyzing spatially indexed functional data, bridging a critical gap between spatial functional models and quantile regression. Our work makes three key contributions. First, we propose the first spatial function-on-function quantile regression model that jointly accounts for spatial correlation across curves through a functional spatial autoregressive structure while allowing inference on arbitrary conditional quantiles of the functional response. Unlike traditional mean-based alternatives, this approach successfully captures state-dependent volatility and distributional dynamics beyond the conditional mean. Second, we develop a two-stage instrumental-variable estimation strategy to address endogeneity induced by the functional spatial lag. By utilizing tensor-product B-spline expansions with tensor-product roughness penalties, our method ensures optimal smoothness without the destructive information loss inherent in principal component truncation. Third, for fixed spline dimensions, we establish $\\sqrt n$-asymptotic normality of the spline coefficient estimators and the induced finite-rank Gaussian-process limits for the reconstructed coefficient surfaces. Extensive Monte Carlo experiments and a high-resolution analysis of Italian PM$_{2.5}$ air quality data demonstrate that spatial function-on-function quantile regression significantly outperforms non-spatial and mean-based competitors, providing a robust and informative tool for environmental risk management and complex functional data analysis. Our method has been implemented in the SpatialFoFReg R package.",
+ "primary": "stat.ME"
+}

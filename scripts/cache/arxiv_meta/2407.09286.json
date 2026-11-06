@@ -1,0 +1,18 @@
+{
+ "id": "2407.09286",
+ "title": "Adaptive Bayesian Regression on Data with Low Intrinsic Dimensionality",
+ "authors": [
+  "Tao Tang",
+  "Nan Wu",
+  "Xiuyuan Cheng",
+  "David Dunson"
+ ],
+ "v1_date": "2024-07-12",
+ "latest_version": 4,
+ "latest_date": "2026-10-04",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We study how the posterior contraction rate under a Gaussian process (GP) prior depends on the intrinsic dimension of the predictors and the smoothness of the regression function. An open question is whether a generic GP prior that does not incorporate knowledge of the intrinsic lower-dimensional structure of the predictors can attain an adaptive rate for a broad class of such structures. We show that this is indeed the case, establishing conditions under which the posterior contraction rates become adaptive to the intrinsic dimension in terms of the covering number of the data domain (the Minkowski dimension) and prove the nonparametric posterior contraction rate, up to a logarithmic factor. When the domain is a compact manifold, we prove the RKHS approximation to intrinsically defined Hölder functions on the manifold of any order of smoothness by a novel analysis, leading to the optimal adaptive posterior contraction rate. We propose an empirical Bayes prior on the kernel bandwidth using kernel affinity and $k$-nearest neighbor statistics, bypassing explicit estimation of the intrinsic dimension. The efficiency of the proposed Bayesian regression approach is demonstrated in various numerical experiments.",
+ "primary": "math.ST"
+}

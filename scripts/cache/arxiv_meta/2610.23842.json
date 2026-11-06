@@ -1,0 +1,16 @@
+{
+ "id": "2610.23842",
+ "title": "Canonical Layer Inference for Deep Gaussian Processes via Symmetry-Breaking Augmentation",
+ "authors": [
+  "Yichen Zhu",
+  "Hengrui Luo"
+ ],
+ "v1_date": "2026-10-16",
+ "latest_version": 1,
+ "latest_date": "2026-10-16",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Deep Gaussian processes (DGPs) are flexible priors for compositional regression functions, but inference for intermediate layers faces questions. The basic obstruction is an adjacent-layer symmetry: applying an invertible transformation and its inverse to two adjacent layers leaves the composed regression map unchanged. Under explicit symmetry and prior-comparability conditions, we show that the posterior may not concentrate on any prescribed intermediate-layer representation, even when the composed regression function is estimable. We then introduce an augmented $ρ$-fractional posterior that reweights layer decompositions by a non-saturating identity-deviation penalty. The augmentation changes posterior odds between symmetry-related decompositions by an exponential penalty ratio. Under proper choices of the penalty and a prior mass condition, it preserves function-level fractional posterior contraction, while shrinking the redundant layers towards the identity mapping. Thus, the likelihood does not identify a unique ``true'' set of layers; the augmentation favors identity-biased parsimonious decompositions within an equivalence class of layers; uniqueness of a selected representative is not established.",
+ "primary": "math.ST"
+}

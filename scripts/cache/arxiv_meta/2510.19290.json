@@ -1,0 +1,19 @@
+{
+ "id": "2510.19290",
+ "title": "Knowledge Distillation of Uncertainty using Deep Latent Factor Model",
+ "authors": [
+  "Sehyun Park",
+  "Jongjin Lee",
+  "Yunseop Shin",
+  "Ilsang Ohn",
+  "Yongdai Kim"
+ ],
+ "v1_date": "2025-10-22",
+ "latest_version": 2,
+ "latest_date": "2025-10-24",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Deep ensembles deliver state-of-the-art, reliable uncertainty quantification, but their heavy computational and memory requirements hinder their practical deployments to real applications such as on-device AI. Knowledge distillation compresses an ensemble into small student models, but existing techniques struggle to preserve uncertainty partly because reducing the size of DNNs typically results in variation reduction. To resolve this limitation, we introduce a new method of distribution distillation (i.e. compressing a teacher ensemble into a student distribution instead of a student ensemble) called Gaussian distillation, which estimates the distribution of a teacher ensemble through a special Gaussian process called the deep latent factor model (DLF) by treating each member of the teacher ensemble as a realization of a certain stochastic process. The mean and covariance functions in the DLF model are estimated stably by using the expectation-maximization (EM) algorithm. By using multiple benchmark datasets, we demonstrate that the proposed Gaussian distillation outperforms existing baselines. In addition, we illustrate that Gaussian distillation works well for fine-tuning of language models and distribution shift problems.",
+ "primary": "cs.LG"
+}

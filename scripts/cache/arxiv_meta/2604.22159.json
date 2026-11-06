@@ -1,0 +1,16 @@
+{
+ "id": "2604.22159",
+ "title": "Adapted Optimal Transport between Filtered Gaussian Processes",
+ "authors": [
+  "Madhu Gunasingam",
+  "Ting-Kam Leonard Wong"
+ ],
+ "v1_date": "2026-04-24",
+ "latest_version": 1,
+ "latest_date": "2026-04-24",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "40 pages, 1 figure",
+ "abstract": "We continue the study of adapted optimal transport in the discrete-time Gaussian setting. To this end, we introduce a space of filtered Gaussian processes where both the randomness and the flow of information are driven by a Gaussian white noise. On this space, the adapted $2$-Wasserstein distance (${AW}_2$) admits a variational representation as a constrained orthogonal Procrustes problem between Cholesky factors. Furthermore, the resulting quotient space is the ${AW}_2$-completion of the space of Gaussian distributions on the path space. We also characterize explicitly the ${AW}_2$-projections onto the subspaces of Gaussian martingales. Next, we analyze the adapted Brenier coupling -- a multivariate generalization of the Knothe--Rosenblatt coupling that serves as a myopic solution to the adapted transport problem, and compute its transport cost. Utilizing a Gaussian random matrix framework, we investigate the asymptotic behavior of transport costs as the time horizon grows; notably, we establish that the transport costs of all Gaussian bicausal couplings are asymptotically equivalent, whereas the classical Bures--Wasserstein distance is strictly smaller. Finally, we demonstrate that the adapted analogue of Gelbrich's lower bound fails in general, and we identify a sufficient martingale difference condition under which the bound is recovered.",
+ "primary": "math.PR"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "2409.15307",
+ "title": "An ILUES-based adaptive Gaussian process method for multimodal Bayesian inverse problems",
+ "authors": [
+  "Zhihang Xu",
+  "Xiaoyu Zhu",
+  "Daoji Li",
+  "Qifeng Liao"
+ ],
+ "v1_date": "2024-09-05",
+ "latest_version": 2,
+ "latest_date": "2026-02-14",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Inverse problems are prevalent in both scientific research and engineering applications. In the context of Bayesian inverse problems, sampling from the posterior distribution can be particularly challenging when the forward models are computationally expensive. This challenge is further compounded when the posterior distribution is multimodal. To address this issue, we propose a Gaussian process (GP)-based method to indirectly build surrogates for the forward model. Specifically, the unnormalized posterior density is expressed as a product of an auxiliary density and an exponential GP surrogate. Iteratively, the auxiliary density converges to the posterior distribution, starting from an arbitrary initial density. However, the efficiency of GP regression is highly influenced by the quality of the training data. Therefore, we utilize the iterative local updating ensemble smoother (ILUES) to generate high-quality samples that are concentrated in regions with high posterior probability. Subsequently, based on the surrogate model and mode information extracted using a clustering method, Markov chain Monte Carlo (MCMC) with a Gaussian mixed (GM) proposal is used to draw samples from the auxiliary density. Through numerical examples, we demonstrate that the proposed method can accurately and efficiently represent the posterior with a limited number of forward simulations.",
+ "primary": "stat.CO"
+}

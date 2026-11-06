@@ -1,0 +1,16 @@
+{
+ "id": "2501.13841",
+ "title": "Efficient Active Learning Strategies for Computer Experiments",
+ "authors": [
+  "Difan Song",
+  "V. Roshan Joseph"
+ ],
+ "v1_date": "2025-01-23",
+ "latest_version": 1,
+ "latest_date": "2025-01-23",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "28 pages, 9 figures",
+ "abstract": "Active learning in computer experiments aims at allocating resources in an intelligent manner based on the already observed data to satisfy certain objectives such as emulating or optimizing a computationally expensive function. There are two main ingredients for active learning: an initial experimental design, which helps to approximately learn the function, and a surrogate modeling technique, which provides a prediction of the output along with its uncertainty estimates. Space-filling designs are commonly used as initial design and Gaussian processes for surrogate modeling. This article aims at improving the active learning procedure by proposing a new type of initial design and a new correlation function for the Gaussian process. The ideas behind them are known in other fields such as in sensitivity analysis or in kernel theory, but they never seem to have been used for active learning in computer experiments. We show that they provide substantial improvement to the state-of-the-art methods for both emulation and optimization. We support our findings through theory and simulations, and a real experiment on the vapor-phase infiltration process.",
+ "primary": "stat.ME"
+}

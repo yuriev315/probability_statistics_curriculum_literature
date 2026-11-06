@@ -1,0 +1,18 @@
+{
+ "id": "2602.09279",
+ "title": "Stochastic EM Estimation and Inference for Zero-Inflated Beta-Binomial Mixed Models for Longitudinal Count Data",
+ "authors": [
+  "John Barrera",
+  "Ana Arribas-Gil",
+  "Dae-Jin Lee",
+  "Cristian Meza"
+ ],
+ "v1_date": "2026-02-09",
+ "latest_version": 1,
+ "latest_date": "2026-02-09",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "21 pages, 4 figures",
+ "abstract": "Analyzing overdispersed, zero-inflated, longitudinal count data poses significant modeling and computational challenges, which standard count models (e.g., Poisson or negative binomial mixed effects models) fail to adequately address. We propose a Zero-Inflated Beta-Binomial Mixed Effects Regression (ZIBBMR) model that augments a beta-binomial count model with a zero-inflation component, fixed effects for covariates, and subject-specific random effects, accommodating excessive zeros, overdispersion, and within-subject correlation. Maximum likelihood estimation is performed via a Stochastic Approximation EM (SAEM) algorithm with latent variable augmentation, which circumvents the model's intractable likelihood and enables efficient computation. Simulation studies show that ZIBBMR achieves accuracy comparable to leading mixed-model approaches in the literature and surpasses simpler zero-inflated count formulations, particularly in small-sample scenarios. As a case study, we analyze longitudinal microbiome data, comparing ZIBBMR with an external Zero-Inflated Beta Regression (ZIBR) benchmark; the results indicate that applying both count- and proportion-based models in parallel can enhance inference robustness when both data types are available.",
+ "primary": "stat.ME"
+}

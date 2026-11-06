@@ -1,0 +1,16 @@
+{
+ "id": "2508.19144",
+ "title": "VPPE: Application of Scaled Vecchia Approximations to Parallel Partial Emulation",
+ "authors": [
+  "Josh Seidman",
+  "Elaine T. Spiller"
+ ],
+ "v1_date": "2025-08-26",
+ "latest_version": 1,
+ "latest_date": "2025-08-26",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "R code available at https://github.com/SideofMan/VPPE",
+ "abstract": "Computer models or simulators are widely used across scientific fields, but are computationally expensive limiting their use to explore possible scenarios/outcomes. Gaussian process emulators are statistical surrogates that can rapidly approximate the outputs of computer models at untested inputs and enable uncertainty quantification studies. The parallel partial emulation (PPE) was developed to model simulators with vector-valued outputs. While the PPE is adept at fitting simulator data with multidimensional outputs, the time to fit the PPE increases quickly as the number of training runs increases. The Scaled Vecchia approximation, a fast approximation to multivariate Gaussian likelihoods, makes fitting Gaussian process emulators with large training datasets tractable. Here we introduce the Vecchia Parallel Partial Emulation (VPPE) that utilizes the Scaled Vecchia approximation within the PPE framework to allow for parallel partial emulation with larger training datasets. The VPPE is applied to three computer experiments, a synthetic data set, a hydrology model, and a volcanic flow model, yielding comparable predictive accuracy to the PPE at a fraction of the runtime.",
+ "primary": "stat.CO"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "2507.01542",
+ "title": "Parsimonious Gaussian mixture models with piecewise-constant eigenvalue profiles",
+ "authors": [
+  "Tom Szwagier",
+  "Pierre-Alexandre Mattei",
+  "Charles Bouveyron",
+  "Xavier Pennec"
+ ],
+ "v1_date": "2025-07-02",
+ "latest_version": 2,
+ "latest_date": "2025-11-07",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Gaussian mixture models (GMMs) are ubiquitous in statistical learning, particularly for unsupervised problems. While full GMMs suffer from the overparameterization of their covariance matrices in high-dimensional spaces, spherical GMMs (with isotropic covariance matrices) certainly lack flexibility to fit certain anisotropic distributions. Connecting these two extremes, we introduce a new family of parsimonious GMMs with piecewise-constant covariance eigenvalue profiles. These extend several low-rank models like the celebrated mixtures of probabilistic principal component analyzers (MPPCA), by enabling any possible sequence of eigenvalue multiplicities. If the latter are prespecified, then we can naturally derive an expectation-maximization (EM) algorithm to learn the mixture parameters. Otherwise, to address the notoriously-challenging issue of jointly learning the mixture parameters and hyperparameters, we propose a componentwise penalized EM algorithm, whose monotonicity is proven. We show the superior likelihood-parsimony tradeoffs achieved by our models on a variety of unsupervised experiments: density fitting, clustering and single-image denoising.",
+ "primary": "stat.ML"
+}

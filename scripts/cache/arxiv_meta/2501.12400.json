@@ -1,0 +1,19 @@
+{
+ "id": "2501.12400",
+ "title": "Interpolation pour l'augmentation de donnees : Application à la gestion des adventices de la canne a sucre a la Reunion",
+ "authors": [
+  "Frederick Fabre Ferber",
+  "Dominique Gay",
+  "Jean-Christophe Soulie",
+  "Jean Diatta",
+  "Odalric-Ambrym Maillard"
+ ],
+ "v1_date": "2025-01-10",
+ "latest_version": 1,
+ "latest_date": "2025-01-10",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "Preprint. in French language",
+ "abstract": "Data augmentation is a crucial step in the development of robust supervised learning models, especially when dealing with limited datasets. This study explores interpolation techniques for the augmentation of geo-referenced data, with the aim of predicting the presence of Commelina benghalensis L. in sugarcane plots in La Réunion. Given the spatial nature of the data and the high cost of data collection, we evaluated two interpolation approaches: Gaussian processes (GPs) with different kernels and kriging with various variograms. The objectives of this work are threefold: (i) to identify which interpolation methods offer the best predictive performance for various regression algorithms, (ii) to analyze the evolution of performance as a function of the number of observations added, and (iii) to assess the spatial consistency of augmented datasets. The results show that GP-based methods, in particular with combined kernels (GP-COMB), significantly improve the performance of regression algorithms while requiring less additional data. Although kriging shows slightly lower performance, it is distinguished by a more homogeneous spatial coverage, a potential advantage in certain contexts.",
+ "primary": "q-bio.QM"
+}

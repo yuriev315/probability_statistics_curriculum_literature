@@ -1,0 +1,17 @@
+{
+ "id": "2605.26509",
+ "title": "SIKA-GP: Accelerating Gaussian Process Inference with Sparse Inducing Kernel Approximations for Bayesian Deep Learning",
+ "authors": [
+  "Wenyuan Zhao",
+  "Rui Tuo",
+  "Chao Tian"
+ ],
+ "v1_date": "2026-05-26",
+ "latest_version": 1,
+ "latest_date": "2026-05-26",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "20 pages, 8 figures; accepted to International Conference on Machine Learning (ICML) 2026",
+ "abstract": "Gaussian processes (GPs) provide a principled Bayesian framework for uncertainty estimation, but their computational complexity severely limits scalability to large datasets. We propose SIKA-GP, which accelerates GP inference using sparse inducing kernel approximations based on a dyadic ordered template basis, incurring only ${O}(\\log M)$ complexity dependence on the number of inducing points. Our approach constructs compact and expressive kernel representations from sparsely activated bases, enabling efficient tensorized GPU computation and seamless integration with modern large-scale models. SIKA-GP can be naturally embedded into Bayesian neural networks (BNNs) with sparse activations, yielding significant speedups in both training and inference without sacrificing predictive performance. The method naturally extends to deep feature learning, addressing the scalability challenges introduced by deep architectures and high-dimensional feature representations. Empirical results on vision and transformer-based language benchmarks demonstrate that our approach consistently delivers fast and accurate GP models, providing a principled path toward scalable kernel learning.",
+ "primary": "cs.LG"
+}

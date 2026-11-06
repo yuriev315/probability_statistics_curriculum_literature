@@ -1,0 +1,20 @@
+{
+ "id": "2403.07412",
+ "title": "GPU-Accelerated Vecchia Approximations of Gaussian Processes for Geospatial Data using Batched Matrix Computations",
+ "authors": [
+  "Qilong Pan",
+  "Sameh Abdulah",
+  "Marc G. Genton",
+  "David E. Keyes",
+  "Hatem Ltaief",
+  "Ying Sun"
+ ],
+ "v1_date": "2024-03-12",
+ "latest_version": 3,
+ "latest_date": "2024-04-03",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Gaussian processes (GPs) are commonly used for geospatial analysis, but they suffer from high computational complexity when dealing with massive data. For instance, the log-likelihood function required in estimating the statistical model parameters for geospatial data is a computationally intensive procedure that involves computing the inverse of a covariance matrix with size n X n, where n represents the number of geographical locations. As a result, in the literature, studies have shifted towards approximation methods to handle larger values of n effectively while maintaining high accuracy. These methods encompass a range of techniques, including low-rank and sparse approximations. Vecchia approximation is one of the most promising methods to speed up evaluating the log-likelihood function. This study presents a parallel implementation of the Vecchia approximation, utilizing batched matrix computations on contemporary GPUs. The proposed implementation relies on batched linear algebra routines to efficiently execute individual conditional distributions in the Vecchia algorithm. We rely on the KBLAS linear algebra library to perform batched linear algebra operations, reducing the time to solution compared to the state-of-the-art parallel implementation of the likelihood estimation operation in the ExaGeoStat software by up to 700X, 833X, 1380X on 32GB GV100, 80GB A100, and 80GB H100 GPUs, respectively. We also successfully manage larger problem sizes on a single NVIDIA GPU, accommodating up to 1M locations with 80GB A100 and H100 GPUs while maintaining the necessary application accuracy. We further assess the accuracy performance of the implemented algorithm, identifying the optimal settings for the Vecchia approximation algorithm to preserve accuracy on two real geospatial datasets: soil moisture data in the Mississippi Basin area and wind speed data in the Middle East.",
+ "primary": "stat.CO"
+}

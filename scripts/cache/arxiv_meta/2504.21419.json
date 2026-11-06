@@ -1,0 +1,17 @@
+{
+ "id": "2504.21419",
+ "title": "Kernel Density Machines",
+ "authors": [
+  "Andrea Della Vecchia",
+  "Damir Filipovic",
+  "Paul Schneider"
+ ],
+ "v1_date": "2025-04-30",
+ "latest_version": 3,
+ "latest_date": "2026-03-26",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We introduce kernel density machines (KDM), an agnostic kernel-based framework for learning the Radon-Nikodym derivative (density) between probability measures under minimal assumptions. KDM applies to general measurable spaces and avoids the structural requirements common in classical nonparametric density estimators. We construct a sample estimator and prove its consistency and a functional central limit theorem. To enable scalability, we develop Nystrom-type low-rank approximations and derive optimal error rates, filling a gap in the literature where such guarantees for density learning have been missing. We demonstrate the versatility of KDM through applications to kernel-based two-sample testing and conditional distribution estimation, the latter enjoying dimension-free guarantees beyond those of locally smoothed methods. Experiments on simulated and real data show that KDM is accurate, scalable, and competitive across a range of tasks.",
+ "primary": "stat.ML"
+}

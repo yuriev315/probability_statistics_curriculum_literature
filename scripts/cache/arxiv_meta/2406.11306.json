@@ -1,0 +1,17 @@
+{
+ "id": "2406.11306",
+ "title": "Bayesian Variable Selection via Hierarchical Gaussian Process Model in Computer Experiments",
+ "authors": [
+  "Xiao Yao",
+  "Ning Jianhui",
+  "Qin Hong"
+ ],
+ "v1_date": "2024-06-17",
+ "latest_version": 1,
+ "latest_date": "2024-06-17",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Identifying the active factors that have significant impacts on the output of the complex system is an important but challenging variable selection problem in computer experiments. In this paper, a Bayesian hierarchical Gaussian process model is developed and some latent indicator variables are embedded into this setting for the sake of labelling the important variables. The parameter estimation and variable selection can be processed simultaneously in a full Bayesian framework through an efficient Markov Chain Monte Carlo (MCMC) method -- Metropolis-within-Gibbs sampler. The much better performances of the proposed method compared with the related competitors are evaluated by the analysis of simulated examples and a practical application.",
+ "primary": "stat.ME"
+}

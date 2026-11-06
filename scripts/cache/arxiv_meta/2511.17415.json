@@ -1,0 +1,17 @@
+{
+ "id": "2511.17415",
+ "title": "Bayesian Bridge Gaussian Process Regression",
+ "authors": [
+  "Minshen Xu",
+  "Shiwei Lan",
+  "Lulu Kang"
+ ],
+ "v1_date": "2025-11-21",
+ "latest_version": 1,
+ "latest_date": "2025-11-21",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "The performance of Gaussian Process (GP) regression is often hampered by the curse of dimensionality, which inflates computational cost and reduces predictive power in high-dimensional problems. Variable selection is thus crucial for building efficient and accurate GP models. Inspired by Bayesian bridge regression, we propose the Bayesian Bridge Gaussian Process Regression (B\\textsuperscript{2}GPR) model. This framework places $\\ell_q$-norm constraints on key GP parameters to automatically induce sparsity and identify active variables. We formulate two distinct versions: one for $q=2$ using conjugate Gaussian priors, and another for $0<q<2$ that employs constrained flat priors, leading to non-standard, norm-constrained posterior distributions. To enable posterior inference, we design a Gibbs sampling algorithm that integrates Spherical Hamiltonian Monte Carlo (SphHMC) to efficiently sample from the constrained posteriors when $0<q<2$. Simulations and a real-data application confirm that B\\textsuperscript{2}GPR offers superior variable selection and prediction compared to alternative approaches.",
+ "primary": "stat.ME"
+}

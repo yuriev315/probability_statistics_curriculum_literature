@@ -1,0 +1,16 @@
+{
+ "id": "2403.12250",
+ "title": "Bayesian Optimization Sequential Surrogate (BOSS) Algorithm: Fast Bayesian Inference for a Broad Class of Bayesian Hierarchical Models",
+ "authors": [
+  "Dayi Li",
+  "Ziang Zhang"
+ ],
+ "v1_date": "2024-03-18",
+ "latest_version": 1,
+ "latest_date": "2024-03-18",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "The authors contributed equally to this work. The names are listed alphabetically",
+ "abstract": "Approximate Bayesian inference based on Laplace approximation and quadrature methods have become increasingly popular for their efficiency at fitting latent Gaussian models (LGM), which encompass popular models such as Bayesian generalized linear models, survival models, and spatio-temporal models. However, many useful models fall under the LGM framework only if some conditioning parameters are fixed, as the design matrix would vary with these parameters otherwise. Such models are termed the conditional LGMs with examples in change-point detection, non-linear regression, etc. Existing methods for fitting conditional LGMs rely on grid search or Markov-chain Monte Carlo (MCMC); both require a large number of evaluations of the unnormalized posterior density of the conditioning parameters. As each evaluation of the density requires fitting a separate LGM, these methods become computationally prohibitive beyond simple scenarios. In this work, we introduce the Bayesian optimization sequential surrogate (BOSS) algorithm, which combines Bayesian optimization with approximate Bayesian inference methods to significantly reduce the computational resources required for fitting conditional LGMs. With orders of magnitude fewer evaluations compared to grid or MCMC methods, Bayesian optimization provides us with sequential design points that capture the majority of the posterior mass of the conditioning parameters, which subsequently yields an accurate surrogate posterior distribution that can be easily normalized. We illustrate the efficiency, accuracy, and practical utility of the proposed method through extensive simulation studies and real-world applications in epidemiology, environmental sciences, and astrophysics.",
+ "primary": "stat.ME"
+}

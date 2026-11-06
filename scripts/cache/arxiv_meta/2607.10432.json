@@ -1,0 +1,16 @@
+{
+ "id": "2607.10432",
+ "title": "Scalable Bayesian Quantile Regression via EM and INLA: The EM-INLA Algorithm",
+ "authors": [
+  "Tomas Rodriguez Taborda",
+  "Johnatan Cardona-Jiménez"
+ ],
+ "v1_date": "2026-07-11",
+ "latest_version": 2,
+ "latest_date": "2026-07-24",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "28 pages, 5 figures, 9 tables",
+ "abstract": "We propose EM-INLA, a scalable algorithm for empirical-Bayes hierarchical quantile regression that combines the Expectation-Maximization (EM) algorithm with Integrated Nested Laplace Approximations (INLA). The method exploits the normal-exponential mixture representation of the Asymmetric Laplace Distribution (ALD) to reformulate each M-step as a weighted Gaussian regression handled by INLA, with the ALD scale and random-effect variances updated in closed form at each iteration. The scale and variance hyperparameters are estimated by marginal maximum likelihood via the EM algorithm, and posterior marginals for the regression and random-effect parameters are obtained from a final INLA call conditional on the converged hyperparameter estimates. The result is an algorithm that avoids all MCMC sampling while scaling to large datasets and complex hierarchical structures that are intractable for standard fully Bayesian approaches. In a simulation study across four error scenarios, EM-INLA recovers the true parameters with accuracy comparable to Hamiltonian Monte Carlo (HMC) while achieving speedups ranging from 15x to over 50x depending on the scenario. The method is applied to the 2023 Prueba Saber 11 standardized test in Colombia to model the conditional quantiles of student scores as a function of socioeconomic covariates under a hierarchical structure of students nested within schools and municipalities, with over 400,000 observations.",
+ "primary": "stat.CO"
+}

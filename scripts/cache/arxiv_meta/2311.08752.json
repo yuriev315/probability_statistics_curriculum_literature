@@ -1,0 +1,16 @@
+{
+ "id": "2311.08752",
+ "title": "ProSpar-GP: scalable Gaussian process modeling with massive non-stationary datasets",
+ "authors": [
+  "Kevin Li",
+  "Simon Mak"
+ ],
+ "v1_date": "2023-11-15",
+ "latest_version": 1,
+ "latest_date": "2023-11-15",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Gaussian processes (GPs) are a popular class of Bayesian nonparametric models, but its training can be computationally burdensome for massive training datasets. While there has been notable work on scaling up these models for big data, existing methods typically rely on a stationary GP assumption for approximation, and can thus perform poorly when the underlying response surface is non-stationary, i.e., it has some regions of rapid change and other regions with little change. Such non-stationarity is, however, ubiquitous in real-world problems, including our motivating application for surrogate modeling of computer experiments. We thus propose a new Product of Sparse GP (ProSpar-GP) method for scalable GP modeling with massive non-stationary data. The ProSpar-GP makes use of a carefully-constructed product-of-experts formulation of sparse GP experts, where different experts are placed within local regions of non-stationarity. These GP experts are fit via a novel variational inference approach, which capitalizes on mini-batching and GPU acceleration for efficient optimization of inducing points and length-scale parameters for each expert. We further show that the ProSpar-GP is Kolmogorov-consistent, in that its generative distribution defines a valid stochastic process over the prediction space; such a property provides essential stability for variational inference, particularly in the presence of non-stationarity. We then demonstrate the improved performance of the ProSpar-GP over the state-of-the-art, in a suite of numerical experiments and an application for surrogate modeling of a satellite drag simulator.",
+ "primary": "stat.ME"
+}

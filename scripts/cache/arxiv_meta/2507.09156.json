@@ -1,0 +1,16 @@
+{
+ "id": "2507.09156",
+ "title": "Robust designs for Gaussian process emulation of computer experiments",
+ "authors": [
+  "Simon Mak",
+  "V. Roshan Joseph"
+ ],
+ "v1_date": "2025-07-12",
+ "latest_version": 1,
+ "latest_date": "2025-07-12",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We study in this paper two classes of experimental designs, support points and projected support points, which can provide robust and effective emulation of computer experiments with Gaussian processes. These designs have two important properties that are appealing for surrogate modeling of computer experiments. First, the proposed designs are robust: they enjoy good emulation performance over a wide class of smooth and rugged response surfaces. Second, they can be efficiently generated for large designs in high dimensions using difference-of-convex programming. In this work, we present a theoretical framework that investigates the above properties, then demonstrate their effectiveness for Gaussian process emulation in a suite of numerical experiments.",
+ "primary": "stat.ME"
+}

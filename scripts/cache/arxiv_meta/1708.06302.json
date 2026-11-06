@@ -1,0 +1,16 @@
+{
+ "id": "1708.06302",
+ "title": "A general framework for Vecchia approximations of Gaussian processes",
+ "authors": [
+  "Matthias Katzfuss",
+  "Joseph Guinness"
+ ],
+ "v1_date": "2017-08-21",
+ "latest_version": 5,
+ "latest_date": "2019-08-17",
+ "journal_ref": "Statistical Science, 36(1), 124-141 (2021)",
+ "doi": "10.1214/19-sts755",
+ "comment": "",
+ "abstract": "Gaussian processes (GPs) are commonly used as models for functions, time series, and spatial fields, but they are computationally infeasible for large datasets. Focusing on the typical setting of modeling data as a GP plus an additive noise term, we propose a generalization of the Vecchia (1988) approach as a framework for GP approximations. We show that our general Vecchia approach contains many popular existing GP approximations as special cases, allowing for comparisons among the different methods within a unified framework. Representing the models by directed acyclic graphs, we determine the sparsity of the matrices necessary for inference, which leads to new insights regarding the computational properties. Based on these results, we propose a novel sparse general Vecchia approximation, which ensures computational feasibility for large spatial datasets but can lead to considerable improvements in approximation accuracy over Vecchia's original approach. We provide several theoretical results and conduct numerical comparisons. We conclude with guidelines for the use of Vecchia approximations in spatial statistics.",
+ "primary": "stat.ME"
+}

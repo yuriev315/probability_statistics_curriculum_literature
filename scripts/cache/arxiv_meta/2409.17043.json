@@ -1,0 +1,15 @@
+{
+ "id": "2409.17043",
+ "title": "Gaussian Processes for Observational Dose-Response Inference",
+ "authors": [
+  "Jake R. Dailey"
+ ],
+ "v1_date": "2024-09-25",
+ "latest_version": 1,
+ "latest_date": "2024-09-25",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We adapt Gaussian processes for estimating the average dose-response function in observational settings, introducing a powerful complement to treatment effect estimation for understanding heterogeneous effects. We incorporate samples from a Gaussian process posterior for the propensity score into a Gaussian process response model using Girard's approach to integrating over uncertainty in training data. We show Girard's method admits a positive-definite kernel, and provide theoretical justification by identifying it with an inner product of kernel mean embeddings. We demonstrate double robustness of our approach under a misspecified response function or propensity score. We characterize and mitigate regularization-induced confounding in Gaussian process response models. We show improvement over other methods for average dose-response function estimation in terms of coverage of the dose-response function and estimation bias, with less sensitivity to misspecification across experiments.",
+ "primary": "math.ST"
+}

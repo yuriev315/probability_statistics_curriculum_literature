@@ -1,0 +1,16 @@
+{
+ "id": "2603.21180",
+ "title": "ALMAB-DC: Active Learning, Multi-Armed Bandits, and Distributed Computing for Sequential Experimental Design and Black-Box Optimization",
+ "authors": [
+  "Foo Hui-Mean",
+  "Yuan-chin I Chang"
+ ],
+ "v1_date": "2026-03-22",
+ "latest_version": 4,
+ "latest_date": "2026-06-03",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "33 pages, and 13 figures",
+ "abstract": "Sequential experimental design under expensive, gradient-free objectives is a central challenge in computational statistics: evaluation budgets are tightly constrained and information must be extracted efficiently from each observation. We propose \\textbf{ALMAB-DC}, a GP-based sequential design framework combining active learning, multi-armed bandits (MAB), and distributed asynchronous computing for expensive black-box experimentation. A Gaussian process surrogate with uncertainty-aware acquisition identifies informative query points; a UCB or Thompson-sampling bandit controller allocates evaluations across parallel workers; and an asynchronous scheduler handles heterogeneous runtimes. We present cumulative regret bounds for the bandit components and characterize parallel scalability via Amdahl's Law. We validate ALMAB-DC on five benchmarks. On the two statistical experimental-design tasks, ALMAB-DC achieves lower simple regret than Equal Spacing, Random, and D-optimal designs in dose--response optimization, and in adaptive spatial field estimation matches the Greedy Max-Variance benchmark while outperforming Latin Hypercube Sampling; at $K=4$ the distributed setting reaches target performance in one-quarter of sequential wall-clock rounds. On three ML/engineering tasks (CIFAR-10 HPO, CFD drag minimization, MuJoCo RL), ALMAB-DC achieves 93.4\\% CIFAR-10 accuracy (outperforming BOHB by 1.7\\,pp and Optuna by 1.1\\,pp), reduces airfoil drag to $C_D = 0.059$ (36.9\\% below Grid Search), and improves RL return by 50\\% over Grid Search. All advantages over non-ALMAB baselines are statistically significant under Bonferroni-corrected Mann--Whitney $U$ tests. Distributed execution achieves $7.5\\times$ speedup at $K = 16$ agents, consistent with Amdahl's Law.",
+ "primary": "cs.LG"
+}

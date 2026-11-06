@@ -1,0 +1,17 @@
+{
+ "id": "2610.31025",
+ "title": "Bayes Factor Testing of Linear and Nonlinear Effects in Additive Gaussian Process Regression",
+ "authors": [
+  "Yueheng Wu",
+  "Joran Jongerling",
+  "Joris Mulder"
+ ],
+ "v1_date": "2026-10-22",
+ "latest_version": 1,
+ "latest_date": "2026-10-22",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "34 pages, 11 figures",
+ "abstract": "Gaussian process regression flexibly models nonlinear relationships between predictors and an outcome variable. A central question in this modeling framework is whether each predictor affects the outcome linearly, nonlinearly, or not at all. We propose a Bayesian testing framework for this problem within additive Gaussian process regression. Each predictor is decomposed into a standardized linear component with a $g$-prior and an orthogonalized Gaussian process component capturing nonlinear structure. The latter is governed by a standardized magnitude parameter whose value zero removes the component. Local and non-local priors are considered for the standardized magnitude parameter. Bayes factors for testing the linear and nonlinear effects are computed from the fitted full model via Savage-Dickey-type identities, avoiding expensive marginal likelihood computations of many different models. To assess the accuracy of the Bayes factor estimates, the outcomes are compared to bridge sampling estimates. Simulations and empirical applications show the performance and applicability of the methodology.",
+ "primary": "stat.ME"
+}

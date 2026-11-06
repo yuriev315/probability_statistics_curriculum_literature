@@ -1,0 +1,17 @@
+{
+ "id": "2512.12398",
+ "title": "Scalable Spatial Stream Network (S3N) Models",
+ "authors": [
+  "Jessica P. Kunke",
+  "Julian D. Olden",
+  "Tyler H. McCormick"
+ ],
+ "v1_date": "2025-12-13",
+ "latest_version": 2,
+ "latest_date": "2026-05-22",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Understanding how habitats shape species distributions and abundances across river networks remains a longstanding and fundamental challenge in ecology, with direct implications for effective biodiversity management and conservation. We introduce a scalable spatial stream network (S3N) model that enables estimation, inference, and prediction with greater computational efficiency than previously possible. S3Ns extend nearest-neighbor Gaussian processes (NNGPs) to include ecologically salient stream network dependence structure. Additionally, S3Ns implement more efficient preprocessing than SSNs; while the computational cost of estimation is a function of the number of observation points and not of the number of reaches, the preprocessing is a function of both. We demonstrate that S3Ns accurately recover spatial and covariance parameters 2-3 orders of magnitude faster than existing spatial stream network models. We then apply S3Ns to estimate the population sizes and geographic distributions of 285 fish species in the entire Ohio River Basin (>4,000 river km, approximately 170,000 reaches and 9,000 observation points) on a laptop. These results indicate the promise of S3Ns for mapping freshwater variables and quantifying the influence of environmental drivers across extensive, complex river networks with many observation points.",
+ "primary": "stat.ME"
+}

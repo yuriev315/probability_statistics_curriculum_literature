@@ -1,0 +1,17 @@
+{
+ "id": "2601.16022",
+ "title": "Approximate Likelihood-Based Inference for Spatial Generalized Linear Mixed Models",
+ "authors": [
+  "Samuel I. Watson",
+  "Yixin Wang",
+  "Emanuele Giorgi"
+ ],
+ "v1_date": "2026-01-22",
+ "latest_version": 2,
+ "latest_date": "2026-05-18",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We study maximum likelihood estimation for spatial generalized linear mixed models with Gaussian process approximations using a stochastic Newton-Raphson algorithm. We consider two Gaussian Process approximations in this context: spectral Gaussian process approximations and stochastic partial differential equations (SPDE). We refine the stochastic maximum likelihood algorithm and we propose a new stopping criterion for efficient termination to prevent long runs of sampling in the stationary post-convergence phase and a Monte Carlo estimator of fixed effect standard errors. We run a series of simulation comparisons of spatial statistical models alongside the popular Bayesian integrated nested Laplacian approximation method which incorporates SPDE. We show that HSGP provides nominal coverage of fixed and random effect parameters with smooth latent fields but performance degrades for rough fields. SPDE in a stochastic maximum likelihood framework maintains nominal coverage and matches or improves upon the performance of Bayesian integrated nested Laplacian approximation.",
+ "primary": "stat.ME"
+}

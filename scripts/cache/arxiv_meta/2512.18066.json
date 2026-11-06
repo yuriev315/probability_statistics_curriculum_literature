@@ -1,0 +1,15 @@
+{
+ "id": "2512.18066",
+ "title": "Gradient-enhancement and Gradient Predictions for Deep Gaussian Process Modeling of Expensive Computer Experiments",
+ "authors": [
+  "Annie S. Booth"
+ ],
+ "v1_date": "2025-12-19",
+ "latest_version": 2,
+ "latest_date": "2026-07-22",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "21 pages, 10 figures",
+ "abstract": "Deep Gaussian processes (DGPs) are popular surrogate models for complex nonstationary computer experiments. DGPs use one or more latent Gaussian processes (GPs) to warp the input space into a plausibly stationary regime, then use typical GP regression on the warped domain. While this composition of GPs is conceptually straightforward, the functional nature of the multi-dimensional latent warping makes Bayesian posterior inference challenging. Traditional GPs with smooth kernels are naturally suited for the integration of gradient information, but the integration of gradients within a DGP presents new challenges and has yet to be explored. We propose a novel and comprehensive Bayesian framework for DGPs with gradients that facilitates both gradient-enhancement and gradient posterior predictive distributions. Our focus is on surrogate modeling of expensive, deterministic, and nonstationary computer experiments. Gradient-enhancement is most impactful when data is limited, and gradient predictions are most useful for downstream surrogate modeling tasks like optimization and active learning. We benchmark both contributions (gradient-enhanced DGPs and DGP gradient predictions), separately and together, on a variety of nonstationary test functions as well as real quantum mechanics computer experiments that simulate molecular energy and forces as a function of atomic position. On nonstationary surfaces, our gradient-enhanced DGPs outperform gradient-enhanced GPs and non-enhanced DGPs, and our DGP gradient predictions are more effective than GP gradient predictions. We provide open-source software in the \"deepgp\" package on CRAN, with optional Vecchia approximation to circumvent cubic computational bottlenecks.",
+ "primary": "stat.ME"
+}

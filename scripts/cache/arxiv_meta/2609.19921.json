@@ -1,0 +1,18 @@
+{
+ "id": "2609.19921",
+ "title": "Multi-Absorbing Phase-Type Distributions for Right-Censored Competing Risks Data",
+ "authors": [
+  "Zhihao Qiao",
+  "Budhi Surya",
+  "Azam Asanjarani",
+  "Yoni Nazarathy"
+ ],
+ "v1_date": "2026-09-17",
+ "latest_version": 1,
+ "latest_date": "2026-09-17",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "34 pages, 5 figures, 5 tables. Julia implementations: PhaseTypeDistributions.jl and PhaseTypeDistributionsFitting.jl (github.com/Julia-Matrix-Analytic-Probability",
+ "abstract": "Phase-type (PH) distributions are versatile semi-parametric models for lifetime duration and can be used in survival and reliability analysis. In this paper we put forward methods and software for using PH distributions in a competing-risks model. The resulting multi-absorbing phase-type (MAPH) distribution records both the time until absorption and its cause. After formulating basic properties of this family, we develop an EM algorithm for parameter inference from exact event-time/cause observations and independently right-censored observations. For a censored subject, the E-step conditions on survival up to the censoring time and imputes both the latent transient path and its eventual cause of absorption; closed-form cause-resolved sufficient-statistic expectations are obtained from matrix exponentials. We illustrate applications and numerical properties and describe two accompanying Julia packages, in which both the exact-event and the censored E-step are implemented. Applied to intensive-care length-of-stay data in full, censored records included, the method attains a higher likelihood than the phase-type competing-risks fit previously published for those data.",
+ "primary": "stat.ME"
+}

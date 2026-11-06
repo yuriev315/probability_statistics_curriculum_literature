@@ -1,0 +1,20 @@
+{
+ "id": "2402.17570",
+ "title": "Sparse Variational Contaminated Noise Gaussian Process Regression with Applications in Geomagnetic Perturbations Forecasting",
+ "authors": [
+  "Daniel Iong",
+  "Matthew McAnear",
+  "Yuezhou Qu",
+  "Shasha Zou",
+  "Gabor Toth",
+  "Yang Chen"
+ ],
+ "v1_date": "2024-02-27",
+ "latest_version": 3,
+ "latest_date": "2024-07-02",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Gaussian Processes (GP) have become popular machine-learning methods for kernel-based learning on datasets with complicated covariance structures. In this paper, we present a novel extension to the GP framework using a contaminated normal likelihood function to better account for heteroscedastic variance and outlier noise. We propose a scalable inference algorithm based on the Sparse Variational Gaussian Process (SVGP) method for fitting sparse Gaussian process regression models with contaminated normal noise on large datasets. We examine an application to geomagnetic ground perturbations, where the state-of-the-art prediction model is based on neural networks. We show that our approach yields shorter prediction intervals for similar coverage and accuracy when compared to an artificial dense neural network baseline.",
+ "primary": "cs.LG"
+}

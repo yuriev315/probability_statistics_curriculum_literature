@@ -1,0 +1,17 @@
+{
+ "id": "2605.03152",
+ "title": "Scalable generative modeling of non-Gaussian spatio-temporal fields via autoregressive Gaussian processes",
+ "authors": [
+  "Carrie J. Lei-Cramer",
+  "Jian Cao",
+  "Matthias Katzfuss"
+ ],
+ "v1_date": "2026-05-04",
+ "latest_version": 2,
+ "latest_date": "2026-10-01",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Generative modeling of spatio-temporal fields is crucial for a variety of applications, including stochastic weather generators and climate-model surrogates. However, many such fields exhibit complex dependence structures that vary across space and time and are nonlinear, resulting in nonstationary and non-Gaussian joint distributions. Our approach represents the joint density of a spatio-temporal field as a product of univariate conditional distributions and models these conditionals using Gaussian processes within an autoregressive transport-map construction. This prior distribution provides regularization, making our method suitable for a small number of training samples. Data-dependent sparsity in the conditioning sets ensures scalability to high-dimensional distributions. We also propose a variant of the method designed to sample or predict forward in time from a given incomplete space-time trajectory. We demonstrate the accuracy and scalability of our approach on non-Gaussian climate-model output with tens of millions of data points.",
+ "primary": "stat.ME"
+}

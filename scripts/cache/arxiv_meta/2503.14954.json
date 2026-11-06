@@ -1,0 +1,17 @@
+{
+ "id": "2503.14954",
+ "title": "Bayesian inference for case-control point pattern data in spatial epidemiology with the \\texttt{inlabru} R package",
+ "authors": [
+  "Francisco Palmí-Perales",
+  "Finn Lindgren",
+  "Virgilio Gómez-Rubio"
+ ],
+ "v1_date": "2025-03-19",
+ "latest_version": 1,
+ "latest_date": "2025-03-19",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "The analysis of case-control point pattern data is an important problem in spatial epidemiology. The spatial variation of cases if often compared to that of a set of controls to assess spatial risk variation as well as the detection of risk factors and exposure to putative pollution sources using spatial regression models. The intensities of the point patterns of cases and controls are estimated using log-Gaussian Cox models, so that fixed and spatial random effects can be included. Bayesian inference is conducted via the integrated Nested Laplace approximation (INLA) method using the inlabru R package. In this way, potential risk factors can be assessed by including them as fixed effects while residual spatial variation is considered as a Gaussian process with Matérn covariance. In addition, exposure to pollution sources is modeled using different smooth terms. The proposed methods have been applied to the Chorley-Ribble dataset, that records the locations of lung and larynx cancer cases as well as the location of an disused old incinerator in the area of Lancashire (England, United Kingdom). Taking the locations of lung cancer as controls, the spatial variation of both types of cases has been estimated and the increase of larynx cases in the vicinity of the incinerator has been assessed. The results are similar to those found in the literature. In a nutshell, a framework for Bayesian analysis of multivariate case-control point patterns within an epidemiological framework has been presented. Models to assess spatial variation and the effect of risk factors and pollution sources can be fit with ease with the inlabru R package.",
+ "primary": "stat.ME"
+}

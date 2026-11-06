@@ -1,0 +1,16 @@
+{
+ "id": "2311.07733",
+ "title": "Credible Intervals for Probability of Failure with Gaussian Processes",
+ "authors": [
+  "Aleksei G. Sorokin",
+  "Vishwas Rao"
+ ],
+ "v1_date": "2023-11-13",
+ "latest_version": 2,
+ "latest_date": "2026-03-13",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Estimating the probability of failure for expensive simulations is a central task in reliability analysis for structural design, power grid design, and safety certification, among other areas. This work derives credible intervals on the probability of failure by modeling the simulation as a realization of a Gaussian process surrogate. These intervals are governed by the pointwise binary classification error of the surrogate and are compatible with the broad class of adaptive sampling schemes proposed in the literature. We further propose a novel batch sampling scheme that suggests multiple evaluation points per iteration, enabling parallel simulation on HPC systems. The method is empirically validated using our scalable, open-source implementation on a variety of test problems including a Tsunami model where failure is quantified in terms of maximum wave height.",
+ "primary": "stat.ME"
+}

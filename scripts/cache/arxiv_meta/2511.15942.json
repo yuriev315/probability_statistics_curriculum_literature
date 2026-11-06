@@ -1,0 +1,17 @@
+{
+ "id": "2511.15942",
+ "title": "A Simple and Robust Multi-Fidelity Data Fusion Method for Effective Modeling of Citizen-Science Air Pollution Data",
+ "authors": [
+  "Camilla Andreozzi",
+  "Pietro Colombo",
+  "Philipp Otto"
+ ],
+ "v1_date": "2025-11-20",
+ "latest_version": 1,
+ "latest_date": "2025-11-20",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We propose a robust multi-fidelity Gaussian process for integrating sparse, high-quality reference monitors with dense but noisy citizen-science sensors. The approach replaces the Gaussian log-likelihood in the high-fidelity channel with a global Huber loss applied to precision-weighted residuals, yielding bounded influence on all parameters, including the cross-fidelity coupling, while retaining the flexibility of co-kriging. We establish attenuation and unbounded influence of the Gaussian maximum likelihood estimator under low-fidelity contamination and derive explicit finite bounds for the proposed estimator that clarify how whitening and mean-shift sensitivity determine robustness. Monte Carlo experiments with controlled contamination show that the robust estimator maintains stable MAE and RMSE as anomaly magnitude and frequency increase, whereas the Gaussian MLE deteriorates rapidly. In an empirical study of PM2.5 concentrations in Hamburg, combining UBA monitors with openSenseMap data, the method consistently improves cross-validated predictive accuracy and yields coherent uncertainty maps without relying on auxiliary covariates. The framework remains computationally scalable through diagonal or low-rank whitening and is fully reproducible with publicly available code.",
+ "primary": "stat.ME"
+}

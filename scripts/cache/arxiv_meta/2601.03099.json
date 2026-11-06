@@ -1,0 +1,20 @@
+{
+ "id": "2601.03099",
+ "title": "Time-Aware Synthetic Control",
+ "authors": [
+  "Saeyoung Rho",
+  "Cyrus Illick",
+  "Samhitha Narasipura",
+  "Alberto Abadie",
+  "Daniel Hsu",
+  "Vishal Misra"
+ ],
+ "v1_date": "2026-01-06",
+ "latest_version": 1,
+ "latest_date": "2026-01-06",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "The synthetic control (SC) framework is widely used for observational causal inference with time-series panel data. SC has been successful in diverse applications, but existing methods typically treat the ordering of pre-intervention time indices interchangeable. This invariance means they may not fully take advantage of temporal structure when strong trends are present. We propose Time-Aware Synthetic Control (TASC), which employs a state-space model with a constant trend while preserving a low-rank structure of the signal. TASC uses the Kalman filter and Rauch-Tung-Striebel smoother: it first fits a generative time-series model with expectation-maximization and then performs counterfactual inference. We evaluate TASC on both simulated and real-world datasets, including policy evaluation and sports prediction. Our results suggest that TASC offers advantages in settings with strong temporal trends and high levels of observation noise.",
+ "primary": "cs.LG"
+}

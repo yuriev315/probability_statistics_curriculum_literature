@@ -1,0 +1,16 @@
+{
+ "id": "2511.17974",
+ "title": "Divergence-Minimization for Latent-Structure Models: Monotone Operators, Contraction Guarantees, and Robust Inference",
+ "authors": [
+  "Lei Li",
+  "Anand N. Vidyashankar"
+ ],
+ "v1_date": "2025-11-22",
+ "latest_version": 1,
+ "latest_date": "2025-11-22",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We develop a divergence-minimization (DM) framework for robust and efficient inference in latent-mixture models. By optimizing a residual-adjusted divergence, the DM approach recovers EM as a special case and yields robust alternatives through different divergence choices. We establish that the sample objective decreases monotonically along the iterates, leading the DM sequence to stationary points under standard conditions, and that at the population level the operator exhibits local contractivity near the minimizer. Additionally, we verify consistency and $\\sqrt{n}$-asymptotic normality of minimum-divergence estimators and of finitely many DM iterations, showing that under correct specification their limiting covariance matches the Fisher information. Robustness is analyzed via the residual-adjustment function, yielding bounded influence functions and a strictly positive breakdown bound for bounded-RAF divergences, and we contrast this with the non-robust behaviour of KL/EM. Next, we address the challenge of determining the number of mixture components by proposing a penalized divergence criterion combined with repeated sample splitting, which delivers consistent order selection and valid post-selection inference. Empirically, DM instantiations based on Hellinger and negative exponential divergences deliver accurate inference and remain stable under contamination in mixture and image-segmentation tasks. The results clarify connections to MM and proximal-point methods and offer practical defaults, making DM a drop-in alternative to EM for robust latent-structure inference.",
+ "primary": "math.ST"
+}

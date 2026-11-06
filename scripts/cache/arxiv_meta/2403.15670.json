@@ -1,0 +1,19 @@
+{
+ "id": "2403.15670",
+ "title": "Computationally Scalable Bayesian SPDE Modeling for Censored Spatial Responses",
+ "authors": [
+  "Indranil Sahoo",
+  "Suman Majumder",
+  "Arnab Hazra",
+  "Ana G. Rappold",
+  "Dipankar Bandyopadhyay"
+ ],
+ "v1_date": "2024-03-23",
+ "latest_version": 1,
+ "latest_date": "2024-03-23",
+ "journal_ref": "",
+ "doi": "10.51387/25-nejsds78",
+ "comment": "",
+ "abstract": "Observations of groundwater pollutants, such as arsenic or Perfluorooctane sulfonate (PFOS), are riddled with left censoring. These measurements have impact on the health and lifestyle of the populace. Left censoring of these spatially correlated observations are usually addressed by applying Gaussian processes (GPs), which have theoretical advantages. However, this comes with a challenging computational complexity of $\\mathcal{O}(n^3)$, which is impractical for large datasets. Additionally, a sizable proportion of the data being left-censored creates further bottlenecks, since the likelihood computation now involves an intractable high-dimensional integral of the multivariate Gaussian density. In this article, we tackle these two problems simultaneously by approximating the GP with a Gaussian Markov random field (GMRF) approach that exploits an explicit link between a GP with Matérn correlation function and a GMRF using stochastic partial differential equations (SPDEs). We introduce a GMRF-based measurement error into the model, which alleviates the likelihood computation for the censored data, drastically improving the speed of the model while maintaining admirable accuracy. Our approach demonstrates robustness and substantial computational scalability, compared to state-of-the-art methods for censored spatial responses across various simulation settings. Finally, the fit of this fully Bayesian model to the concentration of PFOS in groundwater available at 24,959 sites across California, where 46.62\\% responses are censored, produces prediction surface and uncertainty quantification in real time, thereby substantiating the applicability and scalability of the proposed method. Code for implementation is made available via GitHub.",
+ "primary": "stat.ME"
+}

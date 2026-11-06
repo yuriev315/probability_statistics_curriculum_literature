@@ -1,0 +1,17 @@
+{
+ "id": "2512.19944",
+ "title": "Variable selection in frailty mixture cure models via penalized likelihood estimation",
+ "authors": [
+  "Richard Tawiah",
+  "Shu Kay Ng",
+  "Geoffrey J. McLachlan"
+ ],
+ "v1_date": "2025-12-23",
+ "latest_version": 1,
+ "latest_date": "2025-12-23",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Variable selection naturally arises as a useful subject when faced with data with massive predictor space. In addition to the massive dimensionality, the data may be characterized by intra-subject correlation, and cure fraction, which are ubiquitous in longitudinal studies with recurrent events defining the endpoint of interest. However, variable selection methods simultaneously adjusting for intra-subject correlation, and cure fraction are rare. We propose a comprehensive variable selection method for frailty mixture cure models based on penalized least squares approximation via the generalized linear mixed model methodology. The method provides shrinkage estimation and selection of fixed effects in the incidence and the latency submodels, adjusting for intra-subject correlation using a random effect term. The random effect is shared between the incidence and the latency, incorporating a flexible choice of covariance structure, allowing intra-subject correlation to be modeled as either time-invariant or time-varying. Estimation is facilitated by a penalized semiparametric restricted maximum likelihood method using an expectation-maximization algorithm. Two penalty functions, namely the adaptive least absolute shrinkage and selection operator (adaptive lasso), and the smoothly clipped absolute deviation (SCAD) are studied in the proposed method. Simulation studies are considered, benchmarking the method against an oracle procedure to access its finite sample performance. The practical utility of the method is illustrated using data on recurrent events from a breast cancer gene expression study. In the presence of a relatively large predictor space, results show that the method yields plausible interpretability in whole, as opposed to an unpenalized model.",
+ "primary": "stat.ME"
+}

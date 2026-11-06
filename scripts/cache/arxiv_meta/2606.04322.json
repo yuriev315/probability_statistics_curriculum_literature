@@ -1,0 +1,15 @@
+{
+ "id": "2606.04322",
+ "title": "Robust Prediction Variance Estimation for Gaussian Process Regression Under Covariance Smoothness Misspecification",
+ "authors": [
+  "Roberto Rivera"
+ ],
+ "v1_date": "2026-06-03",
+ "latest_version": 1,
+ "latest_date": "2026-06-03",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Best Linear Unbiased Prediction (BLUP) has been a dominant approach in Generalized Linear Mixed Models, spatial models, and Gaussian Process Regression (GPR). In addition to their optimal properties, BLUP procedures quantify prediction uncertainty. However, the general implementation of BLUP goes as follows: (i) assume the probability distribution and covariance function are known and that only the covariance parameter values are unknown; (ii) plug in parameter estimates into BLUP equations to get the Estimated Best Linear Unbiased Prediction (EBLUP) and its variance. In applications, the reality is that the true covariance function for the process is unknown and choosing the wrong covariance model, particularly its smoothness, to estimate parameters yields a quasi-EBLUP whose prediction variance is biased downward. Focusing on a GPR context, in this paper we first demonstrate that the effect of misspecification on the mean squared prediction error (MSPE) of the quasi-EBLUP converges to a positive constant when the working and true measures are non-equivalent, and is smooth in the prediction location. We then propose a new way to estimate the MSPE of the quasi-EBLUP that accounts for covariance function uncertainty. Our new estimator is compared to four other prediction variance estimators. The new prediction variance estimator generally performs better than all other competitors, and the larger the misspecification of the covariance smoothness, the wider the difference among MSPE estimators.",
+ "primary": "stat.ME"
+}

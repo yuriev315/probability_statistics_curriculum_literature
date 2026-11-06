@@ -1,0 +1,19 @@
+{
+ "id": "2512.16833",
+ "title": "Distributed inference for heterogeneous mixture models using multi-site data",
+ "authors": [
+  "Xiaokang Liu",
+  "Rui Duan",
+  "Raymond J. Carroll",
+  "Yang Ning",
+  "Yong Chen"
+ ],
+ "v1_date": "2025-12-18",
+ "latest_version": 1,
+ "latest_date": "2025-12-18",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "70 pages, 5 figures",
+ "abstract": "Mixture models postulate the overall population as a mixture of finite subpopulations with unobserved membership. Fitting mixture models usually requires large sample sizes and combining data from multiple sites can be beneficial. However, sharing individual participant data across sites is often less feasible due to various types of practical constraints, such as data privacy concerns. Moreover, substantial heterogeneity may exist across sites, and locally identified latent classes may not be comparable across sites. We propose a unified modeling framework where a common definition of the latent classes is shared across sites and heterogeneous mixing proportions of latent classes are allowed to account for between-site heterogeneity. To fit the heterogeneous mixture model on multi-site data, we propose a novel distributed Expectation-Maximization (EM) algorithm where at each iteration a density ratio tilted surrogate Q function is constructed to approximate the standard Q function of the EM algorithm as if the data from multiple sites could be pooled together. Theoretical analysis shows that our estimator achieves the same contraction property as the estimators derived from the EM algorithm based on the pooled data.",
+ "primary": "stat.ME"
+}

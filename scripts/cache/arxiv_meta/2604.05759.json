@@ -1,0 +1,16 @@
+{
+ "id": "2604.05759",
+ "title": "High-dimensional reliability-based design optimization using stochastic emulators",
+ "authors": [
+  "M. Moustapha",
+  "B. Sudret"
+ ],
+ "v1_date": "2026-04-07",
+ "latest_version": 2,
+ "latest_date": "2026-10-05",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Reliability-based design optimization (RBDO) is traditionally formulated as a nested optimization and reliability problem and remains computationally demanding, especially in high dimensions. This paper proposes a new RBDO framework based on a stochastic simulator viewpoint, in which the deterministic limit-state function and uncertain model inputs are combined into a unified stochastic representation. For a given design, the system response is characterized directly through its conditional output distribution rather than through an explicit limit-state function. Stochastic emulators are constructed in the design space to approximate this conditional distribution, enabling semi-analytical evaluation of failure probabilities or associated quantiles without Monte Carlo simulation. Two approaches are considered: generalized lambda models (GLaM) and stochastic polynomial chaos expansions (SPCE). Both yield deterministic mappings between design variables and reliability constraints, thereby eliminating the classical double-loop structure and enabling standard deterministic optimization. The approach is assessed on benchmark problems ranging from low to very high dimension, including stochastic excitation, and compared with Kriging in the full input space and heteroscedastic Gaussian processes in the design space. The proposed method provides substantial computational gains, particularly for high-dimensional random inputs, while retaining comparable efficiency to Kriging in low dimensions. Unlike heteroscedastic Gaussian processes, GLaM and SPCE also avoid restrictive assumptions on the conditional response distribution.",
+ "primary": "stat.CO"
+}

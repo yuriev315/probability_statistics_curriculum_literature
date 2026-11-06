@@ -1,0 +1,20 @@
+{
+ "id": "2507.17867",
+ "title": "Spatialize v1.0: A Python/C++ Library for Ensemble Spatial Interpolation",
+ "authors": [
+  "Felipe Navarro",
+  "Alvaro F. Egaña",
+  "Alejandro Ehrenfeld",
+  "Felipe Garrido",
+  "María Jesús Valenzuela",
+  "Juan F. Sánchez-Pérez"
+ ],
+ "v1_date": "2025-07-23",
+ "latest_version": 2,
+ "latest_date": "2025-07-28",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "In this paper, we present Spatialize, an open-source library that implements ensemble spatial interpolation, a novel method that combines the simplicity of basic interpolation methods with the power of classical geostatistical tools, like Kriging. It leverages the richness of stochastic modelling and ensemble learning, making it robust, scalable and suitable for large datasets. In addition, Spatialize provides a powerful framework for uncertainty quantification, offering both point estimates and empirical posterior distributions. It is implemented in Python 3.x, with a C++ core for improved performance, and is designed to be easy to use, requiring minimal user intervention. This library aims to bridge the gap between expert and non-expert users of geostatistics by providing automated tools that rival traditional geostatistical methods. Here, we present a detailed description of Spatialize along with a wealth of examples of its use.",
+ "primary": "stat.ME"
+}

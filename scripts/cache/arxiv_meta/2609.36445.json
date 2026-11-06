@@ -1,0 +1,17 @@
+{
+ "id": "2609.36445",
+ "title": "Continuously Updating GMM in Linear IV Models: A Polynomial Approach",
+ "authors": [
+  "Marcelo J. Moreira",
+  "Whitney K. Newey",
+  "Mahrad Sharifvaghefi"
+ ],
+ "v1_date": "2026-09-29",
+ "latest_version": 1,
+ "latest_date": "2026-09-29",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "This paper characterizes the global minimum of the continuously updating generalized method of moments (CU-GMM) objective in linear instrumental variables models. We allow optimal weighting matrices under heteroskedasticity, autocorrelation, or clustering. We show that the objective is a ratio of polynomials. For one endogenous regressor, stationary points of CU-GMM objective function are real eigenvalues of a companion matrix. Comparing their objective values with the value at infinity gives the global minimum, extending the classical eigenvector approach to limited information maximum likelihood. With multiple endogenous regressors, algebraic elimination and checks for real solutions identify the minimum among finitely many candidate objective values, including boundary values. Galois theory rules out general formulas by radicals even with one endogenous regressor and two instruments, while numerical root finding remains possible. Finding the global minimum allows us to compute overidentification and likelihood ratio tests, including the conditional likelihood ratio (CLR) test.",
+ "primary": "econ.EM"
+}

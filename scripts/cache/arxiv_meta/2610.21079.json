@@ -1,0 +1,15 @@
+{
+ "id": "2610.21079",
+ "title": "Reliability and Preventive Maintenance for Multivariate Gamma Degradation with Shared Random Effects and Cumulative Environmental Shock Damage",
+ "authors": [
+  "Jiale Niu"
+ ],
+ "v1_date": "2026-10-15",
+ "latest_version": 1,
+ "latest_date": "2026-10-15",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "Gamma process; Random effects; Environmental shock damage; Variational inference; Degradation; Preventive replacement",
+ "abstract": "In industrial engineering, many highly reliable products have multiple performance characteristics that degrade simultaneously over time. Owing to common manufacturing factors and shared operating environments, their degradation processes are often statistically dependent. External environmental shocks may also accumulate into common damage and jointly contribute to system failure. To characterize such dependence, unit heterogeneity, and cumulative environmental damage, this study proposes a multivariate Gamma degradation model with a shared random effect and a shared environmental degradation process. Each degradation process consists of an individual Gamma process and a shared Gamma process, while the random effect captures latent heterogeneity across units and induces additional dependence. An explicit expression for system reliability is derived. For parameter estimation, an expectation maximization algorithm combined with variational inference is developed, and parametric bootstrap is used for uncertainty quantification. A preventive maintenance optimization approach is further established. Simulation studies and a coating degradation application demonstrate the effectiveness and practical applicability of the proposed methods.",
+ "primary": "stat.AP"
+}

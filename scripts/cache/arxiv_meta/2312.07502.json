@@ -1,0 +1,16 @@
+{
+ "id": "2312.07502",
+ "title": "Posterior Concentration for Gaussian Process Priors under Rescaled and Hierarchical Matérn and Confluent Hypergeometric Covariance Functions",
+ "authors": [
+  "Xiao Fang",
+  "Anindya Bhadra"
+ ],
+ "v1_date": "2023-12-12",
+ "latest_version": 3,
+ "latest_date": "2025-07-10",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "38 pages, 7 figures",
+ "abstract": "In nonparameteric Bayesian approaches, Gaussian stochastic processes can serve as priors on real-valued function spaces. Existing literature on the posterior convergence rates under Gaussian process priors shows that it is possible to achieve optimal or near-optimal posterior contraction rates if the smoothness of the Gaussian process matches that of the target function. Among those priors, Gaussian processes with a parametric Matérn covariance function is particularly notable in that its degree of smoothness can be determined by a dedicated smoothness parameter. \\citet{ma2022beyond} recently introduced a new family of covariance functions called the Confluent Hypergeometric (CH) class that simultaneously possess two parameters: one controls the tail index of the polynomially decaying covariance function, and the other parameter controls the degree of mean-squared smoothness analogous to the Matérn class. In this paper, we show that with proper choice of rescaling parameters in the Matérn and CH covariance functions, it is possible to obtain the minimax optimal posterior contraction rate for $η$-regular functions for nonparametric regression model with fixed design. Unlike the previous results for unrescaled cases, the smoothness parameter of the covariance function need not equal $η$ for achieving the optimal minimax rate, for either rescaled Matérn or rescaled CH covariances, illustrating a key benefit for rescaling. We also consider a fully Bayesian treatment of the rescaling parameters and show the resulting posterior distributions still contract at the minimax-optimal rate. The resultant hierarchical Bayesian procedure is fully adaptive to the unknown true smoothness.",
+ "primary": "math.ST"
+}

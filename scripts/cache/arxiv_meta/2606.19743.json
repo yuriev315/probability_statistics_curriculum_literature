@@ -1,0 +1,20 @@
+{
+ "id": "2606.19743",
+ "title": "A Bayesian spatio-temporal nearest neighbor Gaussian process model for pooled genetic data",
+ "authors": [
+  "Imke Botha",
+  "Tianxiao Hao",
+  "Lucinda E. Harrison",
+  "Nick Golding",
+  "Daniel J. Weiss",
+  "Jennifer A. Flegg"
+ ],
+ "v1_date": "2026-06-18",
+ "latest_version": 1,
+ "latest_date": "2026-06-18",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Large scale genetic datasets often aggregate the total allele counts of distinct genetic markers. Inferring haplotype frequencies (i.e.\\ the frequency of multimarker alleles) from these pooled data is a challenge. Previous spatio-temporal modelling in this context has been limited to 3 markers due to the computational cost. In this work, we propose a nearest neighbor Gaussian process (NNGP) model to improve scaling with the number of markers and observations. To infer the parameters of our model, we develop a novel sequential Monte Carlo squared algorithm, which uses particle Gibbs with ancestor sampling to mutate the NNGP function values. The latter has a linear cost in the number of observations and the number of NNGPs, and can be applied to a broad range of NNGP models. As a case study, we analyse genetic data relating to antimalarial drug resistance in Africa, and show our scaling results empirically on a 3 and 6 genetic marker dataset.",
+ "primary": "stat.ME"
+}

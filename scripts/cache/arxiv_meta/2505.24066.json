@@ -1,0 +1,17 @@
+{
+ "id": "2505.24066",
+ "title": "Adaptive Resolution for Finite-Rank Gaussian Processes",
+ "authors": [
+  "Jaehoan Kim",
+  "Anirban Bhattacharya",
+  "Debdeep Pati"
+ ],
+ "v1_date": "2025-05-29",
+ "latest_version": 2,
+ "latest_date": "2026-06-06",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "48 pages, 5 figures",
+ "abstract": "Finite-rank approximations are widely used to scale Gaussian process (GP) regression, but their posterior behavior can differ from that of the corresponding parent GP prior. We study a class of finite-rank GP priors built from locally supported basis expansions with dependent Gaussian coefficients. Our framework covers finite-element approximations based on the stochastic partial differential equation (SPDE) representation of Matérn GPs and regular-grid GP interpolation schemes. We show that, with a suitable prior on the resolution parameter $N$, these finite-rank expansions inherit the same posterior contraction rate as the corresponding parent GP prior under the same bandwidth specification used for that parent prior. Consequently, the interpolation construction under a squared-exponential parent GP attains the minimax-optimal rate up to logarithmic factors under a hierarchical prior on the bandwidth parameter and on $N$, while the SPDE construction attains the same rate under a bandwidth scaling depending on the sample size and the smoothness of the true function, together with a prior on $N$. We also develop a posterior sampler for the hierarchical interpolation model that jointly updates the resolution and bandwidth parameters, and we provide numerical studies that support the theory.",
+ "primary": "math.ST"
+}

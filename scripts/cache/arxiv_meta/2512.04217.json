@@ -1,0 +1,17 @@
+{
+ "id": "2512.04217",
+ "title": "High-Resolution Retrieval of Atmospheric Boundary Layers with Nonstationary Gaussian Processes",
+ "authors": [
+  "Haoran Xiong",
+  "Paytsar Muradyan",
+  "Christopher J. Geoga"
+ ],
+ "v1_date": "2025-12-03",
+ "latest_version": 1,
+ "latest_date": "2025-12-03",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "The atmospheric boundary layer (ABL) plays a critical role in governing turbulent exchanges of momentum, heat moisture, and trace gases between the Earth's surface and the free atmosphere, thereby influencing meteorological phenomena, air quality, and climate processes. Accurate and temporally continuous characterization of the ABL structure and height evolution is crucial for both scientific understanding and practical applications. High-resolution retrievals of the ABL height from vertical velocity measurements is challenging because it is often estimated using empirical thresholds applied to profiles of vertical velocity variance or related turbulence diagnostics at each measurement altitude, which can suffer from limited sampling and sensitivity to noise. To address these limitations, this work employs nonstationary Gaussian process (GP) modeling to more effectively capture the spatio-temporal dependence structure in the data, enabling high-quality -- and, if desired, high-resolution -- estimates of the ABL height without reliance on ad-hoc parameter tuning. By leveraging Vecchia approximations, the proposed method can be applied to large-scale datasets, and example applications using full-day vertical velocity profiles comprising approximately $5$M measurements are presented.",
+ "primary": "physics.ao-ph"
+}

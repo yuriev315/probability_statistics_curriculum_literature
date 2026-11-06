@@ -1,0 +1,17 @@
+{
+ "id": "2510.05857",
+ "title": "Missing Data Imputation in the Context of Propensity Score Analysis: A Systematic Review",
+ "authors": [
+  "Saghar Garayemi",
+  "Reza Ali Akbari Khoei",
+  "Sarah Friedrich"
+ ],
+ "v1_date": "2025-10-07",
+ "latest_version": 1,
+ "latest_date": "2025-10-07",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Missing data is a common challenge in observational studies. Another challenge stems from the observational nature of the study itself. Here, propensity score analysis can be used as a technique to replicate conditions similar to those found in clinical trials. With regard to the missing data, a majority of studies only analyze the complete cases, but this has several pitfalls. In this review, we investigate which methods are used for the handling of missing data in the context of propensity score analyses. Therefore, we searched PubMed for the keywords propensity score and missing data, restricting our search to the time between January 2010 and February 2024. The PRISMA statement was followed in this review. A total of 147 articles were included in the analyses. A major finding of this study is that although the usage of multiple imputation (MI) has risen over time, only a limited number of studies describe the mechanism of missing data and the details of the MI algorithm. Keywords Missing data, Propensity Score, Observational Data, Multiple Imputation, Systematic Review",
+ "primary": "stat.OT"
+}

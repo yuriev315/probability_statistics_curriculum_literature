@@ -1,0 +1,16 @@
+{
+ "id": "2510.18067",
+ "title": "A Neural-Mean Vecchia Gaussian Process for Unified Argo Modeling",
+ "authors": [
+  "Nian Liu",
+  "Jian Cao"
+ ],
+ "v1_date": "2025-10-20",
+ "latest_version": 2,
+ "latest_date": "2026-04-26",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Argo is an international program that collects temperature and salinity observations in the upper two kilometers of the global ocean. Most existing approaches for modeling Argo temperature rely on localized modeling within moving windows, first estimating a prescribed mean structure and then fitting Gaussian processes (GPs) to the mean-subtracted anomalies. Such strategies introduce challenges in designing suitable mean structures and defining local moving windows, often resulting in case-specific modeling choices. In this work, we propose a one-stop Gaussian process regression framework with a flexible mean structure and a generic spatio-temporal covariance function to jointly model Argo temperature data across broad spatial domains. Our fully data-driven approach achieves predictive performance that compares favorably with the established benchmarks that require moving-window regression and separate parametric mean estimation. To ensure scalability over large spatial regions, we employ the Vecchia approximation, which reduces the computational complexity from cubic to quasi-linear in the number of observations while preserving predictive accuracy. Using Argo data from January to March over the years 2007-2016, the same dataset used in prior benchmark studies, we demonstrate that our approach provides a unified and data-driven alternative for large-scale oceanographic analysis.",
+ "primary": "stat.CO"
+}

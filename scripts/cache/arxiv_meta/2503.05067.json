@@ -1,0 +1,16 @@
+{
+ "id": "2503.05067",
+ "title": "Inverse sampling intensity weighting for preferential sampling adjustment",
+ "authors": [
+  "Thomas W. Hsiao",
+  "Lance A. Waller"
+ ],
+ "v1_date": "2025-03-07",
+ "latest_version": 2,
+ "latest_date": "2025-12-20",
+ "journal_ref": "Journal of Agricultural, Biological, and Environmental Statistics, 2026",
+ "doi": "10.1007/s13253-026-00730-z",
+ "comment": "",
+ "abstract": "Traditional geostatistical methods assume independence between observation locations and the spatial process of interest. Violations of this independence assumption are referred to as preferential sampling (PS). Standard methods to address PS rely on estimating complex shared latent variable models and can be difficult to apply in practice. We study the use of inverse sampling intensity weighting (ISIW) for PS adjustment in model-based geostatistics. ISIW is a two-stage approach wherein we estimate the sampling intensity of the observation locations then define intensity-based weights within a weighted likelihood adjustment. Prediction follows by substituting the adjusted parameter estimates within kriging. We introduce an implementation of ISIW based on the Vecchia approximation, enabling computational gains while maintaining strong predictive accuracy. Interestingly, we found that ISIW outpredicts standard PS methods under misspecification of the sampling design, and that accurate parameter estimation had little correlation with predictive performance, raising questions about the conditions driving optimal implementation of kriging-based predictors under PS. Our work highlights the potential of ISIW to adjust for PS in an intuitive, fast, and effective manner. We illustrate these ideas on spatial prediction of lead concentrations measured through moss biomonitoring data in Galicia, Spain, and PM2.5 concentrations from the U.S. EPA Air Quality System network in California.",
+ "primary": "stat.ME"
+}

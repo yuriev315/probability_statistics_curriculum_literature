@@ -1,0 +1,17 @@
+{
+ "id": "2605.07571",
+ "title": "On the Besov-Orlicz path regularity of some Gaussian processes",
+ "authors": [
+  "Rachid Belfadli",
+  "Brahim Boufoussi",
+  "Youssef Ouknine"
+ ],
+ "v1_date": "2026-05-08",
+ "latest_version": 1,
+ "latest_date": "2026-05-08",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "13 pages",
+ "abstract": "In this paper, we rely on the additive decomposition in law satisfied by a class of stochastic processes, combined with the well-known regulariy properties of fractional Brownian motion, to establish Besov-Orlicz regularity of their sample paths. This provides a unified and direct proof for a broad class of processes, including bifractional Brownian motion with parameters $H\\in (0, 1]$, $ K\\in (0, 2)$ such that $HK \\in (0, 1)$, subfractional Brownian motion with Hurst parameter $H\\in (0, 1)$, and certain class of self-similar processes. %associated with the stochastic heat equation.",
+ "primary": "math.PR"
+}

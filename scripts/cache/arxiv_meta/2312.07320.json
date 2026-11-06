@@ -1,0 +1,16 @@
+{
+ "id": "2312.07320",
+ "title": "Convergence rates of non-stationary and deep Gaussian process regression",
+ "authors": [
+  "Conor Osborne",
+  "Aretha L. Teckentrup"
+ ],
+ "v1_date": "2023-12-12",
+ "latest_version": 4,
+ "latest_date": "2025-03-18",
+ "journal_ref": "Foundations of Data Science, 2026, 8: 63-118",
+ "doi": "10.3934/fods.2025004",
+ "comment": "59 pages, 12 figures",
+ "abstract": "The focus of this work is the convergence of non-stationary and deep Gaussian process regression. More precisely, we follow a Bayesian approach to regression or interpolation, where the prior placed on the unknown function $f$ is a non-stationary or deep Gaussian process, and we derive convergence rates of the posterior mean to the true function $f$ in terms of the number of observed training points. In some cases, we also show convergence of the posterior variance to zero. The only assumption imposed on the function $f$ is that it is an element of a certain reproducing kernel Hilbert space, which we in particular cases show to be norm-equivalent to a Sobolev space. Our analysis includes the case of estimated hyper-parameters in the covariance kernels employed, both in an empirical Bayes' setting and the particular hierarchical setting constructed through deep Gaussian processes. We consider the settings of noise-free or noisy observations on deterministic or random training points. We establish general assumptions sufficient for the convergence of deep Gaussian process regression, along with explicit examples demonstrating the fulfilment of these assumptions. Specifically, our examples require that the Hölder or Sobolev norms of the penultimate layer are bounded almost surely.",
+ "primary": "math.ST"
+}

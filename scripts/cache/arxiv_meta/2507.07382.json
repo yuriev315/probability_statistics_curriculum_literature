@@ -1,0 +1,17 @@
+{
+ "id": "2507.07382",
+ "title": "Feature-free regression kriging",
+ "authors": [
+  "Peng Luo",
+  "Yilong Wu",
+  "Yongze Song"
+ ],
+ "v1_date": "2025-07-10",
+ "latest_version": 1,
+ "latest_date": "2025-07-10",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Spatial interpolation is a crucial task in geography. As perhaps the most widely used interpolation methods, geostatistical models -- such as Ordinary Kriging (OK) -- assume spatial stationarity, which makes it difficult to capture the nonstationary characteristics of geographic variables. A common solution is trend surface modeling (e.g., Regression Kriging, RK), which relies on external explanatory variables to model the trend and then applies geostatistical interpolation to the residuals. However, this approach requires high-quality and readily available explanatory variables, which are often lacking in many spatial interpolation scenarios -- such as estimating heavy metal concentrations underground. This study proposes a Feature-Free Regression Kriging (FFRK) method, which automatically extracts geospatial features -- including local dependence, local heterogeneity, and geosimilarity -- to construct a regression-based trend surface without requiring external explanatory variables. We conducted experiments on the spatial distribution prediction of three heavy metals in a mining area in Australia. In comparison with 17 classical interpolation methods, the results indicate that FFRK, which does not incorporate any explanatory variables and relies solely on extracted geospatial features, consistently outperforms both conventional Kriging techniques and machine learning models that depend on explanatory variables. This approach effectively addresses spatial nonstationarity while reducing the cost of acquiring explanatory variables, improving both prediction accuracy and generalization ability. This finding suggests that an accurate characterization of geospatial features based on domain knowledge can significantly enhance spatial prediction performance -- potentially yielding greater improvements than merely adopting more advanced statistical models.",
+ "primary": "physics.soc-ph"
+}

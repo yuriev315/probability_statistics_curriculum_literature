@@ -1,0 +1,18 @@
+{
+ "id": "2401.00395",
+ "title": "Energetic Variational Gaussian Process Regression for Computer Experiments",
+ "authors": [
+  "Lulu Kang",
+  "Yuanxing Cheng",
+  "Yiwei Wang",
+  "Chun Liu"
+ ],
+ "v1_date": "2023-12-31",
+ "latest_version": 2,
+ "latest_date": "2024-04-01",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "19 pages, 7 figures, 3 tables",
+ "abstract": "The Gaussian process (GP) regression model is a widely employed surrogate modeling technique for computer experiments, offering precise predictions and statistical inference for the computer simulators that generate experimental data. Estimation and inference for GP can be performed in both frequentist and Bayesian frameworks. In this chapter, we construct the GP model through variational inference, particularly employing the recently introduced energetic variational inference method by Wang et al. (2021). Adhering to the GP model assumptions, we derive posterior distributions for its parameters. The energetic variational inference approach bridges the Bayesian sampling and optimization and enables approximation of the posterior distributions and identification of the posterior mode. By incorporating a normal prior on the mean component of the GP model, we also apply shrinkage estimation to the parameters, facilitating mean function variable selection. To showcase the effectiveness of our proposed GP model, we present results from three benchmark examples.",
+ "primary": "stat.ME"
+}

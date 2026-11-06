@@ -1,0 +1,17 @@
+{
+ "id": "2608.22422",
+ "title": "Nearest-Neighbor Non-Gaussian Processes for Geostatistical Modeling",
+ "authors": [
+  "Penghui Fu",
+  "Yuhan Dong",
+  "Jianhua Z. Huang"
+ ],
+ "v1_date": "2026-08-23",
+ "latest_version": 1,
+ "latest_date": "2026-08-23",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We develop a general class of nearest-neighbor non-Gaussian processes (NNnGP) for modeling geostatistical data. By introducing non-linear conditional mean functions into the Vecchia approximation, NNnGP extends the popular nearest-neighbor Gaussian process (NNGP) to effectively capture complex, non-Gaussian spatial characteristics. To ensure coherent spatial predictions from a single realization, we propose a regularized homogeneity condition across the univariate conditionals. We then formulate a Bayesian non-parametric construction of the conditional mean using Gaussian processes and embed the resulting NNnGP as a non-Gaussian spatial prior within a hierarchical regression model. For posterior computation and prediction, we adopt a normalizing flow-based variational inference approach. Numerical experiments on synthetic data and real-world PRISM precipitation anomalies demonstrate that NNnGP captures local non-linear dependencies and significantly mitigates the underestimation of extreme spatial events, all the while maintaining global predictive accuracy.",
+ "primary": "stat.ME"
+}

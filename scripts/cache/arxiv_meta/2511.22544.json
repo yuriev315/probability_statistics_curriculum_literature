@@ -1,0 +1,19 @@
+{
+ "id": "2511.22544",
+ "title": "Mapping Urban Air Quality from Mobile Sensors Using Spatio-Temporal Geostatistics",
+ "authors": [
+  "Yacine Mohamed Idir",
+  "Olivier Orfila",
+  "Vincent Judalet",
+  "Benoit Sagot",
+  "Patrice Chatellier"
+ ],
+ "v1_date": "2025-11-27",
+ "latest_version": 1,
+ "latest_date": "2025-11-27",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "With the advancement of technology and the arrival of miniaturized environmental sensors that offer greater performance, the idea of building mobile network sensing for air quality has quickly emerged to increase our knowledge of air pollution in urban environments. However, with these new techniques, the difficulty of building mathematical models capable of aggregating all these data sources in order to provide precise mapping of air quality arises. In this context, we explore the spatio-temporal geostatistics methods as a solution for such a problem and evaluate three different methods: Simple Kriging (SK) in residuals, Ordinary Kriging (OK), and Kriging with External Drift (KED). On average, geostatistical models showed 26.57% improvement in the Root Mean Squared Error (RMSE) compared to the standard Inverse Distance Weighting (IDW) technique in interpolating scenarios (27.94% for KED, 26.05% for OK, and 25.71% for SK). The results showed less significant scores in extrapolating scenarios (a 12.22% decrease in the RMSE for geostatisical models compared to IDW). We conclude that univariable geostatistics is suitable for interpolating this type of data but is less appropriate for an extrapolation of non-sampled places since it does not create any information.",
+ "primary": "stat.ME"
+}

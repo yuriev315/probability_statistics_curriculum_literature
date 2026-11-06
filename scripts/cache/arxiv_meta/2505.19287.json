@@ -1,0 +1,17 @@
+{
+ "id": "2505.19287",
+ "title": "svc: An R package for Spatially Varying Coefficient Models",
+ "authors": [
+  "Justice Akuoko-Frimpong",
+  "Edward Shao",
+  "Jonathan Ta"
+ ],
+ "v1_date": "2025-05-25",
+ "latest_version": 1,
+ "latest_date": "2025-05-25",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Traditional regression models assume stationary relationships between predictors and responses, failing to capture the spatial heterogeneity present in many environmental, epidemiological, and ecological processes. To address this limitation, we develop a scalable Bayesian framework for spatially varying coefficient (SVC) models, implemented in the \\pkg{svc} R package (available at https://github.com/jdta95/svc), which allows regression coefficients to vary smoothly over space. Our approach combines three key computational innovations: (1) a subset Gaussian process approximation that reduces the computational burden from $O(n^3)$ to $O(m^3)$ with $m<n$, while maintaining predictive accuracy; (2) a robust adaptive Metropolis (RAM) algorithm that automatically tunes proposal distributions for efficient MCMC sampling of spatial range parameters; and (3) optimized linear algebra operations leveraging precomputed distance matrices and Cholesky decompositions to accelerate covariance calculations. We present the model's theoretical foundation, prior specification, and Gibbs sampling algorithm, with a focus on practical implementation for large spatial datasets. Simulation studies demonstrate that our method outperforms existing approaches in computational efficiency while maintaining competitive estimation accuracy. We illustrate its application in an analysis of land surface temperature (LST) data, revealing spatially varying effects of vegetation and emissivity that would be obscured by traditional regression techniques. The \\pkg{svc} package provides researchers with a flexible, efficient tool for uncovering and quantifying nonstationary spatial relationships across diverse scientific domains.",
+ "primary": "stat.ME"
+}

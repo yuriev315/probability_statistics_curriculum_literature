@@ -1,0 +1,16 @@
+{
+ "id": "2604.26160",
+ "title": "Fitting Large Nonlinear Mixed Effects Models Using Variational Expectation Maximization",
+ "authors": [
+  "Mohamed Tarek",
+  "Pedro Afonso"
+ ],
+ "v1_date": "2026-04-28",
+ "latest_version": 2,
+ "latest_date": "2026-09-22",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Nonlinear Mixed Effects (NLME) models are widely used in pharmacometrics and related fields to analyze hierarchical and longitudinal data. However, as the number of parameters and random effects increases, traditional methods for maximizing the marginal likelihood become computationally expensive. This paper explores the Variational Expectation Maximization (VEM) algorithm, a scalable alternative for fitting NLME models. Originally introduced in the context of probabilistic graphical models and later popularized through variational autoencoders, VEM has not been extensively applied to NLME modeling. By leveraging flexible variational families and reverse-mode automatic differentiation, VEM can efficiently maximize the marginal likelihood, scaling to NLME models with over 15,000 population parameters. This work provides a detailed description of VEM, compares it to other NLME fitting algorithms, and highlights its scalability through computational experiments. Using the Pumas statistical software, we fit two test models: 1) a standard warfarin model, and 2) an unnecessarily over-parameterized DeepNLME Friberg model with 15,410 population parameters and 16 random effects. The warfarin model was fitted to completion to demonstrate the correctness of VEM, while the DeepNLME Friberg model instead demonstrates VEM's scalability on a toy but large model. VEM improves the log likelihood steadily over hundreds of iterations at a practical per-iteration cost, while FOCE fails to complete even one iteration within a day. The model is deliberately over-parameterized for its small dataset and over-fits it, so what this experiment establishes is that VEM optimizes the objective of a model of this size at a practical cost. Applying VEM to large models that are genuinely useful is left to future work.",
+ "primary": "stat.ME"
+}

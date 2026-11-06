@@ -1,0 +1,18 @@
+{
+ "id": "2411.06324",
+ "title": "Amortized Bayesian Local Interpolation NetworK: Fast covariance parameter estimation for Gaussian Processes",
+ "authors": [
+  "Brandon R. Feng",
+  "Reetam Majumder",
+  "Brian J. Reich",
+  "Mohamed A. Abba"
+ ],
+ "v1_date": "2024-11-10",
+ "latest_version": 1,
+ "latest_date": "2024-11-10",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Gaussian processes (GPs) are a ubiquitous tool for geostatistical modeling with high levels of flexibility and interpretability, and the ability to make predictions at unseen spatial locations through a process called Kriging. Estimation of Kriging weights relies on the inversion of the process' covariance matrix, creating a computational bottleneck for large spatial datasets. In this paper, we propose an Amortized Bayesian Local Interpolation NetworK (A-BLINK) for fast covariance parameter estimation, which uses two pre-trained deep neural networks to learn a mapping from spatial location coordinates and covariance function parameters to Kriging weights and the spatial variance, respectively. The fast prediction time of these networks allows us to bypass the matrix inversion step, creating large computational speedups over competing methods in both frequentist and Bayesian settings, and also provides full posterior inference and predictions using Markov chain Monte Carlo sampling methods. We show significant increases in computational efficiency over comparable scalable GP methodology in an extensive simulation study with lower parameter estimation error. The efficacy of our approach is also demonstrated using a temperature dataset of US climate normals for 1991--2020 based on over 7,000 weather stations.",
+ "primary": "stat.ML"
+}

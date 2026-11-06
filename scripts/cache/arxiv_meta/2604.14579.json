@@ -1,0 +1,15 @@
+{
+ "id": "2604.14579",
+ "title": "HASOD: A Hybrid Adaptive Screening-Optimization Design for High-Dimensional Industrial Experiments",
+ "authors": [
+  "Kumarjit Pathak"
+ ],
+ "v1_date": "2026-04-16",
+ "latest_version": 2,
+ "latest_date": "2026-04-25",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Industrial experimentation requires both factor screening to identify critical variables and response optimization to find optimal operating conditions. Traditional approaches treat these as separate phases, necessitating costly sequential experimentation and full experimental redesign between phases. This paper introduces HASOD (Hybrid Adaptive Screening-Optimization Design), a novel three-phase sequential framework that simultaneously addresses factor identification and response surface optimization within a unified adaptive structure. Phase 1 employs a modified Definitive Screening Design with an enhanced Cumulative Weighted Effect Screening Statistic (CWESS) incorporating interaction detection via ElasticNet regression. Phase 2 adaptively selects augmentation strategies -- from full factorial to Response Surface Methodology designs -- based on critical factors identified in Phase 1. Phase 3 applies Gaussian process-based global optimization with uncertainty-guided refinement near the predicted optimum. We prove that CWESS asymptotically separates active from inactive factors, providing classification consistency guarantees absent from most screening methodologies. Across six test scenarios, HASOD achieves 97.08% factor detection accuracy -- 13.75 percentage points above traditional sequential methods (83.33%) -- and significantly outperforms all eight competitor methods (p < 0.001). HASOD yields improved prediction performance (mean error: 3.61) while maintaining >=90% detection across all scenarios including interaction-heavy systems. The framework requires an average of 41.5 experimental runs -- a 43% increase over traditional approaches -- yet delivers superior detection accuracy with dramatically reduced prediction error. HASOD offers a theoretically grounded, unified framework that eliminates sequential redesign without sacrificing predictive capability.",
+ "primary": "stat.ME"
+}

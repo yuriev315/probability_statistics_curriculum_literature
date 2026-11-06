@@ -1,0 +1,17 @@
+{
+ "id": "2605.20615",
+ "title": "Evaluating causal indirect effects when mediators are left-censored by assay limit of quantification",
+ "authors": [
+  "Cong Jiang",
+  "Michael D. Hughes",
+  "Nima S. Hejazi"
+ ],
+ "v1_date": "2026-05-20",
+ "latest_version": 2,
+ "latest_date": "2026-05-30",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Causal mediation analysis is essential for disentangling the mechanisms by which investigational therapeutic and preventive agents impact clinical outcomes. However, the measurement of biological mediators is often subject to left-censoring by technical measurement limitations, most commonly an assay's limit of quantification. This form of censoring can pose severe challenges for both identification and estimation of causal mediation estimands, particularly when the censoring mechanism is deterministic and the resulting missingness is missing not at random (MNAR) or nonignorable. Motivated by the question of assessing the role of viral RNA in the action mechanism of monoclonal antibody therapies for COVID-19 in the Accelerating COVID-19 Therapeutics and Vaccine (ACTIV)-2 platform trial, we develop a semi-parametric framework for estimation of the natural direct and indirect effects when the mediator of interest is partially subject to this form of left-censoring. Our proposed strategy combines fractional imputation with a semi-parametric EM algorithm to flexibly estimate key components of the factorized data likelihood. Applying the proposed strategy to circumvent the left-censoring, we discuss both traditional plug-in and asymptotically efficient estimators of the direct and indirect effect estimands, introducing a data-adaptive $m$-out-of-$n$ bootstrap for robust inference under the imputation procedure. We demonstrate in numerical experiments that our approach significantly reduces bias and allows for reliable inference. An application to data from the ACTIV-2 platform trial confirms that monoclonal antibody therapies reduce the risk of hospitalization and death due to COVID-19, while suggesting that changes in viral RNA mediate only a modest proportion of the overall treatment effect.",
+ "primary": "stat.ME"
+}

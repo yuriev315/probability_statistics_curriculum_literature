@@ -1,0 +1,16 @@
+{
+ "id": "2504.03321",
+ "title": "Adaptive sparse variational approximations for Gaussian process regression",
+ "authors": [
+  "Dennis Nieman",
+  "Botond Szabó"
+ ],
+ "v1_date": "2025-04-04",
+ "latest_version": 1,
+ "latest_date": "2025-04-04",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Accurate tuning of hyperparameters is crucial to ensure that models can generalise effectively across different settings. In this paper, we present theoretical guarantees for hyperparameter selection using variational Bayes in the nonparametric regression model. We construct a variational approximation to a hierarchical Bayes procedure, and derive upper bounds for the contraction rate of the variational posterior in an abstract setting. The theory is applied to various Gaussian process priors and variational classes, resulting in minimax optimal rates. Our theoretical results are accompanied with numerical analysis both on synthetic and real world data sets.",
+ "primary": "math.ST"
+}

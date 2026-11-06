@@ -1,0 +1,15 @@
+{
+ "id": "2610.08157",
+ "title": "TEASE: Targeted elastic spatial envelope",
+ "authors": [
+  "Mitchell L. Krock"
+ ],
+ "v1_date": "2026-10-06",
+ "latest_version": 1,
+ "latest_date": "2026-10-06",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Envelope regression is a crucial part of multivariate linear modeling, leveraging separation into material and immaterial parts to provide parsimonious data reduction. Rekabdarkolaee et al. (2020) construct spatial envelope, a novel multivariate Gaussian process, extended by May et al. (2022) to linear coregionalization envelope. Our proposal (TEASE) combines spatial envelope and full-scale basis graphical lasso (LeDuc et al., 2025), leveraging targeted graphical elastic net (Kovács et al., 2021) for immaterial precision matrices. Material part is a multivariate multiresolution Gaussian Markov random field (Kleiber et al., 2019; Caringi and Secchi, 2026). Enhanced envelope penalty (Kwon and Zou, 2025) regularizes regression coefficients. Demonstrations are on climate data.",
+ "primary": "stat.ME"
+}

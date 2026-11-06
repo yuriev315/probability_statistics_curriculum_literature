@@ -1,0 +1,16 @@
+{
+ "id": "2607.20714",
+ "title": "High Minima of Gaussian Processes: Overshoots and Minimizer Locations",
+ "authors": [
+  "Enkelejd Hashorva",
+  "Svyatoslav Novikov"
+ ],
+ "v1_date": "2026-07-22",
+ "latest_version": 1,
+ "latest_date": "2026-07-22",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Let $X(t)$, $t\\in K$, be a centred Gaussian process with continuous sample paths on a compact metric space $K$, and let $M=\\min_{t\\in K}X(t)$. Let $σ_*^2$ denote the minimum covariance energy associated with $X$, and assume that $σ_*^2>0$. Motivated by the results of \\cite{chakrabarty2018asymptotic} for smooth Gaussian processes, we show that, conditionally on $M>u$, the scaled overshoot $u(M-u)$ converges, as $u\\to\\infty$, to an exponential random variable with mean $σ_*^2$. Moreover, every weak subsequential limit of the conditional law of a measurable minimizer of $X$ is an optimal covariance-energy measure. In particular, if this measure is unique, then the conditional law converges weakly to it. The results are illustrated by stationary Gaussian processes, fractional Brownian motion, and fractional Brownian sheet.",
+ "primary": "math.PR"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "2507.10388",
+ "title": "Semiparametric empirical likelihood inference for abundance from one-inflated capture-recapture data",
+ "authors": [
+  "Yang Liu",
+  "Pengfei Li",
+  "Yukun Liu",
+  "Riquan Zhang"
+ ],
+ "v1_date": "2025-07-14",
+ "latest_version": 1,
+ "latest_date": "2025-07-14",
+ "journal_ref": "Biometrical Journal (2022), 64, 1040-1055",
+ "doi": "10.1002/bimj.202100231",
+ "comment": "",
+ "abstract": "Abundance estimation from capture-recapture data is of great importance in many disciplines. Analysis of capture-recapture data is often complicated by the existence of one-inflation and heterogeneity problems. Simultaneously taking these issues into account, existing abundance estimation methods are usually constructed on the basis of conditional likelihood (CL) under one-inflated zero-truncated count models. However, the resulting Horvitz-Thompson-type estimators may be unstable, and the resulting Wald-type confidence intervals may exhibit severe undercoverage. In this paper, we propose a semiparametric empirical likelihood (EL) approach to abundance estimation under one-inflated binomial and Poisson regression models. We show that the maximum EL estimator for the abundance follows an asymptotically normal distribution and that the EL ratio statistic of abundance follows a limiting chi-square distribution with one degree of freedom. To facilitate computation of the EL method, we develop an expectation-maximization (EM) algorithm, and establish its appealing convergence property. We also propose a new score test for the existence of one-inflation and prove its asymptotic normality. Our simulation studies indicate that compared with CL-based methods, the maximum EL estimator has a smaller mean square error, the EL ratio confidence interval has a remarkable gain in coverage probability, and the proposed score test is more powerful. The advantages of the proposed approaches are further demonstrated by analyses of prinia data from Hong Kong and drug user data from Bangkok.",
+ "primary": "stat.ME"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "2311.09426",
+ "title": "Linear-Cost Vecchia Approximation of Multivariate Normal Probabilities",
+ "authors": [
+  "Jian Cao",
+  "Matthias Katzfuss"
+ ],
+ "v1_date": "2023-11-15",
+ "latest_version": 5,
+ "latest_date": "2026-01-26",
+ "journal_ref": "",
+ "doi": "10.1080/01621459.2025.2546586",
+ "comment": "",
+ "abstract": "Multivariate normal (MVN) probabilities arise in myriad applications, but they are analytically intractable and need to be evaluated via Monte-Carlo-based numerical integration. For the state-of-the-art minimax exponential tilting (MET) method, we show that the complexity of each of its components can be greatly reduced through an integrand parameterization that utilizes the sparse inverse Cholesky factor produced by the Vecchia approximation, whose approximation error is often negligible relative to the Monte-Carlo error. Based on this idea, we derive algorithms that can estimate MVN probabilities and sample from truncated MVN distributions in linear time (and that are easily parallelizable) at the same convergence or acceptance rate as MET, whose complexity is cubic in the dimension of the MVN probability. We showcase the advantages of our methods relative to existing approaches using several simulated examples. We also analyze a groundwater-contamination dataset with over twenty thousand censored measurements to demonstrate the scalability of our method for partially censored Gaussian-process models.",
+ "primary": "stat.CO"
+}

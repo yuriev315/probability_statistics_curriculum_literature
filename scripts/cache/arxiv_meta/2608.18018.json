@@ -1,0 +1,22 @@
+{
+ "id": "2608.18018",
+ "title": "Scalable Heteroskedastic Gaussian Process Models for Large Inhomogeneous Datasets",
+ "authors": [
+  "K. Potter",
+  "K. R. Moran",
+  "R. Ulrich",
+  "D. C. Stenning",
+  "D. Bingham",
+  "L. Castro",
+  "G. Wilson",
+  "C. A. Maldonado"
+ ],
+ "v1_date": "2026-08-18",
+ "latest_version": 2,
+ "latest_date": "2026-08-23",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We introduce Heteroskedastic Normalized Vecchia Gaussian Processes (HetNV), a scalable framework for Gaussian process regression with input-dependent observation noise. HetNV combines Vecchia likelihood approximations on normalized inputs with residual-based nonparametric variance estimation. The latent mean is estimated via a Vecchia GP with observation-specific nugget variances, while the log noise variance is obtained by smoothing stabilized log-squared residual pseudo-responses that account for kriging uncertainty and current nugget estimates, using LOESS in one dimension and thin plate spline generalized additive models in two dimensions. The method alternates between mean and variance updates, avoiding latent-variable inference for the variance process. For fixed neighborhood size ($m$) and number of observations ($n$), the dominant per-iteration cost is the Vecchia update, scaling as $O(nm^2)$. Simulation studies show improved recovery of input-dependent uncertainty relative to homoskedastic Vecchia models while maintaining competitive mean prediction accuracy, with additional gains in two-dimensional mean estimation. An application to spacecraft plasma measurements demonstrates how locally adaptive uncertainty estimates influence downstream signal-detection decisions in large, noisy, heteroskedastic settings.",
+ "primary": "stat.ME"
+}

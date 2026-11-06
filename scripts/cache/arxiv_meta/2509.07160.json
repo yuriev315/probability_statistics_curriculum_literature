@@ -1,0 +1,16 @@
+{
+ "id": "2509.07160",
+ "title": "Safe cross-entropy-based importance sampling for rare event simulations",
+ "authors": [
+  "Zhiwei Gao",
+  "George Karniadakis"
+ ],
+ "v1_date": "2025-09-08",
+ "latest_version": 1,
+ "latest_date": "2025-09-08",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "18 pages, 11 figures",
+ "abstract": "The Improved Cross-Entropy (ICE) method is a powerful tool for estimating failure probabilities in reliability analysis. Its core idea is to approximate the optimal importance-sampling density by minimizing the forward Kullback-Leibler divergence within a chosen parametric family-typically a mixture model. However, conventional mixtures are often light-tailed, which leads to slow convergence and instability when targeting very small failure probabilities. Moreover, selecting the number of mixture components in advance can be difficult and may undermine stability. To overcome these challenges, we adopt a weighted cross-entropy-penalized expectation-maximization (EM) algorithm that automatically prunes redundant components during the iterative process, making the approach more stable. Furthermore, we introduce a novel two-component mixture that pairs a light-tailed distribution with a heavy-tailed one, enabling more effective exploration of the tail region and thus accelerating convergence for extremely small failure probabilities. We call the resulting method Safe-ICE and assess it on a variety of test problems. Numerical results show that Safe-ICE not only converges more rapidly and yields more accurate failure-probability estimates than standard ICE, but also identifies the appropriate number of mixture components without manual tuning.",
+ "primary": "math.NA"
+}

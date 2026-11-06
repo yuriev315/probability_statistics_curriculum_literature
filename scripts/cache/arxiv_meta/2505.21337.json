@@ -1,0 +1,16 @@
+{
+ "id": "2505.21337",
+ "title": "A transfer principle for computing the adapted Wasserstein distance between stochastic processes",
+ "authors": [
+  "Yifan Jiang",
+  "Fang Rui Lim"
+ ],
+ "v1_date": "2025-05-27",
+ "latest_version": 2,
+ "latest_date": "2025-06-06",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "some corrections in the introduction",
+ "abstract": "We propose a transfer principle to study the adapted 2-Wasserstein distance between stochastic processes. First, we obtain an explicit formula for the distance between real-valued mean-square continuous Gaussian processes by introducing the causal factorization as an infinite-dimensional analogue of the Cholesky decomposition for operators on Hilbert spaces. We discuss the existence and uniqueness of this causal factorization and link it to the canonical representation of Gaussian processes. As a byproduct, we characterize mean-square continuous Gaussian Volterra processes in terms of their natural filtrations. Moreover, for real-valued fractional stochastic differential equations, we show that the synchronous coupling between the driving fractional noises attains the adapted Wasserstein distance under some monotonicity conditions. Our results cover a wide class of stochastic processes which are neither Markov processes nor semi-martingales, including fractional Brownian motions and fractional Ornstein--Uhlenbeck processes.",
+ "primary": "math.PR"
+}

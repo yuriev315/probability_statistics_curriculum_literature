@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+scipy
+linearmodels
+patsy
+scikit-learn
+seaborn
+statsmodels
+tabulate

@@ -1,0 +1,22 @@
+{
+ "id": "2604.23866",
+ "title": "A Review of Methods and Practices for Missing Data in Sequential Multiple Assignment Randomized Trials (SMARTs): An Ancillary Study of a Scoping Review",
+ "authors": [
+  "Nikki L. B. Freeman",
+  "Chenyao Yu",
+  "Margaret Hoch",
+  "Sydney Browder",
+  "Bradley G. Hammill",
+  "Avi Kenny",
+  "Kevin J. Anstrom",
+  "Michael R. Kosorok"
+ ],
+ "v1_date": "2026-04-26",
+ "latest_version": 1,
+ "latest_date": "2026-04-26",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "19 pages, 4 tables, 1 figure",
+ "abstract": "Background: Missing data poses an acute threat to sequential multiple assignment randomized trial (SMART) analyses because of the sequential treatment structure and response-dependent re-randomization. Objectives: This study aimed to (1) review the current statistical methods for handling missing data in SMARTs, and (2) characterize how missing data is reported and handled in published SMARTs. Methods: We conducted a narrative review of statistical methods developed for missing data in SMARTs. Additionally, we conducted a pre-specified secondary extraction of a previously published scoping review of SMARTs focused on missing data. Extraction captured attrition rates, methods for handling missingness, and planned versus performed missing data analyses. Results: Seven methodological papers were identified; nearly all assume missing at random (MAR), and only one addresses the full set of SMART-specific missingness types. Across 30 published SMARTs, median overall attrition was 18.1% (range 0.6%-56.5%). Methods used to address missing data were described in 80% of the manuscripts; mixed-model methods were most common (30%). Among 14 studies with paired protocols, sensitivity analyses were pre-specified in 2 (14%). Conclusions: SMART-specific methodology for missing data is limited, and a substantial gap exists between available methodology and current SMART practice.",
+ "primary": "stat.ME"
+}

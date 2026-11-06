@@ -1,0 +1,16 @@
+{
+ "id": "2605.15303",
+ "title": "Functional Cox model for interval-censored data",
+ "authors": [
+  "Yangjianchen Xu",
+  "Peijun Sang"
+ ],
+ "v1_date": "2026-05-14",
+ "latest_version": 1,
+ "latest_date": "2026-05-14",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Interval-censored data arise frequently in scientific studies, where the event of interest is known only to occur within a specific time interval. In such studies, functional covariates taking the form of continuous curves or spatial profiles are increasingly encountered, and it is of substantial scientific relevance to investigate how the trajectory of a functional covariate affects the event time. We formulate the effects of both scalar and functional covariates on the interval-censored event time through a functional Cox model. We consider penalized maximum likelihood estimation for this model and devise an EM algorithm to stably compute the parameter estimators. The resulting estimators for the regression parameters and linear functionals of the coefficient function are shown to be consistent and asymptotically normal, with limiting covariance matrices that attain the semiparametric efficiency bound and can be readily estimated through the profile likelihood method. Building upon these results, we construct a global test for the overall effect of the functional covariate. Finally, we assess the performance of the proposed methods through extensive simulation studies and present an application to data from the Alzheimer's Disease Neuroimaging Initiative.",
+ "primary": "stat.ME"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "2509.02634",
+ "title": "Robust Survival Estimation under Interval Censoring: Expectation-Maximization and Bayesian Accelerated Failure Time Assessment via Simulation and Application",
+ "authors": [
+  "J. T. Korley"
+ ],
+ "v1_date": "2025-09-01",
+ "latest_version": 1,
+ "latest_date": "2025-09-01",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Interval censoring occurs when event times are only known to fall between scheduled assessments, a common design in clinical trials, epidemiology, and reliability studies. Standard right-censoring methods, such as Kaplan-Meier and Cox regression, are not directly applicable and can produce biased results. This study compares three complementary approaches for interval-censored survival data. First, the Turnbull nonparametric maximum likelihood estimator (NPMLE) via the EM algorithm recovers the survival distribution without strong assumptions. Second, Weibull and log-normal accelerated failure time (AFT) models with interval likelihoods provide smooth, covariate-adjusted survival curves and interpretable time-ratio effects. Third, Bayesian AFT models extend these tools by quantifying posterior uncertainty, incorporating prior information, and enabling interval-aware model comparisons via PSIS-LOO cross-validation. Simulations across generating distributions, censoring intensities, sample sizes, and covariate structures evaluated the integrated squared error (ISE) for curve recovery, integrated Brier score (IBS) for prediction, and coverage for uncertainty calibration. Results show that the EM achieves the lowest ISE for distribution recovery, AFT models improve predictive performance when families are correctly specified, and Bayesian AFT offers calibrated uncertainty and principled model selection. An application to the ovarian cancer dataset, restructured into interval-censored form, demonstrates the workflow in practice: the EM algorithm reveals the baseline shape, parametric AFT provides covariate-adjusted predictions, and Bayesian AFT validates model adequacy through posterior predictive checks. Together, these methods form a tiered strategy: EM for shape discovery, AFT for covariate-driven prediction, and Bayesian AFT for complete uncertainty quantification and model comparison.",
+ "primary": "stat.ME"
+}

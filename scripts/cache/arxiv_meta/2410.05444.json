@@ -1,0 +1,17 @@
+{
+ "id": "2410.05444",
+ "title": "Online scalable Gaussian processes with conformal prediction for guaranteed coverage",
+ "authors": [
+  "Jinwen Xu",
+  "Qin Lu",
+  "Georgios B. Giannakis"
+ ],
+ "v1_date": "2024-10-07",
+ "latest_version": 1,
+ "latest_date": "2024-10-07",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "The Gaussian process (GP) is a Bayesian nonparametric paradigm that is widely adopted for uncertainty quantification (UQ) in a number of safety-critical applications, including robotics, healthcare, as well as surveillance. The consistency of the resulting uncertainty values however, hinges on the premise that the learning function conforms to the properties specified by the GP model, such as smoothness, periodicity and more, which may not be satisfied in practice, especially with data arriving on the fly. To combat against such model mis-specification, we propose to wed the GP with the prevailing conformal prediction (CP), a distribution-free post-processing framework that produces it prediction sets with a provably valid coverage under the sole assumption of data exchangeability. However, this assumption is usually violated in the online setting, where a prediction set is sought before revealing the true label. To ensure long-term coverage guarantee, we will adaptively set the key threshold parameter based on the feedback whether the true label falls inside the prediction set. Numerical results demonstrate the merits of the online GP-CP approach relative to existing alternatives in the long-term coverage performance.",
+ "primary": "cs.LG"
+}

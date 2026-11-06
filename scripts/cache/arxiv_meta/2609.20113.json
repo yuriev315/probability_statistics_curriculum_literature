@@ -1,0 +1,17 @@
+{
+ "id": "2609.20113",
+ "title": "Identification and Estimation of Causal Estimands with Missing Not at Random Data",
+ "authors": [
+  "Faria Rauf Ria",
+  "Tarikul Islam",
+  "Mahbub A. H. M. Latif"
+ ],
+ "v1_date": "2026-09-17",
+ "latest_version": 1,
+ "latest_date": "2026-09-17",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "26 pages, 6 figures, and 5 tables",
+ "abstract": "Missing not at random (MNAR) data pose significant challenges for causal inference, particularly when both confounders and the outcome are partially observed. Without additional assumptions beyond those required for causal inference, causal estimands are generally not identifiable under MNAR mechanisms. This paper first develops identification results for the causal estimand, the average treatment effect, under several plausible MNAR mechanisms using completeness conditions, and proposes an estimation approach based on the Expectation-Maximization (EM) algorithm. We further extend this identification and estimation framework to mediation analysis, enabling the estimation of natural direct and indirect effects under MNAR mechanisms. Through extensive simulation studies, we compare the proposed method with two widely used approaches for handling missing data, complete-case analysis and multiple imputation. The results show that the proposed method yields substantially lower bias under the considered MNAR mechanisms. Finally, we apply the proposed approach to NHANES data to estimate the causal effect of education on depression, with health condition as the mediator.",
+ "primary": "stat.ME"
+}

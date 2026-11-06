@@ -1,0 +1,17 @@
+{
+ "id": "2510.19722",
+ "title": "Co-SIVI: A Correlated Semi-Implicit Variational Approach for Spatial Models",
+ "authors": [
+  "Sébastien Garneau",
+  "Carlos T. P. Zanini",
+  "Alexandra M. Schmidt"
+ ],
+ "v1_date": "2025-10-22",
+ "latest_version": 2,
+ "latest_date": "2026-09-03",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "31 pages without the appendix and 60 with the appendix, 5 figures without appendix and 21 figures with appendix, 2 tables, 2 algorithms",
+ "abstract": "We propose correlated semi-implicit variational inference (Co-SIVI), a scalable approach for full posterior approximation in large spatial models with exponential-family likelihoods. Co-SIVI incorporates dependence directly into the conditional variational distribution of spatial random effects through an iterative weighted least squares algorithm that accommodates both Gaussian process and nearest-neighbor Gaussian process (NNGP) priors. For large samples, we further propose reparameterizing the variational family for the covariance parameters to better capture posterior dependence. Co-SIVI addresses an important limitation of semi-implicit variational inference (SIVI), for which dependence induced through the mixing distribution may be insufficient when spatial random effects are explicitly included in the variational family. In simulations with Gaussian, Poisson, Gamma, and Bernoulli outcomes, Co-SIVI closely reproduces Hamiltonian Monte Carlo (HMC) results at substantially lower computational cost, while SIVI performs similarly for marginalized Gaussian models. We apply SIVI and Co-SIVI, both with NNGP priors, to two large-scale datasets: temperature data modeled with a Gaussian likelihood and housing price data modeled with a Gamma likelihood. Overall, Co-SIVI provides a scalable and flexible alternative to HMC for full posterior approximation in large non-Gaussian spatial models.",
+ "primary": "stat.CO"
+}

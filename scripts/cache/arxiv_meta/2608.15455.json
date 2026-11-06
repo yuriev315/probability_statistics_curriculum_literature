@@ -1,0 +1,15 @@
+{
+ "id": "2608.15455",
+ "title": "Competing-Risk Cure Models: A Comprehensive Systematic Review of Methodological Literature",
+ "authors": [
+  "Nilotpal Sanyal"
+ ],
+ "v1_date": "2026-08-16",
+ "latest_version": 2,
+ "latest_date": "2026-09-01",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "34 pages, 2 figures",
+ "abstract": "Competing-risk cure models describe time-to-event populations with individuals immune to all event types or an event of interest, yet literature is fragmented across model families. We review 26 papers across five axes: cure definition/scope; decomposition/cure mechanism; latency; dependence, censoring, and masked causes; and estimation. We distinguish global from cause-specific cure and incidence--latency mixtures from vertical susceptibility factorizations, latent competing-causes/zero-count constructions, defective-survival models, and zero-inflated mixture or cumulative incidence function (CIF) formulations. We compare parametric, piecewise-constant, PH, AFT, transformation, CIF-based, nonparametric, and partially specified latency models for right/interval censoring, clustering, and masked causes. Mixture formulations dominate, but similar names can mask different estimands, cure mechanisms, latent-risk/censoring assumptions, and regression interpretations. Latent-failure dependence is modeled less often than cure or latency; failure--censoring dependence, within-cluster association, and masked causes occur in smaller subsets. Estimation spans likelihood and expectation-maximization (EM), including neural-network M-steps, estimating equations, inverse-probability-of-censoring weighting, Bayesian computation, and copula-graphic estimation. A reproducible defective-Gompertz analysis of public bone-marrow-transplant data shows that fitted tail probabilities require model- and endpoint-specific interpretation, not all-method comparison. Reproducibility remains limited: most implementations use custom code, few offer repository access, and no widely adopted, clearly licensed R/Python framework unifies the constructions. This taxonomy supports transparent model selection/reporting, estimation-method comparison, and needs for theory, software, benchmarking, and reproducible applications.",
+ "primary": "stat.ME"
+}

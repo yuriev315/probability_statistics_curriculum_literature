@@ -1,0 +1,15 @@
+{
+ "id": "2601.14937",
+ "title": "Geostatistics from Elliptic Boundary-Value Problems: Green Operators, Transmission Conditions, and Schur Complements",
+ "authors": [
+  "Juan J. Segura"
+ ],
+ "v1_date": "2026-01-21",
+ "latest_version": 1,
+ "latest_date": "2026-01-21",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Classical geostatistics encodes spatial dependence by prescribing variograms or covariance kernels on Euclidean domains, whereas the SPDE--GMRF paradigm specifies Gaussian fields through an elliptic precision operator whose inverse is the corresponding Green operator. We develop an operator-based formulation of Gaussian spatial random fields on bounded domains and manifolds with internal interfaces, treating boundary and transmission conditions as explicit components of the statistical model. Starting from coercive quadratic energy functionals, variational theory yields a precise precision--covariance correspondence and shows that variograms are derived quadratic functionals of the Green operator, hence depend on boundary conditions and domain geometry. Conditioning and kriging follow from standard Gaussian update identities in both covariance and precision form, with hard constraints represented equivalently by exact interpolation constraints or by distributional source terms. Interfaces are modelled via surface penalty terms; taking variations produces flux-jump transmission conditions and induces controlled attenuation of cross-interface covariance. Finally, boundary-driven prediction and domain reduction are formulated through Dirichlet-to-Neumann operators and Schur complements, providing an operator language for upscaling, change of support, and subdomain-to-boundary mappings. Throughout, we use tools standard in spatial statistics and elliptic PDE theory to keep boundary and interface effects explicit in covariance modeling and prediction.",
+ "primary": "stat.ME"
+}

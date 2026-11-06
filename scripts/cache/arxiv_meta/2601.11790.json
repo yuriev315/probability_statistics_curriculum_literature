@@ -1,0 +1,17 @@
+{
+ "id": "2601.11790",
+ "title": "Gradient-based Active Learning with Gaussian Processes for Global Sensitivity Analysis",
+ "authors": [
+  "Guerlain Lambert",
+  "Céline Helbert",
+  "Claire Lauvernet"
+ ],
+ "v1_date": "2026-01-16",
+ "latest_version": 1,
+ "latest_date": "2026-01-16",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Global sensitivity analysis of complex numerical simulators is often limited by the small number of model evaluations that can be afforded. In such settings, surrogate models built from a limited set of simulations can substantially reduce the computational burden, provided that the design of computer experiments is enriched efficiently. In this context, we propose an active learning approach that, for a fixed evaluation budget, targets the most informative regions of the input space to improve sensitivity analysis accuracy. More specifically, our method builds on recent advances in active learning for sensitivity analysis (Sobol' indices and derivative-based global sensitivity measures, DGSM) that exploit derivatives obtained from a Gaussian process (GP) surrogate. By leveraging the joint posterior distribution of the GP gradient, we develop acquisition functions that better account for correlations between partial derivatives and their impact on the response surface, leading to a more comprehensive and robust methodology than existing DGSM-oriented criteria. The proposed approach is first compared to state-of-the-art methods on standard benchmark functions, and is then applied to a real environmental model of pesticide transfers.",
+ "primary": "stat.ML"
+}

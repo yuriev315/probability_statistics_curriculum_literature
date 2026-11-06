@@ -1,0 +1,18 @@
+{
+ "id": "2507.07815",
+ "title": "Vecchia approximated Bayesian heteroskedastic Gaussian processes",
+ "authors": [
+  "Parul V. Patil",
+  "Robert B. Gramacy",
+  "Cayelan C. Carey",
+  "R. Quinn Thomas"
+ ],
+ "v1_date": "2025-07-10",
+ "latest_version": 2,
+ "latest_date": "2026-02-27",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "33 pages, 14 figures",
+ "abstract": "Many computer simulations are stochastic and exhibit input dependent noise. In such situations, heteroskedastic Gaussian processes (hetGPs) make ideal surrogates as they estimate a latent, non-constant variance. However, existing hetGP implementations are unable to deal with large simulation campaigns and use point-estimates for all unknown quantities, including latent variances. This limits applicability to small experiments and undercuts uncertainty. We propose a Bayesian hetGP using elliptical slice sampling (ESS) for posterior variance integration, and the Vecchia approximation to circumvent computational bottlenecks. We show good performance for our upgraded hetGP capability, compared to alternatives, on a benchmark example and a motivating corpus of more than 9-million lake temperature simulations. An open source implementation is provided as bhetGP on CRAN.",
+ "primary": "stat.ME"
+}

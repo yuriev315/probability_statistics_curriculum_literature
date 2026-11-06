@@ -1,0 +1,16 @@
+{
+ "id": "2505.20157",
+ "title": "Gaussian Process Methods for Covariate-Based Intensity Estimation",
+ "authors": [
+  "Patric Dolmeta",
+  "Matteo Giordano"
+ ],
+ "v1_date": "2025-05-26",
+ "latest_version": 1,
+ "latest_date": "2025-05-26",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "8 pages, to appear in New Trends in Functional Statistics and Related Fields (IWFOS 2025)",
+ "abstract": "We study nonparametric Bayesian inference for the intensity function of a covariate-driven point process. We extend recent results from the literature, showing that a wide class of Gaussian priors, combined with flexible link functions, achieve minimax optimal posterior contraction rates. Our result includes widespread prior choices such as the popular Matérn processes, with the standard exponential (and sigmoid) link, and implies that the resulting methodologically attractive procedures optimally solve the statistical problem at hand, in the increasing domain asymptotics and under the common assumption in spatial statistics that the covariates are stationary and ergodic.",
+ "primary": "math.ST"
+}

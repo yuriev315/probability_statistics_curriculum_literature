@@ -1,0 +1,20 @@
+{
+ "id": "2606.18078",
+ "title": "Spatial prediction of environmental processes using random forests: How best to account for spatial dependence?",
+ "authors": [
+  "Duncan Lee",
+  "Vinny Davies",
+  "Helen R. Savage",
+  "Hussein Twabi",
+  "Marriott Nliwasa",
+  "Peter MacPherson"
+ ],
+ "v1_date": "2026-06-16",
+ "latest_version": 1,
+ "latest_date": "2026-06-16",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Geostatistical spatial prediction for environmental processes is typically undertaken using Gaussian process models via Kriging, while machine learning (ML) algorithms are state-of-the-art for non-spatial prediction. An exciting recent fusion of these ideas imbibes traditional ML algorithms with the capacity to deal with spatial autocorrelation, leading to improved predictive performance. A range of approaches have been proposed, including fusion with Gaussian processes, observation-driven correlation structures, spatial basis functions and local geographical fitting. However, there has been no numerical comparison of their relative predictive performances, which is needed to advise environmental scientists on the optimal approach to use. This paper fills this knowledge gap, and focuses on random forests as the ML algorithm because they are more computationally and conceptually straightforward to implement than deep learning algorithms. The results from two studies are presented, the first being a controlled simulation experiment investigating whether any single approach is consistently superior across different spatial autocorrelation types. The second study focuses on the prediction of air pollution concentrations within a tuberculosis prevalence study in Blantyre, Malawi. The results show that whilst no single approach is universally superior, utilising spatial basis functions appears to perform consistently well across both the simulation and real data studies.",
+ "primary": "stat.ME"
+}

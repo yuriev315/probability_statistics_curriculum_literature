@@ -1,0 +1,17 @@
+{
+ "id": "2111.01084",
+ "title": "The SPDE approach for Gaussian and non-Gaussian fields: 10 years and still running",
+ "authors": [
+  "Finn Lindgren",
+  "David Bolin",
+  "Håvard Rue"
+ ],
+ "v1_date": "2021-11-01",
+ "latest_version": 2,
+ "latest_date": "2022-01-04",
+ "journal_ref": "",
+ "doi": "10.1016/j.spasta.2022.100599",
+ "comment": "33 pages, 1 figure",
+ "abstract": "Gaussian processes and random fields have a long history, covering multiple approaches to representing spatial and spatio-temporal dependence structures, such as covariance functions, spectral representations, reproducing kernel Hilbert spaces, and graph based models. This article describes how the stochastic partial differential equation approach to generalising Matérn covariance models via Hilbert space projections connects with several of these approaches, with each connection being useful in different situations. In addition to an overview of the main ideas, some important extensions, theory, applications, and other recent developments are discussed. The methods include both Markovian and non-Markovian models, non-Gaussian random fields, non-stationary fields and space-time fields on arbitrary manifolds, and practical computational considerations.",
+ "primary": "stat.ME"
+}

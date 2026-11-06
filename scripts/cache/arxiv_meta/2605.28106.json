@@ -1,0 +1,16 @@
+{
+ "id": "2605.28106",
+ "title": "Gaussian Processes with Sample Paths in Reproducing Kernel Banach Spaces",
+ "authors": [
+  "Toni Karvonen",
+  "Rasmus Kleist Hørlyck Sørensen"
+ ],
+ "v1_date": "2026-05-27",
+ "latest_version": 2,
+ "latest_date": "2026-10-21",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We investigate the connection between Gaussian processes and Gaussian random elements in reproducing kernel Banach spaces. We show that the covariance operator of a weak second-order Radon probability measure on such a space is uniquely determined by a symmetric positive-definite function. In the Gaussian case, we characterize those functions that arise from covariance operators in terms of $γ$-radonifying operators. Building on these results, we extend Driscoll's theorem to the reproducing kernel Banach space setting.",
+ "primary": "math.PR"
+}

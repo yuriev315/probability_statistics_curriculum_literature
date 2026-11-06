@@ -1,0 +1,17 @@
+{
+ "id": "2504.15781",
+ "title": "Interacting Immediate Neighbour Interpolation for Geoscientific Data",
+ "authors": [
+  "Arya Kimiaghalam",
+  "Andrei Swidinsky",
+  "Mohammad Parsa"
+ ],
+ "v1_date": "2025-04-22",
+ "latest_version": 1,
+ "latest_date": "2025-04-22",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "A diverse range of interpolation methods, including Kriging, spline/minimum curvature and radial basis function interpolation exist for interpolating spatially incomplete geoscientific data. Such methods use various spatial properties of the observed data to infer its local and global behaviour. In this study, we exploit the adaptability of locally interacting systems from statistical physics and develop an interpolation framework for numerical geoscientific data called Interacting Immediate Neighbour Interpolation (IINI), which solely relies on local and immediate neighbour correlations. In the IINI method, medium-to-long range correlations are constructed from the collective local interactions of grid centroids. To demonstrate the functionality and strengths of IINI, we apply our methodology to the interpolation of ground gravity, airborne magnetic and airborne radiometric datasets. We further compare the performance of IINI to conventional methods such as minimum curvature surface fitting. Results show that IINI is competitive with conventional interpolation techniques in terms of validation accuracy, while being significantly simpler in terms of algorithmic complexity and data pre-processing requirements. IINI demonstrates the broader applicability of statistical physics concepts within the field of geostatistics, highlighting their potential to enrich and expand traditional geostatistical methods.",
+ "primary": "stat.ME"
+}

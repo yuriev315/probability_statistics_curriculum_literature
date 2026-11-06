@@ -1,0 +1,17 @@
+{
+ "id": "2501.18558",
+ "title": "Log-Gaussian Cox Processes on General Metric Graphs",
+ "authors": [
+  "David Bolin",
+  "Damilya Saduakhas",
+  "Alexandre B. Simas"
+ ],
+ "v1_date": "2025-01-30",
+ "latest_version": 1,
+ "latest_date": "2025-01-30",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "The modeling of spatial point processes has advanced considerably, yet extending these models to non-Euclidean domains, such as road networks, remains a challenging problem. We propose a novel framework for log-Gaussian Cox processes on general compact metric graphs by leveraging the Gaussian Whittle-Matérn fields, which are solutions to fractional-order stochastic differential equations on metric graphs. To achieve computationally efficient likelihood-based inference, we introduce a numerical approximation of the likelihood that eliminates the need to approximate the Gaussian process. This method, coupled with the exact evaluation of finite-dimensional distributions for Whittle-Matérn fields with integer smoothness, ensures scalability and theoretical rigour, with derived convergence rates for posterior distributions. The framework is implemented in the open-source MetricGraph R package, which integrates seamlessly with R-INLA to support fully Bayesian inference. We demonstrate the applicability and scalability of this approach through an analysis of road accident data from Al-Ahsa, Saudi Arabia, consisting of over 150,000 road segments. By identifying high-risk road segments using exceedance probabilities and excursion sets, our framework provides localized insights into accident hotspots and offers a powerful tool for modeling spatial point processes directly on complex networks.",
+ "primary": "stat.ME"
+}

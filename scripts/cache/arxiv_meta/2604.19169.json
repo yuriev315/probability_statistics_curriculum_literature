@@ -1,0 +1,17 @@
+{
+ "id": "2604.19169",
+ "title": "A Finite Mixture Failure-rate based Heterogeneous Step-stress Accelerated Life Testing (h-SSALT) Model",
+ "authors": [
+  "Pranoy Palit",
+  "Ayan Pal",
+  "Kiran Prajapat"
+ ],
+ "v1_date": "2026-04-21",
+ "latest_version": 2,
+ "latest_date": "2026-05-20",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "44 pages, 7 figures, 12 tables. Version 2: we have added interval estimation using Louis' missing information method with transformation-based confidence intervals, and an additional real data analysis example",
+ "abstract": "Traditional step-stress accelerated life testing models assume that test units originate from a homogeneous population. Recently, Lu and Kateri (2025) proposed a heterogeneous cumulative exposure based SSALT model to account for the inhomogeneous aging patterns among test units belonging to the same production batch. This paper introduces an alternative yet flexible failure-rate based heterogeneous simple SSALT (h-SSALT) model with Weibull-distributed Type-II censored failure times, allowing heterogeneity to emerge at the second stress level through a finite mixture of m latent subgroups, each characterized by its own failure behavior. The expectation-maximization algorithm is developed for maximum likelihood estimation of the model parameters, exploiting the incomplete data structure arising from both unknown group membership and Type-II censoring. Interval estimation is performed using the missing information identity of Louis (1982) with transformation-based confidence intervals respecting parameter constraints. An extensive simulation study evaluates the finite-sample performance of the proposed estimators and demonstrates, through a quantile-based comparison, that ignoring population heterogeneity leads to systematic bias in lifetime predictions across the entire quantile range, with the most severe consequences at early failure quantiles of direct relevance to warranty period design. A special case comparison confirms that the proposed Weibull failure-rate based formulation reduces to the existing model of Lu and Kateri (2025) when the shape parameter equals unity, validating the proposed framework as a proper generalization. The practical application of the model is further illustrated through simulated and real data analysis examples.",
+ "primary": "stat.ME"
+}

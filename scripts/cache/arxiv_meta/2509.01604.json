@@ -1,0 +1,21 @@
+{
+ "id": "2509.01604",
+ "title": "A Time-Series Model for Areal Data Using Area-Specific Gaussian Processes with Spatially Correlated Hyperparameters",
+ "authors": [
+  "Alejandro Rozo Posada",
+  "Oswaldo Gressani",
+  "Christel Faes",
+  "James Colborn",
+  "Baltazar Candrinho",
+  "Emanuele Giorgi",
+  "Thomas Neyens"
+ ],
+ "v1_date": "2025-09-01",
+ "latest_version": 2,
+ "latest_date": "2026-08-20",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "Supplementary material included",
+ "abstract": "In many applied settings, areal data are observed repeatedly over long time periods, as commonly occurs in infectious disease surveillance and environmental or demographic monitoring. Accurate characterization of local temporal dynamics and uncertainty is important for monitoring disease trends, identifying local changes, and supporting public health decision-making. Traditional spatio-temporal models generally represent spatial, temporal, and space-time interaction components through structured random effects acting on the latent outcome process. We propose a Bayesian spatio-temporal hierarchical framework in which temporal dynamics are modeled using area-specific Gaussian processes, while spatial dependence is introduced through spatially correlated Gaussian-process covariance hyperparameters. This allows neighboring regions to share information about the characteristics of their temporal dependence while retaining area-specific temporal trajectories, providing an alternative representation of spatio-temporal dependence. Inference is performed using Markov chain Monte Carlo methods. The approach is illustrated using monthly malaria incidence data from three Mozambican provinces and evaluated using the Root Mean Squared Error, Continuous Ranked Probability Score, empirical coverage probability, and credible interval width. Compared with established spatio-temporal models, the proposed framework achieves competitive predictive accuracy and better-calibrated predictive uncertainty. Spatially structuring the temporal hyperparameters also improves predictive interval calibration relative to an equivalent model with independent temporal processes, demonstrating the value of borrowing spatial information on temporal dependence and supporting this formulation as a competitive alternative to conventional outcome-level spatial smoothing for spatio-temporal areal data in disease surveillance.",
+ "primary": "stat.ME"
+}

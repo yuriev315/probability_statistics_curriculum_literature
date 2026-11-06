@@ -1,0 +1,26 @@
+﻿路径,类别,链接,原因
+courses/MIT_1803_2010Spring_OCW_en.zip,courses,https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/,未收录，官方包超过 100 MiB
+courses/Cambridge_PartIA_Probability_Norris_LectureNotes_en.pdf,courses,http://www.statslab.cam.ac.uk/~james/Lectures/,站点 TLS 证书无法验证，未下载
+books/Grimmett_ProbabilityOnGraphs_1st_en.pdf,books,https://www.statslab.cam.ac.uk/~grg/books/pgs.html,站点 TLS 证书无法验证，未下载
+books/WHO_BasicEpidemiology_2ndEd_en.pdf,books,https://iris.who.int/handle/10665/43541,站点返回网页而不是 PDF
+books/HyndmanAthanasopoulos_ForecastingPrinciplesAndPractice_3rd_en.zip,books,https://otexts.com/fpp3/,未收录，网页版只提供链接
+books/Chan_IntroductionProbabilityForDataScience_2ndEd_en,books,https://probability4datascience.com/,未收录，下载地址由网页脚本生成
+books/JuditskyNemirovski_StatisticalInferenceConvexOptimization_2020_en.pdf,books,https://press.princeton.edu/books/ebook/9780691200316/statistical-inference-via-convex-optimization-pdf,未找到作者免费副本的地址
+books/TuringWayCommunity_TheTuringWay_repo_en,books,https://github.com/the-turing-way/the-turing-way,仓库约 700 MB，超过 100 MiB 限制
+software_docs/SAS_STAT_15.4_UsersGuide_SelectedChapters_en,software_docs,https://support.sas.com/documentation/,未收录；厂商保留全部权利
+software_docs/IBM_SPSS_Statistics_27.0.1_Manuals_en,software_docs,https://www.ibm.com/support/pages/ibm-spss-statistics-27-documentation,未收录；仅供个人留存
+practice/Chan_ProbabilityForDataScience_ChapterExercises_en,practice,https://probability4datascience.com/,未收录，只记录来源页
+practice/Cambridge_PartIA_Probability_Norris_ExampleSheets_en,practice,http://www.statslab.cam.ac.uk/~james/Lectures/,未收录，只记录来源页
+practice/Cambridge_PartII_ProbabilityAndMeasure_Norris_ExampleSheets_en,practice,http://www.statslab.cam.ac.uk/~james/Lectures/,未收录，只记录来源页
+practice/Cambridge_PartIII_AdvancedProbability_Norris_ExampleSheets_en,practice,http://www.statslab.cam.ac.uk/~james/Lectures/,未收录，只记录来源页
+practice/Stanford_Stats300A_2018Autumn_HomeworkSolutions_en,practice,https://web.stanford.edu/class/stats300a/,未收录，只记录来源页
+practice/UW_Stat581_2018Fall_ProblemSetsSolutions_en,practice,https://sites.stat.washington.edu/jaw/COURSES/580s/581/f18.syllabus.ht,未收录，只记录来源页
+practice/Cambridge_PartIIIModernStatisticalMethods_ExampleSheets_en,practice,https://www.statslab.cam.ac.uk/~rds37/modern_stat_methods.html,未收录，只记录来源页
+practice/Berkeley_STAT260_2019Fall_RobustStatisticsProblemSets_en,practice,https://www.stat.berkeley.edu/~jsteinhardt/stat260/,未收录，只记录来源页
+practice/NCSU_ST520_2026Fall_Homework_en,practice,https://www4.stat.ncsu.edu/~davidian/st520/,未收录，只记录来源页
+software_docs/ArviZ_1.3.0_UserGuide_EABM_html_en,software_docs,https://python.arviz.org/,未收录，网页文档只提供链接
+software_docs/JupyterLab_UserGuide_4.6.5_html_en,software_docs,https://jupyterlab.readthedocs.io/,未收录，网页文档只提供链接
+software_docs/PyMC_CoreNotebooks_6.3.2_html_en,software_docs,https://www.pymc.io/projects/docs/en/stable/,未收录，网页文档只提供链接
+software_docs/Quarto_Guide_1.10_html_en,software_docs,https://quarto.org/docs/guide/,未收录，网页文档只提供链接
+software_docs/lifelines_Docs_0.30.3_html_en,software_docs,https://lifelines.readthedocs.io/,未收录，网页文档只提供链接
+software_docs/statsmodels_UserGuide_0.15.0_html_en,software_docs,https://www.statsmodels.org/stable/user-guide.html,未收录，网页文档只提供链接

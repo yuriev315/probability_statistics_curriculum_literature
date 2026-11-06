@@ -1,0 +1,15 @@
+{
+ "id": "2610.10783",
+ "title": "Kriging and Gaussian processes: interconnected frameworks for spatial modelling and prediction",
+ "authors": [
+  "Hossein Mohammadi"
+ ],
+ "v1_date": "2026-10-07",
+ "latest_version": 1,
+ "latest_date": "2026-10-07",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Spatial modelling and inference arise across many areas of science and engineering, with Kriging and Gaussian process (GP) regression serving as two widely used predictive models. Although grounded in the same random field theory, these approaches are often treated in isolation. As a result, their connection has been obscured by differences in terminology, notation, and practical implementation. This separation largely reflects their independent development within geostatistics and machine learning, respectively. To bridge this methodological divide, this work establishes a unified mathematical framework that connects the two paradigms. The underlying assumptions and formulations of each approach are detailed and compared within this framework. This comparison highlights their differences while clarifying the connections between them. The resulting perspective provides practitioners with a common foundation for translating concepts and methods between geostatistics and machine learning. In particular, it makes methodological developments in either field more accessible to the other, including advances in uncertainty quantification from the GP literature.",
+ "primary": "stat.ME"
+}

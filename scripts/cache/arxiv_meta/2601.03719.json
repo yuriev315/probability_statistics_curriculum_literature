@@ -1,0 +1,16 @@
+{
+ "id": "2601.03719",
+ "title": "Posterior concentration in spatio-temporal Hawkes processes",
+ "authors": [
+  "Xenia Miscouridou",
+  "Deborah Sulem"
+ ],
+ "v1_date": "2026-01-07",
+ "latest_version": 1,
+ "latest_date": "2026-01-07",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We develop a Bayesian nonparametric framework for inference in spatio-temporal Hawkes processes, extending existing theoretical results beyond the purely temporal setting. Our framework encompasses modelling both the background and triggering components of the Hawkes process through Gaussian Processes priors. Under appropriate smoothness and regularity assumptions on the true parameter and the nonparametric prior family, we derive explicit posterior contraction rates for the conditional intensity function and the model's parameter, in the asymptotic regime of repeatedly observed and independent sequences. Our analysis generalizes known contraction results for purely temporal Hawkes processes to the spatio-temporal setting, which allows to jointly model self-excitation across time and space in event data. These results provide, to our knowledge, the first theoretical guarantees for Bayesian nonparametric methods in spatio-temporal point data.",
+ "primary": "math.ST"
+}

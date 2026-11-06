@@ -1,0 +1,17 @@
+{
+ "id": "2405.14492",
+ "title": "Iterative Methods for Full-Scale Gaussian Process Approximations for Large Spatial Data",
+ "authors": [
+  "Tim Gyger",
+  "Reinhard Furrer",
+  "Fabio Sigrist"
+ ],
+ "v1_date": "2024-05-23",
+ "latest_version": 5,
+ "latest_date": "2026-01-12",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Gaussian processes are flexible probabilistic regression models which are widely used in statistics and machine learning. However, a drawback is their limited scalability to large data sets. To alleviate this, full-scale approximations (FSAs) combine predictive process methods and covariance tapering, thus approximating both global and local structures. We show how iterative methods can be used to reduce computational costs in calculating likelihoods, gradients, and predictive distributions with FSAs. In particular, we introduce a novel preconditioner and show theoretically and empirically that it accelerates the conjugate gradient method's convergence speed and mitigates its sensitivity with respect to the FSA parameters and the eigenvalue structure of the original covariance matrix, and we demonstrate empirically that it outperforms a state-of-the-art pivoted Cholesky preconditioner. Furthermore, we introduce an accurate and fast way to calculate predictive variances using stochastic simulation and iterative methods. In addition, we show how our newly proposed fully independent training conditional (FITC) preconditioner can also be used in iterative methods for Vecchia approximations. In our experiments, it outperforms existing state-of-the-art preconditioners for Vecchia approximations. All methods are implemented in a free C++ software library with high-level Python and R packages.",
+ "primary": "stat.ME"
+}

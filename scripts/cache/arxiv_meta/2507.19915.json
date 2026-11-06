@@ -1,0 +1,16 @@
+{
+ "id": "2507.19915",
+ "title": "Effective Bayesian Modeling of Large Spatiotemporal Count Data Using Autoregressive Gamma Processes",
+ "authors": [
+  "Yifan Cheng",
+  "Cheng Li"
+ ],
+ "v1_date": "2025-07-26",
+ "latest_version": 1,
+ "latest_date": "2025-07-26",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We put forward a new Bayesian modeling strategy for spatiotemporal count data that enables efficient posterior sampling. Most previous models for such data decompose logarithms of the response Poisson rates into fixed effects and spatial random effects, where the latter is typically assumed to follow a latent Gaussian process, the conditional autoregressive model, or the intrinsic conditional autoregressive model. Since log-Gaussian is not conjugate to Poisson, such implementations must resort to either approximation methods like INLA or Metropolis moves on latent states in MCMC algorithms for model fitting and exhibit several approximation and posterior sampling challenges. Instead of modeling logarithms of spatiotemporal frailties jointly as a Gaussian process, we construct a spatiotemporal autoregressive gamma process guaranteed stationary across the time dimension. We decompose latent Poisson variables to permit fully conjugate Gibbs sampling of spatiotemporal frailties and design a sparse spatial dependence structure to get a linear computational complexity that facilitates efficient posterior computation. Our model permits convenient Bayesian predictive machinery based on posterior samples that delivers satisfactory performance in predicting at new spatial locations and time intervals. We have performed extensive simulation experiments and real data analyses, which corroborated our model's accurate parameter estimation, model fitting, and out-of-sample prediction capabilities.",
+ "primary": "stat.ME"
+}

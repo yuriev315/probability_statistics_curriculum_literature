@@ -1,0 +1,689 @@
+﻿路径,许可,字节,SHA256
+projects_33/envs/windows_py310/wheelhouse/aiohappyeyeballs-2.7.1-py3-none-any.whl,PSF-2.0 -File: LICENSE OSI Approved :: Python Software Foundation License,15038,9243213661e29250eb41368e5daa826fc017156c3b8a11440826b2e3ed376472
+projects_33/envs/windows_py310/wheelhouse/aiohttp-3.14.5-cp310-cp310-win_amd64.whl,"Apache-2.0 AND MIT -File: LICENSE.txt -File: vendor/llhttp/LICENSE",512021,bea559ad70218d230663e4210875735076a9bfea5994cef34a55a25faeaf2544
+projects_33/envs/windows_py310/wheelhouse/aiosignal-1.4.0-py3-none-any.whl,Apache 2.0 OSI Approved :: Apache Software License -File: LICENSE,7490,053243f8b92b990551949e63930a839ff0cf0b0ebbe0597b0f3fb19e1a0fe82e
+projects_33/envs/windows_py310/wheelhouse/arch-8.0.0-cp310-cp310-win_amd64.whl,NCSA -File: LICENSE.md,937890,b56c3994069532c6621d211a333c62ae6b3cfeb3eef8089806bd4698062137ca
+projects_33/envs/windows_py310/wheelhouse/async_timeout-5.0.1-py3-none-any.whl,Apache 2 OSI Approved :: Apache Software License -File: LICENSE,6233,39e3809566ff85354557ec2398b55e096c8364bacac9405a7a1fa429e77fe76c
+projects_33/envs/windows_py310/wheelhouse/attrs-26.1.0-py3-none-any.whl,MIT -File: LICENSE,67548,c647aa4a12dfbad9333ca4e71fe62ddc36f4e63b2d260a37a8b83d2f043ac309
+projects_33/envs/windows_py310/wheelhouse/autograd-1.9.1-py3-none-any.whl,MIT -File: license.txt,54387,b788bae3fa010cbffb4cfb7b8ba2a3f0daa6072a8506da6164c779fe9cf3e05a
+projects_33/envs/windows_py310/wheelhouse/autograd_gamma-0.4.2-py2.py3-none-any.whl,MIT (LICENSE in wheel),3828,83fd9c76ffa6803710124404fc6e4ef33d2a01557d26f7dd36073aa2be05fb1d
+projects_33/envs/windows_py310/wheelhouse/causal_learn-0.1.4.8-py3-none-any.whl,OSI Approved :: MIT License -File: LICENSE,245877,8c8d408c0b2fecdf150584cbcd8271efeb590e692b8e7f6f67ed215339a094e6
+projects_33/envs/windows_py310/wheelhouse/causaldata-0.1.4-py3-none-any.whl,"MIT license",2767655,33b4e378951c1a1064924dee7c5f6c10ddae636558bb44d2c5e560b27f2559ac
+projects_33/envs/windows_py310/wheelhouse/certifi-2026.10.23-py3-none-any.whl,MPL-2.0 OSI Approved :: Mozilla Public License 2.0 (MPL 2.0) -File: LICENSE,135082,e9b54de76e530bb6cf0ccd036787103acb58fd42ba930ea8bf948ddbaa2f61d1
+projects_33/envs/windows_py310/wheelhouse/cffi-2.1.1-cp310-cp310-win_amd64.whl,"MIT-0 -File: LICENSE",185082,a48d62ab9d6f4f98c983223a547af44be6ca3691074c31cecced6facd3ba2dc1
+projects_33/envs/windows_py310/wheelhouse/charset_normalizer-3.5.2-cp310-cp310-win_amd64.whl,"MIT -File: LICENSE",215446,1461ac396c4fdb983a675f20aa555624f0ee18ac83d832b9244ffff3d8055275
+projects_33/envs/windows_py310/wheelhouse/clarabel-0.11.1-cp39-abi3-win_amd64.whl,-File: LICENSE.md Apache-2.0,887310,557d5148a4377ae1980b65d00605ae870a8f34f95f0f6a41e04aa6d3edf67148
+projects_33/envs/windows_py310/wheelhouse/cloudpickle-3.1.2-py3-none-any.whl,BSD-3-Clause OSI Approved :: BSD License -File: LICENSE,22228,9acb47f6afd73f60dc1df93bb801b472f05ff42fa6c84167d25cb206be1fbf4a
+projects_33/envs/windows_py310/wheelhouse/colorama-0.4.6-py2.py3-none-any.whl,-File: LICENSE.txt OSI Approved :: BSD License,25335,4f1d9991f5acc0ca119f9d443620b77f9d6b33703e51011c16baf57afb285fc6
+projects_33/envs/windows_py310/wheelhouse/contourpy-1.3.2-cp310-cp310-win_amd64.whl,BSD 3-Clause License OSI Approved :: BSD License,221188,c440093bbc8fc21c637c03bafcbef95ccd963bc6e0514ad887932c18ca2a759a
+projects_33/envs/windows_py310/wheelhouse/cvxpy-1.7.5-cp310-cp310-win_amd64.whl,"Apache License, Version 2.0 -File: LICENSE",1148361,3207a3cf7360d176fe7f1dfe172846d7a3befd9b1db604c0082e4fa242373aff
+projects_33/envs/windows_py310/wheelhouse/cycler-0.12.1-py3-none-any.whl,"Copyright (c) 2015, matplotlib project OSI Approved :: BSD License -File: LICENSE",8321,85cef7cff222d8644161529808465972e51340599459b8ac3ccbac5a854e0d30
+projects_33/envs/windows_py310/wheelhouse/cython-3.3.1-cp310-cp310-win_amd64.whl,"Apache-2.0",2861943,747dade0373011034645ace4e7eb3a54102c52524fc0675dea76e655e9c1dcff
+projects_33/envs/windows_py310/wheelhouse/dowhy-0.14-py3-none-any.whl,MIT -File: LICENSE OSI Approved :: MIT License,403110,9c5855d80601e0feb2d0d232c19e7b660db4cd0ea04ace2ebaefcdb3599ab9db
+projects_33/envs/windows_py310/wheelhouse/filelock-4.1.0-py3-none-any.whl,MIT -File: LICENSE OSI Approved :: MIT License,133003,2ce9818e3e2d8f284c1a964414447ef148d42a5fd5e2a477a7118e574b293ec1
+projects_33/envs/windows_py310/wheelhouse/fonttools-4.65.0-cp310-cp310-win_amd64.whl,"MIT -File: LICENSE -File: LICENSE.external",1633354,5c1700a60e4ff23a0425d5a64abf43d092e6b55071354825781faf255904dcb4
+projects_33/envs/windows_py310/wheelhouse/formulaic-1.2.2-py3-none-any.whl,MIT -File: LICENSE OSI Approved :: MIT License,118939,0f84ff49e3fc9dc0e68ab08a0a9427874021aa6c558e66b44dc634a35739b09b
+projects_33/envs/windows_py310/wheelhouse/frozenlist-1.8.0-cp310-cp310-win_amd64.whl,"Apache-2.0 -File: LICENSE ",43837,667c3777ca571e5dbeb76f331562ff98b957431df140b54c85fd4d52eea8d8f6
+projects_33/envs/windows_py310/wheelhouse/fsspec-2026.9.0-py3-none-any.whl,BSD-3-Clause -File: LICENSE,221738,8dd6e646e99ea382bd85f97a45e6b526a442d79423a7dc673f1e2756d05fcb5f
+projects_33/envs/windows_py310/wheelhouse/graphviz-0.21-py3-none-any.whl,"MIT -File: LICENSE.txt ",47300,54f33de9f4f911d7e84e4191749cac8cc5653f815b06738c54db9a15ab8b1e42
+projects_33/envs/windows_py310/wheelhouse/h5py-3.16.0-cp310-cp310-win_amd64.whl,"BSD-3-Clause -File: LICENSE -File: lzf/LICENSE.txt -File: licenses/hdf5.txt -File: licenses/license.txt -File: lice",3183639,bdef06507725b455fccba9c16529121a5e1fbf56aa375f7d9713d9e8ff42454d
+projects_33/envs/windows_py310/wheelhouse/idna-3.20-py3-none-any.whl,BSD-3-Clause -File: LICENSE.md,69583,ab7ae7122974553370f0bdb919e1a960b2cd1bc1ef0276416d896db81c14582c
+projects_33/envs/windows_py310/wheelhouse/interface_meta-2.0.1-py3-none-any.whl,MIT -File: LICENSE,15330,f38016bef9a4429b6d0792d809be7b65e9781820c674bf7f463999086b6e6323
+projects_33/envs/windows_py310/wheelhouse/islp-0.4.1-py3-none-any.whl,"Redistribution and use in source and binary forms, with or without OSI Approved :: BSD License",16582447,191606d2d989239ced24422d3e99c6226ad249603b4ec967427a2990e9fcf5f3
+projects_33/envs/windows_py310/wheelhouse/jinja2-3.1.6-py3-none-any.whl,OSI Approved :: BSD License -File: LICENSE.txt,134899,85ece4451f492d0c13c5dd7c13a64681a86afae63a5f347908daf103ce6d2f67
+projects_33/envs/windows_py310/wheelhouse/joblib-1.6.0-py3-none-any.whl,BSD-3-Clause -File: LICENSE.txt,306115,3dbbf9f6e4b592a2357b854608e980fe6390d131d7a82f011a377ef2ebef7aba
+projects_33/envs/windows_py310/wheelhouse/kiwisolver-1.5.1-cp310-cp310-win_amd64.whl,"========================= OSI Approved :: BSD License -File: LICENSE",70643,96c30002424670b5e1e46495c2b8cbffef39cf77c1d79e76462029d50339785b
+projects_33/envs/windows_py310/wheelhouse/lifelines-0.30.0-py3-none-any.whl,MIT OSI Approved :: MIT License -File: LICENSE,349319,ac7c602c8aceced9770d3977817c9d99c250ed8cd86f2567fa0d23e4e8014bf9
+projects_33/envs/windows_py310/wheelhouse/lightning_utilities-0.15.3-py3-none-any.whl,Apache-2.0 -File: LICENSE,31906,6c55f1bee70084a1cbeaa41ada96e4b3a0fea5909e844dd335bd80f5a73c5f91
+projects_33/envs/windows_py310/wheelhouse/linearmodels-7.1-cp310-cp310-win_amd64.whl,NCSA -File: LICENSE.md,2081555,b15ab601315ef41eef1e867a476ff8bb8e7742efd0a219c03a0952016361b48c
+projects_33/envs/windows_py310/wheelhouse/llvmlite-0.50.0-cp310-cp310-win_amd64.whl,BSD-2-Clause plus third-party notices (LICENSE in wheel),41865271,cda14ab787e609c2c2c5d1386a6d5f8723e9d047d27341585f606c27dc5744ab
+projects_33/envs/windows_py310/wheelhouse/lpdensity-3.0.0-py3-none-any.whl,GPL-3.0-only,18594,df4707d7c34807225aaa6c34765cadcb0696b4a6ca8b5dd08f14f0a7de4fa1a1
+projects_33/envs/windows_py310/wheelhouse/lxml-6.1.3-cp310-cp310-win_amd64.whl,"BSD-3-Clause -File: LICENSE.txt -File: LICENSES.txt",4029086,18a4db52b5a7b53a3540b0b0f4123319334621ee8083d496de314d0bf06ff59a
+projects_33/envs/windows_py310/wheelhouse/markupsafe-3.0.4-cp310-cp310-win_amd64.whl,"BSD-3-Clause -File: LICENSE.txt",14329,5c22873ad1f0532ba40fa1727f3c0fc1bbbaab6d373d4cbe3f0dc74b2e2521c7
+projects_33/envs/windows_py310/wheelhouse/matplotlib-3.10.9-cp310-cp310-win_amd64.whl,License agreement for matplotlib versions 1.3.0 and later OSI Approved :: Python Software Foundation License,8199701,82834c3c292d24d3a8aae77cd2d20019de69d692a34a970e4fdb8d33e2ea3dda
+projects_33/envs/windows_py310/wheelhouse/mizani-0.14.6-py3-none-any.whl,"Copyright (c) 2016, Hassan Kibirige OSI Approved :: BSD License -File: LICENSE",134163,a3d3ec364018efaa0e259d530303576156bac7741faa66167c9b50aaf19c3d73
+projects_33/envs/windows_py310/wheelhouse/momentchi2-0.1.8-py3-none-any.whl,UNKNOWN OSI Approved :: MIT License -File: LICENSE,11315,39523a545882c5eaee205496a007954f4db4dedb4e5009206c92c0a865ad3c4d
+projects_33/envs/windows_py310/wheelhouse/mplcursors-0.7.1-py3-none-any.whl,zlib-style (LICENSE in wheel),20595,eb38f23c90d15c37693a1db1ab64e9b81d1939aabc5a519e1261613ab488508f
+projects_33/envs/windows_py310/wheelhouse/mpmath-1.3.0-py3-none-any.whl,BSD OSI Approved :: BSD License -File: LICENSE,536198,a0b2b9fe80bbcd81a6647ff13108738cfb482d481d826cc0e02f5b35e5c88d2c
+projects_33/envs/windows_py310/wheelhouse/multidict-7.1.0-cp310-cp310-win_amd64.whl,"Apache-2.0 -File: LICENSE ",92126,36b14886aa3e0b8786ecdaa196374422c7b1c1dcc8764d02b2409f74d47914bc
+projects_33/envs/windows_py310/wheelhouse/mypy_extensions-1.2.0-py3-none-any.whl,MIT -File: LICENSE,5114,993e7a20aa5671eb41a7132cf555af30062da99729601601b9a8382b11cae768
+projects_33/envs/windows_py310/wheelhouse/narwhals-2.28.0-py3-none-any.whl,MIT -File: LICENSE.md,490591,1f69d6385ec30e2fa6e1fdeb37c562ecabd0f713f6f3e3b58a668c5c9df9567f
+projects_33/envs/windows_py310/wheelhouse/networkx-3.4.2-py3-none-any.whl,OSI Approved :: BSD License -File: LICENSE.txt,1723263,df5d4365b724cf81b8c6a7312509d0c22386097011ad1abe274afd5e9d3bbc5f
+projects_33/envs/windows_py310/wheelhouse/numba-0.68.1-cp310-cp310-win_amd64.whl,"BSD OSI Approved :: BSD License -File: LICENSE -File: LICENSES.third-party",2833029,e8069ec8807764fdd355a578e3943132a0b8e053e5d61e7b3639ed371ceaa80c
+projects_33/envs/windows_py310/wheelhouse/numexpr-2.14.1-cp310-cp310-win_amd64.whl,"MIT -File: LICENSE.txt -File: LICENSES/cpuinfo.txt ",160068,823cd82c8e7937981339f634e7a9c6a92cb2d0b9d0a5cf627a5e394fffc05377
+projects_33/envs/windows_py310/wheelhouse/numpy-2.2.6-cp310-cp310-win_amd64.whl,"Copyright (c) 2005-2024, NumPy Developers. OSI Approved :: BSD License",12904620,f0fd6321b839904e15c46e0d257fdd101dd7f530fe03fd6359c1ea63738703f3
+projects_33/envs/windows_py310/wheelhouse/osqp-1.1.3-cp310-cp310-win_amd64.whl,Apache-2.0 -File: LICENSE,313869,c2b79b59039f0659ce60282ffe41b6e6d58dbee61ab8cf5c25cad3b386e85bf8
+projects_33/envs/windows_py310/wheelhouse/packaging-26.3-py3-none-any.whl,Apache-2.0 OR BSD-2-Clause -File: LICENSE -File: LICENSE.APACHE -File: LICENSE.BSD,129956,d7193f7c8e4e93f444fde0262bf90af30e16fa0ad0ad44cb553c87339b23cd1c
+projects_33/envs/windows_py310/wheelhouse/pandas-2.3.3-cp310-cp310-win_amd64.whl,BSD 3-Clause License OSI Approved :: BSD License,11346086,503cf027cf9940d2ceaa1a93cfb5f8c8c7e6e90720a2850378f0b3f3b1e06826
+projects_33/envs/windows_py310/wheelhouse/patsy-1.0.3-py2.py3-none-any.whl,2-clause BSD OSI Approved :: BSD License -File: LICENSE.txt,233318,d3dbebe8fd5f46e29912d030b63c6268647b59bf788a99e2af28a30234cf357c
+projects_33/envs/windows_py310/wheelhouse/pillow-12.3.0-cp310-cp310-win_amd64.whl,"MIT-CMU -File: LICENSE",7226887,300557495eb45ebb8aec96c2da9c4be642fbf7cd937278b4013ba894ea8eb0eb
+projects_33/envs/windows_py310/wheelhouse/plotly-7.1.0-py3-none-any.whl,MIT -File: LICENSE.txt OSI Approved :: MIT License,9692368,dbb7fa18afce40d0a8e80d1bf162eceb3faa0ce5a77fe741ad09a74cf78f53f3
+projects_33/envs/windows_py310/wheelhouse/plotnine-0.15.9-py3-none-any.whl,The MIT License (MIT) OSI Approved :: MIT License -File: LICENSE,1573070,36f4526235b3ddd9ea379dd677093ea2ee1b58ab98adec1bde891930283448cd
+projects_33/envs/windows_py310/wheelhouse/progressbar2-4.6.0-py3-none-any.whl,BSD-3-Clause OSI Approved :: BSD License -File: LICENSE,104185,2d78bdeb1debef92a39dd9042e0689542bd72d6e2f30b13432db371aa9d8ee4e
+projects_33/envs/windows_py310/wheelhouse/propcache-0.5.4-cp310-cp310-win_amd64.whl,"Apache-2.0 -File: LICENSE -File: NOTICE",46589,146f48a9e4812611a7581003b1a39de56c34967046310c4171a68ef908c9a745
+projects_33/envs/windows_py310/wheelhouse/pycparser-3.11-py3-none-any.whl,BSD-3-Clause -File: LICENSE,51178,51d5a8ba2be0bbe440b99d2112604c95bbbc3c2748a64260186c541e1729cd80
+projects_33/envs/windows_py310/wheelhouse/pydot-4.0.1-py3-none-any.whl,MIT -File: LICENSES/MIT.txt -File: LICENSES/Python-2.0.txt,37087,869c0efadd2708c0be1f916eb669f3d664ca684bc57ffb7ecc08e70d5e93fee6
+projects_33/envs/windows_py310/wheelhouse/pygam-0.12.0-py3-none-any.whl,Apache-2.0 OSI Approved :: Apache Software License -File: LICENSE,84618,e66597040fc9b6f113a5a9229fc42fb4ea60e8f55942a3b438caccf0512835f4
+projects_33/envs/windows_py310/wheelhouse/pyhdfe-0.2.1-py3-none-any.whl,MIT OSI Approved :: MIT License -File: LICENSE.txt,20348,70ff8649696a397cadc4233a971c9937bfc1c5b1c84e23551ee7a12d726be5b3
+projects_33/envs/windows_py310/wheelhouse/pyparsing-3.3.3-py3-none-any.whl,MIT -File: LICENSE,126420,ece8c00a69cf01b45d0b1dedabb469c90d8caf996d4fda40f147627a122849a4
+projects_33/envs/windows_py310/wheelhouse/pypdf-6.21.4-py3-none-any.whl,BSD-3-Clause -File: LICENSE,410430,33e4fb41ca352810eb4e9838aa0d82d6888a5f8bf682f43e99cce5faa666255c
+projects_33/envs/windows_py310/wheelhouse/python_dateutil-3.0.0-py2.py3-none-any.whl,Dual License OSI Approved :: BSD License OSI Approved :: Apache Software License -File: LICENSE,94659,3c79630202e4152c6add678446984236efe4f57e84d8e892aab0637bab82e9fd
+projects_33/envs/windows_py310/wheelhouse/python_utils-4.1.4-py3-none-any.whl,BSD-3-Clause -File: LICENSE,49838,009251f6182f872cd4a74225cdf3636f48ee4596532082bd367797c5924d92bf
+projects_33/envs/windows_py310/wheelhouse/pytorch_lightning-2.6.6-py3-none-any.whl,Apache-2.0 OSI Approved :: Apache Software License -File: LICENSE,853045,71f95c7b22f25c4f91cc659e1734bcdc6c69c8b66543f2ed2d78dbe29ce2f167
+projects_33/envs/windows_py310/wheelhouse/pytz-2026.6-py2.py3-none-any.whl,MIT OSI Approved :: MIT License -File: LICENSE.txt,506321,7fed3fee8fd6bd4a2b7b75a8d56021d0624127bf69bd5691f115db929ac570b3
+projects_33/envs/windows_py310/wheelhouse/pyyaml-6.0.3-cp310-cp310-win_amd64.whl,"MIT OSI Approved :: MIT License -File: LICENSE",158561,bdb2c67c6c1390b63c6ff89f210c8fd09d9a1217a465701eac7316313c915e4c
+projects_33/envs/windows_py310/wheelhouse/quantecon-0.11.4-py3-none-any.whl,MIT (LICENSE in wheel),335479,eb0951fc5037944195d0b715c0cd535908adcdefd389c99bc3eba5825086774f
+projects_33/envs/windows_py310/wheelhouse/rddensity-3.0-py3-none-any.whl,GPL-3.0-only -File: LICENSE.md,20708,9175430dd26956a94ac2811f8ca0963a40939cce2aaf8aa3f9929f05bae26840
+projects_33/envs/windows_py310/wheelhouse/rdlocrand-3.0-py3-none-any.whl,GPL-3.0-only -File: LICENSE.md,31981,c2056d257ff70124cf3b149b29cc6b961d1cee0feda64b8efdc63c0a180350f7
+projects_33/envs/windows_py310/wheelhouse/rdmulti-2.0.0-py3-none-any.whl,GPL-3.0-only -File: LICENSE.md,16509,028f671652dd73978021e55b301fd9c2f7f459e26be00db56660ac98a2fa82e5
+projects_33/envs/windows_py310/wheelhouse/rdrobust-2.1.1-py3-none-any.whl,GPL-3.0-only -File: LICENSE.md,100959,4cb51615eb0557616769831cc4c12351cbf33cef43a18d473170e26fcfb3d659
+projects_33/envs/windows_py310/wheelhouse/reliability-0.5.3-py3-none-any.whl,LGPL-3.0,154738,bc2c795744719c3548f958ac8295114f27f5a4937d355a57349ffc2062c7db68
+projects_33/envs/windows_py310/wheelhouse/requests-2.34.2-py3-none-any.whl,Apache-2.0 OSI Approved :: Apache Software License -File: LICENSE -File: NOTICE,73075,2a0d60c172f83ac6ab31e4554906c0f3b3588d37b5cb939b1c061f4907e278e0
+projects_33/envs/windows_py310/wheelhouse/scikit_learn-1.7.2-cp310-cp310-win_amd64.whl,BSD-3-Clause -File: COPYING,8886969,ca250e6836d10e6f402436d6463d6c0e4d8e0234cfb6a9a47835bd392b852ce5
+projects_33/envs/windows_py310/wheelhouse/scipy-1.15.3-cp310-cp310-win_amd64.whl,"Copyright (c) 2001-2002 Enthought, Inc. 2003-2024, SciPy Developers. OSI Approved :: BSD License",41259201,9d61e97b186a57350f6d6fd72640f9e99d5a4a2b8fbf4b9ee9a841eab327dc13
+projects_33/envs/windows_py310/wheelhouse/scs-3.3.1-cp310-cp310-win_amd64.whl,MIT License OSI Approved :: MIT License,7631728,b1ae098f85afae2fac0ce69b0bd0ae17bd55288f57d0a37cee95b997aebc26ed
+projects_33/envs/windows_py310/wheelhouse/seaborn-0.13.2-py3-none-any.whl,OSI Approved :: BSD License,294914,636f8336facf092165e27924f223d3c62ca560b1f2bb5dff7ab7fad265361987
+projects_33/envs/windows_py310/wheelhouse/setuptools-84.2.1-py3-none-any.whl,MIT -File: LICENSE,876263,ca140b45d5325a9478f880e351484f62fef15f336462e449ca0c03c873d589c2
+projects_33/envs/windows_py310/wheelhouse/six-1.17.0-py2.py3-none-any.whl,MIT OSI Approved :: MIT License -File: LICENSE,11050,4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274
+projects_33/envs/windows_py310/wheelhouse/statsmodels-0.15.0-cp310-cp310-win_amd64.whl,BSD-3-Clause -File: LICENSE.txt,11367159,0e108365c5062ba1cf568a183cfc8da551ab8b2e84dbb00e1e87a6a714dd4cb3
+projects_33/envs/windows_py310/wheelhouse/sympy-1.14.0-py3-none-any.whl,BSD OSI Approved :: BSD License -File: LICENSE -File: AUTHORS,6299353,e091cc3e99d2141a0ba2847328f5479b05d94a6635cb96148ccb3f34671bd8f5
+projects_33/envs/windows_py310/wheelhouse/tabulate-0.10.0-py3-none-any.whl,"MIT -File: LICENSE",39814,f0b0622e567335c8fabaaa659f1b33bcb6ddfe2e496071b743aa113f8774f2d3
+projects_33/envs/windows_py310/wheelhouse/threadpoolctl-3.7.0-py3-none-any.whl,BSD-3-Clause -File: LICENSE,26362,cd8b60b5641b45c67bbf73c64c843235fc2d8a480c87389f52f5dbee893b86be
+projects_33/envs/windows_py310/wheelhouse/torchinfo-1.8.0-py3-none-any.whl,MIT OSI Approved :: MIT License -File: LICENSE,23377,2e911c2918603f945c26ff21a3a838d12709223dc4ccf243407bce8b6e897b46
+projects_33/envs/windows_py310/wheelhouse/torchmetrics-1.9.0-py3-none-any.whl,Apache-2.0 OSI Approved :: Apache Software License -File: LICENSE,983384,bfdcbff3dd1d96b3374bb2496eb39f23c4b28b8a845b6a18c313688e0d2d9ca1
+projects_33/envs/windows_py310/wheelhouse/torchvision-0.29.2+cpu-py3-none-win_amd64.whl,"BSD -File: LICENSE",1379232,84cb034b4ad99ccfda755270f6a7fff8a1c6694450e29880b99e4a60274e800b
+projects_33/envs/windows_py310/wheelhouse/tqdm-4.70.1-py3-none-any.whl,MPL-2.0 AND MIT -File: LICENCE,80199,c293e525e6fef9c20e8728fd4612df02a0aa31bb5fe91ecd93e123b1b7bffa73
+projects_33/envs/windows_py310/wheelhouse/typing_extensions-4.16.0-py3-none-any.whl,PSF-2.0 -File: LICENSE,45571,481caa481374e813c1b176ada14e97f1f67a4539ce9cfeb3f350d78d6370c2e8
+projects_33/envs/windows_py310/wheelhouse/tzdata-2026.6-py2.py3-none-any.whl,Apache-2.0 -File: LICENSE -File: licenses/LICENSE_APACHE,348210,0a10eec6e13ef16b627fabed9a5f2ba61a62b1c67f327305f4e7e412a70b4aec
+projects_33/envs/windows_py310/wheelhouse/urllib3-2.8.0-py3-none-any.whl,MIT -File: LICENSE.txt,135717,0cf3cae568d36aa9576b28dfb35f11328f1cb974ca7647d9475ebb86c75ac6e3
+projects_33/envs/windows_py310/wheelhouse/wbgapi-1.0.14-py3-none-any.whl,MIT -File: LICENSE.txt,36544,abf43fcbbdc85a84c0774755e725df76ad5ae076b3ecc38a940fa718e14c514b
+projects_33/envs/windows_py310/wheelhouse/wrapt-2.5.2-cp310-cp310-win_amd64.whl,"BSD-2-Clause -File: LICENSE",105837,f01f56a6ddffd89179bf0424c3b5bbd187690cfa2f972472aa2d563a4e0a7fdb
+projects_33/envs/windows_py310/wheelhouse/yarl-1.25.1-cp310-cp310-win_amd64.whl,"Apache-2.0 -File: LICENSE -File: NOTICE",102929,3f4d48a6112712973e676bd792121fee470e432d749177162d9949d5c9460a1b
+projects_33/r_windows/contrib/ADGofTest_0.3.zip,GPL,17517,f64fc91893840aefd71820fc6e0f5b3bdf7d144cebf51dc690e6ebd9b81e5b47
+projects_33/r_windows/contrib/AER_1.2-17.zip,GPL-2 | GPL-3,2592096,2f780c041b87b3bdecb272924046927ed02385eeee8d2d3692b707305ab32331
+projects_33/r_windows/contrib/BH_1.90.0-1.zip,BSL-1.0,21717848,3cf2fd28be791a89e6bed19c5750afd758bfd8acb45db50089b18f154a3eebda
+projects_33/r_windows/contrib/BoomSpikeSlab_1.2.7.zip,LGPL-2.1 | file LICENSE,2027763,296cca79fdc9302db8b9bf1d044af37c579ad4f02f2424f2971d42acc3860d6e
+projects_33/r_windows/contrib/Boom_0.9.17.zip,LGPL-2.1 | file LICENSE,10055108,ce1f9f003d08998a36fe62932c725bf3c03df49b3c7f1174e4e26d60cf70a149
+projects_33/r_windows/contrib/Brobdingnag_1.3-1.zip,GPL,1362189,20893397a690ea386eb2a211c6c434964de57acbc804886f7742b3d6b1708871
+projects_33/r_windows/contrib/CausalImpact_1.4.1.zip,Apache License 2.0 | file LICENSE,452050,7573e4e1ed337de44659364353e36d3e4d6ae50c63098de3660f7045b619e991
+projects_33/r_windows/contrib/DAAG_1.25.7.zip,GPL-3,2012699,631aea61fc665f27f9f915c6c2168a3cc0384e8023990e82c9a174a055cc51c9
+projects_33/r_windows/contrib/DBI_1.3.0.zip,LGPL (>= 2.1),967399,809a3a746bcf44d17e108f0f2575415b93c5b76889a0766d27589d14085ebc99
+projects_33/r_windows/contrib/DEoptimR_1.2-2.zip,GPL (>= 2),107845,47cebd2348be6cae8a4b5a31482980b4c2e8ed1dd256e840f9d4998cb78c8b80
+projects_33/r_windows/contrib/DEoptim_2.2-8.zip,GPL (>= 2),131702,3d90074b912af861437b674b883c89345f594998cecef58724ad3b9ea9258a31
+projects_33/r_windows/contrib/DT_0.34.0.zip,MIT + file LICENSE,2009473,0d1644cb635bb7c7ea988e9846a087456ff2219e7559d0b2f3f2b859032565d6
+projects_33/r_windows/contrib/Deriv_4.3.6.zip,GPL (>= 3),539888,035ddbb746f7c867c54709779d23f687e7bb17a9c28a074a1d1c682eea039100
+projects_33/r_windows/contrib/DiagrammeR_1.0.12.zip,MIT + file LICENSE,2248432,097a81d32aa47cbdac635bf3aeee60d7797610e51956e82c964910a3e236ae3e
+projects_33/r_windows/contrib/DiceDesign_1.10.zip,GPL-3,342797,1d2f9f102f7e6883a050365d932b1d292b02be345b01d159a9d964c950f29af4
+projects_33/r_windows/contrib/DistributionUtils_0.6-2.zip,GPL (>= 2),191228,9de890cd8c30fb77913dcbb0713ccdb5ee377fafedd0af61d03386c194ee3cc2
+projects_33/r_windows/contrib/EGRET_3.0.12.zip,CC0,3385360,d5afcda3b82a92f4344a9045997e1e0777aab255e27459cc265328f6fee5513e
+projects_33/r_windows/contrib/EGRETci_2.0.5.zip,CC0,2595919,261731c5d7667a57ebce50af1748373daed4d3a937bddbcf366dfc938ca35d25
+projects_33/r_windows/contrib/Epi_2.66.zip,GPL-2,3647283,39f0bd50f5d7c7e51a1ea2b831d7e1334b8f2ad91d66223ebce5faed66b81957
+projects_33/r_windows/contrib/FITSio_2.1-6.zip,GPL (>= 2),143853,4e126fb9ea15d5243a8d2e95570d44001b34efd355d39c4c4770146d22115c08
+projects_33/r_windows/contrib/FNN_1.1.4.1.zip,GPL (>= 2),451773,91aad271a6f6dd315bdb48783e6834cda4a5e533484fbb8cc66920654bcac438
+projects_33/r_windows/contrib/FinTS_0.4-9.zip,GPL (>= 2),4482181,d82489ecec0d256b886e25c676e2c298e03da5d02d0bb39df97716c6b20ea166
+projects_33/r_windows/contrib/Formula_1.2-6.zip,GPL-2 | GPL-3,83569,f34906f9b474ecb343c18c29c8b20c978c606bfe213037843f1d4f606feaf0fd
+projects_33/r_windows/contrib/GGally_2.4.0.zip,GPL (>= 2.0),2062128,33184454ed68be2d75fc0157ef449fff601076c9a514eb6dec3ee64bfc482372
+projects_33/r_windows/contrib/GPfit_1.0-9.zip,GPL-2,79902,eec72809c31216bd0b8f429820740a88d3a78ab0eb4f5191dc752d062e0e962d
+projects_33/r_windows/contrib/GauPro_0.2.17.zip,GPL-3,2458267,8d2c9bf24973365e5f55348adefdd4bc642c390f7464847697f88731e5cb80fa
+projects_33/r_windows/contrib/GeneralizedHyperbolic_0.8-7.zip,GPL (>= 2),606065,784b038b3b15e60ef462f17945612349bc52db8d2eb0edfad4f0320b9fd858b2
+projects_33/r_windows/contrib/HistData_1.1.1.zip,GPL,6005797,b3a12c917bb2f50e69dee5ca53d0ac2e678b72d1f51c061537d1133f2d756e21
+projects_33/r_windows/contrib/Hmisc_5.3-0.zip,GPL (>= 2),3908904,1396a6fc785a6aed26475b0120c5ddd3875fa1d6b601c19edbe32e5d46fe3ead
+projects_33/r_windows/contrib/IQCC_0.7.zip,GPL-2 | file LICENSE,107168,d4aa745915dd0251e3fb02ab3e337c5209f849647f0d2634737c0e4b7146a157
+projects_33/r_windows/contrib/ISOweek_0.6-2.zip,GPL (>= 2),30334,b2e61dac3618add249e1f66093dc93fa9a3c6b699ab66289f7a0bfaf20c04d2c
+projects_33/r_windows/contrib/KFAS_1.6.0.zip,GPL (>= 2),986122,4bfe7dbe954b3292a1eaee33af56a6fbcf301749fd8d5504926185b765cf9034
+projects_33/r_windows/contrib/Kendall_2.2.2.zip,GPL (>= 2),49250,73163fa999736989f9d26a922fc8cd616152a53915a4bb7a97edb351ce6dd28d
+projects_33/r_windows/contrib/MARSS_3.11.10.zip,GPL-2,3771310,4827cc975569b19410090d342fc3a142f77f0e1d93254e8fc5b9584d268b3df3
+projects_33/r_windows/contrib/MMWRweek_0.1.3.zip,GPL (>= 2) | file LICENSE,33015,744556ba45fcb3a1cb53635d07625129f21e9a5f0804fc266edc5a6de948b727
+projects_33/r_windows/contrib/MSGARCH_2.51.zip,GPL (>= 2),1745308,4e851132df3b9e2d9568d45f3b30f927a054d59498ef58e1761a326bb8389ed8
+projects_33/r_windows/contrib/MatrixModels_0.5-4.zip,GPL (>= 2),410751,8533592ac4faff2a4278ffb84f7477c05a02b83abab41e1e95ae5e1e248d7a6b
+projects_33/r_windows/contrib/OpenStreetMap_0.4.1.zip,GPL-2 | file LICENCE,2270481,594c75ae7467ab2158e0ea8758cd4b1012e3c6ee08dd10e6ba5d09146364bed8
+projects_33/r_windows/contrib/PHEindicatormethods_2.1.2.zip,GPL-3,522772,f5efcaab906ea15ecac0bb262c831e6dd21c7d677173203780dba4bcab4c6c1d
+projects_33/r_windows/contrib/PerformanceAnalytics_2.1.0.zip,GPL-2 | GPL-3,3089093,ea976ce427e08b2d39c7d63f7b5b97f67ad71bc335fd8785e50624bee2b3f873
+projects_33/r_windows/contrib/ProjectTemplate_0.11.2.zip,GPL-3 | file LICENSE,413709,deacb30bc83f0e9737a451d9f7a7f4d618eae6429bbfae1e97e0ff2335319fad
+projects_33/r_windows/contrib/QuickJSR_1.11.0.zip,MIT + file LICENSE,1501474,d12c3c1115acea528d96fac51e0e3c0fdcf4bc2784d5e21291b84afff5285410
+projects_33/r_windows/contrib/R.methodsS3_1.8.2.zip,LGPL (>= 2.1),85424,065a006136c6ee6c6cfcb9fbfc92cf6ea66fe053f942573cf2e6c922387a31e8
+projects_33/r_windows/contrib/R.oo_1.27.1.zip,LGPL (>= 2.1),1002172,5a365b7fda738eef859be24ba760abf56b57a27036669ac2dc4fede03e1c5377
+projects_33/r_windows/contrib/R.utils_2.13.0.zip,LGPL (>= 2.1),1466312,e21d7e3a7791c0541d985ca4e7616cd7932b23493ac40667fa314f3463d1aeb3
+projects_33/r_windows/contrib/R2WinBUGS_2.1-24.zip,GPL-2,996569,4f0492088e76b50621cc31f8bd2848988e60bad8a775ab14fb3cc51fd2d9d503
+projects_33/r_windows/contrib/R2jags_0.8-9.zip,GPL (> 2),109091,05f51bd7aa8eabfecdf6be1a1087cb3440b06e6a8631f119fa708194da472337
+projects_33/r_windows/contrib/R6_2.6.1.zip,MIT + file LICENSE,89965,d009f36830c1c3e9445bba38c64be9f695846f18165576d042dbb9e7e9cee541
+projects_33/r_windows/contrib/RColorBrewer_1.1-3.zip,Apache License 2.0,54704,b8880e323f75149e90e0300684626a3de0692523a972932b27b7474dfa6beac7
+projects_33/r_windows/contrib/RcppArmadillo_15.6.2-1.zip,GPL (>= 2),2082508,8ffe5a90d941a77931b7b59871123f564be28397aaf6f7338c302289a1996608
+projects_33/r_windows/contrib/RcppEigen_0.3.4.0.2.zip,GPL (>= 2) | file LICENSE,2608114,d98074979536b04fe62c6fe39d9cc5959999d9e3c3506f5ce751b4cba3d452a9
+projects_33/r_windows/contrib/RcppParallel_6.2.1.zip,GPL (>= 3),2108952,c4aa03ed980d232c91a1a86ecb23e1ba1dd046d7d2a597927702e4884c72ed3e
+projects_33/r_windows/contrib/RcppRoll_0.4.0.zip,GPL (>= 2),299649,ade8e07f77e966a0fe711e5197fda7161681a955d9e38e908395ab32b6a314ed
+projects_33/r_windows/contrib/RcppTOML_0.2.3.zip,GPL (>= 2),627450,0224678c8d8f64520fb91ffb43e6cf0f11c716b8457ba072157c5fcd3653a3c3
+projects_33/r_windows/contrib/Rcpp_1.1.2.zip,GPL (>= 2),2969338,fa78031837ffabccba924f29c1609f690ae151aadcd27885adcfecb9cdb53db4
+projects_33/r_windows/contrib/Rdpack_2.6.6.zip,GPL (>= 2),649731,8afe4c5bddf04a775b0d369d64c71eb58d8636eaa97a9eebc136dfc7db262df2
+projects_33/r_windows/contrib/RhpcBLASctl_0.23-42.zip,AGPL-3,141141,fb93babcb8f0c3483339b158bea33e56d19708011cb242f740adc5a9d89662aa
+projects_33/r_windows/contrib/RobStatTM_1.0.11.zip,GPL (>= 3),1249003,08bdb00a0d5021beaec08d86621be75f491519da69bcb716d11f1f7817873670
+projects_33/r_windows/contrib/Rsolnp_2.0.1.zip,GPL-2,984106,f130b29d2cd96c2181c63c12a8abeb75c1d5320e1925ab891c73603c43fca8d3
+projects_33/r_windows/contrib/S7_0.2.2.zip,MIT + file LICENSE,352335,9ed960c037285f1d8c995f4d881cd9d1ea5d49f72de29825e8ea2c72944ac977
+projects_33/r_windows/contrib/SQUAREM_2026.1.zip,GPL (>= 2),183896,4ed89a08226ad20856da27b84649e6ac1c30ff0b85b8f737b785cc8304c97855
+projects_33/r_windows/contrib/SixSigma_0.11.1.zip,GPL (>= 2),618085,d36fa5a64322045cdb7c0d67afcaa8479c830056a4bc13e703674e1d0a54944c
+projects_33/r_windows/contrib/SkewHyperbolic_0.4-2.zip,GPL (>= 2),177304,0b4919a04a6093517ae3fe2ec7dd4b3103ca508ab8e8d0129ca642b63b074461
+projects_33/r_windows/contrib/SnowballC_0.7.1.zip,BSD_3_clause + file LICENSE,364901,dacc3716705c54dbd24ca3958dc15598b803548b9272abe6ba89e245c187b54a
+projects_33/r_windows/contrib/SparseM_1.84-2.zip,GPL (>= 2),891840,afdfd59e67e6d695e9f7f1145b7776abac24a96664609e0c7201508860b97e99
+projects_33/r_windows/contrib/StanHeaders_2.39.1.1.zip,BSD_3_clause + file LICENSE,3407012,917ccc7b57aa787b02cb2daf817da1dfd029f880eae15c7961ffe1c619330511
+projects_33/r_windows/contrib/TSA_1.3.1.zip,GPL (>= 2),526674,a3f553c5b5b27a48b5de818ad18ca9c9b24da50acc523191f5d22c8805dd8e52
+projects_33/r_windows/contrib/TTR_0.24.4.zip,GPL (>= 2),537310,135d7de973f057a2b186a8338e6e74e98f47376bb3c4b26a4dbc82f955eaa672
+projects_33/r_windows/contrib/TeachingDemos_2.13.zip,Artistic-2.0,1244724,b7bbedb7b2fac43609b163944604a16f5f8147ddae88a16ec173a50158b10316
+projects_33/r_windows/contrib/Tmisc_1.0.1.zip,GPL-3,96832,691f050eee464b5cc4fdb2dd89049c661d674d426a408f030ad34be08ef3c462
+projects_33/r_windows/contrib/UpSetR_1.4.1.zip,MIT + file LICENSE,4207430,e56be5d2cd5c3bcbc28d9622dcdac860bd1e44ca66540d146509ab541bbe1851
+projects_33/r_windows/contrib/V8_8.2.1.zip,MIT + file LICENSE,12957809,4dd2001183ce4f7060a243a48ff68afad5051ebe4447a7dccb7502ec5c2b508b
+projects_33/r_windows/contrib/XML_3.99-0.25.zip,BSD_3_clause + file LICENSE,3092567,2de02f02243f2d22cd81533ca02ed300e607db0257fcf8e55803de036b7348a4
+projects_33/r_windows/contrib/abind_1.4-8.zip,MIT + file LICENSE,67558,36386ba050ad3851303801fd7b2c15368ae2dfe80a013a310c7e9fc083f09754
+projects_33/r_windows/contrib/adagio_0.9.2.zip,GPL (>= 3),182911,2601d1f35f5ec5ec6a51dabd776480d78c72b0823a2a7ce460037146c783d4a6
+projects_33/r_windows/contrib/airports_0.1.0.zip,GPL-3,795260,b7759efc03a47c884854cf29de8b69f3c580a8bb67765178fbc0375e33fc8334
+projects_33/r_windows/contrib/animation_2.8.zip,GPL,564995,79635eb568f964f046b577d734420ed59559bc7a7c6ae9fb0882cda635d09589
+projects_33/r_windows/contrib/anytime_0.3.13.zip,GPL (>= 2),620898,f705aff92e1167f7f5b71ffb5f1a0dd973eaa2edb88b5dbca70af747df9a9224
+projects_33/r_windows/contrib/ape_5.8-1.zip,GPL-2 | GPL-3,3305430,58d00cee35c007748092542a779074e43b97948782287f59e0fb1f28e170b48c
+projects_33/r_windows/contrib/apyramid_0.1.3.zip,GPL-3,857680,c994c828e71f2bd787290869fbd2bedb3f090e58c2056e615d24577dce34d7c9
+projects_33/r_windows/contrib/arima2_3.4.4.zip,GPL (>= 3),210322,a52ed77bf30a57171828f615283f009be615427dd819e5fdc9540dc1a71b6ca8
+projects_33/r_windows/contrib/arm_1.15-3.zip,GPL (>= 2),443451,a6391525cb29a4b2108b86f10c5303d16c47dde7eb31611a1e53533ad0b882ec
+projects_33/r_windows/contrib/askpass_1.2.1.zip,MIT + file LICENSE,75088,6c9a71a13f177a3ff958289f330847da2513f85433058a0a0e284fab43cfc988
+projects_33/r_windows/contrib/assertthat_0.2.1.zip,GPL-3,58471,bad092f3aa2a678822450a4f8b0cc9e3256c2746f7fa22e1a7f16ac55de6d12c
+projects_33/r_windows/contrib/astsa_2.5.zip,GPL (>= 2),1392625,a1bfa5872e94e7d8b1b85a461946f6cfb8003109940ec55e9b1005c863e43c19
+projects_33/r_windows/contrib/aweek_1.0.3.zip,MIT + file LICENSE,103192,59b8158fe426f56f149d339c1133aff9cdf7c9c04ab71f73433a9349b3f98bf7
+projects_33/r_windows/contrib/babynames_1.0.1.zip,CC0,5538163,16eec9534aad564b7359ee1acc92ba81309bddfd569770654cf152cec4173e35
+projects_33/r_windows/contrib/backports_1.5.1.zip,GPL-2 | GPL-3,126201,41335f8d1934697fcaf2633ab6dae9c8c38fae4c5fa85e469f2a7e30f3c6cd1b
+projects_33/r_windows/contrib/base64enc_0.1-6.zip,GPL-2 | GPL-3,35488,546152c4598bf8e108f1154d27c0b5ef927318a31ca71b336c7ede22bb04dab8
+projects_33/r_windows/contrib/bayesdfa_1.3.4.zip,GPL (>= 3),3035210,3d2da7f66dddc9552e4d4f3353bbf343a6ae2d8a922063facde5cc5af7b33a19
+projects_33/r_windows/contrib/bayesplot_1.16.0.zip,GPL (>= 3),5961885,58a349fd15aa1f70221e60dc8c80c80fc51ae6de8e0bf7ab1b2a700f478fa21b
+projects_33/r_windows/contrib/bigD_0.3.1.zip,MIT + file LICENSE,1170624,b9c699cc4bb81228e259b81c0063189e60e170975e8f9d35395991ad47763308
+projects_33/r_windows/contrib/binom_1.1-2.zip,GPL,390482,a110122493f84799a3f6e5f00964a76dde08ce687bd618c028dbc2a8734f7dd6
+projects_33/r_windows/contrib/bit64_4.8.6.zip,GPL-2 | GPL-3,580183,6b6b2c0c999f3e7f382bda252685453766d91d3652e50a31164a4812559a7b11
+projects_33/r_windows/contrib/bit_4.6.0.zip,GPL-2 | GPL-3,636704,b78599d42d27acfa83f839d0c3bc3276ed0556db8bc7b4892928f058a16dc664
+projects_33/r_windows/contrib/bitops_1.1-0.zip,GPL (>= 2),33709,aaae02c37d8b1f32a2ac1d11462b58be1d87818460d00c7dd7d105074b8521dd
+projects_33/r_windows/contrib/blob_1.3.0.zip,MIT + file LICENSE,53543,00bc973d6c9b7d8462d556960ebbc38216ca30ad853f79972814665dd4f04573
+projects_33/r_windows/contrib/bookdown_0.48.zip,GPL-3,1108769,4352455120353929e9ab99c254e184d775a48a795af61fa8b8535835849b1af2
+projects_33/r_windows/contrib/brew_1.0-10.zip,GPL (>= 2),79208,2d9f6675a3b19697fb96954e0b8218d1d0aa959032080927dc1c748e78df983d
+projects_33/r_windows/contrib/bridgesampling_1.2-1.zip,GPL (>= 2),1291097,14fd051e13354a759608afedebeb5b9ab603854e5bfdf7cfd965fa061f9b9022
+projects_33/r_windows/contrib/brio_1.1.5.zip,MIT + file LICENSE,43933,35ab8a577be02af47f9d969133905cd0fc07ef324b6c5c9f13a1efd2f1f39533
+projects_33/r_windows/contrib/brms_2.23.0.zip,GPL-2,7612455,437d4e5edc285e0206a2bf8e90f0b3b08edfdb102cc0e2394484f2d4052ba467
+projects_33/r_windows/contrib/broom_1.0.13.zip,MIT + file LICENSE,1632105,b722e323e02081ea236299a5ca22eb95f48855d906eb10e41eea0b9d63a67bb5
+projects_33/r_windows/contrib/bslib_0.12.0.zip,MIT + file LICENSE,6493522,761ad8cb06b2500fb66ad919fd14e27e0af9acc74d12bd2840226f9a7101d348
+projects_33/r_windows/contrib/bsts_0.9.11.zip,LGPL-2.1 | MIT + file LICENSE,2823320,9cba78399b3a58c02bc2c4a6eae21a90b5e8cb3e68cf094a933e57d4be603a54
+projects_33/r_windows/contrib/cachem_1.1.0.zip,MIT + file LICENSE,80302,9aa03ca1ecd9764fc6114e52257ec294e31087c02e1af71abadaca9906a72605
+projects_33/r_windows/contrib/callr_3.8.0.zip,MIT + file LICENSE,505578,6ed4b1960152ff79305f4e2f5d52c5fb96cbc71b682678268514d34dfaa96529
+projects_33/r_windows/contrib/carData_3.0-6.zip,GPL (>= 2),1707621,b1a8dffe3b7fb0cb4f636f32f00994cd55aab5c3534fe2d6b14df70648bad043
+projects_33/r_windows/contrib/car_3.1-5.zip,GPL (>= 2),1543457,a1f80c8e264927abf91203876c209ec01267ed318ba99d1f90c2993b160a9907
+projects_33/r_windows/contrib/cellranger_1.1.0.zip,MIT + file LICENSE,110496,03eb77840c15f72e3ca9d601db034459a8995ede0f9fcf7e9e5bae12d6c7258e
+projects_33/r_windows/contrib/changepoint_2.3.zip,GPL,777871,d5e36d474c4c1993b424e74a19879fbbc2ae57bf6d8570142f1ab1fb5e0401e3
+projects_33/r_windows/contrib/checkmate_2.3.4.zip,BSD_3_clause + file LICENSE,777187,b2e88d2e3ff7c9501c2cb6ab89800cf4f82842200841945eecf2e41a5e5b5594
+projects_33/r_windows/contrib/cherryblossom_0.1.0.zip,GPL-3,1338167,0278d9ef2e7a6df0042fe607c7a9e5f588a93aa81c7a6e3711c4967e32e94005
+projects_33/r_windows/contrib/chron_2.3-63.zip,GPL-2,196302,14cd1c89b64177f643cd4d94ef5d72608532af88177b50c18bca20fcd4a9f91e
+projects_33/r_windows/contrib/ciTools_0.6.1.zip,GPL (>= 3),795060,524eee181cda57111035a963863380db2b1fdc0ff6e36be8c6efaec7d78c9d25
+projects_33/r_windows/contrib/classInt_0.4-11.zip,GPL (>= 2),503879,190570b8d1f56be81beb0587ed183c0e171f9a4f78108eba3b656091dc9fa3eb
+projects_33/r_windows/contrib/cli_3.6.6.zip,MIT + file LICENSE,1408839,5f198a2a6f323e9c93bfeac51cd044f8d752dab21ed89893fbd33491ca26f810
+projects_33/r_windows/contrib/clipr_0.8.1.zip,GPL-3,59416,bf2e14dec7d34b0aa327c26fa58f86e5481a456a0dad3a9b02c5d583818d36e2
+projects_33/r_windows/contrib/clock_0.7.4.zip,MIT + file LICENSE,2319210,c1c4f7c8c9bd7591b48a17df8a1fcb6153e70c770013b417fce8cc6de1979389
+projects_33/r_windows/contrib/cmprsk_2.2-12.zip,GPL (>= 2),93730,eb6d89fd09280e61fda40614272d9939dc4514b94d73782628f3f1172ffa66f2
+projects_33/r_windows/contrib/coda_0.19-4.1.zip,GPL (>= 2),332367,85ff29611b804b1be6c10c2efa52405bbcfd0edf9626f6da94a21501d94686bf
+projects_33/r_windows/contrib/colorspace_2.1-4.zip,BSD_3_clause + file LICENSE,2676499,290ced27e3b2cbd073ce44b0d17dfa20276fbfc482838c81261e77c2ae8c544b
+projects_33/r_windows/contrib/colourpicker_1.3.0.zip,MIT + file LICENSE,1348323,9c84783996c18c9f12a3387ef2b912240bd30b492dd7bc06e711b21470c843c3
+projects_33/r_windows/contrib/commonmark_2.0.0.zip,BSD_2_clause + file LICENSE,143185,66195e5bdb93fe15ed66a6407c15e776f36a0e46da4093bbbb87b96eb656354d
+projects_33/r_windows/contrib/conflicted_1.2.0.zip,MIT + file LICENSE,60141,026f85498bd537a30b3a387c5e9636a7f06f65ee2f264bbed65ae428d70f226e
+projects_33/r_windows/contrib/coronavirus_0.4.1.zip,MIT + file LICENSE,2562381,c40e258e92fa3a89a544a1ef16f1706ade6d715ea08254b1f1ebaa3216ffa20e
+projects_33/r_windows/contrib/corpcor_1.6.10.zip,GPL (>= 3),118467,d93a27886a1f9f72717e08dc8d208089c2dd68b2d15b7b103d17cacc95a036da
+projects_33/r_windows/contrib/corrplot_0.95.zip,MIT + file LICENSE,3827500,6f482b8370ca35e269effdda8751e3b0a7733a43cf5b3c845192f1e2005b8944
+projects_33/r_windows/contrib/cowplot_1.2.0.zip,GPL-2,1387591,11cc6d00f30972f7e7a2b29304a39f42fdbc23fcd8e0964676582b96d4f38254
+projects_33/r_windows/contrib/cpp11_0.5.5.zip,MIT + file LICENSE,326864,fd8ba0303af7687aba87bc6fabaed739fa8cfe5e1f28ff5a12f4fa5ca7be43e6
+projects_33/r_windows/contrib/crayon_1.5.3.zip,MIT + file LICENSE,168926,5d5ae5f4247707c883b48874a08de770bd07005ed8c9d7815a94dfb730783917
+projects_33/r_windows/contrib/credentials_2.0.3.zip,MIT + file LICENSE,222848,071e043e9450e26f8ae369d250504daf44af1bd033bb3644ffcf17412dd7ae2d
+projects_33/r_windows/contrib/crosstalk_1.2.2.zip,MIT + file LICENSE,419578,12bc287fd4ce4c49f9c7fb41658671dda0ec59455322c4c1bc2e1858207f6b30
+projects_33/r_windows/contrib/curl_8.1.0.zip,MIT + file LICENSE,3694955,c64002e0f37e07d687641b1b5d65ba86d7e0a2a36403b357f35fc938e20a6b67
+projects_33/r_windows/contrib/cvar_0.6.1.zip,GPL (>= 2),143161,6868e23428cfe9f83d29580ef061917b50a5fe4cc1d39967b8b9f72eff96ed8a
+projects_33/r_windows/contrib/dagitty_0.3-4.zip,GPL-2,372402,6520e4c27e120272e00a12b7f30d0c7fbc8e4c2990b0ba090942fa0ee6a1934d
+projects_33/r_windows/contrib/data.table_1.18.6.1.zip,MPL-2.0 | file LICENSE,3213039,1f674f25145ec7fd1cedc389a8962238710c89e8bb940986de5aa7ba5a37f0e2
+projects_33/r_windows/contrib/dataRetrieval_2.7.27.zip,CC0,1472437,715e5be1ab740b172ab2203ec70607576af4dd40a3714c711bc02f757303b198
+projects_33/r_windows/contrib/datamods_1.5.3.zip,GPL-3,1226217,1cd220df86b7ac37cc61de39da13acf1084cd1fac8e86dd6b0cf513df7dbc8c6
+projects_33/r_windows/contrib/datasauRus_0.1.9.zip,MIT + file LICENSE,1004591,044464945d5375afe2842bd4f2527d05a6e1229731c017235dbc1a2c1f0ed04d
+projects_33/r_windows/contrib/dbarts_0.9-34.zip,GPL (>= 2),1216449,cd8f244bad9f37991e68b11db0775707085c5b72464391614e5ce6b8039f5061
+projects_33/r_windows/contrib/dbplyr_2.6.0.zip,MIT + file LICENSE,1349939,f216592f47c917b0268810f0dbfc1a122399941cc7c3e16b4d9ce143424b0eb7
+projects_33/r_windows/contrib/deSolve_1.42.zip,GPL (>= 2),2547314,48696cb989e5bbc492273686e8f52ec077541eb5af596ba384416c09f6fa064a
+projects_33/r_windows/contrib/deldir_2.0-4.zip,GPL (>= 2),290839,bb9479a1a897b30bd45e3b65916ee130899f8e95d58462f02bf1adf738463c01
+projects_33/r_windows/contrib/denguedatahub_4.1.0.zip,GPL-3,1339152,3abc8246ddc86fd273d2aa39441495605687cbbdfce06d7d0932192c68dc64d4
+projects_33/r_windows/contrib/desc_1.4.3.zip,MIT + file LICENSE,342270,895bb76a97fc8ac0dce579e0b2931d29108ff316f8123bb925aaff5718789342
+projects_33/r_windows/contrib/devtools_2.5.2.zip,MIT + file LICENSE,483040,7c3b64e271a9c013aa5c9fa8f386131d4a1c39ad44779fba5fffd25f90353775
+projects_33/r_windows/contrib/diagram_1.6.5.zip,GPL (>= 2),689257,56afb0cdff7bb238f2586fe9fedc2bc3163fd4a22a2860663477432833449252
+projects_33/r_windows/contrib/dials_1.4.4.zip,MIT + file LICENSE,501563,367ed139fbfe94febeff4cf7317fbdd956daf64fdf23acaf43021dfc30590a98
+projects_33/r_windows/contrib/diffobj_0.3.9.zip,GPL-2 | GPL-3,1038820,4a479f118a9be06abf5d744601cbecdc0d6a2f52636211e275b1da35028aeba8
+projects_33/r_windows/contrib/digest_0.6.39.zip,GPL (>= 2),228547,b953a24adc6936f1e6fcad403a293507b304057dfec6823396223e395f12459b
+projects_33/r_windows/contrib/directlabels_2026.8.27.zip,GPL-3,1135489,767f5a493259d7ff3b7bdd3987191ad1b87484c8f02b68085231a75c15088160
+projects_33/r_windows/contrib/distcrete_1.0.3.zip,MIT + file LICENSE,57673,9d9c6b0c5c22f781f555687a73f52cdd98585684a9a823772b28d41be5ab3515
+projects_33/r_windows/contrib/distributional_0.9.0.zip,GPL-3,706984,0cc95a1c13a47076e39ac12ca6a3cdcfe0093c88cd29ec7a29bc287a4896fc00
+projects_33/r_windows/contrib/doBy_4.7.2.zip,GPL (>= 2),4849803,f0344d2e95cd6c1bf439031b31a4691304c25d2eb472f6f95dab1ade68d0dc92
+projects_33/r_windows/contrib/doFuture_1.4.0.zip,Apache License (>= 2),230840,b27412380f8d5524d811f4a61df0c968ac5b02efbd8fe9839b55b5afac7885b1
+projects_33/r_windows/contrib/doParallel_1.0.17.zip,GPL-2,192487,894c333a92aa515adef849ae8046a0e818f316417a130ccb2dbb08fe89ce9dad
+projects_33/r_windows/contrib/doRNG_1.8.6.3.zip,GPL (>= 2),46463,8440c273092d347f723441874539483cacbb2bca5a4b347172034db7e9403872
+projects_33/r_windows/contrib/doSNOW_1.0.20.zip,GPL-2,29688,ed102b23c0d6a2732a404d9e5570c6041029987d42f098f2ddf2df603b0b3402
+projects_33/r_windows/contrib/dotCall64_1.2.zip,GPL (>= 2),156327,300050465ab3a6c97e64178de8007aa09eca2e3fd1f3791dcc086c1947ba47ae
+projects_33/r_windows/contrib/downlit_0.4.5.zip,MIT + file LICENSE,117035,4ec481cdfdd42c9dc911efe92931e1339e08d6cada41e55f4b78fd115824658e
+projects_33/r_windows/contrib/dplyr_1.2.1.zip,MIT + file LICENSE,1623380,f91c70fc2c53444aca81bd9be55f6389f665eed7a25947af5d8c94365d16bd69
+projects_33/r_windows/contrib/dtplyr_1.3.3.zip,MIT + file LICENSE,413120,189532facec8702c5be38edd15f148899cefd9734ccd9100086170f86c68ed05
+projects_33/r_windows/contrib/dygraphs_1.1.1.6.zip,MIT + file LICENSE,446707,3796d8bdde52b98bbc081e613d919d2ab0773f8860081985fe431748cce7602d
+projects_33/r_windows/contrib/e1071_1.7-17.zip,GPL-2 | GPL-3,669778,29c905d6bc2ba44751b39a3c482dfc9665f309a7bc32992711a00a81ae32e04f
+projects_33/r_windows/contrib/eha_2.12.0.zip,GPL (>= 2),2658885,1ef8d125f6ea5656c3a785441994c80ca4cbab9747b24a09b9a8369f2050390f
+projects_33/r_windows/contrib/ellipse_0.5.0.zip,GPL (>= 2),222458,5a52bfc2280817ac8b229809ed3bcbbfc13bca46ff2fd1bb81ed74f0fb1e91a6
+projects_33/r_windows/contrib/ellipsis_0.3.3.zip,MIT + file LICENSE,28129,d041983966c91fab5ad8452bdf12e91fea8697ae309e0b10dc4d0f274214adef
+projects_33/r_windows/contrib/emmeans_2.0.4.zip,GPL-2 | GPL-3,2534708,4e5955f32956771e01c5513ae957354e1abc958c3898400d1ebf801a374677cc
+projects_33/r_windows/contrib/epicontacts_1.1.4.zip,GPL (>= 2),1309365,76b3fa6822bb3a54dd8337548eae9d84587513818bb37367ef71363e13ec1e1c
+projects_33/r_windows/contrib/epikit_0.2.0.zip,GPL-3,190049,eebcaa3c6b684a9f2ad7ea998faf6893594449711e7a3508f4e76d7b02d251a2
+projects_33/r_windows/contrib/epitrix_0.4.1.zip,MIT + file LICENSE,170348,8a377f8afb384cba1f82026baea578cf89c18d9a0cbbc7a8706c28f6b7010cd0
+projects_33/r_windows/contrib/esquisse_2.1.0.zip,GPL-3 | file LICENSE,1735930,cd7e93d88f0533cd52c1eaf3b99f639240879d92e5c8f5409376ff53d42850db
+projects_33/r_windows/contrib/estimability_2.0.0.zip,GPL (>= 3),335237,678644492566108065310f2ce6385fb7b78ec460c0fb29a22a5848d8c9a90348
+projects_33/r_windows/contrib/etm_1.1.2.zip,MIT + file LICENSE,918634,4431e0848bc9aed639f200492663b3022584d46579ac011ffbb3d13460b01026
+projects_33/r_windows/contrib/evaluate_1.0.5.zip,MIT + file LICENSE,106452,0ca5085b31615fd57414d3db98e472e31924148ee882b3320a9f3d0f976f8a51
+projects_33/r_windows/contrib/exactRankTests_0.8-37.zip,GPL (>= 2),159291,e4b57f934cf87511cb30818bb90299ad0bcdd45833a7e7d54e0123a2b3665755
+projects_33/r_windows/contrib/expm_1.0-1.zip,GPL (>= 2),231744,1babb1ef361fc04ef218e9e7ae28bead17901cbfa73402bb384ae27733beb30f
+projects_33/r_windows/contrib/expsmooth_2.3.zip,GPL (>= 2),278435,3ec7e1a66cb88f2c1642c9c0c3dd91dbfe9311cfc931f328433665807f5aff4d
+projects_33/r_windows/contrib/extraDistr_1.10.0.5.zip,GPL-2,1037760,16368bc62e52f03154c9d04a95e63e2d1b2359dc04390c3c171c792b82cd3a1a
+projects_33/r_windows/contrib/fBasics_4052.98.zip,GPL (>= 2),2556354,b900cb510d1b822fbcd74ecf08c6305b74ed53d66800dbe425378cc4741b3b4f
+projects_33/r_windows/contrib/fGarch_4052.93.zip,GPL (>= 2),716433,9201dd8aa58098a300922750ae2930de8dfac1bbf16f95b7595013d52e553567
+projects_33/r_windows/contrib/fable_0.5.0.zip,GPL-3,1241331,49e22b91a47da4721d9c385532b2c77113ceb731c1f8450226d13d882f42a007
+projects_33/r_windows/contrib/fabletools_0.8.0.zip,GPL-3,727951,83713c0cfab3fe41ce88efc963c4af1f4bbff921955047d0cd196b87b6dadb8a
+projects_33/r_windows/contrib/fanplot_4.0.1.zip,GPL-3,1976917,7b31a8d271fe707784c0eeb2e232d7d57878cbd02d7f8c4b408e5b83fce564fd
+projects_33/r_windows/contrib/fansi_1.0.7.zip,GPL-2 | GPL-3,333976,2c17deaf5e1fc6c211ec8b0da1b6eab2301cc16c7dd3bda576420b3be246271e
+projects_33/r_windows/contrib/farver_2.1.2.zip,MIT + file LICENSE,1529281,6322db3378d9222f15dbe9f3d4b9ac1b558364a0dbd468e8f318ff2903ac6155
+projects_33/r_windows/contrib/fastICA_1.2-8.zip,GPL-2 | GPL-3,49475,d280336b7f5c8a0e41f494a0b5a17e6664e048f643a94efd62778deb515280a0
+projects_33/r_windows/contrib/fastLink_0.6.1.zip,GPL (>= 3),5793645,dc7279b3626fde7f2bbccd193f42e9b930970dbca29eedc7ad08812e416c625f
+projects_33/r_windows/contrib/fastmap_1.2.0.zip,MIT + file LICENSE,143701,a25e615bdbb5cac013e105dd4a106bc20612002b38eb93d26277f5e6ede5ff27
+projects_33/r_windows/contrib/fastymd_0.1.5.zip,GPL-3,47951,661d55d942b242feba9aa1dfe001dec6b89ae36056726c7e2a18d91005868014
+projects_33/r_windows/contrib/feasts_0.5.0.zip,GPL-3,1269921,79e6b68889ab92e8f6978ba110cc4d149cab82749163e53d11b50b2b5e0a894f
+projects_33/r_windows/contrib/fields_18.0.zip,GPL (>= 2),4846708,334e88dac4e99751df62bf98924e4d2ee2f5a47e2868b6a4e4ebbd9d985735d8
+projects_33/r_windows/contrib/fivethirtyeight_0.6.2.zip,MIT + file LICENSE,4599934,5f60fdefedfea8026f477f04a27bea751f3850171cf5c8aa71a340a1e027c39d
+projects_33/r_windows/contrib/flexdashboard_0.6.3.zip,MIT + file LICENSE,387898,35da785bbc00ec3114f2f0ce23b65a18049791195d2a8068a9eb2816db52ea09
+projects_33/r_windows/contrib/flextable_0.10.3.zip,GPL-3,1659392,e7307e6fcdc846481ff6fa222569e6cc8216297f3ad8b95208d862de91ccae96
+projects_33/r_windows/contrib/fma_2.5.zip,GPL-3,499320,9e09ca8b74d5671ddc25d6c55de40891b0a0df9490e5983f3def155aabf8a4fe
+projects_33/r_windows/contrib/fontBitstreamVera_0.1.1.zip,Bitstream Vera licence (redistribution allowed),698317,d9a85356ce38478271f110084b013a5a97e72487c3a35acc601a5bbe9d1af04f
+projects_33/r_windows/contrib/fontLiberation_0.1.0.zip,SIL OFL,4530800,9d76f856144a2e88c8c1f1dff6a9873f9d65d6d5e7d30017db36c03942824fc9
+projects_33/r_windows/contrib/fontawesome_0.5.3.zip,MIT + file LICENSE,1394410,296fdcfbac213122533ba0b88f52d01d15adac2c16658ab49b42e8e27073ed47
+projects_33/r_windows/contrib/fontquiver_0.2.1.zip,GPL-3 | file LICENSE,2281464,ae7468dcd0aa46f7c2b4b47bfde8a21160f01dfcb50a1a5037a32fd0160a52bf
+projects_33/r_windows/contrib/forcats_1.0.1.zip,MIT + file LICENSE,432400,fe893faa69b1b6e83c11d5c6bcf8e007bd1d2dafcb5e06dbab0def413b8a2203
+projects_33/r_windows/contrib/foreach_1.5.2.zip,Apache License (== 2.0),151280,3dabceccea0745e3827a6eeced484be15414a41bc8523da44ab4f0e9ba1521d6
+projects_33/r_windows/contrib/forecast_9.0.2.zip,GPL-3,1996907,ff500c54853f317bc390bf17ee88550cba2862064431e402eda97cdbbe0a64fa
+projects_33/r_windows/contrib/formatR_1.14.zip,GPL,156434,5fc91c38ec35238ef4f4568ab9ee182491b64223e9e03d7b92109143328a2af4
+projects_33/r_windows/contrib/formattable_0.2.1.zip,MIT + file LICENSE,182732,e16141b2dc8a72400c4a526d89b59ce8a6ddf2b2b939303342cef41181acad8a
+projects_33/r_windows/contrib/fpp2_2.5.1.zip,GPL-3,422278,592c611cb48c91feba7f21380974090b837c3752ef7ca4f0c65bb3fcb1b27eda
+projects_33/r_windows/contrib/fpp3_1.0.3.zip,GPL-3,811065,72fd6e7f4eed406a9d937a9aea9ea779353c849f8709ee2fbf952ee7575e2d22
+projects_33/r_windows/contrib/fracdiff_1.5-4.zip,GPL (>= 2),108221,11cb2054ab4cc5516587b70f1080621170ed52e26c8f409dbb8a7ee3aaf58ff1
+projects_33/r_windows/contrib/fs_2.1.0.zip,MIT + file LICENSE,428615,5667684c1474bf928e6424fa87666118b1e4957e653508c723b70aa9da62b93f
+projects_33/r_windows/contrib/furrr_0.4.0.zip,MIT + file LICENSE,1020617,9d533fac9a8fe1c61a1c8103cec46a7dbb8cdc08b768ea7e6e0e4707936a1b5b
+projects_33/r_windows/contrib/future.apply_1.21.0.zip,GPL (>= 2),218438,ea5f0577c82952143195ff46d5ce4a3817527bfea2a63f3a14067455b560f0ac
+projects_33/r_windows/contrib/future_1.82.0.zip,Apache License (>= 2),1131214,4165c6fe94ac67b8cba4504d451079e5d70f64e8613ccc2306654f14ec46728b
+projects_33/r_windows/contrib/futurize_1.1.0.zip,Apache License (>= 2),1330275,038fc78a5aa30c5ba72fe184d4802e138779d53b78b62566156636b09253067b
+projects_33/r_windows/contrib/gargle_1.7.0.zip,MIT + file LICENSE,831858,d74fe068927d48578b329963b7be9216beebcfcf5bb84e81d4a77cea47d0a77c
+projects_33/r_windows/contrib/gbutils_0.5.1.zip,GPL (>= 2),322649,7f2123363d530c99d3f919a2d2157203c4a9a7cbc845eff62919a66cd430efcd
+projects_33/r_windows/contrib/gdtools_0.5.2.zip,GPL-3 | file LICENSE,3739664,c605eb1354e7a9a6cc1f8ccaae02b69f070372ec383a01ebb188c22bd73b944f
+projects_33/r_windows/contrib/generics_0.1.4.zip,MIT + file LICENSE,86246,81fa37fa9f25d5005cfafbf47c711309c14b0b8703c130d5a2fe7c9747edeb87
+projects_33/r_windows/contrib/geosphere_1.6-8.zip,GPL (>= 3),1416093,9c118e042aa47c0d08f2bd623a5332081768a1d984fd004a93fde2fa5a129817
+projects_33/r_windows/contrib/gert_2.5.0.zip,MIT + file LICENSE,4071727,2ff304ef8e70a538a443f1a371dc969aab37e1d4acffa8352ca9d1aec26600c7
+projects_33/r_windows/contrib/ggdist_3.3.3.zip,GPL (>= 3),3160836,792e52741b55331d250e2af5b30dde4b16965ba8240b443a043b0bf03d264dd0
+projects_33/r_windows/contrib/ggfortify_0.4.24.zip,MIT + file LICENSE,555181,162b6d22524bf60f3ca0607d5835c259f760e7d8c7dffedd3dd00b7b7c5cb4ac
+projects_33/r_windows/contrib/ggfun_0.2.2.zip,Artistic-2.0,781811,ed87916725e92d76746f537506c7a7028ebf6519385efeeffd2ec5dfe65619c6
+projects_33/r_windows/contrib/gghighlight_0.5.0.zip,MIT + file LICENSE,986303,ebd4f5a6b34ce985d34b145068e18d59a86d8957f6944f62cec25a9d59f9059b
+projects_33/r_windows/contrib/ggimage_0.3.8.zip,Artistic-2.0,1759085,2cdaf660e2958ef9fd29b8a16b4c928a29d55d22fdf16852f38825e0b0941cd3
+projects_33/r_windows/contrib/ggiraph_0.9.6.zip,GPL-3,2692773,e1fd619d1f42383340ed1bc6485ddcaab119baf36477f4bdfde6c9d0315ba6cd
+projects_33/r_windows/contrib/ggmap_4.0.2.zip,GPL-2,4782236,f091609291d2458a2814748fd498db5084ca0703a9eec47f5b9f3b7ac9a7aae6
+projects_33/r_windows/contrib/ggplot2_4.0.3.zip,MIT + file LICENSE,8473063,e3a522e4a96fe0119d3c141e97b40600d58c37a6ed43b28cfb7c9827276c422d
+projects_33/r_windows/contrib/ggplotify_0.1.4.zip,Artistic-2.0,577237,aabcded89707cc32a42c4a50d460b3318bec9270943b16351e161d293c69d4fe
+projects_33/r_windows/contrib/ggpubr_1.0.0.zip,GPL (>= 2),2348349,356ced0886ab201fc177ed542388fb2fbf1327ec6e867eef8b170c8fa0155d5f
+projects_33/r_windows/contrib/ggrepel_0.9.8.zip,GPL-3 | file LICENSE,692957,e0cbe38ccae807a721d76f5fd976b68859d5916a319e79b21a64179a1703b997
+projects_33/r_windows/contrib/ggridges_0.5.7.zip,GPL-2 | file LICENSE,2280619,015c27d911aa32a92e76e6098b897b0c0c1e2dcebb50851cbb49f26de03a5a07
+projects_33/r_windows/contrib/ggsci_5.2.0.zip,GPL (>= 3),2377552,0eba3e7b46477870cc5b566b09a492377abea06315d8efc45eef66bb45869feb
+projects_33/r_windows/contrib/ggsignif_0.6.4.zip,GPL-3 | file LICENSE,606696,6fa81884e4b5387f129cf1bcdb78ae1572df8cd4a9c455315ade0393727bf490
+projects_33/r_windows/contrib/ggstats_0.14.0.zip,GPL (>= 3),1343902,31eca096cfd7eafbb142a34855a5a6f59b9c7235945ac02491e42153d49dd693
+projects_33/r_windows/contrib/ggtext_0.2.0.zip,GPL-2,1294940,3fa7ee2e6f52f15c98b5745fff69a3efa5ffe0f33c61471e653d5f8a15260ab5
+projects_33/r_windows/contrib/ggtime_1.1.0.zip,GPL (>= 3),1444798,a6532ba7888779b84b412eb964ef08f45f4a729f6f4bd15ebf62d0ef614e31da
+projects_33/r_windows/contrib/gh_1.6.1.zip,MIT + file LICENSE,181542,359cebe4187eb9b02037a5c7ad02f83b6717842505e77932653d9babfc3ba118
+projects_33/r_windows/contrib/gitcreds_0.1.2.zip,MIT + file LICENSE,103574,5c7fe04b89b5978f297fbd1b55f40e8d340b5f01cace9a67b5843ce48b9c7bc2
+projects_33/r_windows/contrib/glmnet_5.2.zip,GPL-2,2829322,62ed71d7202f40a1a90f8df8991e7b90d7527d102eebc049d70e236a1f348e17
+projects_33/r_windows/contrib/globals_0.20.0.zip,LGPL (>= 2.1),185087,33dc4403c962658324975e151b64cb3e5109eaa7dfb174f0e0e8865cf424adb7
+projects_33/r_windows/contrib/globe_1.2-0.zip,GPL (>= 2.0),91383,2605cb3b4d7f3f3ac9f3f548b878721257536dff147e3a6d8f7a8c0a4341ea00
+projects_33/r_windows/contrib/glue_1.8.1.zip,MIT + file LICENSE,192120,e55e8deba0d6462afbb67a3c58cf662250250b6b534b820d0d957152aa20a870
+projects_33/r_windows/contrib/gmp_0.7-5.1.zip,GPL (>= 2),517674,ee551bdb2a61f9de81f417696131e91457e16e1f7f5b46102f9fc8639e099211
+projects_33/r_windows/contrib/googledrive_2.2.0.zip,MIT + file LICENSE,1907099,90c4380a36de937204470768945aaa4a9d8f1f54841f6ad3161818e81fff2446
+projects_33/r_windows/contrib/googlesheets4_1.1.3.zip,MIT + file LICENSE,529057,583c2598947d54e11c14f39606cfc689e3ce4fc48de183adfae444fc1e1a4bf5
+projects_33/r_windows/contrib/gower_1.0.2.zip,GPL-3,334003,2d44f1d823d840e00fc692601ff8fe5b7a8b05b55b87c577c3c5261ed5e763cc
+projects_33/r_windows/contrib/grates_1.8.0.zip,MIT + file LICENSE,427196,0add0fce0bdd7ef2e74aee6f1e36ed155d3acf859574ee3418ff24bb11685b2a
+projects_33/r_windows/contrib/gridExtra_2.3.1.zip,GPL (>= 2),530219,fe52a9fa7feaf6477dcc2bdc083bb50e44c4f3f3c71b3072e8f91046961fb46e
+projects_33/r_windows/contrib/gridGraphics_0.5-1.zip,GPL (>= 2),271209,8d55d7ddf4e70b561944cde2958c3d02c6943e17c24c14b5d15e214df62dd54c
+projects_33/r_windows/contrib/gridtext_0.1.6.zip,MIT + file LICENSE,689641,23c54bb0e7a63cbc65d6ba9396bce9fcb9396e3d7bb2a7c7e170d1dd0a9cd19e
+projects_33/r_windows/contrib/gsDesign2_1.2.0.zip,GPL-3,969620,fba0b125aded05425e8471a3211a3377449f9f7843b316e6725e7913e323f25c
+projects_33/r_windows/contrib/gsDesign_3.11.0.zip,GPL (>= 3),4370992,6dfa183ec23d2594aa993ff8b637ef22345a6cf2e52495a3936d958352dd7cfa
+projects_33/r_windows/contrib/gss_3.0-0.zip,GPL (>= 2),1775930,133bd6798e25621c889cd9b582259548999ea3126b99d6e85c2cd1b4641e72bc
+projects_33/r_windows/contrib/gt_1.4.0.zip,MIT + file LICENSE,6549299,3e46ee34f167243501a9b71961ec75ad0f37033343bd4729734cde63d7c5ec6f
+projects_33/r_windows/contrib/gtable_0.3.6.zip,MIT + file LICENSE,253105,8517efebfd1e924b0374a47ae0ab95963e7b0c658d8515eb6ce24ddfd12c0323
+projects_33/r_windows/contrib/gtools_3.9.5.zip,GPL-2,370252,2336f0a63a9d44f7e2607da1c0a9924540e51c1e9706a61bbed2be1e962206b8
+projects_33/r_windows/contrib/hardhat_1.4.3.zip,MIT + file LICENSE,901455,8afea7a7cdac687bb9cc6291af0d687e37e10c7943aad1c1df608b2fe92234cb
+projects_33/r_windows/contrib/haven_2.5.5.zip,MIT + file LICENSE,807692,ed26f4aeb7ef9d0f2391182f2c2bbad13886e87d5c0e8800600ba19bb9d9accb
+projects_33/r_windows/contrib/here_1.0.2.zip,MIT + file LICENSE,66690,18056c55284142f851f40b41a91f0f292cc148150c9fd63c75deecdfd7ce6d5d
+projects_33/r_windows/contrib/highcharter_0.9.5.zip,MIT + file LICENSE,1636904,991b4acc27c800ebb7f076e1a38a544703925fa0f5208a47513b768b08808f32
+projects_33/r_windows/contrib/highr_0.12.zip,GPL,44748,24958f795e8f024fb76744b8c39cb53f492e890c39c273d754b0194b5fbcccb9
+projects_33/r_windows/contrib/hms_1.1.4.zip,MIT + file LICENSE,110173,5605cd27ac3cdee7854c42e11f99efdf90e6a3c11ad0a804ecd5b40ac26ed919
+projects_33/r_windows/contrib/htmlTable_2.5.0.zip,GPL (>= 3),448169,e50dcda7300a39810edef5079ab976cd83d0908a1381f094528a15d3f2a64082
+projects_33/r_windows/contrib/htmltools_0.5.9.zip,GPL (>= 2),364679,ae4b5e754ba1b571bf9b1c9338275bdd663ce5641ed4fe9b5cf64da573ea94bd
+projects_33/r_windows/contrib/htmlwidgets_1.6.4.zip,MIT + file LICENSE,814285,9555b118fcd2f22628dc84d3835d73ef91596da41c37365a96b0de692e35a4a4
+projects_33/r_windows/contrib/httpuv_1.6.17.zip,GPL (>= 2) | file LICENSE,1086583,1fb81c768c6416e5fbf08365f1292edd104c1a20b68e9b2e7ca7bb718d57801c
+projects_33/r_windows/contrib/httr2_1.3.0.zip,MIT + file LICENSE,997186,931653b49d1d851268cb2685696460cc72a1ec48aa9427bde99e34550534f3cb
+projects_33/r_windows/contrib/httr_1.4.9.zip,MIT + file LICENSE,493126,dd7fe15d1e5c686e8a3a69f464d8cc6284984432d6ed8697d2bb20b29e93efb5
+projects_33/r_windows/contrib/ids_1.0.1.zip,MIT + file LICENSE,127639,47c345c77c6d469be1b316dec80331ff203fb16beb1975829a92ebb203091e01
+projects_33/r_windows/contrib/igraph_2.3.4.zip,GPL (>= 2),7605970,66b690995625f16b72aa0084584eb14f5b82e47af15a7e2e3b8024c0dc1ff976
+projects_33/r_windows/contrib/imputeTS_3.4.zip,GPL-3,3067083,81a048c7ed94b1522a87a7d6384cd9a81572690374118099113f3b11ddb594e7
+projects_33/r_windows/contrib/incidence2_2.6.4.zip,MIT + file LICENSE,634316,4e4bae9a1a466da9c3667f643c36810047e71572fb8c8aa085aa60ecab888c92
+projects_33/r_windows/contrib/incidence_1.7.6.zip,MIT + file LICENSE,1582156,323212f0ca2834e6113994e667c1cc9925c867a164eee7f45f837ca000313f03
+projects_33/r_windows/contrib/infer_1.1.0.zip,MIT + file LICENSE,2144658,fdcf46a46a1316c87999bc584f65297a2aa526cff612c318eb2ed9291d07ba56
+projects_33/r_windows/contrib/ini_0.3.1.zip,GPL-3,16903,05a6a39b32b7579d1682090f00ee0f5d43aa467f0adb592465d113e3b9389f1a
+projects_33/r_windows/contrib/inline_0.3.21.zip,LGPL,134169,527ddde1b18eee98927588aea007d82f3647f630872fa913f8df56ffc9d575cf
+projects_33/r_windows/contrib/installr_0.23.4.zip,GPL-2,367159,d6263180a02a0acc4b0424e4377f36156d6e254c06fe86e6e99fd73b9e62251e
+projects_33/r_windows/contrib/interp_1.1-6.zip,GPL (>= 2),1981263,9d92741be26028513d07d78c13aba909254becece62c1014a0f336a0fcacbf09
+projects_33/r_windows/contrib/ipred_0.9-16.zip,GPL (>= 2),399452,c69c846c454fc402e44b6dd605643f0e086b5b6d643992bb2d7cc1757617fc14
+projects_33/r_windows/contrib/isoband_0.3.0.zip,MIT + file LICENSE,1977000,a5acc11ef974b5e8af82114f6497c428edc8c5b3750bb817d00baa124b84df76
+projects_33/r_windows/contrib/iterators_1.0.14.zip,Apache License (== 2.0),354284,4dcb14626c3ed4fcaf3c76b5dfc09d75d58d8cac7d2b8a34cd2e58015d80da6a
+projects_33/r_windows/contrib/ivmodel_1.9.1.zip,GPL-2 | file LICENSE,423886,7db74945e13dd341fb57d735e4037768e29dcd710fc327d8012c8c774a4bd095
+projects_33/r_windows/contrib/janeaustenr_1.0.0.zip,MIT + file LICENSE,1624465,283012a26b59bf932e080ad2f533216982234cf87b2011b5b0a9a1a8c7472cff
+projects_33/r_windows/contrib/janitor_2.2.1.zip,MIT + file LICENSE,298086,6229396a3d64a5495041a322650f6e4313c9db5285db39b86fb8e3f94c303b19
+projects_33/r_windows/contrib/jomo_2.7-6.zip,GPL-2,2073485,239d9ef8688a11901322c52126e8a12bb2c081bb62b46a8e9532a473a6604812
+projects_33/r_windows/contrib/jpeg_0.1-11.zip,GPL-2 | GPL-3,160751,931cc172e9ecc62991ffdf9758c7c7119aad3c79ff009c3d924a43fdd926ef9d
+projects_33/r_windows/contrib/jquerylib_0.1.4.zip,MIT + file LICENSE,527129,f6bed4f12ef4da0dc0b93c4f019eb244b0933288498fccfe54fa0eb6a912a659
+projects_33/r_windows/contrib/jsonlite_2.0.0.zip,MIT + file LICENSE,1110922,98d900c4d8748dbe66aa824a186c3dd904d7ae47f47a9748d3a01f7b9319438b
+projects_33/r_windows/contrib/juicyjuice_0.1.0.zip,MIT + file LICENSE,1127906,f99f7016864203270cf402d8e013c0ca4e08a08ed8d004a39d2a8aafd502c99b
+projects_33/r_windows/contrib/kableExtra_1.4.1.zip,MIT + file LICENSE,2074026,804afb2313ae2d58f3faad043cee7180a1ba6118df6e4d19fdb2cddb37e02883
+projects_33/r_windows/contrib/kernlab_0.9-33.zip,GPL-2,2340817,f882f96882ad2250fb05ef13b8d7e1a0220ef696dd65424e3b8423ad1e3764ff
+projects_33/r_windows/contrib/khroma_1.17.0.zip,GPL (>= 3),3427919,6484c1a0e338636ff9475f72651d74d44a6638266beb7205382acd6c11ac4acf
+projects_33/r_windows/contrib/knitr_1.52.zip,GPL,1125039,0da4c65bde86388702f49e8d5cc9196fe13794cd7923096721657a082d869933
+projects_33/r_windows/contrib/ks_1.15.3.zip,GPL-2 | GPL-3,1725126,db1e0aaafce709806838925f0d70e1ca3caa533c5a899dc158796f4efb5a3dd6
+projects_33/r_windows/contrib/labeling_0.4.3.zip,MIT + file LICENSE | Unlimited,64255,a5d4772de28813c6730a37e5a4b9605cf1b941344a319e56af7bacf4680ea82e
+projects_33/r_windows/contrib/later_1.4.8.zip,MIT + file LICENSE,483941,8e344987dc86f797eb3e06c5dff6d438603e48aa715620435ea3267e7023869a
+projects_33/r_windows/contrib/latex2exp_0.9.8.zip,MIT + file LICENSE,1027235,f6c5cb5bdc4d4aa34fa7d0c8ae4e8bfd739899d288b00e23b1efa6608e88a263
+projects_33/r_windows/contrib/latticeExtra_0.6-31.zip,GPL (>= 2),2188677,4989c4cc2b0acf36b5bb3f45f4c22f2bbef277fe37f20eab47d952da0ef35d65
+projects_33/r_windows/contrib/lava_1.10.zip,Apache License (== 2.0),2675609,711eeeeef9d920b517d0e5770cdc1d183981f4a610e798a24df1a11e7f45076e
+projects_33/r_windows/contrib/lazyeval_0.2.3.zip,GPL-3,208220,d7f56e56b69026ac19f25ed873e1d8ba487f949bde22368a234c3e60c4fd30ae
+projects_33/r_windows/contrib/lbfgs_1.2.1.2.zip,GPL (>= 2),2578491,6d458910b56fa875fd6c9b9ed1b4f31fad01033f6f48a60098aa9f5eb0c33a8c
+projects_33/r_windows/contrib/leaps_3.2.zip,GPL (>= 2),88993,e4a5748df9f9c1fa4e2f3ee227e0c48d31b8c7bc3f9c782da1cb49d360851c2f
+projects_33/r_windows/contrib/lfe_3.1.1.zip,Apache License (>= 2),1369815,19f31b5586608e2ec5529b42adacbcf578bfa971f1ff469ebe5688f8e1eb2f7d
+projects_33/r_windows/contrib/lhs_1.3.0.zip,GPL-3,757936,5ff92238c4060af43227e17f21e0a487cccd2af8018443250aaa10d7ba61d451
+projects_33/r_windows/contrib/lifecycle_1.0.5.zip,MIT + file LICENSE,150703,b11204283c09e0beec3917083994affa505a2e1a020da5b250b4fb04c46d5c9d
+projects_33/r_windows/contrib/listenv_1.1.0.zip,Apache License (>= 2),147894,9e973f7156c626987af951954ad3f3e412268bc00cb5d4f0d748c2d56e8914de
+projects_33/r_windows/contrib/litedown_1.0.zip,MIT + file LICENSE,566029,8f0f25b16c98a8534c81c69a7e8d8ec7f19e99c43349059e080928eba83fb0ac
+projects_33/r_windows/contrib/lme4_2.1-0.zip,GPL (>= 2),6088812,8341e2525ce5cbb89e4a6897203abe196dbb89b982ca47c817bd89d4677a9efe
+projects_33/r_windows/contrib/lmtest_0.9-40.zip,GPL-2 | GPL-3,411873,89351103192edae5a1e317cd4fb3b441c2b3bf01f32b9023f5a7506743ab7b29
+projects_33/r_windows/contrib/locfit_1.5-9.12.zip,GPL (>= 2),551711,269ebec33fa59148d2417525044cc5d6cc2ff06d399e29c591c7eb85441de18b
+projects_33/r_windows/contrib/loo_2.10.1.zip,GPL (>= 3),1884276,f2bbb3364c4adeab18ec86b23a3ef2dd0fdf6256e78ffc943ecd8e62dd10a5b6
+projects_33/r_windows/contrib/lpSolve_5.6.23.zip,LGPL-2,366399,170c22d63535e71ec166ff33cbf8e3e52434b930e5fed906b09c16b41e16ba0e
+projects_33/r_windows/contrib/lpdensity_3.0.1.zip,GPL-3,208007,f147a8956c1695b33286be307383ee3d08a9c056bd47cf3d2633274fdcc4ae95
+projects_33/r_windows/contrib/lt_0.5.zip,MIT + file LICENSE,211111,3b91bb08e333d0a689d289e4bfbe3d8939ad9b8adb40043eaa1cc3e91275fe05
+projects_33/r_windows/contrib/lubridate_1.9.5.zip,MIT + file LICENSE,998413,0352607433e9a088486d10c9b5b7dbdd1ae36f74700c94d6cc309912e72ecb9f
+projects_33/r_windows/contrib/magick_2.9.1.zip,MIT + file LICENSE,25767735,5d04d992d9ae5b6bbf2d9e8c24fb0a338d2771560a692ca51e6eae41aaeca061
+projects_33/r_windows/contrib/magrittr_2.0.5.zip,MIT + file LICENSE,231045,0c86cd311fc49f23df32fe6becf75bb4fc1001728e63f415f098f15818a1018d
+projects_33/r_windows/contrib/mapmisc_2.1.3.zip,GPL,2436563,69320a1d738f6674c5335bc347b2b157197cba5f3c17698700016377db655a41
+projects_33/r_windows/contrib/maps_3.4.4.zip,GPL-2,3096348,e185d496f05aab0488bdcfcdfc25164a76d928f8d85c03a61ff5b284fb024a89
+projects_33/r_windows/contrib/markdown_2.1.zip,MIT + file LICENSE,66766,47b54665d31087bef5822610c7af00c62ec31a86d395bc3759d04fdf0eb5e12b
+projects_33/r_windows/contrib/matchmaker_0.1.1.zip,GPL-3,61713,32386a59146e65fc4a8c2a3b29e4fa8166a03748a60b2cfb0538327094d6aca5
+projects_33/r_windows/contrib/matrixStats_1.5.0.zip,Artistic-2.0,558460,f41706598c4a8e2f550051d06ecbc5df9030984c5be21d6a51dd31aea63d4d37
+projects_33/r_windows/contrib/maxstat_0.7-26.zip,GPL (>= 2),180255,d8311266a6350cadad8a52ad51af499035f1340b6a5ecc03e4b8f72e07d9b333
+projects_33/r_windows/contrib/mclust_6.1.3.zip,GPL (>= 2),4175369,014095faee8e86eff54970f59a85bce4f565758326a5d35ad98bf070d5fca075
+projects_33/r_windows/contrib/memoise_2.0.1.zip,MIT + file LICENSE,54213,df5f9cdabecb85ce289e8d43b49b713144fe456ec7678bc0846e9eeb4a351ead
+projects_33/r_windows/contrib/mice_3.19.0.zip,GPL (>= 2),1843183,dc4c8b7df09c1510689917cbfa5128f1f1f459392237f11f0c300350745527b3
+projects_33/r_windows/contrib/mime_0.13.zip,GPL,53225,aebf2a458ec548692cb113d07e7aea47efb646d1430e47ed7b0105bb28f1a75d
+projects_33/r_windows/contrib/miniUI_0.1.2.zip,GPL-3,39622,fdc20dadda4fe12119ee84ddbadf48af3c8ae0af6a42f63c8a67410d99b791c6
+projects_33/r_windows/contrib/minqa_1.2.8.zip,GPL-2,459309,62de1543dc3bc1245bd4ea4831e750ac7568cb49242d73490ee921456ba702b1
+projects_33/r_windows/contrib/miscTools_0.6-30.zip,GPL (>= 2),92251,7cd714fa129eea08d389b95c071900a0593c8c3424e0a6b24a65c6b5fed3b890
+projects_33/r_windows/contrib/mitml_0.4-5.zip,GPL (>= 2),541438,397341b9b97e5581df2e832a0e113ae0159185ef2f2e4eb8aaa5fde84a4a1a7c
+projects_33/r_windows/contrib/mitools_2.7.zip,GPL-2,368732,437c4e42cc2ed7b5991641d23a2ec84a9e636f3d6c9eb1c6ad71e35775a144d2
+projects_33/r_windows/contrib/mixopt_0.1.3.zip,LGPL (>= 3),100659,86eb33f1be66fbaa6858d34c0689d289467a44ae7869a5f9156550cb8c7408b6
+projects_33/r_windows/contrib/mixtime_0.4.0.zip,MIT + file LICENSE,1710496,efecf5864e1953285adcf680d36fb919a563818f4be28278d59d9785b1474415
+projects_33/r_windows/contrib/modeldata_1.6.0.zip,MIT + file LICENSE,5212905,1d9f107e1b3cd5aaea966fab5627281039c9b0c13089903d8e1f8a6da3bd5ad7
+projects_33/r_windows/contrib/modelenv_0.2.0.zip,MIT + file LICENSE,104742,0188076d78e63c5d232713592c14d80dba21428909f5887c0ce443c05a2b84b5
+projects_33/r_windows/contrib/modelr_0.1.11.zip,GPL-3,207158,28cacb8c81a94714c4b838992b024ee98570272ba4924b83734e1b802a16aa55
+projects_33/r_windows/contrib/moments_0.14.1.zip,GPL (>= 2),57946,e31d48579e12c9a7454a416e96925f8d9d528521dd97af46427eac3fa8c4cc3c
+projects_33/r_windows/contrib/mosaicData_0.20.4.zip,GPL (>= 2),1602428,eb810359a6b95cf04d8e3db8c7c05aa75e0b077c5baeea03d08d094dda97ea7b
+projects_33/r_windows/contrib/multicool_1.0.2.zip,GPL-2,434749,8b71cacfe7661f03b2c13e1ec8b6ecdacbd9ec3f97af8c41410f8a779804b04e
+projects_33/r_windows/contrib/mvtnorm_1.4-2.zip,GPL-2,1118050,2190d3a0f374fd0dcca504265f69d974eb201cef3df535adf383ef1431f22857
+projects_33/r_windows/contrib/nleqslv_3.3.7.zip,GPL (>= 2),119435,ba683e6a4f9499910056044fd4a5cd0c787743806d46a6373a8f3d794b187b64
+projects_33/r_windows/contrib/nloptr_2.2.1.zip,LGPL (>= 3),907900,859556d1dafbe243d3ab4501c1c26582b2c634c8d24bf738b7bca36f96ca1866
+projects_33/r_windows/contrib/nortest_1.0-4.zip,GPL (>= 2),40079,2833507e2a691905139b01fccff82c3804f2fc8f2336455e541cf0f9adaf9b95
+projects_33/r_windows/contrib/npsurvSS_1.1.0.zip,GPL-2,378948,6fcdf3303060e6f1bb1bf2db47d68d75150462ca8dc3338b48f7cb36d9e17540
+projects_33/r_windows/contrib/numDeriv_2016.8-1.1.zip,GPL-2,117712,071535e7b67020e8f0e6763691dc59159a06b7f19d44c793677dd48e0c3eff25
+projects_33/r_windows/contrib/officer_0.7.7.zip,MIT + file LICENSE,2493437,b082a71b1dde28c4cd778c1a82ef2f675646027897fa37d0e7a90cbb3d3e6d35
+projects_33/r_windows/contrib/openintro_2.5.1.zip,GPL-3,6881442,f252711d25ac138dc202707b9a879c0ca6742c5ef0aa692854e1ede9d30415f6
+projects_33/r_windows/contrib/openssl_2.5.0.zip,MIT + file LICENSE,3615776,069dfba15d27554ee6c3cd1bc6326f771341eb7121f35098bb72e3294a2f2c6f
+projects_33/r_windows/contrib/openxlsx_4.2.9.zip,MIT + file LICENSE,2502128,39337619112524029a042e30dba956bfccbdabadbeea15637c52223771205b6b
+projects_33/r_windows/contrib/optimx_2025-4.9.zip,GPL-2,2684687,568572e327eeb5af9a83f9df248e744db0163adee3afcffe071fa8d0ac311a77
+projects_33/r_windows/contrib/ordinal_2026.7-26.zip,GPL (>= 2),1282512,7b82e6a85e2c7feb4c646891e566a7a48ac2d35e9f42ed2329ccffbb0453989f
+projects_33/r_windows/contrib/otel_0.2.0.zip,MIT + file LICENSE,288031,5f4ef27828bcb28c264680b02985627fe4fab1823c903f974dc2e8ff63a60902
+projects_33/r_windows/contrib/outbreaks_1.9.0.zip,GPL (>= 2),1366160,e1b21b9d5b380e2b6ff97c643fa59d73c92364209d995c22215bda277dd0fc82
+projects_33/r_windows/contrib/pacman_0.5.1.zip,GPL-2,396371,4efff576fa2c05342afcea6cc2e0e0c5d9b4233fec9f4cdd79ce675d3bc40248
+projects_33/r_windows/contrib/padr_0.7.0.zip,MIT + file LICENSE,3226994,ff9cfe64e608b7d1fa53bab8bba7dba68d9b1bb42e494105338c9566c02cb9a8
+projects_33/r_windows/contrib/pak_0.11.1.zip,GPL-3,11284450,dd11f4742883005ef18ba90c5867850994382fa52363c5e6e122eb8fab2afd57
+projects_33/r_windows/contrib/palmerpenguins_0.1.1.zip,CC0,3009268,4c6ce4505848fe81980732358d59e03abc4ef819eb3d17d1c95272a80853cd9e
+projects_33/r_windows/contrib/pan_2.0.zip,GPL-3,940263,85a208d8e4fde8a9ae9ca62a538fe6258263ca0d7b2f4165053e4dfb0629ceea
+projects_33/r_windows/contrib/parallelly_1.50.0.zip,LGPL (>= 2.1),739727,0fc30df3eab7645b1dd237a9354c9320b3ba359ce0e977f9fbbc53d9cc84ab45
+projects_33/r_windows/contrib/parsedate_1.3.2.zip,GPL-2,51127,ce5923d7b9bbba08ae2199f84006d75cdf7ecd1f2adc987335b81ad61d7792db
+projects_33/r_windows/contrib/parsnip_1.6.1.zip,MIT + file LICENSE,1790072,f0f184a42ee7dc001d688cd0404877a30c32108f23e28e1377fe9a4a066933af
+projects_33/r_windows/contrib/patchwork_1.3.2.zip,MIT + file LICENSE,3352616,3d7990ed10e2442021e276b339961fa083c54da596dced038d772625a6a93aa1
+projects_33/r_windows/contrib/pbkrtest_0.5.5.zip,GPL (>= 2),230426,bc01ee4df152db163fdd236bcf5c0f854fc4c4900743516049fd28b16b9aafb3
+projects_33/r_windows/contrib/pcaPP_2.0-7.zip,GPL (>= 3),388178,ba31f85b61ce80fb1c06c26c03e0742a4735f8dad52afca837c629992d1ab40d
+projects_33/r_windows/contrib/pdftools_3.9.1.zip,MIT + file LICENSE,9870473,b67861399a503b06ca2fb115efb9e38814eddb0bf0b88c80c8d68c54b415a8cc
+projects_33/r_windows/contrib/phosphoricons_0.2.1.zip,MIT + file LICENSE,3158517,95a47041cd5f9594c860301cc7a97771779bcc8fd0571baf957e9ac668471f0c
+projects_33/r_windows/contrib/pillar_1.11.1.zip,MIT + file LICENSE,675736,1e85c1d46640278c86a953e34008701730119e763ee81edc6f6d13ea18f0ea51
+projects_33/r_windows/contrib/pkgbuild_1.4.8.zip,MIT + file LICENSE,213126,dd2c234c3c83ef2bc7455243c3369726ecbc86311fc62cc6ce025ee6543b2023
+projects_33/r_windows/contrib/pkgconfig_2.0.3.zip,MIT + file LICENSE,23238,7c3e5f1fc6626298d39fabb66fda382aafacbfa98b624b53052da7240e22580b
+projects_33/r_windows/contrib/pkgdown_2.2.1.zip,MIT + file LICENSE,1012925,c51d13701d7066fcdeef4ec2f132bcf3a9c4dcadb7171120f3f1fc42aa17d6f1
+projects_33/r_windows/contrib/pkglite_0.2.6.zip,GPL-3,283252,90910cbb953d735c4ccfc4bba28311f68029cfb7d281880b6417b70d5d8d7b9b
+projects_33/r_windows/contrib/pkgload_1.5.3.zip,MIT + file LICENSE,228824,7e7a1ac766618ca10b2a18f8272090778d3ad8da8309d7ee4d96e18e01022208
+projects_33/r_windows/contrib/plotly_4.12.1.zip,MIT + file LICENSE,4074998,df5cd44c69e5708a7b75f9ffc553752e7648a61eb8facbaceb23d9e71c977c7c
+projects_33/r_windows/contrib/plotrix_3.8-14.zip,GPL (>= 2),1168931,9b05b3f7ee64509582c0a0e684d1be7247b678c8a02dfcd533c5b3c3a06da24c
+projects_33/r_windows/contrib/plyr_1.8.9.zip,MIT + file LICENSE,1128270,c16c638ec4bd9fe1207bc1b4b281e3399092d8ec9410e8b8423d4fb807841e69
+projects_33/r_windows/contrib/png_0.1-9.zip,GPL-2 | GPL-3,197551,bd070cbf5c61b294aa6ddf17eb2df92ababeadb5a37a63cdd8a03e45b82043d0
+projects_33/r_windows/contrib/polynom_1.4-1.zip,GPL-2,407444,95941bf0847517adaf6f83be811c91da981a5a29b2bc9080343c6200ca3c7bc7
+projects_33/r_windows/contrib/pomp_6.5.zip,GPL-3,1525409,baa7eab015e9f71eeea4a44a574d1695cf06683ee5fa0418938b475290152247
+projects_33/r_windows/contrib/posterior_1.7.0.zip,BSD_3_clause + file LICENSE,1034363,ad253577f8030f020fa0add034483d61951d4140ff6a5d29f485c3f5d14ca8d2
+projects_33/r_windows/contrib/pracma_2.4.6.zip,GPL (>= 3),1785510,0e329070e8afffd891cf80b285135d66d0eb28c62d7f8f7f9e8d3dcf97ac24a8
+projects_33/r_windows/contrib/praise_1.0.0.zip,MIT + file LICENSE,20335,e249eeb373f81718aa49cd2aaef6e0dd6ff34a2c4fed183caf94067955fa1e06
+projects_33/r_windows/contrib/prettydoc_0.4.1.zip,Apache License (>= 2.0),1058840,646f31f4601b71483002f488d8d1c9da1221b65f79c0edc04651b41fcba09e7c
+projects_33/r_windows/contrib/prettyunits_1.2.0.zip,MIT + file LICENSE,159170,88579ecda977a99725b723767de00593fafb99bbce4ee81e7ca3b53a2157e8d3
+projects_33/r_windows/contrib/processx_3.9.0.zip,MIT + file LICENSE,791928,2e19e2cec73b0ae56aa40314c2c2553d106efc80c2c0f5544a6342b6f2385d32
+projects_33/r_windows/contrib/prodlim_2026.03.11.zip,GPL (>= 2),537580,8047a18a0ed939ae7928fa17f1e751d2d4715130c2b37b513d9b2289a6efb987
+projects_33/r_windows/contrib/profvis_0.4.0.zip,MIT + file LICENSE,354828,0faf0e7203678cd09f115a5787f4ae6c93d0cd9674cab1833172fee0dded2920
+projects_33/r_windows/contrib/progress_1.2.3.zip,MIT + file LICENSE,91894,fab8471dbaf6620d6514cfa81a186db0dd45e84ca4119642ade6d850d5d4905c
+projects_33/r_windows/contrib/progressr_1.1.0.zip,Apache License (>= 2),621459,47ca5fd139658fd06a00d42a37f043036e64abe8d8a0fde69358d7a4f9e162ee
+projects_33/r_windows/contrib/promises_1.5.0.zip,MIT + file LICENSE,1704388,cf2e4d93f7ba31a5f3f670265055962826c7b05e5d78feb252a4baa40bd30ee5
+projects_33/r_windows/contrib/prophet_1.1.7.zip,MIT + file LICENSE,1409027,dd57ca5eeb79d1fdfdb4424970063e9fbda96f9dececfd48a09dcfbc96915ca5
+projects_33/r_windows/contrib/proxy_0.4-29.zip,GPL-2 | GPL-3,178424,4603e22b9e1e3f72441855754165e62e860d4e08a79ed6d6f920a7631c58af0d
+projects_33/r_windows/contrib/ps_1.9.3.zip,MIT + file LICENSE,684436,64b2b0fc09690dac05c66aa9d388464cb2e1ee64c937b1d737c995e6f7ca92d6
+projects_33/r_windows/contrib/purrr_1.2.2.zip,MIT + file LICENSE,573792,4e3ca9757497c8b7c073eabf14ddda9f819694cbfbc3f59c8272a856994807c6
+projects_33/r_windows/contrib/pyinit_1.1.5.zip,GPL (>= 2),46738,8e229f838cc325e47ecb24b929813824c4d659f654860b5a2107b6fff9182d4b
+projects_33/r_windows/contrib/qcc_2.7.zip,GPL (>= 2),3565113,bffd83906f9f697b1bc4f0dadb3f48f5d166762107eaf50980de3d5a3de9fbc8
+projects_33/r_windows/contrib/qpdf_1.4.1.zip,Apache License 2.0,1260918,147dbd46fe73fa6aa2fc038ff0414cc41664e8e13a9c7e0b2528d5bd43bd91e6
+projects_33/r_windows/contrib/quadprog_1.5-8.zip,GPL (>= 2),37638,1e0c2ec709e36b0e74e936185726d811956202f1f61a2bc1c6d2f1dc997540ea
+projects_33/r_windows/contrib/quantmod_0.4.29.zip,GPL-3,1070655,f18e99d8ae4091f23cb90f6a43e27f11d048299ff07b43f2d3a5af146d952b65
+projects_33/r_windows/contrib/quantreg_6.1.zip,GPL (>= 2),1473103,ccf04bdc8b5ebd4189fe2d8733378345251015355cf164a9c425bbb28bf3971c
+projects_33/r_windows/contrib/r2rtf_1.3.1.zip,GPL-3,354724,8cd654f611622092fb92c4b2fff17ef6a872ba4dfa674cd0dfef5b53695e6b62
+projects_33/r_windows/contrib/rBayesianOptimization_1.2.2.zip,GPL-2,42860,371be9fbe46a67ab1b9d6f6214606ea85ae452945d37417f35c2254a43e89b68
+projects_33/r_windows/contrib/rJava_1.0-18.zip,LGPL-2.1,650837,f724e2d40c84235f8424fd43fb16fe83dca6dc65a4360fc997082e954d1459e0
+projects_33/r_windows/contrib/ragg_1.5.2.zip,MIT + file LICENSE,3365941,68ec3c7762bbfd2f22297c4e4a7060ee00fa47eb095c2c14428ee31368fd77b1
+projects_33/r_windows/contrib/randomForest_4.7-1.2.zip,GPL (>= 2),226255,51d84639fb75aa1491583a7caca98bc715b552d1d6f58f6aaf5b05fb0d3ab3e0
+projects_33/r_windows/contrib/rappdirs_0.3.4.zip,MIT + file LICENSE,54684,7ef8594968208232c652b0b23563400f867e2637f974191d35ff26d21da2ec70
+projects_33/r_windows/contrib/raster_3.6-32.zip,GPL (>= 3),6702683,8b0f79ad73202996df2a7b479554fc3b8d72379c9c3f1d0eee133b1faf040cc3
+projects_33/r_windows/contrib/rbibutils_2.4.1.zip,GPL-2,1041001,008072cd811c4f7f62560050808fe093a164122c7c7e9533478bed9a0e363c3d
+projects_33/r_windows/contrib/rcmdcheck_1.4.0.zip,MIT + file LICENSE,176710,f539870b2e680ced3f023ea536a07cac895ea15f5641625ac0fe6044941daec6
+projects_33/r_windows/contrib/rddensity_3.0.zip,GPL-3,175677,189c10013e7ea7af3ef068284837e26d000a75b83fa89c97983380d19a1bd7cd
+projects_33/r_windows/contrib/rdlocrand_3.0.zip,GPL-3,143822,f6809f583e028e7a850a317f3d38521c67eb9f80c598f8a54128d3edf83b1bb0
+projects_33/r_windows/contrib/rdmulti_2.0.0.zip,GPL-3,87269,469d19108e9d9ce56d230f6925ca1641c445643faa1883b305a30135ad73de93
+projects_33/r_windows/contrib/rdrobust_4.1.1.zip,GPL-3,308342,3a17a2b73f2791243e6daecb90253c061238d102b6cb24979711e983f79f991d
+projects_33/r_windows/contrib/rdtools_0.1.0.zip,MIT + file LICENSE,73125,8e329f56825a8ab3980fa4fe7a80de29ec98588347411f9e09756a6b086defdb
+projects_33/r_windows/contrib/reactR_0.6.1.zip,MIT + file LICENSE,620727,ed5aeaf77c67fa220de5704245e313b1098ec16a2ec45686476181b7b3e3ae76
+projects_33/r_windows/contrib/reactable_0.4.5.zip,MIT + file LICENSE,1057622,82e0f6061dd23a2a2259cd4b0a8de084141a5a3a7eadcf7e8b15c56cbfa9dbf9
+projects_33/r_windows/contrib/readr_2.2.0.zip,MIT + file LICENSE,1220626,a65e15b416ac62f97a83bda1771c98a90e8f25a42f5671223ad5f8db3c63ece3
+projects_33/r_windows/contrib/readxl_1.6.0.zip,MIT + file LICENSE,1260318,c40c89def66486d37c61a94e5b926c3d20a5c1ecfe578203f938d4aba5f78509
+projects_33/r_windows/contrib/recipes_1.4.0.zip,MIT + file LICENSE,1766538,721174c4459863052f7867c5aea59d99e5ca5ce05e4d94afdca15380ad60bc34
+projects_33/r_windows/contrib/reformulas_0.4.4.zip,GPL-3,161630,f987b0be6550484a26fac17a4a76ec495b947d3710318d35ab369c4cd9b56781
+projects_33/r_windows/contrib/rematch2_2.1.2.zip,MIT + file LICENSE,51670,eabf1df357d2226ec52b9b397575f7210b5492c1c6e58f376409aa4e7d3dd1e6
+projects_33/r_windows/contrib/rematch_2.0.0.zip,MIT + file LICENSE,20977,9d020e54bd9fb72c7845871287e9eb96c0b7835c7f051f9f93d9d5ec3f1e28e5
+projects_33/r_windows/contrib/remotes_2.5.0.zip,MIT + file LICENSE,439980,0c1688a35f196dd4876184d8e1a2a1b50c0b45859076f131d4a806c2c89fa34f
+projects_33/r_windows/contrib/repr_1.1.7.zip,GPL (>= 3),132204,1b7eb54dd9c42f222b9aa833b42577bc5a55159fbd35231418fbac30b83d1534
+projects_33/r_windows/contrib/reprex_2.1.1.zip,MIT + file LICENSE,508176,022353e56189ae562079e5323778250fc6b3d7dd0685ccd67e58c1c6059ea01f
+projects_33/r_windows/contrib/reshape2_1.4.5.zip,MIT + file LICENSE,457437,b86503d89272b8d5c7df9345e912487dbfe6dd2dce6fcac7201546da891c5618
+projects_33/r_windows/contrib/reshape_0.8.10.zip,MIT + file LICENSE,175701,2932aeb60a2cc3839f1c95f86bc200aed16f3e1915bcaae2e47f4c5028623fec
+projects_33/r_windows/contrib/reticulate_1.47.0.zip,Apache License 2.0,2336230,88545a80cf46109ef0512cc0600d77ccb6a5b5e4d0f473373550ec58200fa05b
+projects_33/r_windows/contrib/rgenoud_5.9-0.11.zip,GPL-3,716841,e14a5eaa4cc5a8a7ad02d00dd4516ccc45556667e5a527677cdbaf930171262a
+projects_33/r_windows/contrib/rio_1.3.1.zip,GPL-2,630030,6da6c0deb681accf1e0aa3620ce0d77493b76d359ebc2ab67b516ea9e4013ff2
+projects_33/r_windows/contrib/rjags_4-18.zip,GPL (== 2),489789,3f5bc397e98777ef679f46d475f4538ff27588340a31192b5e61be159503f591
+projects_33/r_windows/contrib/rjson_0.2.23.zip,GPL-2,450939,5c487208f8585af1f9efa5a4cf6e02b911490cdc67e5bbbc631ce04da9611ec1
+projects_33/r_windows/contrib/rkt_1.9.zip,GPL-2,62959,552bdf28f6992b24b838a8ee1b8ad99979e2e0fb9f3d3670a8a85a605e4b0396
+projects_33/r_windows/contrib/rlang_1.3.0.zip,MIT + file LICENSE,1652835,41a6d6e94a5a9bc3d5073e326ad9d6faa7d2740ffe7908b8e50f76fed1836a2e
+projects_33/r_windows/contrib/rlecuyer_0.3-8.zip,GPL (>= 2),78228,77f830bb8c88f9cec4c16f522b86ae8e887fec08c804c6f8892413ea35925e5e
+projects_33/r_windows/contrib/rlist_0.4.6.2.zip,MIT + file LICENSE,255031,18f47332c20e9f47b33ce0ac215e57d455e2fd9a6dee1a3fc918eaaa1a8b5103
+projects_33/r_windows/contrib/rmarkdown_2.32.zip,MIT + file LICENSE,2687166,3264e927c4cf62dd07026121f05a1e91b54b3c5bd0576bf9451bbc726b62e272
+projects_33/r_windows/contrib/rmdformats_1.0.4.zip,GPL (>= 2),2083314,6ba0b4cce6b61e22fb0eda5e6f9a9dd978da3921aa3519b73ee1ee2355b501fa
+projects_33/r_windows/contrib/rngtools_1.5.2.zip,GPL-3,81198,a993854b9d093c622e2c72e55789f48190a64d44e4db7ed920a9a76907da0b29
+projects_33/r_windows/contrib/robotstxt_0.7.15.zip,MIT + file LICENSE,213423,3236b54677e1e68701b78a915b42c0fd789fc532e9e572aef974033e1d485614
+projects_33/r_windows/contrib/robustbase_0.99-7.zip,GPL (>= 2),3147852,97b492227df5623fe1adf320bfab424efb8f4b905fc56527839980217b825f34
+projects_33/r_windows/contrib/roxygen2_8.1.1.zip,MIT + file LICENSE,1290682,f010b851254e3088078c1c87218180ed4d0d27a35f1a8eaf9a398ed1077ea181
+projects_33/r_windows/contrib/rpact_4.4.0.zip,LGPL-3,6848150,eae39b4af817c2768383fd12396c39984afe95cbd88d8376eca3fa7bb2040e72
+projects_33/r_windows/contrib/rprojroot_2.1.1.zip,MIT + file LICENSE,123866,7a695fab56df06bd91fe1001f7685665aa737a121ffc6d8d5711bccb547c7a78
+projects_33/r_windows/contrib/rrcov_1.7-7.zip,GPL (>= 3),2313022,c970aa807e4a2680105e72dfbecf5d66a689cf9eb577cc22a4eebd74c908e2e4
+projects_33/r_windows/contrib/rsample_1.3.2.zip,MIT + file LICENSE,1732380,e84227f7091621afc681f9ebdcf14322ebd5ef4e449858b562374a46cd3afac6
+projects_33/r_windows/contrib/rsimsum_0.13.1.zip,GPL (>= 3),3754537,59bfa7ceb5677ae37f4bab827cb0052c194a6b3dbe16c54f0b2e790fc635bace
+projects_33/r_windows/contrib/rsoi_0.5.8.zip,GPL (>= 3),502621,fee4d80b174d37fc698522e8c6fda6667b1b6ca037dc626e7a4d8227d281e91b
+projects_33/r_windows/contrib/rstan_2.32.7.zip,GPL (>= 3),2618209,ad49f8c618af96b8f09cfc5a9e03017e3a9b4208a0b8caab7cb88f24edcfcdfc
+projects_33/r_windows/contrib/rstanarm_2.32.2.zip,GPL (>= 3),10441106,2e45833f40af5377741dbd431d0190921387afab12f1f3e812f3229926a024a7
+projects_33/r_windows/contrib/rstantools_2.7.1.zip,GPL (>= 3),625712,55122e3d1c3c8bea4dcf3f111352f051a795f15915a0f268513f7cae1ec25032
+projects_33/r_windows/contrib/rstatix_1.1.0.zip,GPL-2,1082289,14f6b746203587b303f167e91c1d76b4ae71be2cf31026c7f687db4d45e98503
+projects_33/r_windows/contrib/rstudioapi_0.19.0.zip,MIT + file LICENSE,386638,1654f6ed7ed234282f851afed8dff34e3bef00e87c151ab45e05cbec13e1ada6
+projects_33/r_windows/contrib/rugarch_1.5-6.zip,GPL-3,5086914,44c7b3b4961091d28850539b3f14001d5a892c9bd849b6bec88f86de7bd74b37
+projects_33/r_windows/contrib/rversions_3.0.0.zip,MIT + file LICENSE,142504,d76112d46ccc47de1af742d691e804fbb8565a9bacbffdb7649457c930618b3a
+projects_33/r_windows/contrib/rvest_1.0.5.zip,MIT + file LICENSE,320929,267d9fb59cec5e04acf6ae35c3f68e7420ac39ab1bc768da488914f641a446a3
+projects_33/r_windows/contrib/rworldmap_1.3-8.zip,GPL (>= 2),6350530,1c2eacc95fcf2bff1b1f513f3f0184884f30d70d82e6a614739d3088c622d430
+projects_33/r_windows/contrib/s2_1.1.13.zip,Apache License (== 2.0),4635463,efa7853b52e847fdb39351b1792fa460c8b47dfed105e43a607181d8a7ced49f
+projects_33/r_windows/contrib/sandwich_3.1-3.zip,GPL-2 | GPL-3,1541880,544c44834dc9110791f7238a501c5e6a0c5628ffe9ea164a2d6ab89f23546700
+projects_33/r_windows/contrib/sass_0.4.10.zip,MIT + file LICENSE,2594676,7bc981da759b6a5897a8aa11d1a919d5b25d1f4dd7fb98047df4797fc8f7ccf5
+projects_33/r_windows/contrib/scales_1.4.0.zip,MIT + file LICENSE,881799,883bf37c34fbe11c7749b6c63e30d26f09bacc185b34e871adc74db587007fc8
+projects_33/r_windows/contrib/schrute_1.0.1.zip,MIT + file LICENSE,2943702,831ce18c839f99b9f6481bf9bd1fa1b77efaacf3459f6a028414b9779a80246e
+projects_33/r_windows/contrib/selectr_0.8-0.zip,BSD_3_clause + file LICENCE,257359,8ab7fa724fafb74ecf594679904a8761a13a1c578ae65c47133a8a0381d511e6
+projects_33/r_windows/contrib/servr_0.33.zip,GPL,99431,047f91b14fafb7a3da0e19122f4d7f8d5cfcc5513d5a12092ea336277d8432ff
+projects_33/r_windows/contrib/sessioninfo_1.2.4.zip,GPL-2,201483,99348f6a7df75d0c43b592a744cd01b266eeafd47e91d1bb65315767896992a3
+projects_33/r_windows/contrib/sf_1.1-3.zip,GPL-2 | MIT + file LICENSE,51342592,872f8cdc7f88335e83eb31e93548888f4468938deb8533071f966f80033b4ead
+projects_33/r_windows/contrib/sfd_0.1.0.zip,MIT + file LICENSE,2464196,16a914ef54ff6fb6820f024f4828ea77a21cf91da8a367f31b6d2ee932cf7b01
+projects_33/r_windows/contrib/shape_1.4.6.1.zip,GPL (>= 3),755324,a8b8c04cfeab81a247f29aa6adfde390d131c7115bdb8ec0d61c820f6bc748ce
+projects_33/r_windows/contrib/shewhartr_1.4.0.zip,GPL-3,2651016,ee96c3bc27a4e070e1003e7e5a3ef12ea2ca9b499294d96276f3c03af10a204b
+projects_33/r_windows/contrib/shinyWidgets_0.9.1.zip,GPL-3,1655124,d42e17b45f2aacb4918bce36e8ad3fe12878b2028c81c6b5c3ed28d32c5d83b3
+projects_33/r_windows/contrib/shiny_1.14.0.zip,MIT + file LICENSE,4642107,a1d3390b20c91bc7536f82d97ccbee97f92d72043acb34ee944c7b04c74c3d15
+projects_33/r_windows/contrib/shinybusy_0.3.3.zip,GPL-3,626216,3b80b4a0520422a54f89ade6bce0d57ddd54c67808b2dc49e83a88c7ec2a6b2d
+projects_33/r_windows/contrib/shinyjs_2.1.1.zip,MIT + file LICENSE,1093772,c2513b65bb7a1b71706095f217bfa20e2b7bdf6b07ae9e5755333bb2ceae6602
+projects_33/r_windows/contrib/shinystan_2.7.0.zip,GPL (>= 3),1377275,5da792006f550c6217630b12ac9fe965c0bbdbf43bc7309b50178187106de9cd
+projects_33/r_windows/contrib/shinythemes_1.2.0.zip,GPL-3 | file LICENSE,992723,1e7491d1d33a2a53b6ca2791acee3cbe176b670c07deadd2e67d1728444d2918
+projects_33/r_windows/contrib/signal_1.8-1.zip,GPL-2,345776,eb1dbdf85c9e8c4b0eaf61d107eacbd82dc7d778af37996f45b6965f4de30196
+projects_33/r_windows/contrib/simsurv_1.0.1.zip,GPL (>= 3) | file LICENSE,168934,0f023024291c1edc2dca6a22a16ed7217b96dbd4545b19bacd624d61586b99da
+projects_33/r_windows/contrib/simtrial_1.1.0.zip,GPL-3,1478068,910d02eacca648b1ceb39205bb6a4f98f7c984723ac9bd39076dad0513343645
+projects_33/r_windows/contrib/skimr_2.2.2.zip,GPL-3,1405665,dad607194ec9ec0ce094ae48fc18ae83af53eb56b28a4902a726d89e52bf3b8c
+projects_33/r_windows/contrib/slider_0.3.3.zip,MIT + file LICENSE,318231,3935f420fe0f1a9d28a3b82ecd54997383216503c1b487fbd1eae674b118faed
+projects_33/r_windows/contrib/snakecase_0.11.1.zip,GPL-3,169360,619a6acd20a846b8ff19d26f7f2d5ddb8a3a8424d18b05145ef28905cb13d89f
+projects_33/r_windows/contrib/snow_0.4-4.zip,GPL,100761,ff58d22ff93732041da4403d335bce7d6992ae585a77815841ca1b7dee3215ba
+projects_33/r_windows/contrib/sodium_1.4.0.zip,MIT + file LICENSE,676888,74a3dcacb86930ee1205e6def211a06eae498bb7188c3c460a6f58bfedc853d6
+projects_33/r_windows/contrib/sourcetools_0.1.7-2.zip,MIT + file LICENSE,131973,4070ff57d04b5761e63156a5cd8f0ed4472d475404980e55e65aa3f72616b634
+projects_33/r_windows/contrib/spData_2.3.5.zip,CC0,3888793,7a8fc59288c4883c2d4e3faec2bff47c93db0b771d9a465888049dcb7f46ad8c
+projects_33/r_windows/contrib/sp_2.2-4.zip,GPL (>= 2),5314852,aa61c98ed96a62f4d8d1c89cc281b3aed2bc235c0f7d06a7a3b23d388aff6a0d
+projects_33/r_windows/contrib/spam_2.11-4.zip,LGPL-2 | BSD_3_clause + file LICENSE,4511222,7a8561f984daa7c9193e722b082451655a46b8b717b5a72cdc9181de19f48cec
+projects_33/r_windows/contrib/sparsevctrs_0.4.0.zip,MIT + file LICENSE,259387,21029020109d6ae169294f20871ecf1daa0389a3a6dc96f9a42398ceaa942b56
+projects_33/r_windows/contrib/spd_2.0-1.zip,GPL,227383,46bc9e8e27f816e1baf6ad70f15b8ab59204683e240fe296cec32c2a675e3eb4
+projects_33/r_windows/contrib/spdep_1.4-2.zip,GPL (>= 2),5581242,3f8cdca7ab0bb722a901ae8bd42b8ea2ed2df14dec026217734e56229f105829
+projects_33/r_windows/contrib/spiderbar_0.2.5.zip,MIT + file LICENSE,504823,dc62c389f27e9e8b892a95dbba4849b35bc7f3ae7dc9dd3c8089fa99ba215477
+projects_33/r_windows/contrib/splitfngr_0.1.2.zip,GPL-3,27704,d90c875dd95bf981604a3e0d537962dcbe514c621bb5b824b26b00a3d5fad694
+projects_33/r_windows/contrib/stabledist_0.7-2.zip,GPL (>= 2),79769,d61081d3d0f7ff546ef4ea1b00aa60a7f9603147c6fb1c98af56c22aeaa6887a
+projects_33/r_windows/contrib/stars_0.7-3.zip,Apache License,4586137,52b2bfbab36b0e15106a0a5816d885b763801d33c347634dbbdbd8d20c2e3c19
+projects_33/r_windows/contrib/stinepack_1.5.zip,GPL (>= 2),34768,d888195dcd3e8e81c93498be7d0a5d58efc7a718604ce39698c0246183dfc741
+projects_33/r_windows/contrib/stochvol_3.2.9.zip,GPL (>= 2),2717200,6ba23ac41b9531c5dbd096ca975f947cb744cbbc8c0f038b67e2b4e88503ce02
+projects_33/r_windows/contrib/stringdist_0.9.17.zip,GPL-3,719429,3bdf5a2773969cf49c0dd763f3d4907b6e4e26c57bd5c772993556af39f793f4
+projects_33/r_windows/contrib/stringi_1.8.9.zip,BSD-3-Clause and bundled ICU licences (file LICENSE),15048687,9efc015dda4622aab581fb6f98f434f4f7e30cbcf7b69fe73f3468d09308ff33
+projects_33/r_windows/contrib/stringr_1.6.0.zip,MIT + file LICENSE,353021,dc46554cfc9ea337b4ef95e10caf90a8256aaaea2bd5855262c537c3d99c96ba
+projects_33/r_windows/contrib/strucchange_1.6-0.zip,GPL-2 | GPL-3,1197934,4fbba34da6e8d9bc32aa5f337378ea894ef7d24055eb29ad61ccd5d020f9e628
+projects_33/r_windows/contrib/sugrrants_0.2.9.zip,GPL (>= 3),2108280,e1cd5ff895dde7b0e0a588483077cbc62cc2f8fd017dea9015ac423eada979d5
+projects_33/r_windows/contrib/survey_4.5.zip,GPL-2 | GPL-3,3955130,46d7bafb6b3363a06c9e7119e9a7e2bd7d05f364fbf95dcfe4f1ae868b0968b3
+projects_33/r_windows/contrib/survminer_0.5.2.zip,GPL-2,3233028,dff56df0960e5b3103b919fc6b4476ab6256befbb4a4d1e5bce4a78a1ee4fba9
+projects_33/r_windows/contrib/svglite_2.2.2.zip,GPL (>= 2),732390,0af54cd9c3c7cf59cd14dda012320f7ae0d6e729a6312120e6415dbb7ec63452
+projects_33/r_windows/contrib/sys_3.4.3.zip,MIT + file LICENSE,48234,69385dc3e7653b029ac5c79639a7b8c1fc05f56f72789bac4913303597322de8
+projects_33/r_windows/contrib/systemfit_1.1-30.zip,GPL (>= 2),610521,ff5c1f3c5bfd1fca2cae60528f35b7472e2669028105247ed861749cb8bbdaf5
+projects_33/r_windows/contrib/systemfonts_1.3.2.zip,MIT + file LICENSE,2214882,c48ae5309116baff27cf53a1ca43b54d2fcc973498da3a7ba5d71bb5fa25af5f
+projects_33/r_windows/contrib/table1_1.5.1.zip,GPL-3,439760,885ab4180f3202da0f68673acbcd0a675973c30fd22bd63d758030b2cbd5d796
+projects_33/r_windows/contrib/tabulapdf_1.0.5-5.zip,Apache License (>= 2),12687877,c4e50097b07dfef563ac2e4477de52ab91a4a0600d1a3330188516a2559f4627
+projects_33/r_windows/contrib/tailor_0.1.0.zip,MIT + file LICENSE,492205,81e5b797608556cf118eed243333fdd06a9eda2aa64114979b2baf1a6ccb3611
+projects_33/r_windows/contrib/tensorA_0.36.2.1.zip,GPL (>= 2),230326,251e4d553d3bb97a15366819ba1001b531813f72e508a3550c82172bc7d92789
+projects_33/r_windows/contrib/terra_1.9-50.zip,GPL (>= 3),47555755,7debeeb0002ab76f86a10124d19c796f74b12f3c896be246b3a692a8e0c1a085
+projects_33/r_windows/contrib/testthat_3.3.2.zip,MIT + file LICENSE,2542021,b39fb4842f0875c3c040df869140b5ba5bef490937b5962ebbef1799005992dc
+projects_33/r_windows/contrib/textshaping_1.0.5.zip,MIT + file LICENSE,1575757,a472f60cec97715264782abf61eeedd8a3765da88ece24b752daf124bede2a08
+projects_33/r_windows/contrib/threejs_0.3.4.zip,MIT + file LICENSE,823928,65105ebb637efb0958da58324bcdbe191ae05975e495cd7978bb6c1eddf60cb4
+projects_33/r_windows/contrib/tibble_3.3.1.zip,MIT + file LICENSE,669464,e1249e842e3309f7245a3ec79e8ab05deca0120964f50abfdd44b71dc31d28f4
+projects_33/r_windows/contrib/tictoc_1.2.1.zip,Apache License (== 2.0) | file LICENSE,558429,8f17db076f95b35032ec0bd11462a46171c8caa668bb447f4670bc73524bc51c
+projects_33/r_windows/contrib/tidymodels_1.5.0.zip,MIT + file LICENSE,92108,83ab60fec22581c712f89ee8d66287112b71769f194cc5ac10e7b98fa8e4c6a9
+projects_33/r_windows/contrib/tidyquant_1.0.12.zip,MIT + file LICENSE,1188207,1b6ee97183f446fbe5d29dc278e871eeb9ecfb810a79278974f8d701b9c2e877
+projects_33/r_windows/contrib/tidyr_1.3.2.zip,MIT + file LICENSE,1279932,57caabf733fea0caec621c0b9d7882f8abb7e96ac0dd86d9e00fa30d854568af
+projects_33/r_windows/contrib/tidyselect_1.2.1.zip,MIT + file LICENSE,230080,00b6dd22b1aa2f05e75fc29d3ada4df0a80b9c5eb4f3ffe5c32b48698598930a
+projects_33/r_windows/contrib/tidysynth_0.2.1.zip,MIT + file LICENSE,219177,55bdeaace6308cdf5dfc11519fe0676c7e1378b89574d7fc7650e0c2b36e66d6
+projects_33/r_windows/contrib/tidytext_0.4.3.zip,MIT + file LICENSE,2683962,1d8a8a79285c1ca9e4b3c0be20bfd3c82ab0721732ae4d7ce36e43e4502c0a1d
+projects_33/r_windows/contrib/tidyverse_2.0.0.zip,MIT + file LICENSE,433860,015c815a1c1abf1d1706dde0da2a977fb269afb0c6a3bd0f17a2d6056c2248d7
+projects_33/r_windows/contrib/timeDate_4052.112.zip,GPL (>= 2),1497914,a02e3226154802f5afae9d18e0a3f04ac43d0fa1954732e39a0a2e225ae8c42c
+projects_33/r_windows/contrib/timeSeries_4052.112.zip,GPL (>= 2),2078589,b6b263e3f2c91755866483d6dd8dcd7b6b183948b4277db9ba25afb9979f4590
+projects_33/r_windows/contrib/timechange_0.4.0.zip,GPL (>= 3),541120,8d026528f365abe972755a284e70c4f398d494c62c47363f2cdd5b1ec0c9810c
+projects_33/r_windows/contrib/timetk_2.9.1.zip,GPL (>= 3),3377819,276f06298e650cf1f1c8bc179e48afb9c9be40a925ec64cebff890727ac26369
+projects_33/r_windows/contrib/tinytex_0.61.zip,MIT + file LICENSE,153237,88eb22e9a86577ddec49ab5857f1ddbfd0bed8607d942f150a0fc36e0fcfc90f
+projects_33/r_windows/contrib/toastui_0.4.0.zip,MIT + file LICENSE,1242115,2398849c0ae26d588fbf8169f2f66e4b00394fc5f44ba9b3f7c1181a6936f077
+projects_33/r_windows/contrib/tokenizers_0.3.0.zip,MIT + file LICENSE,987016,14f04132a6bb677356939095da63c9d8011d7105c02aa003ba7529786f070f2e
+projects_33/r_windows/contrib/trending_0.1.0.zip,MIT + file LICENSE,221434,c8e633cdb093271f4101920b4df9e82a232c55bde5c6f0ae2ea46769df4480b0
+projects_33/r_windows/contrib/truncnorm_1.0-9.zip,GPL (>= 2),29813,8a15e4a560e25d166f3cbb0d32bd1f4a5e2cff9bb55f3ee5396f905695cef03f
+projects_33/r_windows/contrib/tseries_0.10-63.zip,GPL-2 | GPL-3,403709,c54af8364da5dbb1f628dfedf4b67bafe634079e7e2b88a40adf10f5125540f5
+projects_33/r_windows/contrib/tsfeatures_1.1.1.zip,GPL-3,258111,a1f51a102f77ca350ada9a9d36fa7d2cfca4601bb35cf79ff3a119a803e7c7ca
+projects_33/r_windows/contrib/tsibble_1.2.0.zip,GPL-3,1043830,258fd017fb17eeb2e4d75a214ba2f95f9ed3127e7369c3407224575ee6df9f45
+projects_33/r_windows/contrib/tsibbledata_0.4.1.zip,GPL-3,2129536,c6301380c0923b3d5fc225581ce08fb62772e0ddc6f2b4b27f77ec57ee1e6838
+projects_33/r_windows/contrib/tufte_0.15.0.zip,GPL-3,313579,fa0c35a1d32b62d201a9eedd03b8b588a1dc8f6b838e0050811219853ea8f80e
+projects_33/r_windows/contrib/tune_2.1.0.zip,MIT + file LICENSE,1578512,2a1baeb51bc55df2b202598998bc1f12be5fa64dc3898b4fc3b5aa4f60d8b41c
+projects_33/r_windows/contrib/tzdb_0.5.0.zip,MIT + file LICENSE,1056477,94ce0c15af0b07b7320ef3b33f4f8bc0c76c8344288e9dcbd3ca03c3f5f9e9dd
+projects_33/r_windows/contrib/ucminf_1.2.3.zip,GPL (>= 2),43466,58991714fee4e521a61b2cd8b0277193aa8e23af0a8e5bfd5f54fec615cbf17c
+projects_33/r_windows/contrib/units_1.0-1.zip,GPL-2,932251,22aa476c016d80e73c779f7585971e9b4a8b82ccecdd02d9076295aec29b8ec7
+projects_33/r_windows/contrib/unvotes_0.3.0.zip,MIT + file LICENSE,947930,fb1bba14f0dccab349acb2261a88c2c38e45d1f2be474da539c1b49c5adc5402
+projects_33/r_windows/contrib/urca_1.3-4.zip,GPL (>= 2),1078544,c077e436ebf92c9f3bd32d849ac017aac65d2cc7308c95c46e67c97c57a21dd0
+projects_33/r_windows/contrib/urlchecker_2.0.0.zip,GPL-3,81603,c6472b5f5f450c2c16506894c7922023439aecf88ddfb7e61deb783f8aa9a294
+projects_33/r_windows/contrib/usdata_0.3.1.zip,GPL-3,2480474,267baa464b525dfedbf1e78526e823ffb6b70f794e92838fe86c611708e3b55e
+projects_33/r_windows/contrib/usethis_3.2.2.zip,MIT + file LICENSE,994330,ab8243ca94b34cad811ae115cb9e1078c4b9b153b475252d12841192684f6a53
+projects_33/r_windows/contrib/usmap_1.0.0.zip,GPL (>= 3),1710220,5425caacf8e02cbffbc827414e36f4c10f7253559df2d6782fa82b73b7b440c4
+projects_33/r_windows/contrib/usmapdata_1.1.0.zip,GPL (>= 3),5688202,0897e4bd2184a31151c643ca155ddea09530ed3a8f8197b138ec3cc7308d9ffd
+projects_33/r_windows/contrib/utf8_1.2.6.zip,Apache License (== 2.0) | file LICENSE,158089,0e1f8fee9c19aa6b689768b381d03982efbe6e44abab110b5c7c47b2c4033592
+projects_33/r_windows/contrib/uuid_1.2-2.zip,MIT + file LICENSE,54087,ad06915efba460b3083a9b1498950aeac69f20064d5453a2166ebb6fec5ead86
+projects_33/r_windows/contrib/vars_1.6-1.zip,GPL (>= 2),431356,18030f8086b41490baa6efb4890680f7d674d092114786679cc8bcb96fe50cbc
+projects_33/r_windows/contrib/vctrs_0.7.3.zip,MIT + file LICENSE,1920851,59f072355333081c32d297319b564a629c1918df7b72a0677aefd660c5ae4bf1
+projects_33/r_windows/contrib/vecvec_1.4.0.zip,MIT + file LICENSE,213207,b3dc511476020676aa07ded3d31ded538558ab8cd908e802ff120f75f8bd99bc
+projects_33/r_windows/contrib/viridisLite_0.4.3.zip,MIT + file LICENSE,1300962,22137fb2f3befd1918646f226759548e203f357be8ed930704f67a37a4ed5ad1
+projects_33/r_windows/contrib/viridis_0.6.5.zip,MIT + file LICENSE,3014209,1340a0ca346601cf1d61a58635f37773747225acb02f55504600ae86edbe7ebb
+projects_33/r_windows/contrib/visNetwork_2.1.4.zip,MIT + file LICENSE,4716782,e51519cd843bf9c2c3859667e05b4d4ce0ada2bc8e7af8859c73dbc4bab0de5d
+projects_33/r_windows/contrib/vroom_1.7.1.zip,MIT + file LICENSE,1452686,1d9b4a575a8df4bede624546203eae83f1c337f5a47da9830443369304b96b70
+projects_33/r_windows/contrib/waldo_0.6.2.zip,MIT + file LICENSE,139030,87123e92d78c2d2a709db427089c3f5575165c63123d9a4434f39a84158a53e8
+projects_33/r_windows/contrib/warp_0.2.3.zip,MIT + file LICENSE,73423,2eace47d69b7828e4d59d1e88c4cfc9a4fa16b471a10e5e368e3ac2f5c4f663b
+projects_33/r_windows/contrib/webshot_0.5.5.zip,GPL-2,220221,44f6bf9a350f6518039823a3bb2edc55e1c01c720f9b41fe0e85254b243801b0
+projects_33/r_windows/contrib/whisker_0.4.1.zip,GPL-3,84350,217f4dac60c3cc0707769ee47a7797f40c6fcdd75ec786040acd9d7570ba888e
+projects_33/r_windows/contrib/widgetframe_0.3.1.zip,MIT + file LICENSE,72167,15e3cb79a5e952f1592dcecada1acda7907fd68c8a98191f142ce3ce3c5cb494
+projects_33/r_windows/contrib/withr_3.0.3.zip,MIT + file LICENSE,235418,04918204df0ca192231ea40bd6c8b1cc992d063a11ef424017adee4d98d096f2
+projects_33/r_windows/contrib/wk_0.9.5.zip,MIT + file LICENSE,2072303,0147f76a2e5874967287141f178ae6a64489185e9b941db3df09820b1c977edc
+projects_33/r_windows/contrib/workflows_1.3.0.zip,MIT + file LICENSE,290741,12ae2d43b8edd85acc38f2c2216a978c618d24b0e854922b32887053f1087a5f
+projects_33/r_windows/contrib/workflowsets_1.1.1.zip,MIT + file LICENSE,2908225,a3db79fc70ae14fad933d5ff2af3e439ad59b3e93008fc482add1365e24efcc3
+projects_33/r_windows/contrib/writexl_2.0.1.zip,BSD_2_clause + file LICENSE,825619,804190ab3c2327ac4a4c10c95edff40e03bfb2c8680e124380230606f40603da
+projects_33/r_windows/contrib/xaringanExtra_0.8.0.zip,MIT + file LICENSE,1835826,20855cb91bf9816256da4982230eba26303ac38bec526ede0ef10ddfa6fbbd3b
+projects_33/r_windows/contrib/xaringan_0.31.zip,MIT + file LICENSE,152264,06eeaa34d795c476a32b03c7725f4966d729d558a347bebc1fa804add3e00067
+projects_33/r_windows/contrib/xaringanthemer_0.4.4.zip,MIT + file LICENSE,1212474,acba4e677014c49ea8240a5c8245eba44b87ccc4e9733c9713e774949a95d274
+projects_33/r_windows/contrib/xfun_0.62.zip,MIT + file LICENSE,702659,b0fe908fc04a210e01728751ccddc8cf90e71976ce5fb4e7be52527b08906dca
+projects_33/r_windows/contrib/xgboost_3.2.1.1.zip,Apache License (== 2.0) | file LICENSE,4200240,82714c178b3cb77d59575260232746326df2bb7d68767e15071fee7eadfbcb1b
+projects_33/r_windows/contrib/xml2_1.6.0.zip,MIT + file LICENSE,1621126,cdbde592554f7b1c983727d2da36c9f59075d5a8eb8cb92021050102df838e6e
+projects_33/r_windows/contrib/xopen_1.0.1.zip,MIT + file LICENSE,28607,fa3177dbf888bb9855bfad34768e1067eb11c41ca9c5f5125338d5342af26f63
+projects_33/r_windows/contrib/xtable_1.8-8.zip,GPL (>= 2),762024,b120ae1fa9e8a8bc5f8146f39361542f9f9aeab0fa9deb89c49aed5ba99d5da0
+projects_33/r_windows/contrib/xts_0.14.3.zip,GPL (>= 2),844465,da2b83b36062467533a9521e0b65fe012a31559aa337a7a3b8b415319100a4e6
+projects_33/r_windows/contrib/yaml_2.3.12.zip,BSD_3_clause + file LICENSE,125768,cd5e966c5f39c317abbc2015d18e0b177d4135dc99f9315b118a04255a03b424
+projects_33/r_windows/contrib/yardstick_1.4.0.zip,MIT + file LICENSE,1347730,c5f78d9e0c3d84b34c785f43a453acb72c811df22972a6ee493905058ed5bf24
+projects_33/r_windows/contrib/ympes_1.9.0.zip,GPL-3,184831,aee38690d45b96e98335dc08832a59cc6e330920e474137e172f9aa7d2e43bd0
+projects_33/r_windows/contrib/yulab.utils_0.2.5.zip,Artistic-2.0,177909,1422420a349b70957cd1298aa14d551eea33b36a27ee92382976670b914ff6fe
+projects_33/r_windows/contrib/zip_3.0.2.zip,MIT + file LICENSE,765968,db139b5e9b366c6df4dfbbc6bc8559b4f48a168cdbe4d7e6043ab910ccc12b1c
+projects_33/r_windows/contrib/zoo_1.9-1.zip,GPL-2 | GPL-3,1015348,1d3a8809804e0e74e3e63db2f4dac17540c7eda15110b9c36d11929202bee697
+projects_33/r_windows/contrib/zyp_0.11-1.zip,LGPL-2.1,41087,7370d7002a41a91f472983ade6a6f1e5326d2973e0ac6640e72acb66932319c8
+projects_33/r_windows/R-4.6.2-win.exe,GPL-2.0-or-later,91363600,b0b0053baa1963b6d8a28c9642d50107ef9ce2f41c8b9a90e952846c8918b38a
+projects_33/r_windows/contrib/PACKAGES,CRAN index,189458,95c35e48fb0326b782a8e4ad202f04617c60c52a61ab59b91d366e2f9da77ba6
+projects_33/sdist_needs_build/l0bnb-1.0.0.tar.gz,MIT,79827,b316aae3a8c2b0d704c95d8596ca20e545c2fd9b76845e541834a891c5104ea1

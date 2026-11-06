@@ -1,0 +1,19 @@
+{
+ "id": "2505.01556",
+ "title": "Optimising Kernel-based Multivariate Statistical Process Control",
+ "authors": [
+  "Zina-Sabrina Duma",
+  "Victoria Jorry",
+  "Tuomas Sihvonen",
+  "Satu-Pia Reinikainen",
+  "Lassi Roininen"
+ ],
+ "v1_date": "2025-05-02",
+ "latest_version": 1,
+ "latest_date": "2025-05-02",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Multivariate Statistical Process Control (MSPC) is a framework for monitoring and diagnosing complex processes by analysing the relationships between multiple process variables simultaneously. Kernel MSPC extends the methodology by leveraging kernel functions to capture non-linear relationships between the data, enhancing the process monitoring capabilities. However, optimising the kernel MSPC parameters, such as the kernel type and kernel parameters, is often done in literature in time-consuming and non-procedural manners such as cross-validation or grid search. In the present paper, we propose optimising the kernel MSPC parameters with Kernel Flows (KF), a recent kernel learning methodology introduced for Gaussian Process Regression (GPR). Apart from the optimisation technique, the novelty of the study resides also in the utilisation of kernel combinations for learning the optimal kernel type, and introduces individual kernel parameters for each variable. The proposed methodology is evaluated with multiple cases from the benchmark Tennessee Eastman Process. The faults are detected for all evaluated cases, including the ones not detected in the original study.",
+ "primary": "cs.CE"
+}

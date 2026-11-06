@@ -1,0 +1,17 @@
+{
+ "id": "2401.00510",
+ "title": "Smoothness Estimation for Whittle-Matérn Processes on Closed Riemannian Manifolds",
+ "authors": [
+  "Moritz Korte-Stapff",
+  "Toni Karvonen",
+  "Eric Moulines"
+ ],
+ "v1_date": "2023-12-31",
+ "latest_version": 3,
+ "latest_date": "2025-06-05",
+ "journal_ref": "Stochastic Processes and their Applications 189:104685, 2025",
+ "doi": "10.1016/j.spa.2025.104685",
+ "comment": "",
+ "abstract": "The family of Matérn kernels are often used in spatial statistics, function approximation and Gaussian process methods in machine learning. One reason for their popularity is the presence of a smoothness parameter that controls, for example, optimal error bounds for kriging and posterior contraction rates in Gaussian process regression. On closed Riemannian manifolds, we show that the smoothness parameter can be consistently estimated from the maximizer(s) of the Gaussian likelihood when the underlying data are from point evaluations of a Gaussian process and, perhaps surprisingly, even when the data comprise evaluations of a non-Gaussian process. The points at which the process is observed need not have any particular spatial structure beyond quasi-uniformity. Our methods are based on results from approximation theory for the Sobolev scale of Hilbert spaces. Moreover, we generalize a well-known equivalence of measures phenomenon related to Matérn kernels to the non-Gaussian case by using Kakutani's theorem.",
+ "primary": "math.ST"
+}

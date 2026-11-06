@@ -1,0 +1,15 @@
+{
+ "id": "2607.02836",
+ "title": "stLMM: Bayesian Spatial and Space-Time Linear Mixed Models for Small-Area Ecological Estimation",
+ "authors": [
+  "Andrew O. Finley"
+ ],
+ "v1_date": "2026-07-03",
+ "latest_version": 1,
+ "latest_date": "2026-07-03",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "stLMM is an R package for Bayesian linear mixed models with spatial, temporal, and space-time latent effects. It provides a common formula interface for independent and identically distributed (iid) grouped effects, autoregressive (AR) temporal effects, Gaussian process (GP) and nearest-neighbor Gaussian process (NNGP) point-referenced effects, conditional autoregressive (CAR) and directed acyclic graph autoregressive (DAGAR) areal effects, separable areal space-time effects, and structured varying coefficients. The package is designed for ecological small-area estimation workflows in which analysts must move between direct-estimate and unit-level models, combine sampling variances or residual-variance models with spatial and temporal borrowing, and retain missing response rows as prediction targets. A shared sparse-precision implementation underlies the model terms. Structured latent effects are collapsed during fitting, then recovered or retained for fitted values, diagnostics, prediction, and posterior summaries. This gives users one posterior-draw workflow for propagating uncertainty from model fitting through prediction and aggregation. The package is demonstrated with a Washington county biomass example from the package article series, using Forest Inventory and Analysis (FIA) data and tree canopy cover to estimate county-year biomass means. The full article series provides reproducible source code, data, diagnostics, and related model variants.",
+ "primary": "stat.ME"
+}

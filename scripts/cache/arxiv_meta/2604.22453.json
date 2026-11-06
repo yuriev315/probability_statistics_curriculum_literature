@@ -1,0 +1,18 @@
+{
+ "id": "2604.22453",
+ "title": "Adapted Wasserstein Barycenters of Gaussian Processes",
+ "authors": [
+  "Madhu Gunasingam",
+  "Francesco Mattesini",
+  "Johannes Wiesel",
+  "Ting-Kam Leonard Wong"
+ ],
+ "v1_date": "2026-04-24",
+ "latest_version": 2,
+ "latest_date": "2026-07-16",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "Comments very welcome!",
+ "abstract": "We study barycenters of filtered Gaussian processes in adapted Wasserstein space. The adapted Wasserstein distance refines classical optimal transport by requiring transport plans to respect the temporal flow of information, making it the natural metric for stochastic systems with filtration constraints, as in stochastic control, mathematical finance, and sequential decision problems. We prove that the \\emph{unrestricted} barycenter problem for weighted Fréchet means of filtered Gaussian inputs admits a solution with Gaussian underlying law, representable as an enlarged filtered Gaussian process but not necessarily as an ordinary one. The problem decomposes into finitely many classical Bures--Wasserstein barycenter problems for the covariance contributions of the successive innovations. We then treat the \\emph{restricted} problem, in which the barycenter is required to be an ordinary filtered Gaussian process, giving a rank and common-noise criterion for when the two problems agree, sufficient conditions for uniqueness, and first order optimality and regularity results. Under a martingale constraint we obtain an explicit solution via martingale projection and Bures--Wasserstein barycenters of the Gaussian increments. Beyond their intrinsic theoretical interest, our results provide a principled way to build representative models from collections of Gaussian stochastic systems, with applications to stochastic optimization, robust finance, and sequential statistical analysis.",
+ "primary": "math.PR"
+}

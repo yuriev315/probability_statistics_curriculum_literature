@@ -1,0 +1,16 @@
+{
+ "id": "2603.28177",
+ "title": "Posterior contraction under misspecification and heteroscedasticity in non-linear inverse problems",
+ "authors": [
+  "Fanny Seizilles",
+  "Maximilian Siebel"
+ ],
+ "v1_date": "2026-03-30",
+ "latest_version": 1,
+ "latest_date": "2026-03-30",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "57 pages",
+ "abstract": "In many practical and numerical inverse problems, the exact data log-likelihood is not fully accessible, motivating the use of surrogate models. We study heteroscedastic nonparametric nonlinear regression problems with Gaussian errors and establish contraction results for posterior distributions arising from a surrogate log-likelihood constructed from proxy error variances, an approximate forward map, and an appropriate Gaussian process prior. Under general assumptions on the approximation quality, we show that the resulting surrogate posterior is statistically reliable and contracts about the true parameter at rates comparable to those of the exact posterior. The analysis leverages consistency properties of the (penalised) MLE to effectively handle heteroscedastic noise and to control the impact of likelihood approximation errors. We apply the framework to PDE-constrained inverse problems for a reaction-diffusion equation and the two-dimensional Navier-Stokes equation. In the latter case, we consider misspecified viscosity and forcing terms as well as Oseen-type linearization models, highlighting the relevance of our results for numerical analysis applications.",
+ "primary": "math.ST"
+}

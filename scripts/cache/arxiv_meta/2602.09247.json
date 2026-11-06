@@ -1,0 +1,15 @@
+{
+ "id": "2602.09247",
+ "title": "Motivating REML via Prediction-Error Covariances in EM Updates for Linear Mixed Models",
+ "authors": [
+  "Andrew T. Karl"
+ ],
+ "v1_date": "2026-02-09",
+ "latest_version": 1,
+ "latest_date": "2026-02-09",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We present a computational motivation for restricted maximum likelihood (REML) estimation in linear mixed models using an expectation--maximization (EM) algorithm. At each iteration, maximum likelihood (ML) and REML solve the same mixed-model equations for the best linear unbiased estimator (BLUE) of the fixed effects and the best linear unbiased predictor (BLUP) of the random effects. They differ only in the trace adjustments used in the variance-component updates: ML uses conditional covariances of the random effects given the data, whereas REML uses prediction-error covariances from Henderson's C-matrix, reflecting uncertainty from estimating the fixed effects. Short R code makes this switch explicit, exposes the key matrices for classroom inspection, and reproduces lme4 ML and REML fits.",
+ "primary": "stat.CO"
+}

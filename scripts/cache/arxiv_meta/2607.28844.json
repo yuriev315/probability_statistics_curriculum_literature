@@ -1,0 +1,16 @@
+{
+ "id": "2607.28844",
+ "title": "Seeing the Forest for the Trees: The Gaussian Process Limit of BART",
+ "authors": [
+  "Cory McCartan",
+  "Melody Huang"
+ ],
+ "v1_date": "2026-07-30",
+ "latest_version": 2,
+ "latest_date": "2026-08-31",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "20 pages, 5 figures, plus references and appendices",
+ "abstract": "Bayesian Additive Regression Trees (BART) have shown state-of-the-art performance in both prediction and causal inference problems. Previous theoretical work has attempted to explain BART's superior performance by establishing posterior contraction rates for standard BART models, but these rates depend strongly on the number of covariates. Here, we take a different approach and study the behavior of BART as the number of trees grows towards infinity. We show that in this regime, BART converges to a Gaussian process (GP) with a particular kernel. The kernel and its corresponding reproducing kernel Hilbert space (RKHS) have favorable inferential properties that help explain BART's excellent performance. We introduce random tree features as an approximation to this limiting GP, and establish minimax-optimal learning rates for ridge regression on these random features that depend only logarithmically on dimension. In addition to providing insight into the empirical success of BART, random tree features offer a computational benefit over traditional MCMC estimation. The random-features approximation also allows practitioners to easily incorporate BART into any model which has a linear predictor, expanding the applicability and flexibility of BART.",
+ "primary": "math.ST"
+}

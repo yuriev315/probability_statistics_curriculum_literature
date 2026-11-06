@@ -1,0 +1,15 @@
+{
+ "id": "2512.20503",
+ "title": "$L^2-$posterior contraction rates for Gaussian process and random series priors in Bayesian nonparametric regression models",
+ "authors": [
+  "Paul Rosa"
+ ],
+ "v1_date": "2025-12-23",
+ "latest_version": 1,
+ "latest_date": "2025-12-23",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "The nonparametric regression model with normal errors has been extensively studied, both from the frequentist and Bayesian viewpoint. A central result in Bayesian nonparametrics is that under assumptions on the prior, the data-generating distribution (assuming a true frequentist model) and a semi-metric $ρ(.,.)$ on the space of regression functions that satisfy the so called testing condition, the posterior contracts around the true distribution with respect to $ρ(.,.)$, and the rate of contraction can be estimated. In the regression setting, the semi-metric $ρ(.,.)$ is often taken to be the Hellinger distance or the empirical $L^2$ norm (i.e., the $L^2$ norm with respect to the empirical distribution of the design) in the present regression context. However, extending contraction rates to the ``integrated\" $L^2$ norm usually requires more work, and has previously been done for instance under sufficient smoothness or boundedness assumptions, which may not necessarily hold. In this work we show that, for classes of priors based on random basis expansions or Gaussian processes with RKHS of Sobolev type and in the random design setting, such $L^2$ posterior contraction rates can be obtained under substantially weaker assumptions than those currently used in the literature. Importantly we do not require a known a priori upper bound on its supremum norm or that its smoothness is larger than $d/2$, where $d$ is the dimension of the covariates. Our proof crucially relies on an application of the matrix Bernstein concentration inequality to empirical inner product matrices, which require explicit upper bounds on the basis functions at hand that we prove in several cases of interest. In particular we obtain upper bounds on the supremum norm of Mercer eigenfunctions of several reproducing kernels (including several Matérn kernels) which are of independent interest.",
+ "primary": "math.ST"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "2604.12124",
+ "title": "Causal inference for spatiotemporal point processes in the presence of outcome spillover and carryover",
+ "authors": [
+  "Conor Kresin",
+  "Duncan A. Clark",
+  "Louis Davis",
+  "Martin Hazelton"
+ ],
+ "v1_date": "2026-04-13",
+ "latest_version": 1,
+ "latest_date": "2026-04-13",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "95 pages, 9 figures",
+ "abstract": "We develop a framework for causal inference with continuous spatiotemporal point-process outcomes under cell-level interventions and outcome spillover. Potential outcomes are indexed by full treatment allocations, and the observed post-treatment process is represented as an unlabelled superposition of latent control and treatment components. On the observed design support, expected post-treatment event counts in any spacetime region under a given treatment allocation are identified under consistency, exchangeability, and positivity; off-support contrasts are identified relative to a regime-stable structural point-process model. Estimation is likelihood-based and implemented with stochastic EM. To understand when this is feasible, we analyse a predictable blockwise hard-EM surrogate and show nonasymptotic contraction of estimation error to a statistical floor governed by locally ambiguous regions. This yields plug-in guarantees for cell-level and global causal functionals, and clarifies the additional array conditions needed for unnormalised growing-window contrasts. The framework covers history dependent spatiotemporal point processes including Poisson and Hawkes models, with applications to settings such as epidemiology, seismology, and finance. We provide an application assessing the causal effect of injecting wastewater into the ground on seismic activity in Oklahoma.",
+ "primary": "stat.ME"
+}

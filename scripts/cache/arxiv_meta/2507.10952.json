@@ -1,0 +1,16 @@
+{
+ "id": "2507.10952",
+ "title": "Active Learning via Heteroskedastic Rational Kriging",
+ "authors": [
+  "Shangkun Wang",
+  "V. Roshan Joseph"
+ ],
+ "v1_date": "2025-07-15",
+ "latest_version": 1,
+ "latest_date": "2025-07-15",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "23 pages, 9 figures",
+ "abstract": "Active learning methods for emulating complex computer models that rely on stationary Gaussian processes tend to produce design points that uniformly fill the entire experimental region, which can be wasteful for functions which vary only in small regions. In this article, we propose a new Gaussian process model that captures the heteroskedasticity of the function. Active learning using this new model can place design points in the more interesting regions of the response surface, and thus obtain surrogate models with better accuracy. The proposed active learning method is compared with the state-of-the-art methods using simulations and two real datasets. It is found to have comparable or better performance relative to other non-stationary Gaussian process-based methods, but faster by orders of magnitude.",
+ "primary": "stat.ME"
+}

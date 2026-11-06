@@ -1,0 +1,16 @@
+{
+ "id": "2412.07929",
+ "title": "Dirichlet-Neumann Averaging: The DNA of Efficient Gaussian Process Simulation",
+ "authors": [
+  "Robert Kutri",
+  "Robert Scheichl"
+ ],
+ "v1_date": "2024-12-10",
+ "latest_version": 1,
+ "latest_date": "2024-12-10",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "30 pages, 7 figures, pre-print",
+ "abstract": "Gaussian processes (GPs) and Gaussian random fields (GRFs) are essential for modelling spatially varying stochastic phenomena. Yet, the efficient generation of corresponding realisations on high-resolution grids remains challenging, particularly when a large number of realisations are required. This paper presents two novel contributions. First, we propose a new methodology based on Dirichlet-Neumann averaging (DNA) to generate GPs and GRFs with isotropic covariance on regularly spaced grids. The combination of discrete cosine and sine transforms in the DNA sampling approach allows for rapid evaluations without the need for modification or padding of the desired covariance function. While this introduces an error in the covariance, our numerical experiments show that this error is negligible for most relevant applications, representing a trade-off between efficiency and precision. We provide explicit error estimates for Matérn covariances. The second contribution links our new methodology to the stochastic partial differential equation (SPDE) approach for sampling GRFs. We demonstrate that the concepts developed in our methodology can also guide the selection of boundary conditions in the SPDE framework. We prove that averaging specific GRFs sampled via the SPDE approach yields genuinely isotropic realisations without domain extension, with the error bounds established in the first part remaining valid.",
+ "primary": "stat.CO"
+}

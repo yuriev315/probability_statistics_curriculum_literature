@@ -1,0 +1,15 @@
+{
+ "id": "2609.04853",
+ "title": "Variational Inference for Functional Data Clustering via Dirichlet Process Mixtures with Correlated Errors",
+ "authors": [
+  "Chengqian Xian"
+ ],
+ "v1_date": "2026-09-04",
+ "latest_version": 2,
+ "latest_date": "2026-09-22",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We propose a Bayesian model-based approach for clustering functional data with an unknown number of clusters and within-curve correlated observations. Cluster-specific mean functions are represented using B-spline basis expansions, while within-curve dependence is modeled through an Ornstein--Uhlenbeck covariance structure. A truncated Dirichlet process mixture is used to infer the effective number of clusters, and a variational EM algorithm is developed for efficient posterior approximation. Simulation studies show that the proposed method performs well under both correctly specified and misspecified mean-function settings and achieves higher average values of the reported clustering metrics than the competing methods in the simulation settings considered. Comparisons with MCMC indicate that the variational approximation produces clustering results and parameter estimates that are in close agreement with those obtained by MCMC, while requiring substantially lower computational cost. An application to Canadian daily temperature curves further demonstrates the practical usefulness of the method in identifying interpretable functional clusters while accounting for within-curve dependence.",
+ "primary": "stat.ME"
+}

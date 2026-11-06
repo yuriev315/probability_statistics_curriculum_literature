@@ -1,0 +1,16 @@
+{
+ "id": "2508.07665",
+ "title": "Regularization Effects of Time Integration on Gaussian Process Functionals",
+ "authors": [
+  "Takafumi Amaba",
+  "Marie Kratz"
+ ],
+ "v1_date": "2025-08-11",
+ "latest_version": 1,
+ "latest_date": "2025-08-11",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "31 pages",
+ "abstract": "In this paper, we investigate the regularization effects, in the sense of Malliavin calculus, on functionals of Gaussian processes induced by time integration, focusing on their covariance functions. We study several examples of important covariance functions classes to verify whether they satisfy the sufficient conditions proposed for regularization. Additionally, we derive a weak implication for the smoothness of level-crossing functionals.",
+ "primary": "math.PR"
+}

@@ -1,0 +1,15 @@
+{
+ "id": "2512.01162",
+ "title": "Gaussian Process State-Space Modeling and Particle Filtering for Time Series Decomposition and Nonlinear Signal Extraction",
+ "authors": [
+  "Genshiro Kitagawa"
+ ],
+ "v1_date": "2025-12-01",
+ "latest_version": 1,
+ "latest_date": "2025-12-01",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "18 pages, 5 tables, 16 figures",
+ "abstract": "Gaussian-process state-space models (GP-SSMs) provide a flexible nonparametric alternative for modeling time-series dynamics that are nonlinear or difficult to specify parametrically. While the Kalman filter is effective for linear-Gaussian trend and seasonal components, many real-world systems require more expressive representations. GP-SSMs address this need by learning transition functions directly from data, while particle filtering enables Bayesian state estimation even when posterior distributions deviate from Gaussianity. This paper develops a particle-filtering framework for GP-SSM inference and compares its performance with the Kalman filter in trend extraction and seasonal adjustment. We further evaluate nonlinear signal-extraction tasks, demonstrating that GP-SSMs can recover latent states under sharp or asymmetric dynamics. The results highlight the utility of combining GP modeling with sequential Monte Carlo methods for complex time-series analysis.",
+ "primary": "stat.ME"
+}

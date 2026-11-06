@@ -1,0 +1,17 @@
+{
+ "id": "2608.10113",
+ "title": "Asymptotics of Nonparametric Estimation under General Non-monotone MAR Missingness: A Nonparametric Maximum Likelihood Approach",
+ "authors": [
+  "Yating Zou",
+  "Huimin Hu",
+  "Jeffrey Näf"
+ ],
+ "v1_date": "2026-08-10",
+ "latest_version": 1,
+ "latest_date": "2026-08-10",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Missing data constitute a pervasive challenge in empirical research. Consequently, there is an ever-growing number of methods designed to address this challenge, with multiple imputation and inverse probability weighting the dominant strategies. Despite this, theoretical guarantees remain limited, particularly in the challenging case of non-monotone missing at random (MAR). When guarantees exist, they are often confined to simplified settings such as missing completely at random, monotone or block-wise missingness, or rest on restrictive assumptions about the missingness mechanism. In this paper, we utilize the theory of sieve maximum likelihood to establish a general rate of convergence under MAR that requires no modeling of the missingness mechanism and no restriction on the configuration of missing patterns, beyond MAR itself and a natural positivity condition. Applying this result to density estimation, we show that the complete-data density can be estimated at the minimax rate over a Hölder class, up to a logarithmic factor, for any prescribed smoothness level. The missingness does not affect the rate and enters only through a constant. The estimator is approximated in practice by a simple expectation-maximization (EM) algorithm operating on the incomplete data directly. In simulations, it performs comparably to the kernel density estimator supplied with the complete data across a wide range of missingness levels.",
+ "primary": "stat.ME"
+}

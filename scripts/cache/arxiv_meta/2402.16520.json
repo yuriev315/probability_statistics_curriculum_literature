@@ -1,0 +1,17 @@
+{
+ "id": "2402.16520",
+ "title": "Sequential design for surrogate modeling in Bayesian inverse problems",
+ "authors": [
+  "Paul Lartaud",
+  "Philippe Humbert",
+  "Josselin Garnier"
+ ],
+ "v1_date": "2024-02-26",
+ "latest_version": 3,
+ "latest_date": "2025-01-02",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "22 pages, 12 figures, 2 appendices",
+ "abstract": "Sequential design is a highly active field of research in active learning which provides a general framework for designing computer experiments with limited computational budgets. It aims to create efficient surrogate models to replace complex computer codes. Some sequential design strategies can be understood within the Stepwise Uncertainty Reduction (SUR) framework. In the SUR framework, each new design point is chosen by minimizing the expectation of a metric of uncertainty with respect to the yet unknown new data point. These methods offer an accessible framework for sequential experiment design, including almost sure convergence for common uncertainty functionals. This paper introduces two strategies. The first one, entitled Constraint Set Query (CSQ) is adapted from D-optimal designs where the search space is constrained in a ball for the Mahalanobis distance around the maximum a posteriori. The second, known as the IP-SUR (Inverse Problem SUR) strategy, uses a weighted-integrated mean squared prediction error as the uncertainty metric and is derived from SUR methods. It is tractable for Gaussian process surrogates with continuous sample paths. It comes with a theoretical guarantee for the almost sure convergence of the uncertainty functional. The premises of this work are highlighted in various test cases, in which these two strategies are compared to other sequential designs.",
+ "primary": "stat.ME"
+}

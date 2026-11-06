@@ -1,0 +1,17 @@
+{
+ "id": "2509.08237",
+ "title": "Convergence and Optimality of the EM Algorithm Under Multi-Component Gaussian Mixture Models",
+ "authors": [
+  "Xin Bing",
+  "Dehan Kong",
+  "Bingqing Li"
+ ],
+ "v1_date": "2025-09-10",
+ "latest_version": 2,
+ "latest_date": "2025-11-06",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Gaussian mixture models (GMMs) are fundamental statistical tools for modeling heterogeneous data. Due to the nonconcavity of the likelihood function, the Expectation-Maximization (EM) algorithm is widely used for parameter estimation of each Gaussian component. Existing analyses of the EM algorithm's convergence to the true parameter focus on either the two-component case or multi-component settings with known mixing probabilities and isotropic covariance matrices. In this work, we study the convergence of the EM algorithm for multi-component GMMs in full generality. The population-level EM is shown to converge to the true parameter when the smallest separation among all pairs of Gaussian components exceeds a logarithmic factor of the largest separation and the reciprocal of the minimal mixing probabilities. At the sample level, the EM algorithm is shown to be minimax rate-optimal, up to a logarithmic factor. We develop two distinct novel analytical approaches, each tailored to a different regime of separation, reflecting two complementary perspectives on the use of EM. As a byproduct of our analysis, we show that the EM algorithm, when used for community detection, also achieves the minimax optimal rate of misclustering error under milder separation conditions than spectral clustering and Lloyd's algorithm, an interesting result in its own right. Our analysis allows the number of components, the minimal mixing probabilities, the separation between Gaussian components and the dimension to grow with the sample size. Simulation studies corroborate our theoretical findings.",
+ "primary": "math.ST"
+}

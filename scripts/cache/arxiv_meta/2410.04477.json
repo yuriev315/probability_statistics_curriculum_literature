@@ -1,0 +1,18 @@
+{
+ "id": "2410.04477",
+ "title": "Block Vecchia Approximation for Scalable and Efficient Gaussian Process Computations",
+ "authors": [
+  "Qilong Pan",
+  "Sameh Abdulah",
+  "Marc G. Genton",
+  "Ying Sun"
+ ],
+ "v1_date": "2024-10-06",
+ "latest_version": 2,
+ "latest_date": "2025-01-23",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Gaussian Processes (GPs) are vital for modeling and predicting irregularly-spaced, large geospatial datasets. However, their computations often pose significant challenges in large-scale applications. One popular method to approximate GPs is the Vecchia approximation, which approximates the full likelihood via a series of conditional probabilities. The classical Vecchia approximation uses univariate conditional distributions, which leads to redundant evaluations and memory burdens. To address this challenge, our study introduces block Vecchia, which evaluates each multivariate conditional distribution of a block of observations, with blocks formed using the K-means algorithm. The proposed GPU framework for the block Vecchia uses varying batched linear algebra operations to compute multivariate conditional distributions concurrently, notably diminishing the frequent likelihood evaluations. Diving into the factor affecting the accuracy of the block Vecchia, the neighbor selection criterion is investigated, where we found that the random ordering markedly enhances the approximated quality as the block count becomes large. To verify the scalability and efficiency of the algorithm, we conduct a series of numerical studies and simulations, demonstrating their practical utility and effectiveness compared to the exact GP. Moreover, we tackle large-scale real datasets using the block Vecchia method, i.e., high-resolution 3D profile wind speed with a million points.",
+ "primary": "stat.CO"
+}

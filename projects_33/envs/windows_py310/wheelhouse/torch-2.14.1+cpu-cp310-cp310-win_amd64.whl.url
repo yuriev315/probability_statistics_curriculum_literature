@@ -1,0 +1,13 @@
+[InternetShortcut]
+URL=https://download-r2.pytorch.org/whl/cpu/torch-2.14.1%2Bcpu-cp310-cp310-win_amd64.whl
+[Resource]
+STATUS=EXCLUDED_OVER_100MIB_URL_PLACEHOLDER
+ORIGINAL_URL=https://download-r2.pytorch.org/whl/cpu/torch-2.14.1%2Bcpu-cp310-cp310-win_amd64.whl
+FILENAME=torch-2.14.1+cpu-cp310-cp310-win_amd64.whl
+EXPECTED_SIZE_BYTES=123978111
+REVISION=2.14.1+cpu
+SHA256=bda7043ec45539b1b61538af468e19854b72ac6be8d6fde2f51dfd0c91721568
+LICENSE=unknown
+PURPOSE=runtime dependency
+DOWNLOAD=Open the URL, or: curl -L -C - -o <FILENAME> <URL>; compare SHA256 if recorded
+NOTE=Over the 100 MiB per-file download limit. Not split.

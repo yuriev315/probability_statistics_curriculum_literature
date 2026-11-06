@@ -1,0 +1,15 @@
+{
+ "id": "2609.29297",
+ "title": "Gaussian Process Modeling of Time Series",
+ "authors": [
+  "Genshiro Kitagawa"
+ ],
+ "v1_date": "2026-09-24",
+ "latest_version": 1,
+ "latest_date": "2026-09-24",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "24 pages, 4 tables, 14 figures",
+ "abstract": "Gaussian processes (GPs) provide a flexible nonparametric framework for modeling time series through appropriately chosen kernel functions. This chapter introduces the basic formulation of Gaussian processes, commonly used kernels, GP regression, hyperparameter estimation, and model evaluation using in-sample and out-of-sample criteria. Applications to stationary, quasi-periodic, and seasonal time series illustrate how individual and composite kernels can represent different forms of temporal variation. Additive kernels also provide interpretable decompositions into latent components such as trend, smooth local variation, and seasonality, while product kernels allow more complex dependence structures to be constructed. Finally, Gaussian process state-space models (GP-SSMs) are briefly introduced, and a nonlinear example demonstrates how a GP transition model can be combined with particle filtering and smoothing for latent-state estimation.",
+ "primary": "stat.ME"
+}

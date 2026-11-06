@@ -1,0 +1,28 @@
+{
+ "id": "2601.07979",
+ "title": "Spatial Covariance Constraints for Gaussian Mixture Models",
+ "authors": [
+  "Hanzhang Lu",
+  "Keiran Malott",
+  "Venkat Suprabath Bitra",
+  "Kirsty Milligan",
+  "Sanjeena Subedi",
+  "Edana Cassol",
+  "Vinita Chauhan",
+  "Connor McNairn",
+  "Bryan Muir",
+  "Prarthana Pasricha",
+  "Sangeeta Murugkar",
+  "Rowan Thomson",
+  "Andrew Jirasek",
+  "Jeffrey L. Andrews"
+ ],
+ "v1_date": "2026-01-12",
+ "latest_version": 1,
+ "latest_date": "2026-01-12",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "19 pages, 7 figures",
+ "abstract": "Although extensive research exists in spatial modeling, few studies have addressed finite mixture model-based clustering methods for spatial data. Finite mixture models, especially Gaussian mixture models, particularly suffer from high dimensionality due to the number of free covariance parameters. This study introduces a spatial covariance constraint for Gaussian mixture models that requires only four free parameters for each component, independent of dimensionality. Using a coordinate system, the spatially constrained Gaussian mixture model enables clustering of multi-way spatial data and inference of spatial patterns. The parameter estimation is conducted by combining the expectation-maximization (EM) algorithm with the generalized least squares (GLS) estimator. Simulation studies and applications to Raman spectroscopy data are provided to demonstrate the proposed model.",
+ "primary": "stat.ME"
+}

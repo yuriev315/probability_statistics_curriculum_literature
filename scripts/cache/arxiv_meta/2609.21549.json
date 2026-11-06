@@ -1,0 +1,17 @@
+{
+ "id": "2609.21549",
+ "title": "Model-based estimation and imputation with torus missing values",
+ "authors": [
+  "Luca Greco",
+  "Lucia Filippozzi",
+  "Claudio Agostinelli"
+ ],
+ "v1_date": "2026-09-18",
+ "latest_version": 1,
+ "latest_date": "2026-09-18",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "This paper addresses the problem of parameter estimation and model-based imputation for multivariate circular data lying on a p-dimensional torus in the presence of missing values. Actually, the periodic nature of the sample space invalidates conventional imputation techniques designed for Euclidean data. Then, we propose a general framework for maximum likelihood estimation under the wrapped elliptically symmetric family of distributions, with particular interest in the multivariate wrapped normal distribution, when the missing data mechanism is ignorable. The methodology leverages the conditional properties of the elliptically symmetric distributions on the unwrapped space, embedding the imputation of missing torus data into an Expectation-Maximization algorithm that treats both the wrapping coefficients and the missing entries as latent variables. Derivation of both the E and M steps is detailed and a working algorithm is discussed. Imputation methods are also taken into account. The finite-sample performance of the maximum likelihood estimator under ignorable missingness is assessed through Monte Carlo simulations under the wrapped normal specification. The methodology is also illustrated on data with artificially introduced missingness.",
+ "primary": "stat.ME"
+}

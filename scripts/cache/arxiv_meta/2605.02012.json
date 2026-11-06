@@ -1,0 +1,16 @@
+{
+ "id": "2605.02012",
+ "title": "Shifted asymmetric Laplace mixtures of experts",
+ "authors": [
+  "Sphiwe B. Skhosana",
+  "Hien Duy Nguyen"
+ ],
+ "v1_date": "2026-05-03",
+ "latest_version": 1,
+ "latest_date": "2026-05-03",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Mixtures of experts (MoE) models provide a flexible framework for modelling heterogeneity in data for regression and model-based clustering and classification. MoE models for regression are typically based on the Gaussian assumption for the expert distributions. To robustify the MoE framework with respect to data exhibiting skewness, heavy tails and outliers, we propose a robust non-normal MoE model using the shifted asymmetric Laplace (SAL) distribution. The proposed SALMoE model overcomes the limitations of the Gaussian MoE model when the observed data are asymmetric and heavy-tailed. Through a combination of the minorization-maximization (MM) algorithm with the classical Expectation-Maximization (EM), we develop a dedicated hybrid EM-MM algorithm to estimate the parameters of the SALMoE model. The EM-MM algorithm is shown to yield a nondecreasing observed log-likelihood. A simulation study demonstrates the robustness and practical utility of the proposed model. Finally, the SALMoE model is applied to two real-world economic datasets.",
+ "primary": "stat.ME"
+}

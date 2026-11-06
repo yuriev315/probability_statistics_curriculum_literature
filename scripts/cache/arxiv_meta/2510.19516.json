@@ -1,0 +1,16 @@
+{
+ "id": "2510.19516",
+ "title": "Probabilistic PCA on tensors",
+ "authors": [
+  "Yaoming Zhen",
+  "Piotr Zwiernik"
+ ],
+ "v1_date": "2025-10-22",
+ "latest_version": 1,
+ "latest_date": "2025-10-22",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "In probabilistic principal component analysis (PPCA), an observed vector is modeled as a linear transformation of a low-dimensional Gaussian factor plus isotropic noise. We generalize PPCA to tensors by constraining the loading operator to have Tucker structure, yielding a probabilistic multilinear PCA model that enables uncertainty quantification and naturally accommodates multiple, possibly heterogeneous, tensor observations. We develop the associated theory: we establish identifiability of the loadings and noise variance and show that-unlike in matrix PPCA-the maximum likelihood estimator (MLE) exists even from a single tensor sample. We then study two estimators. First, we consider the MLE and propose an expectation maximization (EM) algorithm to compute it. Second, exploiting that Tucker maps correspond to rank-one elements after a Kronecker lifting, we design a computationally efficient estimator for which we provide provable finite-sample guarantees. Together, these results provide a coherent probabilistic framework and practical algorithms for learning from tensor-valued data.",
+ "primary": "math.ST"
+}

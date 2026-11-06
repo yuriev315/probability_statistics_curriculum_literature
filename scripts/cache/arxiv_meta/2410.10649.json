@@ -1,0 +1,16 @@
+{
+ "id": "2410.10649",
+ "title": "Vecchia Gaussian Processes: on probabilistic and statistical properties",
+ "authors": [
+  "Botond Szabo",
+  "Yichen Zhu"
+ ],
+ "v1_date": "2024-10-14",
+ "latest_version": 4,
+ "latest_date": "2026-03-11",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Gaussian Processes (GPs) are widely used to model dependencies in spatial statistics and machine learning. However, exact inference is computationally intractable for GP regression, with a time complexity of $O(n^3)$. The Vecchia approximation scales up computation by introducing sparsity into the spatial dependency structure, represented by a directed acyclic graph (DAG). Despite its practical popularity, this approach lacks rigorous theoretical foundations, and the choice of DAG structure remains an open problem. In this paper, we systematically study the Vecchia approximation of the popular, isotropic Matérn GP as standalone stochastic process and uncover key probabilistic and statistical properties. We propose selecting parent sets as norming sets with fixed cardinality in the Vecchia approximation. On the probabilistic side, we show that the conditional distributions of Matérn GPs, as well as their Vecchia approximations, can be characterized by polynomial interpolations. This enables us to establish several results on small ball probabilities and the Reproducing Kernel Hilbert Spaces (RKHSs) of Vecchia GPs. Building on these probabilistic results, we prove that in the nonparametric regression model, the corresponding posterior contracts around the truth at the optimal minimax rate, both under oracle rescaling and hierarchical tuning of the prior. We illustrate the theoretical findings through numerical experiments on synthetic datasets. Our core algorithms are implemented in C++ with an R interface.",
+ "primary": "math.ST"
+}

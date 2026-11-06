@@ -1,0 +1,17 @@
+{
+ "id": "2410.01024",
+ "title": "GPTreeO: An R package for continual regression with dividing local Gaussian processes",
+ "authors": [
+  "Timo Braun",
+  "Anders Kvellestad",
+  "Riccardo De Bin"
+ ],
+ "v1_date": "2024-10-01",
+ "latest_version": 2,
+ "latest_date": "2024-10-17",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "Updated the bibliography, and is now equivalent to the journal submission",
+ "abstract": "We introduce GPTreeO, a flexible R package for scalable Gaussian process (GP) regression, particularly tailored to continual learning problems. GPTreeO builds upon the Dividing Local Gaussian Processes (DLGP) algorithm, in which a binary tree of local GP regressors is dynamically constructed using a continual stream of input data. In GPTreeO we extend the original DLGP algorithm by allowing continual optimisation of the GP hyperparameters, incorporating uncertainty calibration, and introducing new strategies for how the local partitions are created. Moreover, the modular code structure allows users to interface their favourite GP library to perform the local GP regression in GPTreeO. The flexibility of GPTreeO gives the user fine-grained control of the balance between computational speed, accuracy, stability and smoothness. We conduct a sensitivity analysis to show how GPTreeO's configurable features impact the regression performance in a continual learning setting.",
+ "primary": "cs.LG"
+}

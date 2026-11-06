@@ -1,0 +1,16 @@
+{
+ "id": "2311.16064",
+ "title": "Heat content for Gaussian processes: small-time asymptotic analysis",
+ "authors": [
+  "Kei Kobayashi",
+  "Hyunchul Park"
+ ],
+ "v1_date": "2023-11-27",
+ "latest_version": 2,
+ "latest_date": "2024-06-15",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "To appear in Bernoulli; Sections 4-6 reorganized; Proposition 4.3 generalized",
+ "abstract": "This paper establishes the small-time asymptotic behaviors of the regular heat content and spectral heat content for general Gaussian processes in both one-dimensional and multi-dimensional settings, where the boundary of the underlying domain satisfies some smoothness condition. For the amount of heat loss associated with the spectral heat content, the exact asymptotic behavior with rate function being the expected supremum process is obtained, whereas for the regular heat content, the exact asymptotic behavior is described in terms of the standard deviation function.",
+ "primary": "math.PR"
+}

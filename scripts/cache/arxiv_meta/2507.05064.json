@@ -1,0 +1,17 @@
+{
+ "id": "2507.05064",
+ "title": "Vecchia-Inducing-Points Full-Scale Approximations for Gaussian Processes",
+ "authors": [
+  "Tim Gyger",
+  "Reinhard Furrer",
+  "Fabio Sigrist"
+ ],
+ "v1_date": "2025-07-07",
+ "latest_version": 4,
+ "latest_date": "2026-05-22",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Gaussian processes are flexible, probabilistic, non-parametric models widely used in machine learning and statistics. However, their scalability to large data sets is limited by computational constraints. To overcome these challenges, we propose Vecchia-inducing-points full-scale (VIF) approximations combining the strengths of global inducing points and local Vecchia approximations. Vecchia approximations excel in settings with low-dimensional inputs and moderately smooth covariance functions, while inducing point methods are better suited to high-dimensional inputs and smoother covariance functions. Our VIF approach bridges these two regimes by using an efficient correlation-based neighbor-finding strategy for the Vecchia approximation of the residual process, implemented via a modified cover tree algorithm. We further extend our framework to non-Gaussian likelihoods by introducing iterative methods that substantially reduce computational costs for training and prediction by several orders of magnitudes compared to Cholesky-based computations when using a Laplace approximation. In particular, we propose and compare novel preconditioners and provide theoretical convergence results. Extensive numerical experiments on simulated and real-world data sets show that VIF approximations are both computationally efficient as well as more accurate and numerically stable than state-of-the-art alternatives. All methods are implemented in the open source C++ library GPBoost with high-level Python and R interfaces.",
+ "primary": "stat.ML"
+}

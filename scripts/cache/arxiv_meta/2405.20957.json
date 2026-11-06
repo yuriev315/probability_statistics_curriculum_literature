@@ -1,0 +1,19 @@
+{
+ "id": "2405.20957",
+ "title": "Causal-ICM: A Data Fusion Framework For Heterogeneous Treatment Effect Estimation With Multi-Task Gaussian Processes",
+ "authors": [
+  "Evangelos Dimitriou",
+  "Edwin Fong",
+  "Jens Magelund Tarp",
+  "Karla Diaz-Ordaz",
+  "Brieuc Lehmann"
+ ],
+ "v1_date": "2024-05-31",
+ "latest_version": 3,
+ "latest_date": "2026-04-02",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "Accepted at the 5th Conference on Causal Learning and Reasoning (CLeaR 2026)",
+ "abstract": "Bridging the gap between internal and external validity is crucial for heterogeneous treatment effect estimation. Randomised controlled trials (RCTs), favoured for their internal validity due to randomisation, often encounter challenges in generalising findings due to strict eligibility criteria. Observational studies, on the other hand, may provide stronger external validity through larger and more representative samples but can suffer from compromised internal validity due to unmeasured confounding. Motivated by these complementary characteristics, we propose a novel Bayesian nonparametric approach, Causal-ICM, leveraging multi-task Gaussian processes to integrate data from both RCTs and observational studies. In particular, we introduce a parameter that controls the degree of borrowing between the datasets and prevents the observational dataset from dominating the estimation. We propose a data-adaptive procedure for choosing the optimal value of the parameter. Causal-ICM outperforms other data fusion methods in point estimation across the covariate support of the observational study and provides principled uncertainty quantification for the estimated treatment effects. We demonstrate the robust performance of Causal-ICM in diverse scenarios through multiple simulation studies and a real-world study.",
+ "primary": "stat.ME"
+}

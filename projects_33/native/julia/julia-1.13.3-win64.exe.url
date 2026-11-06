@@ -1,0 +1,13 @@
+[InternetShortcut]
+URL=https://julialang-s3.julialang.org/bin/winnt/x64/1.13/julia-1.13.3-win64.exe
+[Resource]
+STATUS=EXCLUDED_OVER_100MIB_URL_PLACEHOLDER
+ORIGINAL_URL=https://julialang-s3.julialang.org/bin/winnt/x64/1.13/julia-1.13.3-win64.exe
+FILENAME=julia-1.13.3-win64.exe
+EXPECTED_SIZE_BYTES=171753712
+REVISION=1.13.3
+SHA256=3928c7d1a908eb4797f9ca064cf62757fc49198360ee8251f4a6df9f35c6f9ad
+LICENSE=MIT
+PURPOSE=Julia for MIT 18.338 and the Julia parts of other materials
+DOWNLOAD=Open the URL, or: curl -L -C - -o <FILENAME> <URL>; compare SHA256 if recorded
+NOTE=Over the 100 MiB per-file download limit. Not split.

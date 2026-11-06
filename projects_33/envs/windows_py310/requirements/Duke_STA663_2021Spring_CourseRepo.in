@@ -1,0 +1,14 @@
+matplotlib
+numpy
+pandas
+scipy
+cython
+h5py
+joblib
+networkx
+numba
+numexpr
+scikit-learn
+seaborn
+statsmodels
+sympy

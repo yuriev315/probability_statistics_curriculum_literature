@@ -1,0 +1,16 @@
+{
+ "id": "2311.06220",
+ "title": "Bayesian nonparametric generative modeling of large multivariate non-Gaussian spatial fields",
+ "authors": [
+  "Paul F. V. Wiemann",
+  "Matthias Katzfuss"
+ ],
+ "v1_date": "2023-11-10",
+ "latest_version": 1,
+ "latest_date": "2023-11-10",
+ "journal_ref": "",
+ "doi": "10.1007/s13253-023-00580-z",
+ "comment": "",
+ "abstract": "Multivariate spatial fields are of interest in many applications, including climate model emulation. Not only can the marginal spatial fields be subject to nonstationarity, but the dependence structure among the marginal fields and between the fields might also differ substantially. Extending a recently proposed Bayesian approach to describe the distribution of a nonstationary univariate spatial field using a triangular transport map, we cast the inference problem for a multivariate spatial field for a small number of replicates into a series of independent Gaussian process (GP) regression tasks with Gaussian errors. Due to the potential nonlinearity in the conditional means, the joint distribution modeled can be non-Gaussian. The resulting nonparametric Bayesian methodology scales well to high-dimensional spatial fields. It is especially useful when only a few training samples are available, because it employs regularization priors and quantifies uncertainty. Inference is conducted in an empirical Bayes setting by a highly scalable stochastic gradient approach. The implementation benefits from mini-batching and could be accelerated with parallel computing. We illustrate the extended transport-map model by studying hydrological variables from non-Gaussian climate-model output.",
+ "primary": "stat.ME"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "2607.23086",
+ "title": "The normalized expectation-maximization (N-EM) algorithm",
+ "authors": [
+  "Guo-Liang Tian",
+  "Xuanyu Liu",
+  "Yuanfan Zhao"
+ ],
+ "v1_date": "2026-07-25",
+ "latest_version": 1,
+ "latest_date": "2026-07-25",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Although the $\\textit{expectation-maximization}$ (EM) algorithm is a powerful optimization tool in statistics, it can only be applied to missing/incomplete data problems or to problems with a latent-variable structure. It is well known that the introduction of latent variables (or the data augmentation) is an art; i.e., it could only be done case by case. In this paper, we propose a new algorithm, a so-called $\\textit{normalized EM}$ (N-EM) algorithm, for a class of log-likelihood functions with integrals. As an extension of the original EM algorithm, the N-EM algorithm inherits all advantages of EM-type algorithms and consists of three steps: normalization step (N-step), expectation step (E-step) and maximization step (M-step), where the N-step is to construct a $\\textit{normalized density function}$ (ndf), the E-step is to compute a well-established surrogate $Q$-function and the M-step is to maximize the $Q$-function as in the original EM algorithm. The ascent property, the best choice of the ndf, and those N-EM algorithms with a difficult M-step are also explored. By multiple real applications, we have shown that the N-EM algorithm can solve some problems which cannot be addressed by the EM algorithm. Next, for problems to which the EM can be applied (often case by case), the N-EM algorithm can be employed in a unified framework. Numerical experiments are performed and convergence properties are also established.",
+ "primary": "stat.ME"
+}

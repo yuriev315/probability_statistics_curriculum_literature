@@ -1,0 +1,16 @@
+{
+ "id": "2602.12435",
+ "title": "Scalable Changepoint Detection for Large Spatiotemporal Data on the Sphere",
+ "authors": [
+  "Samantha Shi-Jun",
+  "Bo Li"
+ ],
+ "v1_date": "2026-02-12",
+ "latest_version": 1,
+ "latest_date": "2026-02-12",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We propose a novel Bayesian framework for changepoint detection in large-scale spherical spatiotemporal data, with broad applicability in environmental and climate sciences. Our approach models changepoints as spatially dependent categorical variables using a multinomial probit model (MPM) with a latent Gaussian process, effectively capturing complex spatial correlation structures on the sphere. To handle the high dimensionality inherent in global datasets, we leverage stochastic partial differential equations (SPDE) and spherical harmonic transformations for efficient representation and scalable inference, drastically reducing computational burden while maintaining high accuracy. Through extensive simulation studies, we demonstrate the efficiency and robustness of the proposed method for changepoint estimation, as well as the significant computational gains achieved through the combined use of the MPM and truncated spectral representations of latent processes. Finally, we apply our method to global aerosol optical depth data, successfully identifying changepoints associated with a major atmospheric event.",
+ "primary": "stat.ME"
+}

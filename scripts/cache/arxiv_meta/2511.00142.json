@@ -1,0 +1,15 @@
+{
+ "id": "2511.00142",
+ "title": "On Kernels and Covariance Structures in Hilbert Space Gaussian Processes",
+ "authors": [
+  "Saeed Hashemi Sababe"
+ ],
+ "v1_date": "2025-10-31",
+ "latest_version": 1,
+ "latest_date": "2025-10-31",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "19 pages",
+ "abstract": "Motivated by practical applications, I present a novel and comprehensive framework for operator-valued positive definite kernels. This framework is applied to both operator theory and stochastic processes. The first application focuses on various dilation constructions within operator theory, while the second pertains to broad classes of stochastic processes. In this context, the authors utilize the results derived from operator-valued kernels to develop new Hilbert space-valued Gaussian processes and to investigate the structures of their covariance configurations.",
+ "primary": "math.ST"
+}

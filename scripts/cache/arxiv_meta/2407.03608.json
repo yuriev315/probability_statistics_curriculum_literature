@@ -1,0 +1,16 @@
+{
+ "id": "2407.03608",
+ "title": "Gaussian process regression with log-linear scaling for common non-stationary kernels",
+ "authors": [
+  "P. Michael Kielstra",
+  "Michael Lindsey"
+ ],
+ "v1_date": "2024-07-04",
+ "latest_version": 2,
+ "latest_date": "2025-03-26",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We introduce a fast algorithm for Gaussian process regression in low dimensions, applicable to a widely-used family of non-stationary kernels. The non-stationarity of these kernels is induced by arbitrary spatially-varying vertical and horizontal scales. In particular, any stationary kernel can be accommodated as a special case, and we focus especially on the generalization of the standard Matérn kernel. Our subroutine for kernel matrix-vector multiplications scales almost optimally as $O(N\\log N)$, where $N$ is the number of regression points. Like the recently developed equispaced Fourier Gaussian process (EFGP) methodology, which is applicable only to stationary kernels, our approach exploits non-uniform fast Fourier transforms (NUFFTs). We offer a complete analysis controlling the approximation error of our method, and we validate the method's practical performance with numerical experiments. In particular we demonstrate improved scalability compared to to state-of-the-art rank-structured approaches in spatial dimension $d>1$.",
+ "primary": "math.NA"
+}

@@ -1,0 +1,22 @@
+{
+ "id": "2507.06938",
+ "title": "Accelerated Spatio-Temporal Bayesian Modeling for Multivariate Gaussian Processes",
+ "authors": [
+  "Lisa Gaedke-Merzhäuser",
+  "Vincent Maillou",
+  "Fernando Rodriguez Avellaneda",
+  "Olaf Schenk",
+  "Mathieu Luisier",
+  "Paula Moraga",
+  "Alexandros Nikolaos Ziogas",
+  "Håvard Rue"
+ ],
+ "v1_date": "2025-07-09",
+ "latest_version": 2,
+ "latest_date": "2025-08-27",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Multivariate Gaussian processes (GPs) offer a powerful probabilistic framework to represent complex interdependent phenomena. They pose, however, significant computational challenges in high-dimensional settings, which frequently arise in spatial-temporal applications. We present DALIA, a highly scalable framework for performing Bayesian inference tasks on spatio-temporal multivariate GPs, based on the methodology of integrated nested Laplace approximations. Our approach relies on a sparse inverse covariance matrix formulation of the GP, puts forward a GPU-accelerated block-dense approach, and introduces a hierarchical, triple-layer, distributed memory parallel scheme. We showcase weak scaling performance surpassing the state-of-the-art by two orders of magnitude on a model whose parameter space is 8$\\times$ larger and measure strong scaling speedups of three orders of magnitude when running on 496 GH200 superchips on the Alps supercomputer. Applying DALIA to air pollution data from northern Italy over 48 days, we showcase refined spatial resolutions over the aggregated pollutant measurements.",
+ "primary": "stat.CO"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2509.17175",
+ "title": "Detecting Urban PM$_{2.5}$ Hotspots with Mobile Sensing and Gaussian Process Regression",
+ "authors": [
+  "Niál Perry",
+  "Peter P. Pedersen",
+  "Charles N. Christensen",
+  "Emanuel Nussli",
+  "Sanelma Heinonen",
+  "Lorena Gordillo Dagallier",
+  "Raphaël Jacquat",
+  "Sebastian Horstmann",
+  "Christoph Franck"
+ ],
+ "v1_date": "2025-09-21",
+ "latest_version": 1,
+ "latest_date": "2025-09-21",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "39 pages, 12 figures",
+ "abstract": "Low-cost mobile sensors can be used to collect PM$_{2.5}$ concentration data throughout an entire city. However, identifying air pollution hotspots from the data is challenging due to the uneven spatial sampling, temporal variations in the background air quality, and the dynamism of urban air pollution sources. This study proposes a method to identify urban PM$_{2.5}$ hotspots that addresses these challenges, involving four steps: (1) equip citizen scientists with mobile PM$_{2.5}$ sensors while they travel; (2) normalise the raw data to remove the influence of background ambient pollution levels; (3) fit a Gaussian process regression model to the normalised data and (4) calculate a grid of spatially explicit 'hotspot scores' using the probabilistic framework of Gaussian processes, which conveniently summarise the relative pollution levels throughout the city. We apply our method to create the first ever map of PM$_{2.5}$ pollution in Kigali, Rwanda, at a 200m resolution. Our results suggest that the level of ambient PM$_{2.5}$ pollution in Kigali is dangerously high, and we identify the hotspots in Kigali where pollution consistently exceeds the city-wide average. We also evaluate our method using simulated mobile sensing data for Beijing, China, where we find that the hotspot scores are probabilistically well calibrated and accurately reflect the 'ground truth' spatial profile of PM$_{2.5}$ pollution. Thanks to the use of open-source software, our method can be re-applied in cities throughout the world with a handful of low-cost sensors. The method can help fill the gap in urban air quality information and empower public health officials.",
+ "primary": "cs.LG"
+}

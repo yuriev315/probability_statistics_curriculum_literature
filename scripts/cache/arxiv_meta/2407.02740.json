@@ -1,0 +1,16 @@
+{
+ "id": "2407.02740",
+ "title": "Implementation and Analysis of GPU Algorithms for Vecchia Approximation",
+ "authors": [
+  "Zachary James",
+  "Joseph Guinness"
+ ],
+ "v1_date": "2024-07-03",
+ "latest_version": 1,
+ "latest_date": "2024-07-03",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Gaussian Processes have become an indispensable part of the spatial statistician's toolbox but are unsuitable for analyzing large dataset because of the significant time and memory needed to fit the associated model exactly. Vecchia Approximation is widely used to reduce the computational complexity and can be calculated with embarrassingly parallel algorithms. While multi-core software has been developed for Vecchia Approximation, such as the GpGp R package, software designed to run on graphics processing units (GPU) is lacking, despite the tremendous success GPUs have had in statistics and machine learning. We compare three different ways to implement Vecchia Approximation on a GPU: two of which are similar to methods used for other Gaussian Process approximations and one that is new. The impact of memory type on performance is investigated and the final method is optimized accordingly. We show that our new method outperforms the other two and then present it in the GpGpU R package. We compare GpGpU to existing multi-core and GPU-accelerated software by fitting Gaussian Process models on various datasets, including a large spatial-temporal dataset of $n>10^6$ points collected from an earth-observing satellite. Our results show that GpGpU achieves faster runtimes and better predictive accuracy.",
+ "primary": "stat.CO"
+}

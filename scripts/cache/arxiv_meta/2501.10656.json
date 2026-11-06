@@ -1,0 +1,17 @@
+{
+ "id": "2501.10656",
+ "title": "Clustering the Nearest Neighbor Gaussian Process",
+ "authors": [
+  "Ashlynn Crisp",
+  "Daniel Taylor-Rodriguez",
+  "Andrew O. Finley"
+ ],
+ "v1_date": "2025-01-18",
+ "latest_version": 2,
+ "latest_date": "2025-12-23",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Gaussian processes are ubiquitous as the primary tool for modeling spatial data. However, the Gaussian process is limited by its $\\mathcal{O}(n^3)$ cost, making direct parameter fitting algorithms infeasible for the scale of modern data collection initiatives. The Nearest Neighbor Gaussian Process (NNGP) was introduced as a scalable approximation to dense Gaussian processes which has been successful for $n\\sim 10^6$ observations. This project introduces the $\\textit{clustered Nearest Neighbor Gaussian Process}$ (cNNGP) which reduces the computational and storage cost of the NNGP. The accuracy of parameter estimation and reduction in computational and memory storage requirements are demonstrated with simulated data, where the cNNGP provided comparable inference to that obtained with the NNGP, in a fraction of the sampling time. To showcase the method's performance, we modeled biomass over the state of Maine using data collected by the Global Ecosystem Dynamics Investigation (GEDI) to generate wall-to-wall predictions over the state. In 16% of the time, the cNNGP produced nearly indistinguishable inference and biomass prediction maps to those obtained with the NNGP.",
+ "primary": "stat.ME"
+}

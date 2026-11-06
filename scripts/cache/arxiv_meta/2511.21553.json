@@ -1,0 +1,16 @@
+{
+ "id": "2511.21553",
+ "title": "Efficient bayesian spatially varying coefficients modeling for censored data using the vecchia approximation",
+ "authors": [
+  "Yacine Mohamed Idir",
+  "Thomas Romary"
+ ],
+ "v1_date": "2025-11-26",
+ "latest_version": 1,
+ "latest_date": "2025-11-26",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Spatially varying coefficients (SVC) models allow for marginal effects to be non-stationary over space and thus offer a higher degree of flexibility with respect to standard geostatistical models with external drift. At the same time, SVC models have the advantage that they are easily interpretable. They offer a flexible framework for understanding how the relationships between dependent and independent variables vary across space. The most common methods for modelling such data are the Geographically Weighted Regression (GWR) and Bayesian Gaussian Process (Bayes-GP). The Bayesian SVC model, which assumes that the coefficients follow Gaussian processes, provides a rigorous approach to account for spatial non-stationarity. However, the computational cost of Bayes-GP models can be prohibitively high when dealing with large datasets or/and when using a large number of covariates, due to the repeated inversion of dense covariance matrices required at each Markov chain Monte Carlo (MCMC) iteration. In this study, we propose an efficient Bayes-GP modeling framework leveraging the Vecchia approximation to reduce computational complexity while maintaining accuracy. The proposed method is applied to a challenging soil pollution data set in Toulouse, France, characterized by a high degree of censorship (two-thirds censored observations) and spatial clustering. Our results demonstrate the ability of the Vecchia-based Bayes-GP model to capture spatially varying effects and provide meaningful insights into spatial heterogeneity, even under the constraints of censored data.",
+ "primary": "stat.ME"
+}
