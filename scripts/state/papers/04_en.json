@@ -1,0 +1,72 @@
+{
+ "arxiv:1312.5602": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1312.5602v1",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 9 页、35938 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 9,
+  "chars": 35938,
+  "sha256": "8db04120cace173151c77e0faa6f3eaa4207009da66b9417597dc70bfee56d9c",
+  "bytes": 483443,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "04_model_free_learning/papers/2013_Mnih_PlayingAtariDeepReinforcement_en.pdf"
+ },
+ "arxiv:1509.06461": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1509.06461v3",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 13 页、50657 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 13,
+  "chars": 50657,
+  "sha256": "a37336d7f35be5842740ef8e320bce03e725c03e56b7093afe98475c5c72e496",
+  "bytes": 789062,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "04_model_free_learning/papers/2015_Hasselt_DeepReinforcementLearningDouble_en.pdf"
+ },
+ "arxiv:2107.09645": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/2107.09645v1",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 18 页、52070 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 18,
+  "chars": 52070,
+  "sha256": "7a9b7d03a6cbdf09767b132fa474620abed861197632352d236be61faa09a0fd",
+  "bytes": 2385290,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "04_model_free_learning/papers/2021_Yarats_MasteringVisualContinuousControl_en.pdf"
+ },
+ "arxiv:2101.05982": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/2101.05982v2",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 25 页、60220 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 25,
+  "chars": 60220,
+  "sha256": "2af33f98e2ceb68131ac70f9376c6af64d336166b3007b59459a8c1b5d0b9f28",
+  "bytes": 6258812,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "04_model_free_learning/papers/2021_Chen_RandomizedEnsembledDoubleQ_en.pdf"
+ },
+ "arxiv:1509.02971": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1509.02971v6",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 14 页、46932 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 14,
+  "chars": 46932,
+  "sha256": "34ef677ecdee8c2a72721c70c7d849191be72af39ac8691a12e8c2979a28feda",
+  "bytes": 663643,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "04_model_free_learning/papers/2015_Lillicrap_ContinuousControlDeepReinforcement_en.pdf"
+ }
+}

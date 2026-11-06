@@ -1,0 +1,14 @@
+gym==0.23.1
+gymnasium==0.29.1
+huggingface-hub
+moviepy
+numpy<2
+pygame
+pyyaml
+rich<12.0
+setuptools<81
+tenacity
+tensorboard
+torch==2.4.1
+tyro
+wandb

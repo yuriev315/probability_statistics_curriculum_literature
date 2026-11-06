@@ -1,0 +1,17 @@
+[InternetShortcut]
+URL=https://download-r2.pytorch.org/whl/cpu/torch-1.13.1%2Bcpu-cp37-cp37m-win_amd64.whl
+[Resource]
+STATUS=EXCLUDED_OVER_100MIB_URL_PLACEHOLDER
+ORIGINAL_URL=https://download-r2.pytorch.org/whl/cpu/torch-1.13.1%2Bcpu-cp37-cp37m-win_amd64.whl
+FILENAME=torch-1.13.1+cpu-cp37-cp37m-win_amd64.whl
+EXPECTED_SIZE_BYTES=164156823
+REVISION=1.13.1+cpu
+SHA256=02e387834a3489396f1871f83f7a795610d09ef3da01aa431493b08eac5c6666
+LICENSE=unknown
+PURPOSE=runtime dependency
+DOWNLOAD=Open the URL, or: curl -L -C - -o <FILENAME> <URL>; compare SHA256 if recorded
+NOTE=Over the 100 MiB per-file download limit. Not split.
+URL_CHECK=VALID
+URL_CHECK_HTTP=206
+URL_CHECK_REPORTED_SIZE=164156823
+URL_CHECK_TIME=2026-11-04T23:40:38Z

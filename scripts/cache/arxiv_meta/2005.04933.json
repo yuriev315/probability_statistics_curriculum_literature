@@ -1,0 +1,17 @@
+{
+ "id": "2005.04933",
+ "title": "First Experimental Demonstration of a 3-Dimensional Simplex Modulation Format Showing Improved OSNR Performance Compared to DP-BPSK",
+ "authors": [
+  "Annika Dochhan",
+  "Helmut Griesser",
+  "Michael Eiselt"
+ ],
+ "v1_date": "2020-05-11",
+ "latest_version": 1,
+ "latest_date": "2020-05-11",
+ "journal_ref": "2013 Optical Fiber Communication Conference and Exposition and the National Fiber Optic Engineers Conference (OFC/NFOEC)",
+ "doi": "10.1364/nfoec.2013.jth2a.40",
+ "comment": "The research leading to these results has been funded in part by the German ministry for education and research (BMBF) under Grant 01BP12400 as part of the ADVAntage-NET project",
+ "abstract": "We experimentally demonstrate a novel 3-dimensional modulation format with 1.2-dB OSNR tolerance improvement potential compared to DP-BPSK, as verified for the linear case. The non-linearity tolerance is evaluated in single-span transmission over 300km SSMF.",
+ "primary": "eess.SP"
+}

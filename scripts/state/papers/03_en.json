@@ -1,0 +1,44 @@
+{
+ "arxiv:1910.00120": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1910.00120v3",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 25 页、63943 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 25,
+  "chars": 63943,
+  "sha256": "70807629674054c8119642b884ed30217862050a2be2e118716b6fc74bdface3",
+  "bytes": 449888,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "03_dynamic_programming/papers/2019_Bertsekas_MultiagentRolloutAlgorithmsReinforcement_en.pdf"
+ },
+ "arxiv:1701.07274": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1701.07274v6",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 85 页、263649 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 85,
+  "chars": 263649,
+  "sha256": "b0bc463b9a90a437caaa6a3dfd527877aa7eea074fcb3cd54d5a2c8a81af2d8a",
+  "bytes": 1380080,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "03_dynamic_programming/papers/2017_Li_DeepReinforcementLearning_en.pdf"
+ },
+ "arxiv:1506.02438": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1506.02438v6",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 14 页、42903 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 14,
+  "chars": 42903,
+  "sha256": "5aa736ccf3517a1f36d0ca8146982e69beaf9a2bdccac2ae324f780743bc045e",
+  "bytes": 1798117,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "03_dynamic_programming/papers/2015_Schulman_HighDimensionalContinuousControl_en.pdf"
+ }
+}

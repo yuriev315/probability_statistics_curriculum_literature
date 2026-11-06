@@ -1,0 +1,11 @@
+click
+gym==0.23.0
+h5py
+numpy<2
+pandas
+pyrallis==0.3.1
+setuptools<81
+termcolor
+torch==2.4.1
+tqdm
+wandb

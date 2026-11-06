@@ -1,0 +1,16 @@
+{
+ "id": "2101.06247",
+ "title": "Minimal graphs with disjoint dominating and total dominating sets",
+ "authors": [
+  "Michael A. Henning",
+  "Jerzy Topp"
+ ],
+ "v1_date": "2021-01-15",
+ "latest_version": 2,
+ "latest_date": "2021-03-04",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "23 pages, 12 figures",
+ "abstract": "A graph $G$ is a DTDP-graph if it has a pair $(D,T)$ of disjoint sets of vertices of $G$ such that $D$ is a dominating set and $T$ is a total dominating set of $G$. Such graphs were studied in a number of research papers. In this paper we study further properties of DTDP-graphs and, in particular, we characterize minimal DTDP-gaphs without loops.",
+ "primary": "math.CO"
+}

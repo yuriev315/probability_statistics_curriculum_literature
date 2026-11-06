@@ -1,0 +1,9 @@
+# Windows x64, Python 3.10. Projects need separate environments: versions differ, so do not install this as one file.
+# Per-project pinned lists are under projects_13/envs/. Python 3.7 and 3.12 projects are under windows_py37 and windows_py312.
+-r ../projects_13/envs/windows_py310/requirements/DLR_RM_stable_baselines3.txt
+-r ../projects_13/envs/windows_py310/requirements/Farama_Parkour_OmniSafe.txt
+-r ../projects_13/envs/windows_py310/requirements/pytorch_rl_torchrl.txt
+-r ../projects_13/envs/windows_py310/requirements/sawcordwell_pymdptoolbox.txt
+-r ../projects_13/envs/windows_py310/requirements/takuseno_d3rlpy.txt
+-r ../projects_13/envs/windows_py310/requirements/tinkoff_CORL.txt
+-r ../projects_13/envs/windows_py310/requirements/vwxyzjn_cleanrl.txt

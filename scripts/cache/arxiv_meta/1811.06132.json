@@ -1,0 +1,15 @@
+{
+ "id": "1811.06132",
+ "title": "On certain subclasses of analytic functions associated with Poisson distribution series",
+ "authors": [
+  "B. A. Frasin"
+ ],
+ "v1_date": "2018-11-14",
+ "latest_version": 2,
+ "latest_date": "2019-06-19",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "In this paper, we find the necessary and sufficient conditions, inclusion relations for Poisson distribution series $\\mathcal{K}(m,z)=z+\\sum_{n=2}^\\infty \\frac{m^{n-1}}{(n-1)!}e^{-m}z^{n}$ belonging to the subclasses $\\mathcal{S}(k,λ)$ and $\\mathcal{C}(k,λ)$ of analytic functions with negative coefficients. Further, we consider the integral operator $\\mathcal{G}(m,z) = \\int_0^z \\frac{\\mathcal{F}(m,ζ)}ζ dζ$ belonging to the above classes.",
+ "primary": "math.CV"
+}

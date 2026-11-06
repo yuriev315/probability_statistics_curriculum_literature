@@ -1,0 +1,17 @@
+{
+ "id": "2108.09003",
+ "title": "Explainable Reinforcement Learning for Broad-XAI: A Conceptual Framework and Survey",
+ "authors": [
+  "Richard Dazeley",
+  "Peter Vamplew",
+  "Francisco Cruz"
+ ],
+ "v1_date": "2021-08-20",
+ "latest_version": 1,
+ "latest_date": "2021-08-20",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "22 pages, 7 figures",
+ "abstract": "Broad Explainable Artificial Intelligence moves away from interpreting individual decisions based on a single datum and aims to provide integrated explanations from multiple machine learning algorithms into a coherent explanation of an agent's behaviour that is aligned to the communication needs of the explainee. Reinforcement Learning (RL) methods, we propose, provide a potential backbone for the cognitive model required for the development of Broad-XAI. RL represents a suite of approaches that have had increasing success in solving a range of sequential decision-making problems. However, these algorithms all operate as black-box problem solvers, where they obfuscate their decision-making policy through a complex array of values and functions. EXplainable RL (XRL) is relatively recent field of research that aims to develop techniques to extract concepts from the agent's: perception of the environment; intrinsic/extrinsic motivations/beliefs; Q-values, goals and objectives. This paper aims to introduce a conceptual framework, called the Causal XRL Framework (CXF), that unifies the current XRL research and uses RL as a backbone to the development of Broad-XAI. Additionally, we recognise that RL methods have the ability to incorporate a range of technologies to allow agents to adapt to their environment. CXF is designed for the incorporation of many standard RL extensions and integrated with external ontologies and communication facilities so that the agent can answer questions that explain outcomes and justify its decisions.",
+ "primary": "cs.AI"
+}

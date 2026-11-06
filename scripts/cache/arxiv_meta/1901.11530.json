@@ -1,0 +1,23 @@
+{
+ "id": "1901.11530",
+ "title": "A Geometric Perspective on Optimal Representations for Reinforcement Learning",
+ "authors": [
+  "Marc G. Bellemare",
+  "Will Dabney",
+  "Robert Dadashi",
+  "Adrien Ali Taiga",
+  "Pablo Samuel Castro",
+  "Nicolas Le Roux",
+  "Dale Schuurmans",
+  "Tor Lattimore",
+  "Clare Lyle"
+ ],
+ "v1_date": "2019-01-31",
+ "latest_version": 2,
+ "latest_date": "2019-06-26",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We propose a new perspective on representation learning in reinforcement learning based on geometric properties of the space of value functions. We leverage this perspective to provide formal evidence regarding the usefulness of value functions as auxiliary tasks. Our formulation considers adapting the representation to minimize the (linear) approximation of the value function of all stationary policies for a given environment. We show that this optimization reduces to making accurate predictions regarding a special class of value functions which we call adversarial value functions (AVFs). We demonstrate that using value functions as auxiliary tasks corresponds to an expected-error relaxation of our formulation, with AVFs a natural candidate, and identify a close relationship with proto-value functions (Mahadevan, 2005). We highlight characteristics of AVFs and their usefulness as auxiliary tasks in a series of experiments on the four-room domain.",
+ "primary": "cs.LG"
+}

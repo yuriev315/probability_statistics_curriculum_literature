@@ -1,0 +1,54 @@
+[
+ {
+  "arxiv": "2006.16712",
+  "subtopic": "有模型强化学习综述",
+  "type": "综述",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "未知转移、规划与学习、模型误差的分类地图。",
+  "summary": "MBRL：模型学习、规划、Dyna 式混合。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2020 综述，后有期刊扩充。"
+ },
+ {
+  "arxiv": "1911.08265",
+  "subtopic": "规划与学习结合",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "隐式模型上的树搜索，连接 DP 规划与学习。",
+  "summary": "MuZero。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2019/2020 Nature 脉络。"
+ },
+ {
+  "arxiv": "2301.04104",
+  "subtopic": "世界模型",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "在想象中学习，强调模型误差下的稳定性。",
+  "summary": "DreamerV3。",
+  "summary_basis": "arXiv 摘要与元数据"
+ },
+ {
+  "arxiv": "2310.16828",
+  "subtopic": "时序差分 MPC",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "价值学习与模型预测控制结合。",
+  "summary": "TD-MPC2。",
+  "summary_basis": "arXiv 摘要与元数据"
+ },
+ {
+  "arxiv": "2111.00210",
+  "subtopic": "样本高效有模型 RL",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "窗口起点的样本高效 MuZero 变体。",
+  "summary": "EfficientZero。",
+  "summary_basis": "arXiv 摘要与元数据"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "arxiv": "1908.08796",
+  "subtopic": "医疗序贯决策",
+  "type": "综述",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "强调观测混叠、奖励与临床目标、离策略偏差；区分回顾数据与前瞻验证。",
+  "summary": "医疗领域 RL 应用综述。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2019 医疗 RL 综述。"
+ },
+ {
+  "arxiv": "2503.18201",
+  "subtopic": "库存与供应链",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "多级库存的模拟研究，需与 (s,S) 等基线对照，不能当作现场部署证据。",
+  "summary": "迭代多智能体 RL 用于多级库存（模拟器）。",
+  "summary_basis": "arXiv 摘要与元数据"
+ },
+ {
+  "arxiv": "2609.24750",
+  "subtopic": "运筹中的强化学习",
+  "type": "综述",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "交通、物流、能源、医疗的方法整合，并讨论仿真与真实验证差距。",
+  "summary": "RL 与运筹学的方法综述与路线图。",
+  "summary_basis": "arXiv 摘要与元数据"
+ },
+ {
+  "arxiv": "1803.11115",
+  "subtopic": "交通信号控制",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "交通应用的研究模拟；马尔科夫假设与路网部分可观测需单独检查。",
+  "summary": "车联网中交通灯控制的深度 RL（仿真）。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2018 交通信号 RL。"
+ }
+]

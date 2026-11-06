@@ -1,0 +1,273 @@
+﻿path,license,group,reason
+projects_13/envs/windows_py37/wheelhouse/Keras_Applications-1.0.8-py3-none-any.whl,MIT OSI Approved :: MIT License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/Keras_Preprocessing-1.1.2-py2.py3-none-any.whl,MIT OSI Approved :: MIT License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/Markdown-3.4.4-py3-none-any.whl,"Copyright 2007, 2008 The Python Markdown Project (v. 1.7 and later) OSI Approved :: BSD License -File: LICENSE.md",windows_py37,
+projects_13/envs/windows_py37/wheelhouse/MarkupSafe-2.1.5-cp37-cp37m-win_amd64.whl,"BSD-3-Clause
+ OSI Approved :: BSD License
+ -File: LICENSE.rst
+",windows_py37,
+projects_13/envs/windows_py37/wheelhouse/Pillow-9.5.0-cp37-cp37m-win_amd64.whl,"HPND
+ OSI Approved :: Historical Permission Notice and Disclaimer (HPND)
+",windows_py37,
+projects_13/envs/windows_py37/wheelhouse/Werkzeug-2.2.3-py3-none-any.whl,BSD-3-Clause OSI Approved :: BSD License -File: LICENSE.rst,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/absl_py-2.1.0-py3-none-any.whl,Apache 2.0 OSI Approved :: Apache Software License -File: LICENSE -File: AUTHORS,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/astor-0.8.1-py2.py3-none-any.whl,BSD-3-Clause OSI Approved :: BSD License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/cloudpickle-1.2.1-py2.py3-none-any.whl,BSD 3-Clause License OSI Approved :: BSD License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/colorama-0.4.6-py2.py3-none-any.whl,-File: LICENSE.txt OSI Approved :: BSD License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/cycler-0.11.0-py3-none-any.whl,BSD OSI Approved :: BSD License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/fonttools-4.38.0-py3-none-any.whl,MIT OSI Approved :: MIT License -File: LICENSE,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/google_pasta-0.2.0-py3-none-any.whl,Apache 2.0 OSI Approved :: Apache Software License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/grpcio-1.62.3-cp37-cp37m-win_amd64.whl,"Apache License 2.0
+ OSI Approved :: Apache Software License
+ -File: LICENSE
+",windows_py37,
+projects_13/envs/windows_py37/wheelhouse/h5py-2.10.0-cp37-cp37m-win_amd64.whl,BSD OSI Approved :: BSD License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/importlib_metadata-6.7.0-py3-none-any.whl,OSI Approved :: Apache Software License -File: LICENSE,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/joblib-1.3.2-py3-none-any.whl,BSD 3-Clause OSI Approved :: BSD License -File: LICENSE.txt,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/kiwisolver-1.4.5-cp37-cp37m-win_amd64.whl,"=========================
+ OSI Approved :: BSD License
+ -File: LICENSE
+",windows_py37,
+projects_13/envs/windows_py37/wheelhouse/matplotlib-3.5.3-cp37-cp37m-win_amd64.whl,PSF OSI Approved :: Python Software Foundation License -File: LICENSE\LICENSE -File: LICENSE\LICENSE_AMSFONTS -File: LICENSE\LICENSE_BAKOMA -File: LICENSE\LICEN,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/mpi4py-4.0.3-cp37-cp37m-win_amd64.whl,"BSD-3-Clause
+ OSI Approved :: BSD License
+ -File: LICENSE.rst
+",windows_py37,
+projects_13/envs/windows_py37/wheelhouse/numpy-1.18.5-cp37-cp37m-win_amd64.whl,BSD OSI Approved,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/opt_einsum-3.3.0-py3-none-any.whl,MIT OSI Approved,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/packaging-24.0-py3-none-any.whl,OSI Approved :: Apache Software License OSI Approved :: BSD License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/pandas-1.1.5-cp37-cp37m-win_amd64.whl,BSD,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/protobuf-4.24.4-cp37-cp37m-win_amd64.whl,3-Clause BSD License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/psutil-7.2.2-cp37-abi3-win_amd64.whl,"BSD-3-Clause
+ -File: LICENSE
+",windows_py37,
+projects_13/envs/windows_py37/wheelhouse/pyparsing-3.1.4-py3-none-any.whl,OSI Approved :: MIT License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/python_dateutil-3.0.0-py2.py3-none-any.whl,Dual License OSI Approved :: BSD License OSI Approved :: Apache Software License -File: LICENSE,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/pytz-2026.6-py2.py3-none-any.whl,MIT OSI Approved :: MIT License -File: LICENSE.txt,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/scipy-1.7.3-cp37-cp37m-win_amd64.whl,BSD OSI Approved :: BSD License -File: LICENSE.txt -File: LICENSES_bundled.txt,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/seaborn-0.12.2-py3-none-any.whl,OSI Approved :: BSD License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/setuptools-68.0.0-py3-none-any.whl,OSI Approved :: MIT License -File: LICENSE,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/six-1.17.0-py2.py3-none-any.whl,MIT OSI Approved :: MIT License -File: LICENSE,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/tensorboard-1.15.0-py3-none-any.whl,Apache 2.0 OSI Approved :: Apache Software License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/tensorflow-1.15.5-cp37-cp37m-win_amd64.whl,Apache 2.0 OSI Approved :: Apache Software License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/tensorflow_estimator-1.15.1-py2.py3-none-any.whl,Apache 2.0 OSI Approved :: Apache Software License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/termcolor-2.3.0-py3-none-any.whl,MIT -File: COPYING.txt OSI Approved :: MIT License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/tqdm-4.68.2-py3-none-any.whl,MPL-2.0 AND MIT -File: LICENCE,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/typing_extensions-4.7.1-py3-none-any.whl,OSI Approved :: Python Software Foundation License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/tzdata-2026.6-py2.py3-none-any.whl,Apache-2.0 -File: LICENSE -File: licenses/LICENSE_APACHE,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/wheel-0.42.0-py3-none-any.whl,OSI Approved :: MIT License,windows_py37,
+projects_13/envs/windows_py37/wheelhouse/wrapt-1.16.0-cp37-cp37m-win_amd64.whl,"BSD
+ OSI Approved :: BSD License
+ -File: LICENSE
+",windows_py37,
+projects_13/envs/windows_py37/wheelhouse/zipp-3.15.0-py3-none-any.whl,OSI Approved :: MIT License -File: LICENSE,windows_py37,
+projects_13/envs/windows_py310/wheelhouse/PySocks-1.7.1-py3-none-any.whl,BSD,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/absl_py-2.5.1-py3-none-any.whl,Apache-2.0 -File: AUTHORS -File: LICENSE OSI Approved :: Apache Software License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/annotated_doc-0.0.5-py3-none-any.whl,MIT -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/annotated_types-0.8.0-py3-none-any.whl,MIT -File: LICENSE OSI Approved :: MIT License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/anyio-4.16.0-py3-none-any.whl,MIT -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/beautifulsoup4-4.15.0-py3-none-any.whl,MIT License -File: AUTHORS -File: LICENSE OSI Approved :: MIT License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/certifi-2026.10.23-py3-none-any.whl,MPL-2.0 OSI Approved :: Mozilla Public License 2.0 (MPL 2.0) -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/charset_normalizer-3.5.2-cp310-cp310-win_amd64.whl,"MIT
+ -File: LICENSE
+",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/click-8.5.0-py3-none-any.whl,BSD-3-Clause -File: LICENSE.txt,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/cloudpickle-3.1.2-py3-none-any.whl,BSD-3-Clause OSI Approved :: BSD License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/colorama-0.4.6-py2.py3-none-any.whl,-File: LICENSE.txt OSI Approved :: BSD License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/commonmark-0.9.2-py2.py3-none-any.whl,BSD-3-Clause OSI Approved :: BSD License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/contourpy-1.3.2-cp310-cp310-win_amd64.whl,BSD 3-Clause License OSI Approved :: BSD License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/cwevals-0.0.1b1-py3-none-any.whl,Apache-2.0 OSI Approved :: Apache Software License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/cycler-0.12.1-py3-none-any.whl,"Copyright (c) 2015, matplotlib project OSI Approved :: BSD License -File: LICENSE",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/d3rlpy-2.8.1-py3-none-any.whl,MIT License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/dataclasses_json-0.6.7-py3-none-any.whl,MIT OSI Approved :: MIT License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/decorator-5.3.1-py3-none-any.whl,BSD-2-Clause -File: LICENSE.txt,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/distro-1.9.0-py3-none-any.whl,"Apache License, Version 2.0 OSI Approved :: Apache Software License -File: LICENSE",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/docstring_parser-0.18.0-py3-none-any.whl,MIT -File: LICENSE.md OSI Approved :: MIT License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/exceptiongroup-1.3.1-py3-none-any.whl,OSI Approved :: MIT License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/farama_notifications-0.0.6-py3-none-any.whl,OSI Approved :: MIT License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/filelock-4.1.0-py3-none-any.whl,MIT -File: LICENSE OSI Approved :: MIT License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/fonttools-4.65.0-cp310-cp310-win_amd64.whl,"MIT
+ -File: LICENSE
+ -File: LICENSE.external
+",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/fsspec-2026.9.0-py3-none-any.whl,BSD-3-Clause -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/gdown-6.5.1-py3-none-any.whl,MIT -File: LICENSE OSI Approved :: MIT License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/glfw-2.11.0-py2.py3-none-win_amd64.whl,MIT OSI Approved :: MIT License -File: LICENSE.txt,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/googleapis_common_protos-1.76.0-py3-none-any.whl,Apache-2.0 -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/grpcio-1.85.1-cp310-cp310-win_amd64.whl,"Apache-2.0
+ -File: LICENSE
+",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/gymnasium-0.28.1-py3-none-any.whl,MIT License OSI Approved :: MIT License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/gymnasium-0.29.1-py3-none-any.whl,MIT License OSI Approved :: MIT License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/gymnasium-1.0.0-py3-none-any.whl,MIT License OSI Approved :: MIT License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/gymnasium-1.4.0-py3-none-any.whl,MIT License OSI Approved :: MIT License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/h11-0.16.0-py3-none-any.whl,MIT OSI Approved :: MIT License -File: LICENSE.txt,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/h5py-3.16.0-cp310-cp310-win_amd64.whl,"BSD-3-Clause
+ -File: LICENSE
+ -File: lzf/LICENSE.txt
+ -File: licenses/hdf5.txt
+ -File: licenses/license.txt
+ -File: licenses/pytables.txt
+ -File: licenses/pytho",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/hf_xet-1.8.0-cp38-abi3-win_amd64.whl,OSI Approved :: Apache Software License -File: LICENSE Apache-2.0,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/hoptorch-0.1.4-py3-none-any.whl,MIT -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/httpcore-1.0.9-py3-none-any.whl,BSD-3-Clause -File: LICENSE.md OSI Approved :: BSD License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/httpcore2-2.14.0-py3-none-any.whl,BSD-3-Clause -File: LICENSE.md OSI Approved :: BSD License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/httpx-0.28.1-py3-none-any.whl,BSD-3-Clause OSI Approved :: BSD License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/httpx2-2.14.0-py3-none-any.whl,BSD-3-Clause -File: LICENSE.md OSI Approved :: BSD License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/huggingface_hub-2.4.0-py3-none-any.whl,Apache-2.0 OSI Approved :: Apache Software License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/idna-3.20-py3-none-any.whl,BSD-3-Clause -File: LICENSE.md,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/imageio-2.38.0-py3-none-any.whl,BSD-2-Clause -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/imageio_ffmpeg-0.8.1-py3-none-win_amd64.whl,BSD-2-Clause OSI Approved :: BSD License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/importlib_metadata-9.0.1-py3-none-any.whl,Apache-2.0 -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/jax_jumpy-1.0.0-py3-none-any.whl,Apache License OSI Approved :: Apache Software License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/jinja2-3.1.6-py3-none-any.whl,OSI Approved :: BSD License -File: LICENSE.txt,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/joblib-1.6.0-py3-none-any.whl,BSD-3-Clause -File: LICENSE.txt,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/kiwisolver-1.5.1-cp310-cp310-win_amd64.whl,"=========================
+ OSI Approved :: BSD License
+ -File: LICENSE
+",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/markdown-3.10.3-py3-none-any.whl,BSD-3-Clause -File: LICENSE.md,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/markdown_it_py-4.2.0-py3-none-any.whl,OSI Approved :: MIT License -File: LICENSE -File: LICENSE.markdown-it,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/markupsafe-3.0.4-cp310-cp310-win_amd64.whl,"BSD-3-Clause
+ -File: LICENSE.txt
+",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/marshmallow-3.26.2-py3-none-any.whl,OSI Approved :: MIT License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/matplotlib-3.10.9-cp310-cp310-win_amd64.whl,License agreement for matplotlib versions 1.3.0 and later OSI Approved :: Python Software Foundation License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/mdurl-0.1.2-py3-none-any.whl,OSI Approved :: MIT License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/moviepy-2.2.1-py3-none-any.whl,MIT License OSI Approved :: MIT License -File: LICENCE.txt,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/mpmath-1.3.0-py3-none-any.whl,BSD OSI Approved :: BSD License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/mujoco-2.3.0-cp310-cp310-win_amd64.whl,Apache License 2.0 OSI Approved :: Apache Software License -File: LICENSE -File: LICENSES_THIRD_PARTY.md,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/mypy_extensions-1.2.0-py3-none-any.whl,MIT -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/networkx-3.4.2-py3-none-any.whl,OSI Approved :: BSD License -File: LICENSE.txt,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/numpy-1.26.4-cp310-cp310-win_amd64.whl,"Copyright (c) 2005-2023, NumPy Developers. OSI Approved :: BSD License",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/numpy-2.2.6-cp310-cp310-win_amd64.whl,"Copyright (c) 2005-2024, NumPy Developers. OSI Approved :: BSD License",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/omnisafe-0.5.0-py3-none-any.whl,"Apache License, Version 2.0 OSI Approved :: Apache Software License -File: LICENSE",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/opentelemetry_api-1.45.2-py3-none-any.whl,Apache-2.0 -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/opentelemetry_exporter_http_transport-0.66b2-py3-none-any.whl,Apache-2.0 -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/opentelemetry_exporter_otlp_common-0.66b2-py3-none-any.whl,Apache-2.0 -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/opentelemetry_exporter_otlp_proto_common-1.45.2-py3-none-any.whl,Apache-2.0 -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/opentelemetry_exporter_otlp_proto_http-1.45.2-py3-none-any.whl,Apache-2.0 -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/opentelemetry_proto-1.45.2-py3-none-any.whl,Apache-2.0 -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/opentelemetry_sdk-1.45.2-py3-none-any.whl,Apache-2.0 -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/opentelemetry_semantic_conventions-0.66b2-py3-none-any.whl,Apache-2.0 -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/orjson-3.13.0-cp310-cp310-win_amd64.whl,OSI Approved :: Apache Software License OSI Approved :: MIT License OSI Approved :: Mozilla Public License 2.0 (MPL 2.0) -File: LICENSE-APACHE -File: LICENSE-MI,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/packaging-26.3-py3-none-any.whl,Apache-2.0 OR BSD-2-Clause -File: LICENSE -File: LICENSE.APACHE -File: LICENSE.BSD,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/pandas-2.0.3-cp310-cp310-win_amd64.whl,"BSD 3-Clause License
+ OSI Approved :: BSD License
+ -File: LICENSE
+ -File: AUTHORS.md
+",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/pandas-2.3.3-cp310-cp310-win_amd64.whl,BSD 3-Clause License OSI Approved :: BSD License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/pillow-11.3.0-cp310-cp310-win_amd64.whl,"MIT-CMU
+ -File: LICENSE
+",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/platformdirs-4.12.4-py3-none-any.whl,MIT -File: LICENSE OSI Approved :: MIT License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/proglog-0.1.12-py3-none-any.whl,MIT -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/protobuf-7.36.2-cp310-abi3-win_amd64.whl,3-Clause BSD License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/pydantic-2.14.2-py3-none-any.whl,MIT -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/pydantic_core-2.50.2-cp310-cp310-win_amd64.whl,-File: LICENSE MIT,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/pygame-2.1.0-cp310-cp310-win_amd64.whl,LGPL OSI Approved :: GNU Library or Lesser General Public License (LGPL),windows_py310,
+projects_13/envs/windows_py310/wheelhouse/pygame-2.6.1-cp310-cp310-win_amd64.whl,"LGPL
+ OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+ 
+",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/pygments-2.21.0-py3-none-any.whl,BSD-2-Clause -File: AUTHORS -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/pyopengl-3.1.10-py3-none-any.whl,OSI Approved :: BSD License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/pyparsing-3.3.3-py3-none-any.whl,MIT -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/pypdf-6.21.4-py3-none-any.whl,BSD-3-Clause -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/pyrallis-0.3.1-py3-none-any.whl,UNKNOWN OSI Approved :: MIT License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/python_dateutil-3.0.0-py2.py3-none-any.whl,Dual License OSI Approved :: BSD License OSI Approved :: Apache Software License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/python_dotenv-1.2.4-py3-none-any.whl,BSD-3-Clause -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/pytz-2026.6-py2.py3-none-any.whl,MIT OSI Approved :: MIT License -File: LICENSE.txt,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/pyvers-0.2.3-py3-none-any.whl,MIT -File: LICENSE OSI Approved :: MIT License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/pyyaml-6.0.3-cp310-cp310-win_amd64.whl,"MIT
+ OSI Approved :: MIT License
+ -File: LICENSE
+",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/requests-2.34.2-py3-none-any.whl,Apache-2.0 OSI Approved :: Apache Software License -File: LICENSE -File: NOTICE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/rich-11.2.0-py3-none-any.whl,MIT OSI Approved :: MIT License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/rich-15.0.0-py3-none-any.whl,MIT -File: LICENSE OSI Approved :: MIT License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/safety_gymnasium-0.4.1-py3-none-any.whl,"Apache License, Version 2.0 OSI Approved :: Apache Software License -File: LICENSE",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/scikit_learn-1.7.2-cp310-cp310-win_amd64.whl,BSD-3-Clause -File: COPYING,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/scipy-1.15.3-cp310-cp310-win_amd64.whl,"Copyright (c) 2001-2002 Enthought, Inc. 2003-2024, SciPy Developers. OSI Approved :: BSD License",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/seaborn-0.13.2-py3-none-any.whl,OSI Approved :: BSD License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/setuptools-80.10.2-py3-none-any.whl,MIT -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/setuptools-81.0.0-py3-none-any.whl,MIT -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/shellingham-1.5.4-py2.py3-none-any.whl,ISC License OSI Approved :: ISC License (ISCL) -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/six-1.17.0-py2.py3-none-any.whl,MIT OSI Approved :: MIT License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/sniffio-1.3.1-py3-none-any.whl,"MIT OR Apache-2.0
+ OSI Approved :: MIT License
+ OSI Approved :: Apache Software License
+ -File: LICENSE
+ -File: LICENSE.APACHE2
+ -File: LICENSE.MIT
+",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/soupsieve-2.10-py3-none-any.whl,MIT -File: LICENSE.md OSI Approved :: MIT License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/stable_baselines3-2.9.2-py3-none-any.whl,MIT -File: LICENSE -File: NOTICE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/structlog-26.1.0-py3-none-any.whl,MIT OR Apache-2.0 -File: LICENSE-APACHE -File: LICENSE-MIT -File: NOTICE OSI Approved :: Apache Software License OSI Approved :: MIT License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/sympy-1.14.0-py3-none-any.whl,BSD OSI Approved :: BSD License -File: LICENSE -File: AUTHORS,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/tenacity-9.2.1-py3-none-any.whl,Apache-2.0 -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/tensorboard-2.21.0-py3-none-any.whl,Apache 2.0 OSI Approved :: Apache Software License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/tensorboard_data_server-0.7.2-py3-none-any.whl,Apache 2.0 OSI Approved :: Apache Software License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/tensordict-0.14.3-cp310-cp310-win_amd64.whl,"BSD
+ -File: LICENSE
+",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/termcolor-3.3.0-py3-none-any.whl,MIT -File: COPYING.txt,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/threadpoolctl-3.7.0-py3-none-any.whl,BSD-3-Clause -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/tomli-2.5.0-py3-none-any.whl,MIT -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/torchrl-0.14.0-cp310-cp310-win_amd64.whl,MIT (project LICENSE),windows_py310,
+projects_13/envs/windows_py310/wheelhouse/tqdm-4.70.1-py3-none-any.whl,MPL-2.0 AND MIT -File: LICENCE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/truststore-0.10.5-py3-none-any.whl,MIT -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/typeguard-4.6.0-py3-none-any.whl,MIT -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/typer-0.27.3-py3-none-any.whl,MIT -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/typing_extensions-4.16.0-py3-none-any.whl,PSF-2.0 -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/typing_inspect-0.9.0-py3-none-any.whl,MIT OSI Approved :: MIT License -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/typing_inspection-0.4.5-py3-none-any.whl,MIT -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/tyro-1.0.17-py3-none-any.whl,MIT -File: LICENSE OSI Approved :: MIT License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/tzdata-2026.6-py2.py3-none-any.whl,Apache-2.0 -File: LICENSE -File: licenses/LICENSE_APACHE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/urllib3-2.8.0-py3-none-any.whl,MIT -File: LICENSE.txt,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/wandb-0.31.0-py3-none-win_amd64.whl,MIT License -File: LICENSE OSI Approved :: MIT License,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/werkzeug-3.1.9-py3-none-any.whl,BSD-3-Clause -File: LICENSE.txt,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/xmltodict-1.0.4-py3-none-any.whl,MIT -File: LICENSE,windows_py310,
+projects_13/envs/windows_py310/wheelhouse/xxhash-4.0.2-cp310-cp310-win_amd64.whl,"BSD-2-Clause
+ -File: LICENSE
+ d under `BSD 2-Clause License <http://opensource.org/licenses/BSD-2-Clause>`_
+",windows_py310,
+projects_13/envs/windows_py310/wheelhouse/zipp-4.1.2-py3-none-any.whl,MIT -File: LICENSE,windows_py310,
+projects_13/envs/windows_py312/wheelhouse/absl_py-2.5.1-py3-none-any.whl,Apache-2.0 -File: AUTHORS -File: LICENSE OSI Approved :: Apache Software License,windows_py312,
+projects_13/envs/windows_py312/wheelhouse/attrs-26.1.0-py3-none-any.whl,MIT -File: LICENSE,windows_py312,
+projects_13/envs/windows_py312/wheelhouse/cloudpickle-3.1.2-py3-none-any.whl,BSD-3-Clause OSI Approved :: BSD License -File: LICENSE,windows_py312,
+projects_13/envs/windows_py312/wheelhouse/farama_notifications-0.0.6-py3-none-any.whl,OSI Approved :: MIT License -File: LICENSE,windows_py312,
+projects_13/envs/windows_py312/wheelhouse/gymnasium-1.4.0-py3-none-any.whl,MIT License OSI Approved :: MIT License -File: LICENSE,windows_py312,
+projects_13/envs/windows_py312/wheelhouse/ml_collections-1.1.0-py3-none-any.whl,OSI Approved :: Apache Software License -File: LICENSE,windows_py312,
+projects_13/envs/windows_py312/wheelhouse/numpy-2.5.4-cp312-cp312-win_amd64.whl,BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0 -File: LICENSE.txt -File: numpy/_core/include/numpy/libdivide/LICENSE.txt -File: numpy/_core/src/common/pytho,windows_py312,
+projects_13/envs/windows_py312/wheelhouse/open_spiel-2.0.2-cp312-cp312-win_amd64.whl,"Apache-2.0
+ -File: LICENSE
+",windows_py312,
+projects_13/envs/windows_py312/wheelhouse/pettingzoo-1.27.0-py3-none-any.whl,MIT License OSI Approved :: MIT License -File: LICENSE,windows_py312,
+projects_13/envs/windows_py312/wheelhouse/pyyaml-6.0.3-cp312-cp312-win_amd64.whl,"MIT
+ OSI Approved :: MIT License
+ -File: LICENSE
+",windows_py312,
+projects_13/envs/windows_py312/wheelhouse/scipy-1.18.1-cp312-cp312-win_amd64.whl,"Copyright (c) 2001-2002 Enthought, Inc. 2003, SciPy Developers. OSI Approved :: BSD License",windows_py312,
+projects_13/envs/windows_py312/wheelhouse/typing_extensions-4.16.0-py3-none-any.whl,PSF-2.0 -File: LICENSE,windows_py312,
+projects_13/source/DLR_RM_stable_baselines3_0cdcd20.tar.gz,MIT,source,
+projects_13/source/Farama_Gymnasium_c08564b.tar.gz,MIT,source,
+projects_13/source/Farama_Parkour_OmniSafe_15603dd.tar.gz,Apache-2.0,source,
+projects_13/source/Farama_PettingZoo_b0fe021.tar.gz,MIT,source,
+projects_13/source/JuliaPOMDP_POMDPs_jl_d970a36.tar.gz,MIT,source,
+projects_13/source/algorithmsbooks_decisionmaking_24b4526.tar.gz.url,NO_LICENSE_DECLARED,url_placeholder,repository declares no licence
+projects_13/source/deepmind_open_spiel_1684979.tar.gz,Apache-2.0,source,
+projects_13/source/openai_spinningup_038665d.tar.gz,MIT,source,
+projects_13/source/pytorch_rl_torchrl_fd8b9d4.tar.gz,MIT,source,
+projects_13/source/sawcordwell_pymdptoolbox_7c96789.tar.gz,BSD-3-Clause,source,
+projects_13/source/takuseno_d3rlpy_38c34b6.tar.gz,MIT,source,
+projects_13/source/tinkoff_CORL_eeeeef2.tar.gz,Apache-2.0,source,
+projects_13/source/vwxyzjn_cleanrl_fe8d8a0.tar.gz,MIT,source,
+projects_13/sdist_needs_build/d4rl_db6e4b3.tar.gz,Apache-2.0,sdist,
+projects_13/sdist_needs_build/gast-0.2.2.tar.gz,BSD 3-Clause,sdist,
+projects_13/sdist_needs_build/gym-0.15.7.tar.gz.url,NOT_DECLARED,url_placeholder,licence not declared
+projects_13/sdist_needs_build/gym-0.23.0.tar.gz,MIT,sdist,
+projects_13/sdist_needs_build/gym-0.23.1.tar.gz,MIT,sdist,
+projects_13/sdist_needs_build/gym-0.26.2.tar.gz,MIT,sdist,

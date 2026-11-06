@@ -1,0 +1,20 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "CORL offline RL reference implementations (official snapshot)",
+ "files": [
+  {
+   "path": "projects/tinkoff_CORL_en",
+   "url": "https://github.com/corl-team/CORL",
+   "commit": "eeeeef2671235fcce3a3eb255576a207d78840e6",
+   "files": 525,
+   "archive_sha256": "6c70ed82324f974cbdf5315edd5b59108bbddebc618913052a165601ab6ce136",
+   "bytes": 3462803
+  }
+ ],
+ "commit": "eeeeef2671235fcce3a3eb255576a207d78840e6",
+ "license_files": [
+  "LICENSE"
+ ],
+ "note": "官方仓库快照 commit eeeeef267123：归档 zip 完整性通过，解压 525 个文件（0 个 notebook）；应有文件已见 ['algorithms/', 'LICENSE', 'README.md']；许可证文件 ['LICENSE']；未发现 LFS 指针文件"
+}

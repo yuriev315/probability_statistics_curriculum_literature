@@ -1,0 +1,7 @@
+absl-py==2.5.1
+attrs==26.1.0
+ml-collections==1.1.0
+numpy==2.5.4
+open-spiel==2.0.2
+pyyaml==6.0.3
+scipy==1.18.1

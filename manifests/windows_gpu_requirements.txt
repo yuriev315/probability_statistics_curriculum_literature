@@ -1,0 +1,2 @@
+# GPU environments were not prepared. CPU tests work; GPU torch wheels exceed the 100 MiB download limit.
+# CUDA builds: https://download.pytorch.org/whl/torch/

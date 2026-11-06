@@ -1,0 +1,22 @@
+{
+ "id": "2112.07544",
+ "title": "Modeling Strong and Human-Like Gameplay with KL-Regularized Search",
+ "authors": [
+  "Athul Paul Jacob",
+  "David J. Wu",
+  "Gabriele Farina",
+  "Adam Lerer",
+  "Hengyuan Hu",
+  "Anton Bakhtin",
+  "Jacob Andreas",
+  "Noam Brown"
+ ],
+ "v1_date": "2021-12-14",
+ "latest_version": 2,
+ "latest_date": "2022-02-17",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We consider the task of building strong but human-like policies in multi-agent decision-making problems, given examples of human behavior. Imitation learning is effective at predicting human actions but may not match the strength of expert humans, while self-play learning and search techniques (e.g. AlphaZero) lead to strong performance but may produce policies that are difficult for humans to understand and coordinate with. We show in chess and Go that regularizing search based on the KL divergence from an imitation-learned policy results in higher human prediction accuracy and stronger performance than imitation learning alone. We then introduce a novel regret minimization algorithm that is regularized based on the KL divergence from an imitation-learned policy, and show that using this algorithm for search in no-press Diplomacy yields a policy that matches the human prediction accuracy of imitation learning while being substantially stronger.",
+ "primary": "cs.MA"
+}

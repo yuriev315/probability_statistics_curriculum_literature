@@ -1,0 +1,16 @@
+{
+ "id": "2206.08881",
+ "title": "Logic-based Reward Shaping for Multi-Agent Reinforcement Learning",
+ "authors": [
+  "Ingy ElSayed-Aly",
+  "Lu Feng"
+ ],
+ "v1_date": "2022-06-17",
+ "latest_version": 1,
+ "latest_date": "2022-06-17",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "10 pages, technical report",
+ "abstract": "Reinforcement learning (RL) relies heavily on exploration to learn from its environment and maximize observed rewards. Therefore, it is essential to design a reward function that guarantees optimal learning from the received experience. Previous work has combined automata and logic based reward shaping with environment assumptions to provide an automatic mechanism to synthesize the reward function based on the task. However, there is limited work on how to expand logic-based reward shaping to Multi-Agent Reinforcement Learning (MARL). The environment will need to consider the joint state in order to keep track of other agents if the task requires cooperation, thus suffering from the curse of dimensionality with respect to the number of agents. This project explores how logic-based reward shaping for MARL can be designed for different scenarios and tasks. We present a novel method for semi-centralized logic-based MARL reward shaping that is scalable in the number of agents and evaluate it in multiple scenarios.",
+ "primary": "cs.AI"
+}

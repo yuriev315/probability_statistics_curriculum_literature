@@ -1,0 +1,16 @@
+{
+ "id": "2204.05969",
+ "title": "Efficient Construction of the BWT for Repetitive Text Using String Compression",
+ "authors": [
+  "Diego Díaz-Domínguez",
+  "Gonzalo Navarro"
+ ],
+ "v1_date": "2022-04-12",
+ "latest_version": 2,
+ "latest_date": "2023-08-14",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "Under peer review",
+ "abstract": "We present a new semi-external algorithm that builds the Burrows--Wheeler transform variant of Bauer et al. (a.k.a., BCR BWT) in linear expected time. Our method uses compression techniques to reduce computational costs when the input is massive and repetitive. Concretely, we build on induced suffix sorting (ISS) and resort to run-length and grammar compression to maintain our intermediate results in compact form. Our compression format not only saves space but also speeds up the required computations. Our experiments show important space and computation time savings when the text is repetitive. In moderate-size collections of real human genome assemblies (14.2 GB - 75.05 GB), our memory peak is, on average, 1.7x smaller than the peak of the state-of-the-art BCR BWT construction algorithm (\\texttt{ropebwt2}), while running 5x faster. Our current implementation was also able to compute the BCR BWT of 400 real human genome assemblies (1.2 TB) in 41.21 hours using 118.83 GB of working memory (around 10\\% of the input size). Interestingly, the results we report in the 1.2 TB file are dominated by the difficulties of scanning huge files under memory constraints (specifically, I/O operations). This fact indicates we can perform much better with a more careful implementation of our method, thus scaling to even bigger sizes efficiently.",
+ "primary": "cs.DS"
+}

@@ -1,0 +1,16 @@
+{
+ "id": "1912.09484",
+ "title": "Zeroth-order Stochastic Compositional Algorithms for Risk-Aware Learning",
+ "authors": [
+  "Dionysios S. Kalogerias",
+  "Warren B. Powell"
+ ],
+ "v1_date": "2019-12-19",
+ "latest_version": 2,
+ "latest_date": "2021-12-13",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "31 pages, major revision of the first version",
+ "abstract": "We present $\\textit{Free-MESSAGE}^{p}$, the first zeroth-order algorithm for (weakly-)convex mean-semideviation-based risk-aware learning, which is also the first three-level zeroth-order compositional stochastic optimization algorithm whatsoever. Using a non-trivial extension of Nesterov's classical results on Gaussian smoothing, we develop the $\\textit{Free-MESSAGE}^{p}$ algorithm from first principles, and show that it essentially solves a smoothed surrogate to the original problem, the former being a uniform approximation of the latter, in a useful, convenient sense. We then present a complete analysis of the $\\textit{Free-MESSAGE}^{p}$ algorithm, which establishes convergence in a user-tunable neighborhood of the optimal solutions of the original problem for convex costs, as well as explicit convergence rates for convex, weakly convex, and strongly convex costs, and in a unified way. Orderwise, and for fixed problem parameters, our results demonstrate no sacrifice in convergence speed as compared to existing first-order methods, while striking a certain balance among the condition of the problem, its dimensionality, as well as the accuracy of the obtained results, naturally extending previous results in zeroth-order risk-neutral learning.",
+ "primary": "math.OC"
+}

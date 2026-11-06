@@ -1,0 +1,58 @@
+{
+ "url:https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a.pdf": {
+  "status": "ok",
+  "pdf": "https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 49 页、157133 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 49,
+  "chars": 157133,
+  "sha256": "e81cb05ad2f8ca73073e1aa16f153068fe25069965abe53512a2ab672e19c862",
+  "bytes": 523410,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "07_partial_observability/papers/1996_Kaelbling_ReinforcementLearning_en.pdf"
+ },
+ "arxiv:1507.06527": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1507.06527v4",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 7 页、31461 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 7,
+  "chars": 31461,
+  "sha256": "f316b46c472f8a8a010820c58ce809cc519247fd22857c9a203578622bf4b968",
+  "bytes": 843143,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "07_partial_observability/papers/2015_Hausknecht_DeepRecurrentQLearning_en.pdf"
+ },
+ "arxiv:1806.02426": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1806.02426v1",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 17 页、53884 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 17,
+  "chars": 53884,
+  "sha256": "040cff8858c4247bff37cc7a2eaeca69f3cc3119f4f3d77a291ebbcb25edad9d",
+  "bytes": 3130835,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "07_partial_observability/papers/2018_Igl_DeepVariationalReinforcementLearning_en.pdf"
+ },
+ "arxiv:2110.05038": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/2110.05038v3",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 33 页、101650 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 33,
+  "chars": 101650,
+  "sha256": "9086edbe748f53c609f3a6f675b58a8b095c3499336c1f6fb4b6c6d54454d1f0",
+  "bytes": 12623506,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "07_partial_observability/papers/2021_Ni_RecurrentModelFreeRL_en.pdf"
+ }
+}

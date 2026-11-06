@@ -1,0 +1,19 @@
+{
+ "id": "2210.07105",
+ "title": "CORL: Research-oriented Deep Offline Reinforcement Learning Library",
+ "authors": [
+  "Denis Tarasov",
+  "Alexander Nikulin",
+  "Dmitry Akimov",
+  "Vladislav Kurenkov",
+  "Sergey Kolesnikov"
+ ],
+ "v1_date": "2022-10-13",
+ "latest_version": 4,
+ "latest_date": "2023-10-26",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "Conference on Neural Information Processing Systems (NeurIPS 2023) Track on Datasets and Benchmarks. Source code at https://github.com/corl-team/CORL",
+ "abstract": "CORL is an open-source library that provides thoroughly benchmarked single-file implementations of both deep offline and offline-to-online reinforcement learning algorithms. It emphasizes a simple developing experience with a straightforward codebase and a modern analysis tracking tool. In CORL, we isolate methods implementation into separate single files, making performance-relevant details easier to recognize. Additionally, an experiment tracking feature is available to help log metrics, hyperparameters, dependencies, and more to the cloud. Finally, we have ensured the reliability of the implementations by benchmarking commonly employed D4RL datasets providing a transparent source of results that can be reused for robust evaluation tools such as performance profiles, probability of improvement, or expected online performance.",
+ "primary": "cs.LG"
+}

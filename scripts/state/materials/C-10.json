@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "courses",
+ "title": "Underactuated Robotics (Russ Tedrake online notes)",
+ "files": [
+  {
+   "path": "courses/Tedrake_UnderactuatedRobotics_notes_html_en",
+   "url": "https://underactuated.csail.mit.edu/",
+   "html_pages": 11,
+   "files": 78,
+   "bytes": 27371798
+  }
+ ],
+ "note": "官方 HTML，11 个页面全部 HTTP 200 且正文 ≥ 600 字符；wget 离线保存（页面资源、链接改写），共 78 个文件；页面清单 PAGES_en.txt"
+}

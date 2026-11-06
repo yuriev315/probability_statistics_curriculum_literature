@@ -1,0 +1,54 @@
+[
+ {
+  "pdf_url": "http://incompleteideas.net/papers/sutton-88-with-erratum.pdf",
+  "title": "Learning to Predict by the Methods of Temporal Differences",
+  "authors": [
+   "Richard S. Sutton"
+  ],
+  "date": "1988-08-01",
+  "date_basis": "Machine Learning 3:9–44 (1988)",
+  "venue": "Machine Learning",
+  "landing": "http://incompleteideas.net/papers/sutton-88-td.pdf",
+  "subtopic": "时序差分与条件期望",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "classic_reason": "TD 方法奠基论文。",
+  "reason": "条件期望形式的价值更新，是 MDP 无模型预测的起点。",
+  "summary": "用 TD 误差估计未来回报的条件期望，给出 TD(λ)。",
+  "summary_basis": "原文扉页/摘要"
+ },
+ {
+  "arxiv": "1811.12560",
+  "subtopic": "深度强化学习导论",
+  "type": "综述",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "把 MDP、DP、无模型与深度函数逼近串成阅读路径，不替代教材。",
+  "summary": "MDP 形式、价值/策略方法、深度 RL 与稳定性。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2018 系统导论。"
+ },
+ {
+  "arxiv": "1907.05388",
+  "subtopic": "线性函数逼近可证明效率",
+  "type": "原始研究论文",
+  "level": "博士",
+  "difficulty": "高级",
+  "reason": "线性 MDP、占用与探索代价的理论入口。",
+  "summary": "线性函数逼近下可证明样本效率的 RL。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "NeurIPS 2019 主会。"
+ },
+ {
+  "arxiv": "1908.00261",
+  "subtopic": "策略梯度在 MDP 中的理论",
+  "type": "原始研究论文",
+  "level": "博士",
+  "difficulty": "高级",
+  "reason": "策略梯度的最优性、逼近与分布偏移，连接核心 MDP 与策略优化。",
+  "summary": "策略梯度方法的最优性条件与逼近误差。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2019 策略梯度理论代表。"
+ }
+]

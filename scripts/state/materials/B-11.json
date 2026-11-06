@@ -1,0 +1,16 @@
+{
+ "status": "verified",
+ "set": "books",
+ "title": "Convex Optimization",
+ "files": [
+  {
+   "path": "books/BoydVandenberghe_ConvexOptimization_2004_en.pdf",
+   "copied_from": "/root/signal_processing_literature/books/BoydVandenberghe_ConvexOptimization_2004_en.pdf",
+   "pages": 714,
+   "sha256": "40d976c83c18cce1900eff8c41bd5ad408c102b813af39d05ff85678ccf8d76e",
+   "bytes": 6881335
+  }
+ ],
+ "reuse": true,
+ "note": "已有复用：复制自 signal_processing_literature B-14，本库重新核验：%PDF；pypdf 可解析 714 页；名称短语已见"
+}

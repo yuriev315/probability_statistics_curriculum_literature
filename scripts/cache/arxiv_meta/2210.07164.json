@@ -1,0 +1,19 @@
+{
+ "id": "2210.07164",
+ "title": "Surrogate Modeling-Driven Physics-Informed Multi-fidelity Kriging: Path Forward to Digital Twin Enabling Simulation for Accident Tolerant Fuel",
+ "authors": [
+  "Kazuma Kobayashi",
+  "James Daniell",
+  "Shoaib Usman",
+  "Dinesh Kumar",
+  "Syed Alam"
+ ],
+ "v1_date": "2022-10-13",
+ "latest_version": 2,
+ "latest_date": "2022-11-04",
+ "journal_ref": "Handbook of Smart Energy Systems, 2022",
+ "doi": "",
+ "comment": "",
+ "abstract": "The Gaussian Process (GP)-based surrogate model has the inherent capability of capturing the anomaly arising from limited data, lack of data, missing data, and data inconsistencies (noisy/erroneous data) present in the modeling and simulation component of the digital twin framework, specifically for the accident tolerant fuel (ATF) concepts. However, GP will not be very accurate when we have limited high-fidelity (experimental) data. In addition, it is challenging to apply higher dimensional functions (>20-dimensional function) to approximate predictions with the GP. Furthermore, noisy data or data containing erroneous observations and outliers are major challenges for advanced ATF concepts. Also, the governing differential equation is empirical for longer-term ATF candidates, and data availability is an issue. Physics-informed multi-fidelity Kriging (MFK) can be useful for identifying and predicting the required material properties. MFK is particularly useful with low-fidelity physics (approximating physics) and limited high-fidelity data - which is the case for ATF candidates since there is limited data availability. This chapter explores the method and presents its application to experimental thermal conductivity measurement data for ATF. The MFK method showed its significance for a small number of data that could not be modeled by the conventional Kriging method. Mathematical models constructed with this method can be easily connected to later-stage analysis such as uncertainty quantification and sensitivity analysis and are expected to be applied to fundamental research and a wide range of product development fields. The overarching objective of this chapter is to show the capability of MFK surrogates that can be embedded in a digital twin system for ATF.",
+ "primary": "stat.CO"
+}

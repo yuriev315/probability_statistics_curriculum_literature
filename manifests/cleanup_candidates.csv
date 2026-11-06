@@ -1,0 +1,4 @@
+﻿path,files,size_bytes,reason,suggested_action
+state/,15,949597,采集和测试记录；运行项目不需要,建议保留以便追溯
+logs/,0,0,运行日志；运行项目不需要,建议保留以便追溯
+tools/,8,56665,采集和测试脚本；运行项目不需要,建议保留以便追溯

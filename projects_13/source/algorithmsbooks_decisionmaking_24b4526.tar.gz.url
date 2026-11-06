@@ -1,0 +1,12 @@
+[InternetShortcut]
+URL=https://codeload.github.com/algorithmsbooks/decisionmaking/tar.gz/24b4526adaaf5d88b859d3d34050cfdab49017d7
+[Resource]
+STATUS=URL_PLACEHOLDER_LICENSE_NOT_DECLARED
+FILENAME=algorithmsbooks_decisionmaking_24b4526.tar.gz
+EXPECTED_SIZE_BYTES=2656
+REVISION=24b4526adaaf5d88b859d3d34050cfdab49017d7
+SHA256=7d6ca7c94d16c87b063cfcfcd71315e752cbc9737b2f860c793b4363f8dca78e
+LICENSE=not declared
+PURPOSE=project source
+DOWNLOAD=Open the URL, or: curl -L -C - -o <FILENAME> <URL>; compare SHA256
+NOTE=仓库未声明许可证（只有 README）；只提供官方链接

@@ -1,0 +1,17 @@
+[InternetShortcut]
+URL=https://julialang-s3.julialang.org/bin/winnt/x64/1.13/julia-1.13.3-win64.exe
+[Resource]
+STATUS=EXCLUDED_OVER_100MIB_URL_PLACEHOLDER
+ORIGINAL_URL=https://julialang-s3.julialang.org/bin/winnt/x64/1.13/julia-1.13.3-win64.exe
+FILENAME=julia-1.13.3-win64.exe
+EXPECTED_SIZE_BYTES=171753712
+REVISION=1.13.3
+SHA256=3928c7d1a908eb4797f9ca064cf62757fc49198360ee8251f4a6df9f35c6f9ad
+LICENSE=MIT
+PURPOSE=Julia for POMDPs.jl
+DOWNLOAD=Open the URL, or: curl -L -C - -o <FILENAME> <URL>; compare SHA256 if recorded
+NOTE=Over the 100 MiB per-file download limit. Not split.
+URL_CHECK=VALID
+URL_CHECK_HTTP=206
+URL_CHECK_REPORTED_SIZE=171753712
+URL_CHECK_TIME=2026-11-04T23:40:39Z

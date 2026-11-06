@@ -1,0 +1,20 @@
+{
+ "id": "2008.07931",
+ "title": "Motion Capture from Internet Videos",
+ "authors": [
+  "Junting Dong",
+  "Qing Shuai",
+  "Yuanqing Zhang",
+  "Xian Liu",
+  "Xiaowei Zhou",
+  "Hujun Bao"
+ ],
+ "v1_date": "2020-08-18",
+ "latest_version": 2,
+ "latest_date": "2020-08-19",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "ECCV 2020 (Oral), project page: https://zju3dv.github.io/iMoCap/",
+ "abstract": "Recent advances in image-based human pose estimation make it possible to capture 3D human motion from a single RGB video. However, the inherent depth ambiguity and self-occlusion in a single view prohibit the recovery of as high-quality motion as multi-view reconstruction. While multi-view videos are not common, the videos of a celebrity performing a specific action are usually abundant on the Internet. Even if these videos were recorded at different time instances, they would encode the same motion characteristics of the person. Therefore, we propose to capture human motion by jointly analyzing these Internet videos instead of using single videos separately. However, this new task poses many new challenges that cannot be addressed by existing methods, as the videos are unsynchronized, the camera viewpoints are unknown, the background scenes are different, and the human motions are not exactly the same among videos. To address these challenges, we propose a novel optimization-based framework and experimentally demonstrate its ability to recover much more precise and detailed motion from multiple videos, compared against monocular motion capture methods.",
+ "primary": "cs.CV"
+}

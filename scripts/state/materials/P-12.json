@@ -1,0 +1,18 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "Algorithms for Decision Making accompanying code (official snapshot)",
+ "files": [
+  {
+   "path": "projects/algorithmsbooks_decisionmaking_en",
+   "url": "https://github.com/algorithmsbooks/decisionmaking",
+   "commit": "24b4526adaaf5d88b859d3d34050cfdab49017d7",
+   "files": 2,
+   "archive_sha256": "9b97d2c8cb7846c1e35b8f4858d2bcc3b6e4f28f548d0e8a663fba37af6d4dbe",
+   "bytes": 2908
+  }
+ ],
+ "commit": "24b4526adaaf5d88b859d3d34050cfdab49017d7",
+ "license_files": [],
+ "note": "官方仓库快照 commit 24b4526adaaf：归档 zip 完整性通过，解压 2 个文件（0 个 notebook）；应有文件已见 ['README.md']；仓库根目录未见许可证文件；未发现 LFS 指针文件"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "1908.02252",
+ "title": "Classification of Hand Movements from EEG using a Deep Attention-based LSTM Network",
+ "authors": [
+  "Guangyi Zhang",
+  "Vandad Davoodnia",
+  "Alireza Sepas-Moghaddam",
+  "Yaoxue Zhang",
+  "Ali Etemad"
+ ],
+ "v1_date": "2019-08-06",
+ "latest_version": 2,
+ "latest_date": "2019-10-31",
+ "journal_ref": "",
+ "doi": "10.1109/jsen.2019.2956998",
+ "comment": "",
+ "abstract": "Classifying limb movements using brain activity is an important task in Brain-computer Interfaces (BCI) that has been successfully used in multiple application domains, ranging from human-computer interaction to medical and biomedical applications. This paper proposes a novel solution for classification of left/right hand movement by exploiting a Long Short-Term Memory (LSTM) network with attention mechanism to learn the electroencephalogram (EEG) time-series information. To this end, a wide range of time and frequency domain features are extracted from the EEG signals and used to train an LSTM network to perform the classification task. We conduct extensive experiments with the EEG Movement dataset and show that our proposed solution our method achieves improvements over several benchmarks and state-of-the-art methods in both intra-subject and cross-subject validation schemes. Moreover, we utilize the proposed framework to analyze the information as received by the sensors and monitor the activated regions of the brain by tracking EEG topography throughout the experiments.",
+ "primary": "cs.LG"
+}

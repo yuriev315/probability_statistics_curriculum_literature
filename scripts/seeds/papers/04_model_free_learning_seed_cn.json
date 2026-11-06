@@ -1,0 +1,56 @@
+[
+ {
+  "arxiv": "1312.5602",
+  "subtopic": "Q-learning 与深度函数逼近",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "无模型控制的深度函数逼近样板，需对照表格 Q 的收敛假设。",
+  "summary": "DQN：经验回放与目标网络。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2013/2015 DQN。"
+ },
+ {
+  "arxiv": "1509.06461",
+  "subtopic": "Double Q-learning",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "最大化偏差会破坏策略，是 Q-learning 实践必读。",
+  "summary": "Double DQN 降低过高估计。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2015 Double DQN。"
+ },
+ {
+  "arxiv": "2107.09645",
+  "subtopic": "图像观测无模型连续控制",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "数据增强下的无模型连续控制，强调实现细节。",
+  "summary": "DrQ-v2：视觉连续控制。",
+  "summary_basis": "arXiv 摘要与元数据"
+ },
+ {
+  "arxiv": "2101.05982",
+  "subtopic": "Q 函数集成",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "函数逼近下 Q 学习方差与过估计。",
+  "summary": "REDQ：随机集成 double Q。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2021-01，略早于窗口。"
+ },
+ {
+  "arxiv": "1509.02971",
+  "subtopic": "连续动作无模型控制",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "连续动作的确定性演员–评论家，对照离散 Q-learning。",
+  "summary": "DDPG。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2015 DDPG。ICLR/ICML 脉络。"
+ }
+]

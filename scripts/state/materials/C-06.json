@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "courses",
+ "title": "OpenAI Spinning Up in Deep RL (offline HTML)",
+ "files": [
+  {
+   "path": "courses/OpenAI_SpinningUp_DeepRL_html_en",
+   "url": "https://spinningup.openai.com/en/latest/",
+   "html_pages": 24,
+   "files": 334,
+   "bytes": 16305531
+  }
+ ],
+ "note": "官方 HTML，24 个页面全部 HTTP 200 且正文 ≥ 800 字符；wget 离线保存（页面资源、链接改写），共 334 个文件；页面清单 PAGES_en.txt"
+}

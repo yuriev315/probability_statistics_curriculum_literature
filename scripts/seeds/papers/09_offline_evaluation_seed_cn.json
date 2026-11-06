@@ -1,0 +1,76 @@
+[
+ {
+  "arxiv": "2005.01643",
+  "subtopic": "离线强化学习教程",
+  "type": "学术教程",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "离线数据策略学习的问题设定、分布偏移与算法族。",
+  "summary": "离线 RL 动机、方法与开放问题。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "Levine et al. 2020 教程。"
+ },
+ {
+  "arxiv": "2006.04779",
+  "subtopic": "保守 Q 学习",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "覆盖不足时的分布外动作。",
+  "summary": "CQL。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2020 CQL。"
+ },
+ {
+  "arxiv": "2110.06169",
+  "subtopic": "隐式 Q 学习",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "避免显式查询 OOD 动作的离线方法。",
+  "summary": "IQL。",
+  "summary_basis": "arXiv 摘要与元数据"
+ },
+ {
+  "arxiv": "2106.01345",
+  "subtopic": "序列建模离线 RL",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "轨迹当序列、不显式 Bellman 备份的对照路径。",
+  "summary": "Decision Transformer。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "NeurIPS 2021，预印本 2021-06。"
+ },
+ {
+  "arxiv": "2203.01387",
+  "subtopic": "离线强化学习综述",
+  "type": "综述",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "算法、基准与评价坑。",
+  "summary": "离线 RL 分类、数据集与开放问题。",
+  "summary_basis": "arXiv 摘要与元数据"
+ },
+ {
+  "arxiv": "1511.03722",
+  "subtopic": "双重稳健离策略评价",
+  "type": "原始研究论文",
+  "level": "博士",
+  "difficulty": "高级",
+  "reason": "重要性采样高方差与模型偏差的折中。",
+  "summary": "双重稳健 OPE。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "ICML 2016 Jiang & Li。"
+ },
+ {
+  "arxiv": "2210.07105",
+  "subtopic": "离线 RL 参考实现与评测",
+  "type": "原始研究论文",
+  "level": "工程",
+  "difficulty": "中级",
+  "reason": "离线算法复现、配置与 D4RL 评测协议。",
+  "summary": "CORL 库与基准。",
+  "summary_basis": "arXiv 摘要与元数据"
+ }
+]

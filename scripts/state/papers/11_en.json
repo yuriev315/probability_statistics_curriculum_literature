@@ -1,0 +1,58 @@
+{
+ "arxiv:1908.08796": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1908.08796v4",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 32 页、218646 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 32,
+  "chars": 218646,
+  "sha256": "d886449fa1ef0ece9dcdfd2b00222365ed32db4f356bcc4602f7ff07dfd5a421",
+  "bytes": 1165976,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "11_applications/papers/2019_Yu_ReinforcementLearningHealthcareSurvey_en.pdf"
+ },
+ "arxiv:2503.18201": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/2503.18201v1",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 29 页、79932 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 29,
+  "chars": 79932,
+  "sha256": "c515a894b188d59f148907c46d3c42cb812208496cdb0878aad3e721528be7e8",
+  "bytes": 2217830,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "11_applications/papers/2025_Ziegner_IterativeMultiAgentReinforcement_en.pdf"
+ },
+ "arxiv:2609.24750": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/2609.24750v2",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 58 页、177131 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 58,
+  "chars": 177131,
+  "sha256": "d7680ad719f684eb56e6924a37e26bbb0de4b906462722927f43dcbd08dd03c0",
+  "bytes": 548978,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "11_applications/papers/2026_Lu_ReinforcementLearningOperationalResearch_en.pdf"
+ },
+ "arxiv:1803.11115": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1803.11115v1",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 11 页、54989 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 11,
+  "chars": 54989,
+  "sha256": "bf69d359e3c2078e1683f11148a9dc17c190c8ead441d4d5b6d8de66ba208c08",
+  "bytes": 549761,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "11_applications/papers/2018_Liang_DeepReinforcementLearningTraffic_en.pdf"
+ }
+}

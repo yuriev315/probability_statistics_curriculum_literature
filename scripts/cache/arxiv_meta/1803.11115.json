@@ -1,0 +1,18 @@
+{
+ "id": "1803.11115",
+ "title": "Deep Reinforcement Learning for Traffic Light Control in Vehicular Networks",
+ "authors": [
+  "Xiaoyuan Liang",
+  "Xunsheng Du",
+  "Guiling Wang",
+  "Zhu Han"
+ ],
+ "v1_date": "2018-03-29",
+ "latest_version": 1,
+ "latest_date": "2018-03-29",
+ "journal_ref": "IEEE Transactions on Vehicular Technology ( Volume: 68 , Issue: 2 , Feb. 2019 )",
+ "doi": "10.1109/tvt.2018.2890726",
+ "comment": "",
+ "abstract": "Existing inefficient traffic light control causes numerous problems, such as long delay and waste of energy. To improve efficiency, taking real-time traffic information as an input and dynamically adjusting the traffic light duration accordingly is a must. In terms of how to dynamically adjust traffic signals' duration, existing works either split the traffic signal into equal duration or extract limited traffic information from the real data. In this paper, we study how to decide the traffic signals' duration based on the collected data from different sensors and vehicular networks. We propose a deep reinforcement learning model to control the traffic light. In the model, we quantify the complex traffic scenario as states by collecting data and dividing the whole intersection into small grids. The timing changes of a traffic light are the actions, which are modeled as a high-dimension Markov decision process. The reward is the cumulative waiting time difference between two cycles. To solve the model, a convolutional neural network is employed to map the states to rewards. The proposed model is composed of several components to improve the performance, such as dueling network, target network, double Q-learning network, and prioritized experience replay. We evaluate our model via simulation in the Simulation of Urban MObility (SUMO) in a vehicular network, and the simulation results show the efficiency of our model in controlling traffic lights.",
+ "primary": "cs.LG"
+}

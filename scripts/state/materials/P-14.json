@@ -1,0 +1,20 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "OmniSafe constrained/safe RL library (official snapshot)",
+ "files": [
+  {
+   "path": "projects/Farama_Parkour_OmniSafe_en",
+   "url": "https://github.com/PKU-Alignment/omnisafe",
+   "commit": "15603dd7a654a991d0a4648216b69d60b81a6366",
+   "files": 346,
+   "archive_sha256": "44ab3ca57823a49caffce10afc6f71ee537914307d755a62529265eb4c996aa2",
+   "bytes": 3764057
+  }
+ ],
+ "commit": "15603dd7a654a991d0a4648216b69d60b81a6366",
+ "license_files": [
+  "LICENSE"
+ ],
+ "note": "官方仓库快照 commit 15603dd7a654：归档 zip 完整性通过，解压 346 个文件（8 个 notebook）；应有文件已见 ['omnisafe/', 'LICENSE', 'README.md']；许可证文件 ['LICENSE']；未发现 LFS 指针文件"
+}

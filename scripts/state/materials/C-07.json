@@ -1,0 +1,106 @@
+{
+ "status": "verified",
+ "set": "courses",
+ "title": "Stanford CS234 Reinforcement Learning (Winter 2026) lecture slides",
+ "files": [
+  {
+   "path": "courses/Stanford_CS234_ReinforcementLearning_W2026_en/01_lecture1post_en.pdf",
+   "url": "https://web.stanford.edu/class/cs234/slides/lecture1post.pdf",
+   "pages": 60,
+   "sha256": "66d7e44ef76e830986464ac59f56412c31f3c95025d2a2b40bc2b28f0c2f6201",
+   "bytes": 7125221
+  },
+  {
+   "path": "courses/Stanford_CS234_ReinforcementLearning_W2026_en/02_lecture2post_en.pdf",
+   "url": "https://web.stanford.edu/class/cs234/slides/lecture2post.pdf",
+   "pages": 58,
+   "sha256": "350037cde7d8cb1de0981c8b2a4e97145a43f0afa79e29ad761406867bf37ac6",
+   "bytes": 3521614
+  },
+  {
+   "path": "courses/Stanford_CS234_ReinforcementLearning_W2026_en/03_lecture3post_en.pdf",
+   "url": "https://web.stanford.edu/class/cs234/slides/lecture3post.pdf",
+   "pages": 57,
+   "sha256": "5c01ff2028efd8dc011b8d4f5809db503bb1e2b4595497f24764ca8fe7b6f352",
+   "bytes": 3567179
+  },
+  {
+   "path": "courses/Stanford_CS234_ReinforcementLearning_W2026_en/04_lecture4post_en.pdf",
+   "url": "https://web.stanford.edu/class/cs234/slides/lecture4post.pdf",
+   "pages": 89,
+   "sha256": "6b8a1745b93daba84afa900d3e09c89959db916eb9a5375cf19ee92df99839d1",
+   "bytes": 4377200
+  },
+  {
+   "path": "courses/Stanford_CS234_ReinforcementLearning_W2026_en/05_lecture5post_en.pdf",
+   "url": "https://web.stanford.edu/class/cs234/slides/lecture5post.pdf",
+   "pages": 61,
+   "sha256": "f9a33ef32ca6af0a271ab76729b10beb64b6bb5cd523c10dd3440ba5798ffe38",
+   "bytes": 5063914
+  },
+  {
+   "path": "courses/Stanford_CS234_ReinforcementLearning_W2026_en/06_lecture6post_en.pdf",
+   "url": "https://web.stanford.edu/class/cs234/slides/lecture6post.pdf",
+   "pages": 48,
+   "sha256": "e47acd67ad44401a52014adec890ecd5a1c28c85cfcd5d208fd48310788ff065",
+   "bytes": 4869211
+  },
+  {
+   "path": "courses/Stanford_CS234_ReinforcementLearning_W2026_en/07_lecture7post_en.pdf",
+   "url": "https://web.stanford.edu/class/cs234/slides/lecture7post.pdf",
+   "pages": 72,
+   "sha256": "54f9948881ef0719355248626ecddd2e2e5c0b2a8849d43608fe97bdffa5ab28",
+   "bytes": 13263233
+  },
+  {
+   "path": "courses/Stanford_CS234_ReinforcementLearning_W2026_en/08_lecture8post_en.pdf",
+   "url": "https://web.stanford.edu/class/cs234/slides/lecture8post.pdf",
+   "pages": 68,
+   "sha256": "6c856889f6fa8699ab66a5903631a9b52cbfd6ca4ab0675545f8b1bbbc1debf8",
+   "bytes": 13151782
+  },
+  {
+   "path": "courses/Stanford_CS234_ReinforcementLearning_W2026_en/09_lecture9post_en.pdf",
+   "url": "https://web.stanford.edu/class/cs234/slides/lecture9post.pdf",
+   "pages": 53,
+   "sha256": "296b4aa7e03ffba8a02a819a8e0a15e09d0b187961d36a9c1683e8094da4e709",
+   "bytes": 2084396
+  },
+  {
+   "path": "courses/Stanford_CS234_ReinforcementLearning_W2026_en/10_lecture10post_en.pdf",
+   "url": "https://web.stanford.edu/class/cs234/slides/lecture10post.pdf",
+   "pages": 41,
+   "sha256": "a79d6cb4a7cefbe4002f16f5c3896fe42de264d55dbf5200e3efd3b39adc40ec",
+   "bytes": 3125367
+  },
+  {
+   "path": "courses/Stanford_CS234_ReinforcementLearning_W2026_en/11_lecture11post_en.pdf",
+   "url": "https://web.stanford.edu/class/cs234/slides/lecture11post.pdf",
+   "pages": 50,
+   "sha256": "7ba49b061eafb6a97ac60f72e099980346f46ff7922062366d07780f27efae61",
+   "bytes": 4501209
+  },
+  {
+   "path": "courses/Stanford_CS234_ReinforcementLearning_W2026_en/12_lecture12post_en.pdf",
+   "url": "https://web.stanford.edu/class/cs234/slides/lecture12post.pdf",
+   "pages": 54,
+   "sha256": "5af0c1e722f8615419abe9d6cc38caf5daad5858adb934b0519f5567e4c0e3bd",
+   "bytes": 5013573
+  },
+  {
+   "path": "courses/Stanford_CS234_ReinforcementLearning_W2026_en/13_lecture13post_en.pdf",
+   "url": "https://web.stanford.edu/class/cs234/slides/lecture13post.pdf",
+   "pages": 13,
+   "sha256": "57cc1b6cf105bc5451f2709ed766b4ec69a77fffeb8d7d7d856e66d286e57984",
+   "bytes": 801373
+  },
+  {
+   "path": "courses/Stanford_CS234_ReinforcementLearning_W2026_en/14_lecture14post_en.pdf",
+   "url": "https://web.stanford.edu/class/cs234/slides/lecture14post.pdf",
+   "pages": 30,
+   "sha256": "74aecbb8b916ae2a5368fd6fd3a60e92c60311cf34b65a357537cd448f78ce4b",
+   "bytes": 3371508
+  }
+ ],
+ "note": "14 个 PDF 全部 HTTP 200 且可解析，合计 754 页；文件链接取自官方索引页 https://web.stanford.edu/class/cs234/slides/（该页列出的全部匹配文件均已下载）"
+}

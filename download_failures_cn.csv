@@ -1,0 +1,4 @@
+﻿编号,资料类型,标题,状态,说明,地址
+B-10,教科书/专著/参考书,Stochastic Optimal Control: The Discrete-Time Case,failed,前 12 页未见名称短语“Discrete-Time Case”,https://web.mit.edu/dimitrib/www/SOC_1978.pdf
+B-15,教科书/专著/参考书,Constrained Optimization and Lagrange Multiplier Methods,failed,前 12 页未见名称短语“Lagrange Multiplier”,https://web.mit.edu/dimitrib/www/Constrained-Opt.pdf
+C-08,大学课程/讲义,Hugging Face Deep Reinforcement Learning Course (offline HTML subset),failed,页面 HTTP 200 text/markdown; charset=utf-8: https://huggingface.co/learn/deep-rl-course/unit0/introduction.md,https://huggingface.co/learn/deep-rl-course/unit0/introduction

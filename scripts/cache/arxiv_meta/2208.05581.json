@@ -1,0 +1,21 @@
+{
+ "id": "2208.05581",
+ "title": "Hopper flows of deformable particles",
+ "authors": [
+  "Y. Cheng",
+  "J. D. Treado",
+  "B. Lonial",
+  "P. Habdas",
+  "E. R. Weeks",
+  "M. D. Shattuck",
+  "C. S. O'Hern"
+ ],
+ "v1_date": "2022-08-10",
+ "latest_version": 1,
+ "latest_date": "2022-08-10",
+ "journal_ref": "Soft Matter 18 (2022) 8071",
+ "doi": "10.1039/d2sm01079h",
+ "comment": "15 pages, 12 figures",
+ "abstract": "Numerous experimental and computational studies show that continuous hopper flows of granular materials obey the Beverloo equation that relates the volume flow rate $Q$ and the orifice width $w$: $Q \\sim (w/σ_{\\rm avg}-k)^β$, where $σ_{\\rm avg}$ is the average particle diameter, $kσ_{\\rm avg}$ is an offset where $Q\\sim 0$, the power-law scaling exponent $β=d-1/2$, and $d$ is the spatial dimension. Recent studies of hopper flows of deformable particles in different background fluids suggest that the particle stiffness and dissipation mechanism can also strongly affect the power-law scaling exponent $β$. We carry out computational studies of hopper flows of deformable particles with both kinetic friction and background fluid dissipation in two and three dimensions. We show that the exponent $β$ varies continuously with the ratio of the viscous drag to the kinetic friction coefficient, $λ=ζ/μ$. $β= d-1/2$ in the $λ\\rightarrow 0$ limit and $d-3/2$ in the $λ\\rightarrow \\infty$ limit, with a midpoint $λ_c$ that depends on the hopper opening angle $θ_w$. We also characterize the spatial structure of the flows and associate changes in spatial structure of the hopper flows to changes in the exponent $β$. The offset $k$ increases with particle stiffness until $k \\sim k_{\\rm max}$ in the hard-particle limit, where $k_{\\rm max} \\sim 3.5$ is larger for $λ\\rightarrow \\infty$ compared to that for $λ\\rightarrow 0$. Finally, we show that the simulations of hopper flows of deformable particles in the $λ\\rightarrow \\infty$ limit recapitulate the experimental results for quasi-2D hopper flows of oil droplets in water.",
+ "primary": "cond-mat.soft"
+}

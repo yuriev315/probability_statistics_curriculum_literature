@@ -1,0 +1,69 @@
+[
+ {
+  "arxiv": "1705.10528",
+  "subtopic": "约束策略优化",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "约束 MDP 上的信赖域方法。",
+  "summary": "CPO。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "ICLR 2017。"
+ },
+ {
+  "arxiv": "1506.02188",
+  "subtopic": "CVaR 风险敏感",
+  "type": "原始研究论文",
+  "level": "博士",
+  "difficulty": "高级",
+  "reason": "风险敏感与 CVaR 约束。",
+  "summary": "CVaR 优化的风险敏感决策。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2015 Chow et al。"
+ },
+ {
+  "arxiv": "2205.10330",
+  "subtopic": "安全/约束 RL 综述",
+  "type": "综述",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "安全约束、可行性与方法分类。",
+  "summary": "Safe RL：方法、理论与应用综述。",
+  "summary_basis": "arXiv 摘要与元数据"
+ },
+ {
+  "arxiv": "1801.08757",
+  "subtopic": "连续动作安全探索",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "安全约束下的探索，对应可行性。",
+  "summary": "连续动作空间中的安全探索。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2018。"
+ },
+ {
+  "pdf_url": "https://www.mdpi.com/2504-4990/4/1/13/pdf",
+  "title": "Robust Reinforcement Learning: A Review of Foundations and Recent Advances",
+  "authors": [
+   "Janosch Moos",
+   "Kay Hansel",
+   "Hany Abdulsamad",
+   "Svenja Stark",
+   "Debora Clever",
+   "Jan Peters"
+  ],
+  "date": "2022-03-19",
+  "date_basis": "MAKE 4(1):276–315 (2022)",
+  "venue": "MAKE",
+  "landing": "https://www.mdpi.com/2504-4990/4/1/13",
+  "subtopic": "鲁棒 MDP/RL 综述",
+  "type": "综述",
+  "level": "硕士",
+  "difficulty": "中级",
+  "classic_reason": "2022 窗口内综述，MDPI 开放获取。",
+  "reason": "不确定转移、扰动、动作与观测鲁棒设计。",
+  "summary": "按转移/扰动/动作/观测四类综述鲁棒 RL，并联系风险与熵正则。",
+  "summary_basis": "原文扉页/摘要"
+ }
+]

@@ -1,0 +1,18 @@
+{
+ "id": "2005.07577",
+ "title": "Batch Codes from Affine Cartesian Codes and Quotient Spaces",
+ "authors": [
+  "Travis Baumbaugh",
+  "Haley Colgate",
+  "Timothy Jackman",
+  "Felice Manganiello"
+ ],
+ "v1_date": "2020-05-15",
+ "latest_version": 1,
+ "latest_date": "2020-05-15",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Affine Cartesian codes are defined by evaluating multivariate polynomials at a cartesian product of finite subsets of a finite field. In this work we examine properties of these codes as batch codes. We consider the recovery sets to be defined by points aligned on a specific direction and the buckets to be derived from cosets of a subspace of the ambient space of the evaluation points. We are able to prove that under these conditions, an affine Cartesian code is able to satisfy a query of size up to one more than the dimension of the space of the ambient space.",
+ "primary": "cs.IT"
+}

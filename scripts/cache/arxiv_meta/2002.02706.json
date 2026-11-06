@@ -1,0 +1,21 @@
+{
+ "id": "2002.02706",
+ "title": "Oracle Complexity Separation in Convex Optimization",
+ "authors": [
+  "Anastasiya Ivanova",
+  "Evgeniya Vorontsova",
+  "Dmitry Pasechnyuk",
+  "Alexander Gasnikov",
+  "Pavel Dvurechensky",
+  "Darina Dvinskikh",
+  "Alexander Tyurin"
+ ],
+ "v1_date": "2020-02-07",
+ "latest_version": 4,
+ "latest_date": "2022-03-11",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "Many convex optimization problems have structured objective function written as a sum of functions with different types of oracles (full gradient, coordinate derivative, stochastic gradient) and different evaluation complexity of these oracles. In the strongly convex case these functions also have different condition numbers, which eventually define the iteration complexity of first-order methods and the number of oracle calls required to achieve given accuracy. Motivated by the desire to call more expensive oracle less number of times, in this paper we consider minimization of a sum of two functions and propose a generic algorithmic framework to separate oracle complexities for each component in the sum. As a specific example, for the $μ$-strongly convex problem $\\min_{x\\in \\mathbb{R}^n} h(x) + g(x)$ with $L_h$-smooth function $h$ and $L_g$-smooth function $g$, a special case of our algorithm requires, up to a logarithmic factor, $O(\\sqrt{L_h/μ})$ first-order oracle calls for $h$ and $O(\\sqrt{L_g/μ})$ first-order oracle calls for $g$. Our general framework covers also the setting of strongly convex objectives, the setting when $g$ is given by coordinate derivative oracle, and the setting when $g$ has a finite-sum structure and is available through stochastic gradient oracle. In the latter two cases we obtain respectively accelerated random coordinate descent and accelerated variance reduction methods with oracle complexity separation.",
+ "primary": "math.OC"
+}

@@ -1,0 +1,7 @@
+﻿path,files,size_bytes,purpose
+projects_13/source,13,263794926,13 个项目的源码快照
+projects_13/envs,213,475843306,Python 依赖 wheel 和依赖清单
+projects_13/sdist_needs_build,6,29933769,只有源码包的依赖和 d4rl
+projects_13/native,2,1436,Julia 的 .url
+repository/repo,180,764951,仓库脚本和文档（Git 部分克隆，不含 PDF）
+runtime/windows_compat,1,370,Windows 用的 fcntl 替代模块

@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "books",
+ "title": "Markov Chains and Mixing Times (Second Edition)",
+ "files": [
+  {
+   "path": "books/LevinPeresWilmer_MarkovChainsMixingTimes_2e_en.pdf",
+   "url": "https://pages.uoregon.edu/dlevin/MARKOV/mcmt2e.pdf",
+   "pages": 461,
+   "sha256": "9ef39f9467d9647ff3f5e8747b9ce24b7a90d13be2f8156fbd827b95b661a772",
+   "bytes": 4855824
+  }
+ ],
+ "note": "HTTP 200；%PDF；pypdf 可解析 461 页；名称短语已见"
+}

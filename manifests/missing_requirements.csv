@@ -1,0 +1,8 @@
+﻿item,problem,workaround,type
+Julia,POMDPs.jl 没有运行；Julia 安装包超限，包要联网安装,按 .url 装 Julia，再运行 Pkg.instantiate(),blocked
+Python 3.7,Spinning Up 完整环境无法在本机测试,在 Windows 上用 Python 3.7 按说明安装,blocked
+mujoco-py、MuJoCo、D4RL 数据集,CORL 不能真正训练,按 CORL 文档在 Linux 上安装,external
+scripts/common_en.py 第 10 行,import fcntl，Windows 上脚本无法启动,使用 runtime/windows_compat/fcntl.py,platform
+scripts/common_en.py 第 27、31 行,硬编码 /root/.cache 路径,设置 MDP_WORK；第 31 行的共享锁路径未修改,portability
+torch,3 个 Windows wheel 都超过 100 MiB,按 .whl.url 下载,over 100 MiB
+Windows 实机测试,未运行,在 Windows 上按 projects_13/README_cn.md 运行,verification

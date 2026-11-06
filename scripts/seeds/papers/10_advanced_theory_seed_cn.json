@@ -1,0 +1,68 @@
+[
+ {
+  "arxiv": "1706.02275",
+  "subtopic": "多智能体 Actor-Critic",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "马尔科夫博弈中的集中训练分散执行。",
+  "summary": "MADDPG。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2017 MADDPG。"
+ },
+ {
+  "arxiv": "1803.11485",
+  "subtopic": "价值分解",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "合作马尔科夫博弈的价值分解。",
+  "summary": "QMIX。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2018 QMIX。"
+ },
+ {
+  "arxiv": "1609.05140",
+  "subtopic": "分层与选项",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "半马尔科夫选项的端到端学习。",
+  "summary": "Option-Critic。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2016 Option-Critic。"
+ },
+ {
+  "arxiv": "1911.10635",
+  "subtopic": "多智能体 RL 综述",
+  "type": "综述",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "随机博弈与 MARL 理论地图。",
+  "summary": "MARL 设定、信息结构与算法。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2019 Zhang, Yang, Başar。"
+ },
+ {
+  "pdf_url": "https://spateria.github.io/data/hrlsurvey_paper.pdf",
+  "title": "Hierarchical Reinforcement Learning: A Comprehensive Survey",
+  "authors": [
+   "Shubham Pateria",
+   "Budhitama Subagdja",
+   "Ah-Hwee Tan",
+   "Chai Quek"
+  ],
+  "date": "2021-06-05",
+  "date_basis": "ACM Computing Surveys 54(5) (2021)",
+  "venue": "ACM Computing Surveys",
+  "landing": "https://dl.acm.org/doi/10.1145/3453160",
+  "subtopic": "分层强化学习综述",
+  "type": "综述",
+  "level": "硕士",
+  "difficulty": "中级",
+  "classic_reason": "CSUR 2021，作者站点 PDF。",
+  "reason": "分层决策、子任务发现与 SMDP 视角。",
+  "summary": "HRL 方法分类、子任务发现、迁移与多智能体。",
+  "summary_basis": "原文扉页/摘要"
+ }
+]

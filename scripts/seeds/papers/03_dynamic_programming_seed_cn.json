@@ -1,0 +1,35 @@
+[
+ {
+  "arxiv": "1910.00120",
+  "subtopic": "Rollout 与策略迭代",
+  "type": "原始研究论文",
+  "level": "博士",
+  "difficulty": "高级",
+  "reason": "一次策略迭代（rollout）的改进性质与计算分解。",
+  "summary": "多智能体 rollout：线性于智能体数目的计算并保留改进保证。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "Bertsekas 2019/2020。"
+ },
+ {
+  "arxiv": "1701.07274",
+  "subtopic": "深度 RL 与 DP 总览",
+  "type": "学术教程",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "含 DP/价值迭代到深度函数逼近的算法地图。",
+  "summary": "深度强化学习方法概览。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2017 教程。"
+ },
+ {
+  "arxiv": "1506.02438",
+  "subtopic": "优势估计与 TD(λ)",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "把资格迹写成优势估计，连接精确 DP 评价与策略梯度。",
+  "summary": "广义优势估计（GAE）。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2015 GAE。"
+ }
+]

@@ -1,0 +1,20 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "POMDPs.jl interface (official snapshot)",
+ "files": [
+  {
+   "path": "projects/JuliaPOMDP_POMDPs_jl_en",
+   "url": "https://github.com/JuliaPOMDP/POMDPs.jl",
+   "commit": "d970a36d6e41b7d6baa8377ce0426c7282bc5025",
+   "files": 164,
+   "archive_sha256": "abea0f13f23f496599ed41cfc52d0a0716755e1153b24f192cefab0686e5ba51",
+   "bytes": 531918
+  }
+ ],
+ "commit": "d970a36d6e41b7d6baa8377ce0426c7282bc5025",
+ "license_files": [
+  "LICENSE.md"
+ ],
+ "note": "官方仓库快照 commit d970a36d6e41：归档 zip 完整性通过，解压 164 个文件（0 个 notebook）；应有文件已见 ['src/', 'LICENSE.md', 'README.md']；许可证文件 ['LICENSE.md']；未发现 LFS 指针文件"
+}

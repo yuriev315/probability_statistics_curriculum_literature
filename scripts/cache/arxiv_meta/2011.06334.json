@@ -1,0 +1,17 @@
+{
+ "id": "2011.06334",
+ "title": "Conflating marginal and conditional treatment effects: Comments on 'Assessing the performance of population adjustment methods for anchored indirect comparisons: A simulation study'",
+ "authors": [
+  "Antonio Remiro-Azócar",
+  "Anna Heath",
+  "Gianluca Baio"
+ ],
+ "v1_date": "2020-11-12",
+ "latest_version": 2,
+ "latest_date": "2020-12-02",
+ "journal_ref": "Statistics in Medicine, 40(11), pp. 2753-2758, 2021",
+ "doi": "10.1002/sim.8857",
+ "comment": "6 pages, submitted to Statistics in Medicine. Response to `Assessing the performance of population adjustment methods for anchored indirect comparisons: A simulation study' by Phillippo, Dias, Ades and Welton, published in Statistics in Medicine (2020). Updated after Ph.D. proposal defense/transfer viva comments",
+ "abstract": "In this commentary, we highlight the importance of: (1) carefully considering and clarifying whether a marginal or conditional treatment effect is of interest in a population-adjusted indirect treatment comparison; and (2) developing distinct methodologies for estimating the different measures of effect. The appropriateness of each methodology depends on the preferred target of inference.",
+ "primary": "stat.ME"
+}

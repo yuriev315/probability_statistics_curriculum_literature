@@ -1,0 +1,16 @@
+{
+ "id": "2103.08077",
+ "title": "Distribution Privacy Under Function Recoverability",
+ "authors": [
+  "Ajaykrishnan Nageswaran",
+  "Prakash Narayan"
+ ],
+ "v1_date": "2021-03-15",
+ "latest_version": 3,
+ "latest_date": "2021-12-30",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "A user generates n independent and identically distributed data random variables with a probability mass function that must be guarded from a querier. The querier must recover, with a prescribed accuracy, a given function of the data from each of n independent and identically distributed query responses upon eliciting them from the user. The user chooses the data probability mass function and devises the random query responses to maximize distribution privacy as gauged by the (Kullback-Leibler) divergence between the former and the querier's best estimate of it based on the n query responses. Considering an arbitrary function, a basic achievable lower bound for distribution privacy is provided that does not depend on n and corresponds to worst-case privacy. Worst-case privacy equals the logsum cardinalities of inverse atoms under the given function, with the number of summands decreasing as the querier recovers the function with improving accuracy. Next, upper (converse) and lower (achievability) bounds for distribution privacy, dependent on n, are developed. The former improves upon worst-case privacy and the latter does so under suitable assumptions; both converge to it as n grows. The converse and achievability proofs identify explicit strategies for the user and the querier.",
+ "primary": "cs.IT"
+}

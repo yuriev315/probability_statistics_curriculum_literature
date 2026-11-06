@@ -1,0 +1,78 @@
+[
+ {
+  "arxiv": "2407.17032",
+  "subtopic": "环境 API",
+  "type": "原始研究论文",
+  "level": "工程",
+  "difficulty": "入门",
+  "reason": "Gymnasium：terminated/truncated、重置与互操作。轨道以论文页为准（arXiv/NeurIPS）。",
+  "summary": "标准化 RL 环境接口。",
+  "summary_basis": "arXiv 摘要与元数据"
+ },
+ {
+  "pdf_url": "https://jmlr.org/papers/volume22/20-1364/20-1364.pdf",
+  "title": "Stable-Baselines3: Reliable Reinforcement Learning Implementations",
+  "authors": [
+   "Antonin Raffin",
+   "Ashley Hill",
+   "Adam Gleave",
+   "Anssi Kanervisto",
+   "Maximilian Ernestus",
+   "Noah Dormann"
+  ],
+  "date": "2021-11-01",
+  "date_basis": "JMLR 22(268) (2021)",
+  "venue": "JMLR",
+  "landing": "https://www.jmlr.org/papers/v22/20-1364.html",
+  "subtopic": "算法参考实现",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "classic_reason": "JMLR 2021 开放获取。",
+  "reason": "可靠基线实现、测试覆盖与文档。",
+  "summary": "SB3 设计、算法与基准。",
+  "summary_basis": "原文扉页/摘要"
+ },
+ {
+  "arxiv": "2111.08819",
+  "subtopic": "CleanRL",
+  "type": "原始研究论文",
+  "level": "工程",
+  "difficulty": "入门",
+  "reason": "单文件实现与可复现实验配置。",
+  "summary": "CleanRL。",
+  "summary_basis": "arXiv 摘要与元数据"
+ },
+ {
+  "arxiv": "2306.00577",
+  "subtopic": "TorchRL",
+  "type": "原始研究论文",
+  "level": "工程",
+  "difficulty": "中级",
+  "reason": "PyTorch 原生 RL 模块。",
+  "summary": "TorchRL。",
+  "summary_basis": "arXiv 摘要与元数据"
+ },
+ {
+  "arxiv": "2009.14471",
+  "subtopic": "PettingZoo",
+  "type": "原始研究论文",
+  "level": "工程",
+  "difficulty": "入门",
+  "reason": "多智能体环境 API。",
+  "summary": "PettingZoo。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2020 PettingZoo。"
+ },
+ {
+  "arxiv": "1908.09453",
+  "subtopic": "OpenSpiel",
+  "type": "原始研究论文",
+  "level": "工程",
+  "difficulty": "中级",
+  "reason": "随机博弈与多智能体研究平台。",
+  "summary": "OpenSpiel。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2019 OpenSpiel。"
+ }
+]

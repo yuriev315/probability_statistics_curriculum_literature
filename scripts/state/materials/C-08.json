@@ -1,0 +1,6 @@
+{
+ "status": "failed",
+ "set": "courses",
+ "note": "页面 HTTP 200 text/markdown; charset=utf-8: https://huggingface.co/learn/deep-rl-course/unit0/introduction.md",
+ "title": "Hugging Face Deep Reinforcement Learning Course (offline HTML subset)"
+}

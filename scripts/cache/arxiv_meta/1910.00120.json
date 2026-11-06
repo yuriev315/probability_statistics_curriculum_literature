@@ -1,0 +1,15 @@
+{
+ "id": "1910.00120",
+ "title": "Multiagent Rollout Algorithms and Reinforcement Learning",
+ "authors": [
+  "Dimitri Bertsekas"
+ ],
+ "v1_date": "2019-09-30",
+ "latest_version": 3,
+ "latest_date": "2020-04-13",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "",
+ "abstract": "We consider finite and infinite horizon dynamic programming problems, where the control at each stage consists of several distinct decisions, each one made by one of several agents. We introduce an approach, whereby at every stage, each agent's decision is made by executing a local rollout algorithm that uses a base policy, together with some coordinating information from the other agents. The amount of local computation required at every stage by each agent is independent of the number of agents, while the amount of total computation (over all agents) grows linearly with the number of agents. By contrast, with the standard rollout algorithm, the amount of total computation grows exponentially with the number of agents. Despite the drastic reduction in required computation, we show that our algorithm has the fundamental cost improvement property of rollout: an improved performance relative to the base policy. We also discuss possibilities to improve further the method's computational efficiency through limited agent coordination and parallelization of the agents' computations. Finally, we explore related approximate policy iteration algorithms for infinite horizon problems, and we prove that the cost improvement property steers the algorithm towards convergence to an agent-by-agent optimal policy.",
+ "primary": "cs.LG"
+}

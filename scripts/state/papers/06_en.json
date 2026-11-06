@@ -1,0 +1,72 @@
+{
+ "arxiv:2006.16712": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/2006.16712v4",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 67 页、214923 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 67,
+  "chars": 214923,
+  "sha256": "585e15adf0fa20de284d4bf58e034f58f4fa10db6fe8a8006e05f70825946f5d",
+  "bytes": 2060497,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "06_model_based/papers/2020_Moerland_ModelBasedReinforcementLearning_en.pdf"
+ },
+ "arxiv:1911.08265": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1911.08265v2",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 21 页、65632 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 21,
+  "chars": 65632,
+  "sha256": "25588ee1d48690b33359a08a42fadfe86335aefefeee241d465b8bbd5eaa445c",
+  "bytes": 2701361,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "06_model_based/papers/2019_Schrittwieser_MasteringAtariGoChess_en.pdf"
+ },
+ "arxiv:2301.04104": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/2301.04104v2",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 40 页、85056 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 40,
+  "chars": 85056,
+  "sha256": "d0385798e8bada8e81b915c1743be81d9ce8776f12ed937e09351995e099ce37",
+  "bytes": 2874717,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "06_model_based/papers/2023_Hafner_MasteringDiverseDomainsThrough_en.pdf"
+ },
+ "arxiv:2310.16828": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/2310.16828v2",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 31 页、90515 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 31,
+  "chars": 90515,
+  "sha256": "99832c555b66665ad1e26cd48e75ea9dda4f3750175b993e7ed5b8dfe399b9e0",
+  "bytes": 7858004,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "06_model_based/papers/2023_Hansen_TDMPC2_en.pdf"
+ },
+ "arxiv:2111.00210": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/2111.00210v2",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 22 页、74345 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 22,
+  "chars": 74345,
+  "sha256": "057c3466e3aabec6d9a7dc6ac597b43caf546d73ea50241263f7113fdc416a69",
+  "bytes": 2532206,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "06_model_based/papers/2021_Ye_MasteringAtariGamesLimited_en.pdf"
+ }
+}

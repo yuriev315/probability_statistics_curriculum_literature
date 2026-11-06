@@ -1,0 +1,58 @@
+{
+ "arxiv:1811.12560": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1811.12560v2",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 140 页、122153 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 140,
+  "chars": 122153,
+  "sha256": "b07cd5ab625a371091022245f9aeb937b40d927432259974e3e48ae8d4f0387e",
+  "bytes": 2578567,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "01_foundations/papers/2018_FrancoisLavet_IntroductionDeepReinforcementLearning_en.pdf"
+ },
+ "arxiv:1907.05388": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1907.05388v2",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 28 页、71537 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 28,
+  "chars": 71537,
+  "sha256": "5984f3eae6e8619dea065f015a1b49abdba2e7be94ac7a2ba9f36e2b3765d644",
+  "bytes": 329662,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "01_foundations/papers/2019_Jin_ProvablyEfficientReinforcementLearning_en.pdf"
+ },
+ "arxiv:1908.00261": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1908.00261v5",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 77 页、161046 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 77,
+  "chars": 161046,
+  "sha256": "91e0f7c19a23bfcd6af35324f496bbb21cfc1149588776fb840e1f3fae058298",
+  "bytes": 768664,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "01_foundations/papers/2019_Agarwal_TheoryPolicyGradientMethods_en.pdf"
+ },
+ "url:http://incompleteideas.net/papers/sutton-88-with-erratum.pdf": {
+  "status": "ok",
+  "pdf": "http://incompleteideas.net/papers/sutton-88-with-erratum.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 37 页、95413 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 37,
+  "chars": 95413,
+  "sha256": "c77b59bfd9bff8dbbc7ae5b35c1b9725a4cb1f930d18ebb3165cc7c3e4e4bbe8",
+  "bytes": 2139288,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "01_foundations/papers/1988_Sutton_LearningPredictMethodsTemporal_en.pdf"
+ }
+}

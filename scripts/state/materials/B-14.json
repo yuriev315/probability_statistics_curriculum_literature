@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "books",
+ "title": "Convex Optimization Theory",
+ "files": [
+  {
+   "path": "books/Bertsekas_ConvexOptimizationTheory_2009_en.pdf",
+   "url": "https://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf",
+   "pages": 448,
+   "sha256": "49918b20c9126f1e72108062e905407200800727a0760c90af0bfb86bc9a2dff",
+   "bytes": 14802197
+  }
+ ],
+ "note": "HTTP 200；%PDF；pypdf 可解析 448 页；名称短语已见"
+}

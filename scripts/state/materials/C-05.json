@@ -1,0 +1,169 @@
+{
+ "status": "verified",
+ "set": "courses",
+ "title": "UC Berkeley CS 285 Deep Reinforcement Learning (Fall 2023) lecture slides",
+ "files": [
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/01_lec-1_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-1.pdf",
+   "pages": 66,
+   "sha256": "ca3e0d1ed6eb60fc1b3771e23613da077c9e61088d77b4517446c2e1409bab3d",
+   "bytes": 4787079
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/02_lec-2_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-2.pdf",
+   "pages": 60,
+   "sha256": "acc00ef8640f431448c4a2ef4d5c5c8eabe6504a828eab8e6723d07f1b8117a4",
+   "bytes": 3986355
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/03_lec-3_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-3.pdf",
+   "pages": 30,
+   "sha256": "f57d22b0178ee63380957ba0d8186f57117dcbd4472cd9f709a30db824bcee94",
+   "bytes": 1350915
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/04_lec-4_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-4.pdf",
+   "pages": 46,
+   "sha256": "105e081e25f8b2fe78862ee7451dff23d381fcdefbae1b460b176bafab8a24c9",
+   "bytes": 2297941
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/05_lec-5_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-5.pdf",
+   "pages": 40,
+   "sha256": "c109a6d833b554b59102cfd492b00e5766b5144aa099f5f6180e8d126dc8f6e0",
+   "bytes": 2595697
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/06_lec-6_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-6.pdf",
+   "pages": 35,
+   "sha256": "5a6d4e300fea961880a5e31caefc9175bebc95366cf4a7603a1bced4edfff25c",
+   "bytes": 2279701
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/07_lec-7_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-7.pdf",
+   "pages": 28,
+   "sha256": "5ab0e5527963b6126270eea6e72ffeea09c870d6f1c5e4b887eea1264455976c",
+   "bytes": 1816444
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/08_lec-8_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-8.pdf",
+   "pages": 41,
+   "sha256": "0e91bd03628b76c198ef965693062cfbc22ccf079c151ab54523e6566ece557d",
+   "bytes": 2344617
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/09_lec-9_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-9.pdf",
+   "pages": 25,
+   "sha256": "258ed2f00abbc7178a3eef6a27c1e3ab38095514dc402c5cacfdd594f01e57b6",
+   "bytes": 1486065
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/10_lec-10_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-10.pdf",
+   "pages": 46,
+   "sha256": "c009f794c37eb0ff7d372f8e3025d1b1b49b566f08d190c1dbcd63d17b358c71",
+   "bytes": 2384356
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/11_lec-11_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-11.pdf",
+   "pages": 41,
+   "sha256": "e19a5dc011db8c4845407b1936c90ccd2e55fd01602708fc73f43a172c21a66e",
+   "bytes": 2744545
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/12_lec-12_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-12.pdf",
+   "pages": 33,
+   "sha256": "097090626c0bdefae07fe8e49c17051790d11ff5f818a5cdb87e57b108ce4d98",
+   "bytes": 2043657
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/13_lec-13_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-13.pdf",
+   "pages": 46,
+   "sha256": "8b54287b6b625bac2106729c1056806da626e5f47c0a2a61605911992eb28e82",
+   "bytes": 2607247
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/14_lec-14_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-14.pdf",
+   "pages": 30,
+   "sha256": "f55e7e508ce5a6f23ada543b5fb42a5caeebc0bc9b401f395cd0b1d5f9bd41af",
+   "bytes": 2176516
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/15_lec-15_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-15.pdf",
+   "pages": 32,
+   "sha256": "40357aa17c1c1fb86831d2c900251a64fa99dffc2b8e698442032a768cf787ee",
+   "bytes": 2904122
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/16_lec-16_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-16.pdf",
+   "pages": 28,
+   "sha256": "91fc366f173ab038b1d76688c652f5284a8ba12ee4487537b0ab8b2a1e75591c",
+   "bytes": 2310829
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/17_lec-17_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-17.pdf",
+   "pages": 21,
+   "sha256": "3e42b208215a0c807c1c6bd27752f7d16fa3d5cfd1ac4763baabae1cc9f35db1",
+   "bytes": 1563173
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/18_lec-18_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-18.pdf",
+   "pages": 36,
+   "sha256": "16c31036a7a1f5d941b2179bf0d36dc841250dd0bc6734ad5584d7bf29658b1c",
+   "bytes": 2596043
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/19_lec-19_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-19.pdf",
+   "pages": 45,
+   "sha256": "0497b4b5bcc3dba7242025fc7903d7da5eb24c57849c9a877d000626f9c7e156",
+   "bytes": 3018222
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/20_lec-20_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-20.pdf",
+   "pages": 33,
+   "sha256": "383801573ccc7413ff6ad918ff8a26f9a8d5f6dd51a3ca5ca7371bd7f2ce787b",
+   "bytes": 2669245
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/21_lec-21_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-21.pdf",
+   "pages": 34,
+   "sha256": "cd9a2f27659fa59bbae4c53a18c5146ae06d9d7a455793fc81a0ce3bab8df0ad",
+   "bytes": 1849136
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/22_lec-22_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-22.pdf",
+   "pages": 56,
+   "sha256": "dbd814753473bb43bd8b580524791394bcc346c4ae97fb2911b08d45102eeaa3",
+   "bytes": 3559460
+  },
+  {
+   "path": "courses/Berkeley_CS285_DeepRL_FA2023_en/23_lec-23_en.pdf",
+   "url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa23/deeprlcourse-fa23/static/slides/lec-23.pdf",
+   "pages": 51,
+   "sha256": "1b67a84239c07926880b7fb0424ecd1cd280ed3c8bc2bccec6c68e15e1e0133e",
+   "bytes": 5194503
+  }
+ ],
+ "note": "23 个 PDF 全部 HTTP 200 且可解析，合计 903 页；文件链接取自官方索引页 https://rail.eecs.berkeley.edu/deeprlcourse-fa23/（该页列出的全部匹配文件均已下载）"
+}

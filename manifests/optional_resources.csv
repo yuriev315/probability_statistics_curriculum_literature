@@ -1,0 +1,4 @@
+﻿resource,status,source,reason
+论文、教材、课程和离线文档,在 Release mdp-20261106 的资料库包中,markov_decision_process_resources_20261106_batch001_cn_en.tar,运行项目不需要
+D4RL、Atari、MuJoCo 等环境和数据,未下载,各项目文档,真实训练才需要
+GPU 版 torch 和 CUDA,未下载,https://download.pytorch.org/whl/torch/,CPU 版可运行

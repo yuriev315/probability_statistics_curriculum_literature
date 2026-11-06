@@ -1,0 +1,72 @@
+{
+ "arxiv:1706.02275": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1706.02275v4",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 16 页、51405 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 16,
+  "chars": 51405,
+  "sha256": "dcbf258875023a4739a266697b3d7377dabfe10993ccef864fd5cc9373027e6e",
+  "bytes": 1502182,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "10_advanced_theory/papers/2017_Lowe_MultiAgentActorCritic_en.pdf"
+ },
+ "arxiv:1803.11485": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1803.11485v2",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 14 页、50580 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 14,
+  "chars": 50580,
+  "sha256": "3b26488b9e3279e9f290fe1d1d242e73ffaf6db2d84f28d23053733862f85d0b",
+  "bytes": 3808951,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "10_advanced_theory/papers/2018_Rashid_QMIX_en.pdf"
+ },
+ "arxiv:1609.05140": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1609.05140v2",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 9 页、41376 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 9,
+  "chars": 41376,
+  "sha256": "d8089c6012c607f3a9e8b560290dea629c91b174e246e18864ac6615467e208f",
+  "bytes": 815129,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "10_advanced_theory/papers/2016_Bacon_OptionCriticArchitecture_en.pdf"
+ },
+ "arxiv:1911.10635": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1911.10635v2",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 73 页、197702 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 73,
+  "chars": 197702,
+  "sha256": "a48d8ba37a8c4042d19a877dac3284e52d911f788910bb950c14824fc6c5c4d7",
+  "bytes": 2225271,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "10_advanced_theory/papers/2019_Zhang_MultiAgentReinforcementLearning_en.pdf"
+ },
+ "url:https://spateria.github.io/data/hrlsurvey_paper.pdf": {
+  "status": "ok",
+  "pdf": "https://spateria.github.io/data/hrlsurvey_paper.pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 35 页、145005 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 35,
+  "chars": 145005,
+  "sha256": "c7e505ce1e469214b295af7691e0ce7d04281ee6fd48ae38332eab03b0dfb750",
+  "bytes": 1431612,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "10_advanced_theory/papers/2021_Pateria_HierarchicalReinforcementLearning_en.pdf"
+ }
+}

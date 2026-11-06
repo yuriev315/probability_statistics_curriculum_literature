@@ -1,0 +1,12 @@
+[InternetShortcut]
+URL=https://files.pythonhosted.org/packages/e0/01/8771e8f914a627022296dab694092a11a7d417b6c8364f0a44a8debca734/gym-0.15.7.tar.gz
+[Resource]
+STATUS=URL_PLACEHOLDER_LICENSE_NOT_DECLARED
+FILENAME=gym-0.15.7.tar.gz
+EXPECTED_SIZE_BYTES=1566624
+REVISION=0.15.7
+SHA256=8428a9b212197911e3fecd797aedafcdda40435f197332b093b3f5b145d5c9cb
+LICENSE=not declared
+PURPOSE=source-only dependency
+DOWNLOAD=Open the URL, or: curl -L -C - -o <FILENAME> <URL>; compare SHA256
+NOTE=PyPI 源码包未附许可证文件，元数据也未声明许可证；只提供官方链接

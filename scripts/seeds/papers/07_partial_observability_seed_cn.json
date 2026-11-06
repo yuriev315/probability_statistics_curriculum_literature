@@ -1,0 +1,56 @@
+[
+ {
+  "pdf_url": "https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a.pdf",
+  "title": "Reinforcement Learning: A Survey",
+  "authors": [
+   "Leslie Pack Kaelbling",
+   "Michael L. Littman",
+   "Andrew W. Moore"
+  ],
+  "date": "1996-05-01",
+  "date_basis": "JAIR 4 (1996)",
+  "venue": "JAIR",
+  "landing": "https://www.jair.org/index.php/jair/article/view/10166",
+  "subtopic": "RL 与部分可观测综述",
+  "type": "综述",
+  "level": "硕士",
+  "difficulty": "中级",
+  "classic_reason": "JAIR 1996 综述。",
+  "reason": "部分可观测与记忆策略在入门综述中已被明确提出。",
+  "summary": "RL 问题、DP、无模型方法与部分可观测。",
+  "summary_basis": "原文扉页/摘要"
+ },
+ {
+  "arxiv": "1507.06527",
+  "subtopic": "深度递归 Q 网络",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "记忆策略处理观测混叠。",
+  "summary": "DRQN。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2015 DRQN。"
+ },
+ {
+  "arxiv": "1806.02426",
+  "subtopic": "变分信念与 POMDP",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "高级",
+  "reason": "用变分滤波近似信念状态。",
+  "summary": "深度变分 RL for POMDPs。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2018 Igl et al。"
+ },
+ {
+  "arxiv": "2110.05038",
+  "subtopic": "递归无模型 RL",
+  "type": "原始研究论文",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "记忆策略的实现与评测基线。",
+  "summary": "递归无模型 RL 可作为许多 POMDP 的强基线。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2021-10，窗口起点附近。"
+ }
+]

@@ -1,0 +1,17 @@
+[InternetShortcut]
+URL=https://julialang-s3.julialang.org/bin/linux/x64/1.13/julia-1.13.3-linux-x86_64.tar.gz
+[Resource]
+STATUS=EXCLUDED_OVER_100MIB_URL_PLACEHOLDER
+ORIGINAL_URL=https://julialang-s3.julialang.org/bin/linux/x64/1.13/julia-1.13.3-linux-x86_64.tar.gz
+FILENAME=julia-1.13.3-linux-x86_64.tar.gz
+EXPECTED_SIZE_BYTES=302726241
+REVISION=1.13.3
+SHA256=5c61cb4b40332cb5a3504e7779e2f5dac093caa4a1116ded19f01413f85c63e4
+LICENSE=MIT
+PURPOSE=Julia for POMDPs.jl
+DOWNLOAD=Open the URL, or: curl -L -C - -o <FILENAME> <URL>; compare SHA256 if recorded
+NOTE=Over the 100 MiB per-file download limit. Not split.
+URL_CHECK=VALID
+URL_CHECK_HTTP=206
+URL_CHECK_REPORTED_SIZE=302726241
+URL_CHECK_TIME=2026-11-04T23:40:39Z

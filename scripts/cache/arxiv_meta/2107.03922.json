@@ -1,0 +1,19 @@
+{
+ "id": "2107.03922",
+ "title": "Balancing Higher Moments Matters for Causal Estimation: Further Context for the Results of Setodji et al. (2017)",
+ "authors": [
+  "Melody Y. Huang",
+  "Brian G. Vegetabile",
+  "Lane F. Burgette",
+  "Claude Setodji",
+  "Beth Ann Griffin"
+ ],
+ "v1_date": "2021-07-08",
+ "latest_version": 1,
+ "latest_date": "2021-07-08",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "9 pages, 1 table",
+ "abstract": "We expand upon the simulation study of Setodji et al. (2017) which compared three promising balancing methods when assessing the average treatment effect on the treated for binary treatments: generalized boosted models (GBM), covariate-balancing propensity scores (CBPS), and entropy balance (EB). The study showed that GBM can outperform CBPS and EB when there are likely to be non-linear associations in both the treatment assignment and outcome models and CBPS and EB are fine-tuned to obtain balance only on first order moments. We explore the potential benefit of using higher-order moments in the balancing conditions for CBPS and EB. Our findings showcase that CBPS and EB should, by default, include higher order moments and that focusing only on first moments can result in substantial bias in both CBPS and EB estimated treatment effect estimates that could be avoided by the use of higher moments.",
+ "primary": "stat.ME"
+}

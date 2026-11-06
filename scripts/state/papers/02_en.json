@@ -1,0 +1,44 @@
+{
+ "arxiv:1906.04733": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1906.04733v2",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 23 页、68101 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 23,
+  "chars": 68101,
+  "sha256": "5f2a53f1174f7bb2b402ff6c5d4090b9712aec44e49e8d919f1ba3031ba0e921",
+  "bytes": 1497458,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "02_mdp_core/papers/2019_Nachum_DualDICE_en.pdf"
+ },
+ "arxiv:2101.02808": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/2101.02808v3",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 22 页、67091 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 22,
+  "chars": 67091,
+  "sha256": "51f96b7614925dcc21c2ecc8cda72b734c69b89377bf7f63050d04fedcf49be3",
+  "bytes": 1131170,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "02_mdp_core/papers/2021_Zhang_AverageRewardOffPolicy_en.pdf"
+ },
+ "arxiv:2005.10619": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/2005.10619v1",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 15 页、88859 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 15,
+  "chars": 88859,
+  "sha256": "ac2732f97014c89e8d4f2e01c8881705cbc1a91503bcfb51497035aa4c488b6e",
+  "bytes": 313885,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "02_mdp_core/papers/2020_Padakandla_SurveyReinforcementLearningAlgorithms_en.pdf"
+ }
+}

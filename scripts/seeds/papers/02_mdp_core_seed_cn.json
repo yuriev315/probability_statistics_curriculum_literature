@@ -1,0 +1,35 @@
+[
+ {
+  "arxiv": "1906.04733",
+  "subtopic": "占用测度与离策略校正",
+  "type": "原始研究论文",
+  "level": "博士",
+  "difficulty": "高级",
+  "reason": "折扣占用测度/密度比。",
+  "summary": "DualDICE。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "NeurIPS 2019。"
+ },
+ {
+  "arxiv": "2101.02808",
+  "subtopic": "平均奖励离策略评价",
+  "type": "原始研究论文",
+  "level": "博士",
+  "difficulty": "高级",
+  "reason": "平均奖励与微分价值。",
+  "summary": "平均奖励离策略评价。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2021-01。"
+ },
+ {
+  "arxiv": "2005.10619",
+  "subtopic": "非平稳转移",
+  "type": "综述",
+  "level": "硕士",
+  "difficulty": "中级",
+  "reason": "转移时变时马尔科夫假设。",
+  "summary": "动态变化环境 RL 综述。",
+  "summary_basis": "arXiv 摘要与元数据",
+  "classic_reason": "2020。"
+ }
+]

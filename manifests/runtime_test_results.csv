@@ -1,0 +1,19 @@
+﻿test,command,result,environment,detail
+Farama_Gymnasium,运行 CartPole 环境,PASSED,"Linux, Python 3.12",CartPole steps ok 1.4.0 20.0
+vwxyzjn_cleanrl,ppo.py 运行 128 步,PASSED,"Linux, Python 3.10",CleanRL PPO finished
+DLR_RM_stable_baselines3,PPO 训练 64 步,PASSED,"Linux, Python 3.10",PPO trained 2.9.2 64
+pytorch_rl_torchrl,前向计算,PASSED,"Linux, Python 3.10","MLP (1, 2) 0.14.0"
+deepmind_open_spiel,下完一局井字棋,PASSED,"Linux, Python 3.12","tic_tac_toe returns [1.0, -1.0]"
+Farama_PettingZoo,仅导入,PASSED,"Linux, Python 3.12",import ok 1.27.0
+takuseno_d3rlpy,DQN 离线训练 4 步,PASSED,"Linux, Python 3.10",DQN fit ok 2.8.1
+tinkoff_CORL,仅导入（d4rl、td3_bc）,PASSED,"Linux, Python 3.10",import ok TD3_BC
+sawcordwell_pymdptoolbox,值迭代求解,PASSED,"Linux, Python 3.10","policy (0, 0, 0)"
+JuliaPOMDP_POMDPs_jl,,BLOCKED,Linux,本机没有 Julia；下载并运行外部程序的步骤上次已被权限系统拒绝，这次没有尝试
+openai_spinningup,只测 PyTorch 核心模块,PASSED,"Linux, Python 3.10",PyTorch core only [()]
+algorithmsbooks_decisionmaking,,NOT_APPLICABLE,Linux,仓库只有一份 README，是书的说明，没有代码
+Farama_Parkour_OmniSafe,仅导入,PASSED,"Linux, Python 3.10",import ok 0.5.0
+仓库脚本：导入 4 个模块,import build_catalog_en common_en materials_en papers_en,PASSED,"Linux, Python 3.10",临时副本，Python 3.10
+仓库脚本：语法检查,ast.parse,PASSED,"Linux, Python 3.10",5 个脚本都通过
+仓库脚本：生成目录,python -I scripts/build_catalog_en.py,PASSED,"Linux, Python 3.10",100 条，与仓库中的 catalog_cn.csv 逐字节相同
+仓库脚本：模拟缺少 fcntl,sys.modules[fcntl]=None,PASSED,"Linux, Python 3.10",复现了 Windows 上会发生的 ModuleNotFoundError，这是预期故障，不代表能运行
+Windows 实机运行,全部,NOT_TESTED,"Linux, Python 3.10",没有 Windows 机器

@@ -1,0 +1,20 @@
+{
+ "status": "verified",
+ "set": "projects",
+ "title": "pymdptoolbox finite-MDP DP solvers (official snapshot)",
+ "files": [
+  {
+   "path": "projects/sawcordwell_pymdptoolbox_en",
+   "url": "https://github.com/sawcordwell/pymdptoolbox",
+   "commit": "7c96789cc80e280437005c12065cf70266c11636",
+   "files": 42,
+   "archive_sha256": "7688266761ffcc596551efc4545a4fc5c3cb5212d1508f7d002ca36de41a5015",
+   "bytes": 67736
+  }
+ ],
+ "commit": "7c96789cc80e280437005c12065cf70266c11636",
+ "license_files": [
+  "LICENSE.txt"
+ ],
+ "note": "官方仓库快照 commit 7c96789cc80e：归档 zip 完整性通过，解压 42 个文件（0 个 notebook）；应有文件已见 ['README.rst']；许可证文件 ['LICENSE.txt']；未发现 LFS 指针文件"
+}

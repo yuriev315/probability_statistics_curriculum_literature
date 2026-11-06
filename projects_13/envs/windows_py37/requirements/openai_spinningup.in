@@ -1,0 +1,13 @@
+cloudpickle==1.2.1
+gym==0.15.7
+joblib
+matplotlib
+mpi4py
+numpy
+pandas
+psutil
+scipy
+seaborn
+tensorflow==1.15.5
+torch==1.13.1
+tqdm

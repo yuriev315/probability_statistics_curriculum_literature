@@ -1,0 +1,15 @@
+{
+ "id": "2005.05753",
+ "title": "Convergence of Bergman measures towards the Zhang measure",
+ "authors": [
+  "Sanal Shivaprasad"
+ ],
+ "v1_date": "2020-05-12",
+ "latest_version": 1,
+ "latest_date": "2020-05-12",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "29 pages",
+ "abstract": "We prove a folklore conjecture that the Bergman measure along a holomorphic family of curves parametrized by the punctured unit disk converges to the Zhang measure on the associated Berkovich space. The convergence takes place on a Berkovich hybrid space. We also study the convergence of the Bergman measure to a measure on a metrized curve complex in the sense of Amini and Baker.",
+ "primary": "math.AG"
+}

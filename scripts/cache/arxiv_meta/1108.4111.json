@@ -1,0 +1,16 @@
+{
+ "id": "1108.4111",
+ "title": "Conformal symmetries of spherical spacetimes",
+ "authors": [
+  "S. Moopanar",
+  "S. D. Maharaj"
+ ],
+ "v1_date": "2011-08-20",
+ "latest_version": 1,
+ "latest_date": "2011-08-20",
+ "journal_ref": "",
+ "doi": "10.1142/9789812834300_0380",
+ "comment": "8 pages, To appear in Int. J. Theor. Phys",
+ "abstract": "We investigate the conformal geometry of spherically symmetric spacetimes in general without specifying the form of the matter distribution. The general conformal Killing symmetry is obtained subject to a number of integrability conditions. Previous results relating to static spacetimes are shown to be a special case of our solution. The general inheriting conformal symmetry vector, which maps fluid flow lines conformally onto fluid flow lines, is generated and the integrability conditions are shown to be satisfied. We show that there exists a hypersurface orthogonal conformal Killing vector in an exact solution of Einstein's equations for a relativistic fluid which is expanding, accelerating and shearing.",
+ "primary": "gr-qc"
+}

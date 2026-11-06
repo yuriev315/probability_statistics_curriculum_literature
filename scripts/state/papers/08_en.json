@@ -1,0 +1,72 @@
+{
+ "arxiv:1705.10528": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1705.10528v1",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 18 页、56041 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 18,
+  "chars": 56041,
+  "sha256": "3f93760d9b472af5b17f2f4b887950beaaad7fc501962390986857f242549a59",
+  "bytes": 1013867,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "08_constrained_risk_sensitive/papers/2017_Achiam_ConstrainedPolicyOptimization_en.pdf"
+ },
+ "arxiv:1506.02188": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1506.02188v1",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 30 页、62568 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 30,
+  "chars": 62568,
+  "sha256": "17884b7d5d9e36698546e72b75ff8fd846a8be0c2bf717bdc5ec22cb3b142ea0",
+  "bytes": 933870,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "08_constrained_risk_sensitive/papers/2015_Chow_RiskSensitiveRobustDecision_en.pdf"
+ },
+ "arxiv:2205.10330": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/2205.10330v5",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 97 页、148126 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 97,
+  "chars": 148126,
+  "sha256": "a0c0061076b5ec99a6c4469c3fb2aa52165ace5f9d9a3f5640ebc34a32dde7f5",
+  "bytes": 14613318,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "08_constrained_risk_sensitive/papers/2022_Gu_ReviewSafeReinforcementLearning_en.pdf"
+ },
+ "arxiv:1801.08757": {
+  "status": "ok",
+  "pdf": "https://arxiv.org/pdf/1801.08757v1",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 9 页、40575 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 9,
+  "chars": 40575,
+  "sha256": "5822e0022373a3be9aac4e7faa7e8de114971c0e7ec33b9f7a087c7e6310dd5b",
+  "bytes": 1423858,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "08_constrained_risk_sensitive/papers/2018_Dalal_SafeExplorationContinuousAction_en.pdf"
+ },
+ "url:https://www.mdpi.com/2504-4990/4/1/13/pdf": {
+  "status": "ok",
+  "pdf": "https://www.mdpi.com/2504-4990/4/1/13/pdf",
+  "source": "new",
+  "note": "通过：HTTP 200；%PDF 头；pypdf 可解析 40 页、152369 字符；标题匹配 1.00；第一作者姓氏已见；参考文献节已见",
+  "pages": 40,
+  "chars": 152369,
+  "sha256": "60ae77ed8fc0c2e5f82cb79dfbfe564f46815543b5321be3467285c6c802f96c",
+  "bytes": 1404332,
+  "title_match": 1.0,
+  "author_found": true,
+  "refs": true,
+  "path": "08_constrained_risk_sensitive/papers/2022_Moos_RobustReinforcementLearning_en.pdf"
+ }
+}

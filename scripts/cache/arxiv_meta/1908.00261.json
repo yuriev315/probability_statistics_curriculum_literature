@@ -1,0 +1,18 @@
+{
+ "id": "1908.00261",
+ "title": "On the Theory of Policy Gradient Methods: Optimality, Approximation, and Distribution Shift",
+ "authors": [
+  "Alekh Agarwal",
+  "Sham M. Kakade",
+  "Jason D. Lee",
+  "Gaurav Mahajan"
+ ],
+ "v1_date": "2019-08-01",
+ "latest_version": 5,
+ "latest_date": "2020-10-14",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "Corollary 6.1 added for a cleaner comparison to prior work. $ε_{\\mathrm{bias}}$ is now used instead of $ε_{\\mathrm{approx}}$ to denote the transfer approximation error",
+ "abstract": "Policy gradient methods are among the most effective methods in challenging reinforcement learning problems with large state and/or action spaces. However, little is known about even their most basic theoretical convergence properties, including: if and how fast they converge to a globally optimal solution or how they cope with approximation error due to using a restricted class of parametric policies. This work provides provable characterizations of the computational, approximation, and sample size properties of policy gradient methods in the context of discounted Markov Decision Processes (MDPs). We focus on both: \"tabular\" policy parameterizations, where the optimal policy is contained in the class and where we show global convergence to the optimal policy; and parametric policy classes (considering both log-linear and neural policy classes), which may not contain the optimal policy and where we provide agnostic learning results. One central contribution of this work is in providing approximation guarantees that are average case -- which avoid explicit worst-case dependencies on the size of state space -- by making a formal connection to supervised learning under distribution shift. This characterization shows an important interplay between estimation error, approximation error, and exploration (as characterized through a precisely defined condition number).",
+ "primary": "cs.LG"
+}

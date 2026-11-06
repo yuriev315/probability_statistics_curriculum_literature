@@ -1,0 +1,15 @@
+{
+ "status": "verified",
+ "set": "books",
+ "title": "Decision Making Under Uncertainty: Theory and Application",
+ "files": [
+  {
+   "path": "books/Kochenderfer_DecisionMakingUnderUncertainty_2015_en.pdf",
+   "url": "http://web.stanford.edu/group/sisl/public/dmu.pdf",
+   "pages": 349,
+   "sha256": "e12ff05553592678d3210a6789e04e87beda95710e889878b6f7d66cadabf89f",
+   "bytes": 12380714
+  }
+ ],
+ "note": "HTTP 200；%PDF；pypdf 可解析 349 页；名称短语已见"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "1909.10455",
+ "title": "Geometry, Computation, and Optimality in Stochastic Optimization",
+ "authors": [
+  "Chen Cheng",
+  "Daniel Levy",
+  "John C. Duchi"
+ ],
+ "v1_date": "2019-09-23",
+ "latest_version": 4,
+ "latest_date": "2025-07-16",
+ "journal_ref": "",
+ "doi": "",
+ "comment": "47 pages. An earlier version of this paper, entitled \"Necessary and Sufficient Geometries for Gradient Methods,\" appeared at NeurIPS 2019 (arXiv:1909.10455v2)",
+ "abstract": "We study computational and statistical consequences of problem geometry in stochastic and online optimization. By focusing on constraint set and gradient geometry, we characterize the problem families for which stochastic- and adaptive-gradient methods are (minimax) optimal and, conversely, when nonlinear updates -- such as those mirror descent employs -- are necessary for optimal convergence. When the constraint set is quadratically convex, diagonally pre-conditioned stochastic gradient methods are minimax optimal. We provide quantitative converses showing that the ``distance'' of the underlying constraints from quadratic convexity determines the sub-optimality of subgradient methods. These results apply, for example, to any $\\ell_p$-ball for $p < 2$, and the computation/accuracy tradeoffs they demonstrate exhibit a striking analogy to those in Gaussian sequence models.",
+ "primary": "math.OC"
+}
